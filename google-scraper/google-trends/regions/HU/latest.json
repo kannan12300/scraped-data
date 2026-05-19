@@ -1,89 +1,231 @@
 [
   {
-    "keyword": "egészségügyi világszervezet",
+    "keyword": "magyar igazságügyi szakértői kamara",
     "region": "HU",
-    "started_at_unix": 1779006600,
+    "started_at_unix": 1779087000,
     "ended_at_unix": null,
     "search_volume": 20000,
     "score": 1000,
     "related_queries": [
-      "egészségügyi világszervezet"
+      "magyar igazságügyi szakértői kamara"
     ],
     "category_ids": [
-      7,
       10
     ],
     "entities": [
       {
-        "id": 4603593448,
+        "id": 4608927405,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "egeszsegugyi vilagszervezet",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "magyar igazsagugyi szakertoi kamara",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "barcelona–betis",
+    "keyword": "pokol béla",
     "region": "HU",
-    "started_at_unix": 1779042000,
+    "started_at_unix": 1779112200,
     "ended_at_unix": null,
     "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "barcelona–betis",
-      "barcelona vs real betis",
-      "barcelona betis"
+      "pokol béla"
     ],
     "category_ids": [
-      17
+      14,
+      10
     ],
     "entities": [
       {
-        "id": 4601616321,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4606536759,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4579151483,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4604045413,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4602465077,
-        "language": "es",
+        "id": 4608443714,
+        "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "barcelona–betis",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "pokol bela",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "nyugdíjkorhatár",
+    "keyword": "forint",
     "region": "HU",
-    "started_at_unix": 1779038400,
+    "started_at_unix": 1779089400,
     "ended_at_unix": null,
-    "search_volume": 5000,
+    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "nyugdíjkorhatár"
+      "forint"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4601550108,
+        "id": 4600723568,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4594763316,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4608811928,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4606219395,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4527407222,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4562974309,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "forint",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "arsenal–burnley",
+    "region": "HU",
+    "started_at_unix": 1779127800,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "arsenal–burnley",
+      "arsenal vs burnley",
+      "arsenal burnley"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4592204577,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4596804739,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "arsenal–burnley",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "olaszország",
+    "region": "HU",
+    "started_at_unix": 1779103800,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "olaszország"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4607800591,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4606435596,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4609628511,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4605907796,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4603356247,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4602177092,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4594875996,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "olaszorszag",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "parkolás",
+    "region": "HU",
+    "started_at_unix": 1779126600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "parkolás"
+    ],
+    "category_ids": [
+      19
+    ],
+    "entities": [
+      {
+        "id": 4609963823,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4606219376,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4545273140,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "parkolas",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "tényi istván",
+    "region": "HU",
+    "started_at_unix": 1779132600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "tényi istván"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4609795263,
         "language": "hu",
         "region": "HU"
       },
@@ -91,1137 +233,134 @@
         "id": 4606219395,
         "language": "hu",
         "region": "HU"
-      },
-      {
-        "id": 4607226747,
-        "language": "hu",
-        "region": "HU"
       }
     ],
-    "normalized_keyword": "nyugdijkorhatar",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "tenyi istvan",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "sevilla–real madrid",
+    "keyword": "egerszegi krisztina",
     "region": "HU",
-    "started_at_unix": 1779034200,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "sevilla–real madrid"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4582694028,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4606918468,
-        "language": "es",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "sevilla–real madrid",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "népszava",
-    "region": "HU",
-    "started_at_unix": 1779042600,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 900,
-    "related_queries": [
-      "népszava"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4608102694,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4605807935,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4605031358,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4608525254,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4599074204,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4603629318,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4605595537,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4605158116,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "nepszava",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "lázár jános",
-    "region": "HU",
-    "started_at_unix": 1779033600,
+    "started_at_unix": 1779091800,
     "ended_at_unix": null,
     "search_volume": 5000,
     "score": 1000,
     "related_queries": [
-      "lázár jános"
+      "egerszegi krisztina"
+    ],
+    "category_ids": [
+      17,
+      8
+    ],
+    "entities": [
+      {
+        "id": 4608963839,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "egerszegi krisztina",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "huth gergely",
+    "region": "HU",
+    "started_at_unix": 1779096600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "huth gergely"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4609181936,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4535329070,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4589404074,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4546550931,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "huth gergely",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "répássy róbert",
+    "region": "HU",
+    "started_at_unix": 1779121200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 800,
+    "related_queries": [
+      "répássy róbert"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4605595537,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4604506688,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4607534454,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4605991955,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4604798019,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4583965139,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4593500762,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4572146405,
+        "id": 4610169785,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "lazar janos",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "repassy robert",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "atomerőmű",
+    "keyword": "feczkó tamás",
     "region": "HU",
-    "started_at_unix": 1779028800,
+    "started_at_unix": 1779118800,
     "ended_at_unix": null,
     "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "atomerőmű",
-      "dróntámadás"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4607674564,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4601101722,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4591483120,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4607674564,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4603961515,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4607920291,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4592948219,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4583128252,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "atomeromu",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "paris fc–psg",
-    "region": "HU",
-    "started_at_unix": 1779042600,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "paris fc–psg",
-      "paris fc vs psg"
+      "feczkó tamás"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4607377495,
-        "language": "fr",
+        "id": 4611019419,
+        "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4607377484,
-        "language": "fr",
-        "region": "HU"
-      },
-      {
-        "id": 4606184080,
-        "language": "fr",
-        "region": "HU"
-      },
-      {
-        "id": 4608384286,
-        "language": "fr",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "paris fc–psg",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "ripost",
-    "region": "HU",
-    "started_at_unix": 1779070200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "ripost",
-      "ómolnár miklós"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4608063344,
+        "id": 4610936684,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "ripost",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "feczko tamas",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "jaksity györgy",
+    "keyword": "szerbia",
     "region": "HU",
-    "started_at_unix": 1779044400,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "jaksity györgy"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4607733479,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "jaksity gyorgy",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "stana alexandra",
-    "region": "HU",
-    "started_at_unix": 1779027000,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "stana alexandra"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4607826889,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "stana alexandra",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "inter miami–portland timbers",
-    "region": "HU",
-    "started_at_unix": 1779057600,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 900,
-    "related_queries": [
-      "inter miami–portland timbers",
-      "lionel messi"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4579063231,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4593713656,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4600809026,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4602398173,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4563607315,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4578363729,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4576837638,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4598242189,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4601863444,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "inter miami–portland timbers",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "easyjet",
-    "region": "HU",
-    "started_at_unix": 1779040200,
+    "started_at_unix": 1779156000,
     "ended_at_unix": null,
     "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "easyjet"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4589766702,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4606535888,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4607507333,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4601476439,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4602226194,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4582908374,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4567922504,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "easyjet",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "orbán balázs",
-    "region": "HU",
-    "started_at_unix": 1779030600,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 600,
-    "related_queries": [
-      "orbán balázs"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4607226708,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4603461225,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4583881007,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4552478143,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4584084051,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4565830325,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "orban balazs",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "exatlon 2026",
-    "region": "HU",
-    "started_at_unix": 1779049200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "exatlon 2026",
-      "exatlon",
-      "exatlon győztesek",
-      "exatlon hungary 2026",
-      "exatlon döntő",
-      "exatlon hungary",
-      "ekler luca"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4599618481,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4599618481,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4592535395,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4597692130,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4599618481,
-        "language": "tr",
-        "region": "HU"
-      },
-      {
-        "id": 4608030560,
-        "language": "tr",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "exatlon 2026",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "szabó réka exatlon",
-    "region": "HU",
-    "started_at_unix": 1779047400,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 600,
-    "related_queries": [
-      "szabó réka exatlon"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4592535395,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4599618481,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4608030560,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4597692130,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "szabo reka exatlon",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "bereczki zoltán",
-    "region": "HU",
-    "started_at_unix": 1779077400,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "bereczki zoltán"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4608246251,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4586955182,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4598818692,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4604464988,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "bereczki zoltan",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "man utd–nottingham forest",
-    "region": "HU",
-    "started_at_unix": 1779014400,
-    "ended_at_unix": 1779076200,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "man utd–nottingham forest",
-      "man united vs nottm forest",
-      "manchester united"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4599735512,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4608271103,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4605425203,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4603593519,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4602967716,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4593830456,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4607560094,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4568035565,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4607830433,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "man utd–nottingham forest",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "vezetőedző",
-    "region": "HU",
-    "started_at_unix": 1779085200,
-    "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "vezetőedző"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4585965183,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4585038566,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "vezetoedzo",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "barnai judit",
-    "region": "HU",
-    "started_at_unix": 1779028200,
-    "ended_at_unix": 1779086400,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "barnai judit"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4604092891,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4603767629,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4603767633,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "barnai judit",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "atlético madrid–girona",
-    "region": "HU",
-    "started_at_unix": 1779034200,
-    "ended_at_unix": 1779082800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "atlético madrid–girona"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4600450804,
-        "language": "es",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "atletico madrid–girona",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "karlo sentić",
-    "region": "HU",
-    "started_at_unix": 1779034200,
-    "ended_at_unix": 1779084000,
-    "search_volume": 1000,
-    "score": 900,
-    "related_queries": [
-      "karlo sentić"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4584814107,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "karlo sentic",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "rubint réka",
-    "region": "HU",
-    "started_at_unix": 1779018600,
-    "ended_at_unix": 1779081000,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "rubint réka"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4605635769,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "rubint reka",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "newcastle–west ham",
-    "region": "HU",
-    "started_at_unix": 1779032400,
-    "ended_at_unix": 1779081600,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "newcastle–west ham"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4583807469,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4608261437,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "newcastle–west ham",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "pintér sándor",
-    "region": "HU",
-    "started_at_unix": 1779022800,
-    "ended_at_unix": 1779069600,
-    "search_volume": 2000,
-    "score": 600,
-    "related_queries": [
-      "pintér sándor"
-    ],
-    "category_ids": [
-      10,
-      7
-    ],
-    "entities": [
-      {
-        "id": 4605773408,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4605991955,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4573096838,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4600113081,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4604506657,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4606435543,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4595538821,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4569731737,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "pinter sandor",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "alex marquez",
-    "region": "HU",
-    "started_at_unix": 1779027000,
-    "ended_at_unix": 1779085200,
-    "search_volume": 2000,
-    "score": 800,
-    "related_queries": [
-      "alex marquez",
-      "motogp",
-      "alex marquez crash"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4607789257,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4607789257,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4606178567,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4603702397,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4608081598,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4606419061,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4607965680,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "alex marquez",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "real sociedad–valencia",
-    "region": "HU",
-    "started_at_unix": 1779036600,
-    "ended_at_unix": 1779079800,
-    "search_volume": 500,
-    "score": 900,
-    "related_queries": [
-      "real sociedad–valencia"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4600446908,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4594148690,
-        "language": "es",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "real sociedad–valencia",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "kasimpasa–galatasaray",
-    "region": "HU",
-    "started_at_unix": 1779034800,
-    "ended_at_unix": 1779082200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "kasimpasa–galatasaray"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4593804159,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "kasimpasa–galatasaray",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "amerikai szőlőkabóca",
-    "region": "HU",
-    "started_at_unix": 1779075000,
-    "ended_at_unix": 1779086400,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "amerikai szőlőkabóca"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4596452497,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "amerikai szolokaboca",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "brentford–crystal palace",
-    "region": "HU",
-    "started_at_unix": 1779023400,
-    "ended_at_unix": 1779074400,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "brentford–crystal palace"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4568035565,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4593830456,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4608018371,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "brentford–crystal palace",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "csillagjegy",
-    "region": "HU",
-    "started_at_unix": 1779071400,
-    "ended_at_unix": 1779080400,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "csillagjegy"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4607507291,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4600818626,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4607958719,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4581655484,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4608777041,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4605635826,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4607561307,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4607254411,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "csillagjegy",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "szövetségi kapitány",
-    "region": "HU",
-    "started_at_unix": 1779075600,
-    "ended_at_unix": 1779085200,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "szövetségi kapitány",
-      "magyarország szerbia kézilabda",
-      "magyarorszag szerbia kezilabda",
-      "magyar szerb kézilabda"
+      "szerbia",
+      "férfikézilabda-világbajnokság"
     ],
     "category_ids": [
       17
@@ -1233,57 +372,49 @@
         "region": "HU"
       },
       {
-        "id": 4601550139,
+        "id": 4597209875,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4605743884,
+        "id": 4597349784,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4594817182,
+        "id": 4603663283,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4607507322,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4605743871,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4608525305,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "szovetsegi kapitany",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "szerbia",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "swatch royal pop",
+    "keyword": "adóbevallás 2026",
     "region": "HU",
-    "started_at_unix": 1779040800,
-    "ended_at_unix": 1779082800,
-    "search_volume": 500,
-    "score": 900,
-    "related_queries": [
-      "swatch royal pop",
-      "royal pop"
-    ],
-    "category_ids": [
-      16
-    ],
-    "entities": [
-      {
-        "id": 4565961425,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "swatch royal pop",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "nav adóbevallás",
-    "region": "HU",
-    "started_at_unix": 1779024600,
+    "started_at_unix": 1779126600,
     "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 100,
+    "search_volume": 2000,
+    "score": 75,
     "related_queries": [
-      "nav adóbevallás"
+      "adóbevallás 2026",
+      "szja bevallás"
     ],
     "category_ids": [
       11
@@ -1293,671 +424,924 @@
         "id": 4584582287,
         "language": "hu",
         "region": "HU"
-      }
-    ],
-    "normalized_keyword": "nav adobevallas",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "uganda",
-    "region": "HU",
-    "started_at_unix": 1779006600,
-    "ended_at_unix": 1779037200,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "uganda",
-      "ebola vírus"
-    ],
-    "category_ids": [
-      7,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4603097471,
-        "language": "en",
-        "region": "HU"
       },
       {
-        "id": 4603593448,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4603097471,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4605814883,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4604375343,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4599086224,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4579231636,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4549278644,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4523988527,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4576557218,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4600311073,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4569994943,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "uganda",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "duran duran",
-    "region": "HU",
-    "started_at_unix": 1779082200,
-    "ended_at_unix": 1779085200,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "duran duran"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4606119598,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "duran duran",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "lannert judit",
-    "region": "HU",
-    "started_at_unix": 1779075600,
-    "ended_at_unix": 1779081600,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "lannert judit"
-    ],
-    "category_ids": [
-      9
-    ],
-    "entities": [
-      {
-        "id": 4587828394,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4608030505,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4536711464,
+        "id": 4601229217,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "lannert judit",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "adobevallas 2026",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "magyar harmadosztályú labdarúgó-bajnokság",
+    "keyword": "ukránok",
     "region": "HU",
-    "started_at_unix": 1779043800,
-    "ended_at_unix": 1779083400,
-    "search_volume": 500,
-    "score": 800,
-    "related_queries": [
-      "magyar harmadosztályú labdarúgó-bajnokság"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4601833694,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4589970622,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "magyar harmadosztalyu labdarugo-bajnoksag",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "juventus–fiorentina",
-    "region": "HU",
-    "started_at_unix": 1779009000,
-    "ended_at_unix": 1779028200,
-    "search_volume": 2000,
+    "started_at_unix": 1779106800,
+    "ended_at_unix": 1779166200,
+    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "juventus–fiorentina"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4594513818,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4607803504,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4608684698,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4607648224,
-        "language": "it",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "juventus–fiorentina",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "lyon–lens",
-    "region": "HU",
-    "started_at_unix": 1779072000,
-    "ended_at_unix": 1779083400,
-    "search_volume": 100,
-    "score": 300,
-    "related_queries": [
-      "lyon–lens"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4593868727,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "lyon–lens",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "egészségügyi miniszter",
-    "region": "HU",
-    "started_at_unix": 1779006000,
-    "ended_at_unix": 1779030000,
-    "search_volume": 2000,
-    "score": 800,
-    "related_queries": [
-      "egészségügyi miniszter"
+      "ukránok"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4578937983,
+        "id": 4603497091,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4605773408,
+        "id": 4603844429,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4607001697,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4601101722,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4609311032,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4609088896,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4603961513,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4568060712,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "egeszsegugyi miniszter",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "ukranok",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "kristen stewart",
+    "keyword": "nyúl rolleres",
     "region": "HU",
-    "started_at_unix": 1779018000,
-    "ended_at_unix": 1779042600,
+    "started_at_unix": 1779088200,
+    "ended_at_unix": null,
     "search_volume": 1000,
-    "score": 1000,
+    "score": 400,
     "related_queries": [
-      "kristen stewart"
+      "nyúl rolleres",
+      "roller nyúl",
+      "rolleres és a nyúl",
+      "nyúl roller"
     ],
     "category_ids": [
-      4
+      11
     ],
     "entities": [
       {
-        "id": 4592669994,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4608204385,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4607423576,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4608433285,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4597079693,
-        "language": "en",
+        "id": 4604506720,
+        "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "kristen stewart",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "nyul rolleres",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "wolverhampton–fulham",
+    "keyword": "tölgyessy péter",
     "region": "HU",
-    "started_at_unix": 1779024000,
-    "ended_at_unix": 1779069600,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "wolverhampton–fulham"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4579112874,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "wolverhampton–fulham",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "genoa–milan",
-    "region": "HU",
-    "started_at_unix": 1779009600,
-    "ended_at_unix": 1779031200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "genoa–milan"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4593524319,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4599143049,
-        "language": "it",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "genoa–milan",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "arne slot",
-    "region": "HU",
-    "started_at_unix": 1779018000,
-    "ended_at_unix": 1779037800,
-    "search_volume": 1000,
-    "score": 700,
-    "related_queries": [
-      "arne slot"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4604861850,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4606190831,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4605552162,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4606311155,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4604661584,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4587147057,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4603729880,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4607763767,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "arne slot",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "everton–sunderland",
-    "region": "HU",
-    "started_at_unix": 1779023400,
-    "ended_at_unix": 1779037800,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "everton–sunderland"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4579112952,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4590962310,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4568035565,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "everton–sunderland",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "max verstappen",
-    "region": "HU",
-    "started_at_unix": 1779019800,
-    "ended_at_unix": 1779039600,
-    "search_volume": 1000,
-    "score": 600,
-    "related_queries": [
-      "max verstappen"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4591506133,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4594121174,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4607202718,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4587282874,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "max verstappen",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "osasuna–espanyol",
-    "region": "HU",
-    "started_at_unix": 1779035400,
-    "ended_at_unix": 1779077400,
+    "started_at_unix": 1779127200,
+    "ended_at_unix": null,
     "search_volume": 500,
-    "score": 1000,
+    "score": 400,
     "related_queries": [
-      "osasuna–espanyol"
+      "tölgyessy péter"
     ],
     "category_ids": [
-      17
+      14,
+      10
     ],
     "entities": [
       {
-        "id": 4594148690,
-        "language": "es",
+        "id": 4610169754,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4609441245,
+        "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "osasuna–espanyol",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "tolgyessy peter",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "varga zs andrás",
+    "keyword": "kegyelmi ügy",
     "region": "HU",
-    "started_at_unix": 1779001200,
-    "ended_at_unix": 1779024000,
+    "started_at_unix": 1779135600,
+    "ended_at_unix": null,
     "search_volume": 2000,
-    "score": 1000,
+    "score": 500,
     "related_queries": [
-      "varga zs andrás",
-      "varga zs. andrás",
-      "kúria"
+      "kegyelmi ügy",
+      "vidéki prókátor",
+      "magyar közlöny",
+      "magyarkozlony"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4606435543,
+        "id": 4601786561,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4605635774,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4598069038,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4587359871,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4597427834,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4603629318,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4598371394,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4606219395,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4594690010,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "varga zs andras",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "kegyelmi ugy",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "leeds–brighton",
+    "keyword": "novák katalin",
     "region": "HU",
-    "started_at_unix": 1779023400,
-    "ended_at_unix": 1779037800,
-    "search_volume": 1000,
-    "score": 1000,
+    "started_at_unix": 1779133200,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 400,
     "related_queries": [
-      "leeds–brighton"
+      "novák katalin"
     ],
     "category_ids": [
-      17
+      14,
+      10
     ],
     "entities": [
       {
-        "id": 4589445819,
-        "language": "en",
+        "id": 4606184068,
+        "language": "hu",
         "region": "HU"
-      }
-    ],
-    "normalized_keyword": "leeds–brighton",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "inter–verona",
-    "region": "HU",
-    "started_at_unix": 1779020400,
-    "ended_at_unix": 1779034200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "inter–verona"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
+      },
       {
-        "id": 4601517930,
-        "language": "en",
+        "id": 4601786561,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4606219395,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4545273089,
+        "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "inter–verona",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "novak katalin",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "444",
+    "keyword": "cib bank",
     "region": "HU",
-    "started_at_unix": 1779028800,
-    "ended_at_unix": 1779037200,
+    "started_at_unix": 1779111000,
+    "ended_at_unix": 1779172200,
     "search_volume": 2000,
-    "score": 100,
+    "score": 900,
     "related_queries": [
-      "444"
+      "cib bank"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4597480997,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "cib bank",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "bochkor gábor",
+    "region": "HU",
+    "started_at_unix": 1779113400,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "bochkor gábor"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4609506754,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4605871645,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "bochkor gabor",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "heti válasz",
+    "region": "HU",
+    "started_at_unix": 1779120000,
+    "ended_at_unix": 1779168600,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "heti válasz"
     ],
     "category_ids": [
       14
     ],
     "entities": [
       {
-        "id": 4587614701,
+        "id": 4609834937,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "heti valasz",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "ruszin szendi romulusz",
+    "region": "HU",
+    "started_at_unix": 1779121800,
+    "ended_at_unix": 1779170400,
+    "search_volume": 2000,
+    "score": 500,
+    "related_queries": [
+      "ruszin szendi romulusz"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4592982087,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4607645952,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4610169743,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4583087395,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "ruszin szendi romulusz",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "john travolta",
+    "region": "HU",
+    "started_at_unix": 1779162000,
+    "ended_at_unix": 1779166200,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "john travolta",
+      "john travolta cannes 2026",
+      "john travolta cannes",
+      "travolta"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4603970883,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4603629318,
+        "id": 4584958451,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4608443714,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4608963868,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4608177202,
+        "id": 4582775531,
         "language": "en",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "444",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "john travolta",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "roma–lazio",
+    "keyword": "nagy ervin",
     "region": "HU",
-    "started_at_unix": 1779009600,
-    "ended_at_unix": 1779023400,
-    "search_volume": 1000,
-    "score": 1000,
+    "started_at_unix": 1779157200,
+    "ended_at_unix": 1779171000,
+    "search_volume": 200,
+    "score": 300,
     "related_queries": [
-      "roma–lazio"
+      "nagy ervin"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4600232142,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4610385194,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4530929410,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "nagy ervin",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "manchester city fc",
+    "region": "HU",
+    "started_at_unix": 1779157800,
+    "ended_at_unix": 1779172200,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "manchester city fc"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4607762359,
-        "language": "it",
+        "id": 4606477959,
+        "language": "en",
         "region": "HU"
       },
       {
-        "id": 4582260582,
-        "language": "it",
+        "id": 4606473959,
+        "language": "en",
         "region": "HU"
       },
       {
-        "id": 4593015371,
-        "language": "it",
+        "id": 4600936650,
+        "language": "en",
         "region": "HU"
       },
       {
-        "id": 4568392618,
-        "language": "it",
+        "id": 4611050757,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4610545772,
+        "language": "en",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "roma–lazio",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "manchester city fc",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "lewandowski",
+    "keyword": "xbox",
     "region": "HU",
-    "started_at_unix": 1779051600,
-    "ended_at_unix": 1779061800,
-    "search_volume": 500,
-    "score": 600,
+    "started_at_unix": 1779102000,
+    "ended_at_unix": 1779167400,
+    "search_volume": 1000,
+    "score": 500,
     "related_queries": [
-      "lewandowski",
+      "xbox"
+    ],
+    "category_ids": [
+      18,
+      6
+    ],
+    "entities": [
+      {
+        "id": 4577526395,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4610683461,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4600818614,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4593455228,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4597637236,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4599985313,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4594321142,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4595045651,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4585113564,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "xbox",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "henry cavill",
+    "region": "HU",
+    "started_at_unix": 1779112800,
+    "ended_at_unix": 1779171600,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "henry cavill"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4597979982,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4575391392,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4608063384,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4606372690,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4600176967,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "henry cavill",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "bayer zsolt",
+    "region": "HU",
+    "started_at_unix": 1779100200,
+    "ended_at_unix": 1779126000,
+    "search_volume": 2000,
+    "score": 800,
+    "related_queries": [
+      "bayer zsolt"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4599040086,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4609181936,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4606611455,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4610979306,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4606571743,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4545908284,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4535329070,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4539553862,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "bayer zsolt",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "ukrajna",
+    "region": "HU",
+    "started_at_unix": 1779159000,
+    "ended_at_unix": 1779165600,
+    "search_volume": 500,
+    "score": 900,
+    "related_queries": [
+      "ukrajna"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4601101722,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4604362269,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4607733445,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4601648752,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4603961513,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4599384699,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4610027186,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4603844429,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4610229577,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4609441275,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4603297315,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4556122188,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "ukrajna",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "bankjegy",
+    "region": "HU",
+    "started_at_unix": 1779124800,
+    "ended_at_unix": 1779168600,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "bankjegy"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4599810124,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "bankjegy",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "toth andi",
+    "region": "HU",
+    "started_at_unix": 1779118200,
+    "ended_at_unix": 1779161400,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "toth andi",
+      "tóth andi"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4603844401,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "toth andi",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "horváth tamás",
+    "region": "HU",
+    "started_at_unix": 1779132600,
+    "ended_at_unix": 1779168000,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "horváth tamás"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4609834996,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "horvath tamas",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "john travolta 2026",
+    "region": "HU",
+    "started_at_unix": 1779161400,
+    "ended_at_unix": 1779166200,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "john travolta 2026",
+      "john travolta cannes 2026"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4584958451,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4603970883,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "john travolta 2026",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "kecskemét",
+    "region": "HU",
+    "started_at_unix": 1779099600,
+    "ended_at_unix": 1779120000,
+    "search_volume": 1000,
+    "score": 900,
+    "related_queries": [
+      "kecskemét"
+    ],
+    "category_ids": [
+      8,
+      16
+    ],
+    "entities": [
+      {
+        "id": 4610629305,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4604263780,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4610344722,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4610260887,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4610936694,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4606435602,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4609687158,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4609870610,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "kecskemet",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "niebler angelika",
+    "region": "HU",
+    "started_at_unix": 1779102000,
+    "ended_at_unix": 1779127200,
+    "search_volume": 1000,
+    "score": 800,
+    "related_queries": [
+      "niebler angelika"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4604915542,
+        "language": "de",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "niebler angelika",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "neymar",
+    "region": "HU",
+    "started_at_unix": 1779139200,
+    "ended_at_unix": 1779169200,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "neymar"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4587729527,
+        "language": "es",
+        "region": "HU"
+      },
+      {
+        "id": 4590297742,
+        "language": "es",
+        "region": "HU"
+      },
+      {
+        "id": 4610666732,
+        "language": "es",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "neymar",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "robert lewandowski",
+    "region": "HU",
+    "started_at_unix": 1779134400,
+    "ended_at_unix": 1779169200,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
       "robert lewandowski"
     ],
     "category_ids": [
@@ -1970,6 +1354,11 @@
         "region": "HU"
       },
       {
+        "id": 4604010337,
+        "language": "pl",
+        "region": "HU"
+      },
+      {
         "id": 4577186592,
         "language": "pl",
         "region": "HU"
@@ -1978,358 +1367,522 @@
         "id": 4607572276,
         "language": "pl",
         "region": "HU"
+      },
+      {
+        "id": 4607586133,
+        "language": "pl",
+        "region": "HU"
       }
     ],
-    "normalized_keyword": "lewandowski",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "robert lewandowski",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "hatoslottó nyerőszámai",
+    "keyword": "kekva",
     "region": "HU",
-    "started_at_unix": 1779077400,
-    "ended_at_unix": 1779080400,
-    "search_volume": 200,
-    "score": 100,
+    "started_at_unix": 1779123600,
+    "ended_at_unix": 1779140400,
+    "search_volume": 1000,
+    "score": 1000,
     "related_queries": [
-      "hatoslottó nyerőszámai",
-      "hatos lottó nyerőszámok"
+      "kekva",
+      "merkely béla"
     ],
     "category_ids": [
-      6
+      9
     ],
     "entities": [
       {
-        "id": 4606502914,
+        "id": 4586556211,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4586556211,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "hatoslotto nyeroszamai",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "kekva",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "weisz viktor",
+    "keyword": "vilmos walesi herceg",
     "region": "HU",
-    "started_at_unix": 1779009600,
-    "ended_at_unix": 1779022800,
+    "started_at_unix": 1779097800,
+    "ended_at_unix": 1779120600,
     "search_volume": 1000,
-    "score": 1000,
+    "score": 700,
     "related_queries": [
-      "weisz viktor",
-      "bogdán csaba",
-      "weisz viktor tisza"
+      "vilmos walesi herceg"
     ],
     "category_ids": [
-      14,
       10
     ],
     "entities": [
       {
-        "id": 4607507305,
+        "id": 4607826864,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4607359081,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "weisz viktor",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "vilmos walesi herceg",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "pisa–napoli",
+    "keyword": "kamatozás",
     "region": "HU",
-    "started_at_unix": 1779010800,
-    "ended_at_unix": 1779029400,
+    "started_at_unix": 1779111600,
+    "ended_at_unix": 1779129600,
     "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "pisa–napoli"
+      "kamatozás"
     ],
     "category_ids": [
-      17
+      3
     ],
     "entities": [
       {
-        "id": 4599146334,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4607755066,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4598629042,
-        "language": "it",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "pisa–napoli",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "serie a",
-    "region": "HU",
-    "started_at_unix": 1779013200,
-    "ended_at_unix": 1779025200,
-    "search_volume": 500,
-    "score": 300,
-    "related_queries": [
-      "serie a"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4585499128,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4598911671,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4608443626,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4598897942,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4600004607,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4598564638,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4601492558,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4582299641,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4593524319,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4598170133,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4568392618,
-        "language": "it",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "serie a",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "ruszin-szendi romulusz",
-    "region": "HU",
-    "started_at_unix": 1779047400,
-    "ended_at_unix": 1779076200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "ruszin-szendi romulusz"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4596610888,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4592982087,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4604340618,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4607645952,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4583087395,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4570972985,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "ruszin-szendi romulusz",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "oviedo–alavés",
-    "region": "HU",
-    "started_at_unix": 1779035400,
-    "ended_at_unix": 1779051000,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "oviedo–alavés"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4600446921,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4606653391,
-        "language": "es",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "oviedo–alaves",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "atalanta–bologna",
-    "region": "HU",
-    "started_at_unix": 1779031800,
-    "ended_at_unix": 1779043800,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "atalanta–bologna"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4579112988,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "atalanta–bologna",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "bilbao–celta",
-    "region": "HU",
-    "started_at_unix": 1779036600,
-    "ended_at_unix": 1779051000,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "bilbao–celta"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4600213098,
+        "id": 4599466348,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4590578271,
+        "id": 4609687155,
         "language": "en",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "bilbao–celta",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "kamatozas",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "como–parma",
+    "keyword": "nyíregyháza spartacus fc",
     "region": "HU",
-    "started_at_unix": 1779011400,
-    "ended_at_unix": 1779030600,
+    "started_at_unix": 1779111000,
+    "ended_at_unix": 1779129000,
     "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "como–parma"
+      "nyíregyháza spartacus fc"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4598314587,
+        "id": 4608246212,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4567906203,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4596654965,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4604300988,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4602850074,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "nyiregyhaza spartacus fc",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "demi moore",
+    "region": "HU",
+    "started_at_unix": 1779162600,
+    "ended_at_unix": 1779166800,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "demi moore"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4597794582,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4601017218,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4597335076,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4594875295,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4588065794,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4609067335,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4542338585,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4553187056,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4585832539,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4604262838,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4605966074,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4595400516,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "como–parma",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "demi moore",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "rayo–villarreal",
+    "keyword": "nba",
     "region": "HU",
-    "started_at_unix": 1779036600,
-    "ended_at_unix": 1779071400,
+    "started_at_unix": 1779153600,
+    "ended_at_unix": 1779163800,
     "search_volume": 200,
-    "score": 600,
+    "score": 75,
     "related_queries": [
-      "rayo–villarreal"
+      "nba"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4579327541,
-        "language": "es",
+        "id": 4596586554,
+        "language": "en",
         "region": "HU"
       },
       {
-        "id": 4601038996,
-        "language": "es",
+        "id": 4597193388,
+        "language": "en",
         "region": "HU"
       },
       {
-        "id": 4608821640,
-        "language": "es",
+        "id": 4605143618,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4610645261,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4611161142,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4599491265,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4599769013,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4557066652,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4604873096,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4601406264,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4562166247,
+        "language": "en",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "rayo–villarreal",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "nba",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "horoszkóp",
+    "keyword": "formula 1 kanadai nagydíj",
     "region": "HU",
-    "started_at_unix": 1779072000,
-    "ended_at_unix": 1779074400,
-    "search_volume": 100,
-    "score": 50,
+    "started_at_unix": 1779110400,
+    "ended_at_unix": 1779130800,
+    "search_volume": 200,
+    "score": 1000,
     "related_queries": [
+      "formula 1 kanadai nagydíj"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4603629379,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4611061957,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4611161319,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4608896042,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4609088917,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4608492079,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "formula 1 kanadai nagydij",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "magyar rendőrség",
+    "region": "HU",
+    "started_at_unix": 1779120000,
+    "ended_at_unix": 1779132600,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "magyar rendőrség"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4609441275,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4607035285,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4609252368,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4610431689,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4603663283,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4593311257,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4607800581,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4520592928,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "magyar rendorseg",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "bálint antónia",
+    "region": "HU",
+    "started_at_unix": 1779130200,
+    "ended_at_unix": 1779138000,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "bálint antónia"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4609151137,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "balint antonia",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "állampapír",
+    "region": "HU",
+    "started_at_unix": 1779161400,
+    "ended_at_unix": 1779165000,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "állampapír"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4609687155,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "allampapir",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "michael olise",
+    "region": "HU",
+    "started_at_unix": 1779129600,
+    "ended_at_unix": 1779163800,
+    "search_volume": 100,
+    "score": 600,
+    "related_queries": [
+      "michael olise"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4608313173,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4595750181,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4604771788,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "michael olise",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "salma hayek",
+    "region": "HU",
+    "started_at_unix": 1779117000,
+    "ended_at_unix": 1779130800,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "salma hayek"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4607902596,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4609067335,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4608963893,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "salma hayek",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "május",
+    "region": "HU",
+    "started_at_unix": 1779160800,
+    "ended_at_unix": 1779164400,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "május",
       "horoszkóp"
     ],
     "category_ids": [
@@ -2337,403 +1890,322 @@
     ],
     "entities": [
       {
+        "id": 4610068749,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4608777003,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4611191022,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4605395042,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4596691629,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4585876723,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4590776055,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4581655484,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4603025232,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
         "id": 4600818626,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4607958719,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4607890865,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4596580246,
+        "id": 4609468812,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "horoszkop",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "majus",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "robin williams",
+    "keyword": "huawei watch fit 5 pro",
     "region": "HU",
-    "started_at_unix": 1779029400,
-    "ended_at_unix": 1779036000,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "robin williams"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4608113572,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4605838232,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4606708654,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4608312943,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4586299191,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4573769562,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "robin williams",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "azbeszt",
-    "region": "HU",
-    "started_at_unix": 1779037800,
-    "ended_at_unix": 1779042000,
-    "search_volume": 200,
+    "started_at_unix": 1779133200,
+    "ended_at_unix": 1779142200,
+    "search_volume": 100,
     "score": 400,
     "related_queries": [
-      "azbeszt"
+      "huawei watch fit 5 pro"
     ],
     "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4583696671,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "azbeszt",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "t danny",
-    "region": "HU",
-    "started_at_unix": 1779037800,
-    "ended_at_unix": 1779041400,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "t danny"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4584648476,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "t danny",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "elche–getafe",
-    "region": "HU",
-    "started_at_unix": 1779037800,
-    "ended_at_unix": 1779042000,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "elche–getafe"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4579327547,
-        "language": "es",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "elche–getafe",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "xiaomi",
-    "region": "HU",
-    "started_at_unix": 1779008400,
-    "ended_at_unix": 1779021600,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "xiaomi"
-    ],
-    "category_ids": [
+      18,
       16
     ],
     "entities": [
       {
-        "id": 4601720499,
+        "id": 4608399699,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4607018058,
+        "id": 4605172900,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4585876723,
+        "id": 4606219031,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4596387365,
+        "id": 4562062270,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4595418954,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4603834227,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4603933172,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4589576811,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4607238371,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4604810000,
+        "id": 4536254126,
         "language": "en",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "xiaomi",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "huawei watch fit 5 pro",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "adóbevallás 2026",
+    "keyword": "star wars: knights of the old republic",
     "region": "HU",
-    "started_at_unix": 1779003000,
-    "ended_at_unix": 1779009600,
-    "search_volume": 500,
-    "score": 75,
-    "related_queries": [
-      "adóbevallás 2026"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4601229217,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4584582287,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "adobevallas 2026",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "levante–mallorca",
-    "region": "HU",
-    "started_at_unix": 1779037200,
-    "ended_at_unix": 1779039600,
+    "started_at_unix": 1779114000,
+    "ended_at_unix": 1779120000,
     "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "levante–mallorca"
+      "star wars: knights of the old republic"
     ],
     "category_ids": [
-      17
+      6
     ],
     "entities": [
       {
-        "id": 4600217396,
+        "id": 4597414338,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4610052050,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4330610105,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4602174173,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4581260360,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4602440399,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "levante–mallorca",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "star wars: knights of the old republic",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   },
   {
-    "keyword": "atlético de madrid",
+    "keyword": "leeds–brighton",
     "region": "HU",
-    "started_at_unix": 1779011400,
-    "ended_at_unix": 1779017400,
-    "search_volume": 100,
-    "score": 900,
+    "started_at_unix": 1779090000,
+    "ended_at_unix": 1779094200,
+    "search_volume": 200,
+    "score": 1000,
     "related_queries": [
-      "atlético de madrid"
+      "leeds–brighton"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4600707903,
-        "language": "es",
+        "id": 4589445819,
+        "language": "en",
         "region": "HU"
       },
       {
-        "id": 4600450804,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4607934744,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4607111447,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4608351263,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4564168421,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4602742384,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4545758297,
-        "language": "es",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "atletico de madrid",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "grado",
-    "region": "HU",
-    "started_at_unix": 1779013800,
-    "ended_at_unix": 1779022200,
-    "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "grado"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4600513890,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4607413345,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4607501889,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4596711413,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4590118148,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4598261550,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4601376638,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4601016016,
-        "language": "it",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "grado",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
-  },
-  {
-    "keyword": "fetter erik",
-    "region": "HU",
-    "started_at_unix": 1779024600,
-    "ended_at_unix": 1779027000,
-    "search_volume": 100,
-    "score": 600,
-    "related_queries": [
-      "fetter erik"
-    ],
-    "category_ids": [
-      17,
-      8
-    ],
-    "entities": [
-      {
-        "id": 4576580931,
+        "id": 4610162032,
         "language": "en",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "fetter erik",
-    "captured_at": "2026-05-18T06:49:13.647321+00:00"
+    "normalized_keyword": "leeds–brighton",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "ronnie o’sullivan",
+    "region": "HU",
+    "started_at_unix": 1779126600,
+    "ended_at_unix": 1779130200,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "ronnie o’sullivan"
+    ],
+    "category_ids": [
+      17,
+      6
+    ],
+    "entities": [
+      {
+        "id": 4609413213,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4594304702,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4603859859,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4565472278,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4593642311,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4609073161,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4561467971,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4561383427,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "ronnie o’sullivan",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "brent oil price",
+    "region": "HU",
+    "started_at_unix": 1779121200,
+    "ended_at_unix": 1779124200,
+    "search_volume": 100,
+    "score": 400,
+    "related_queries": [
+      "brent oil price"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4598379660,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4605965614,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4605943126,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4564660264,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4568947991,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4565994752,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4584514335,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "brent oil price",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
+  },
+  {
+    "keyword": "földcsuszamlás",
+    "region": "HU",
+    "started_at_unix": 1779100800,
+    "ended_at_unix": 1779103800,
+    "search_volume": 100,
+    "score": 900,
+    "related_queries": [
+      "földcsuszamlás"
+    ],
+    "category_ids": [
+      15
+    ],
+    "entities": [
+      {
+        "id": 4606918458,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4556315152,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "foldcsuszamlas",
+    "captured_at": "2026-05-19T06:35:39.346915+00:00"
   }
 ]
