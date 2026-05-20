@@ -1,77 +1,237 @@
 [
   {
-    "keyword": "衍生集團",
+    "keyword": "live nation",
     "region": "HK",
-    "started_at_unix": 1779095400,
+    "started_at_unix": 1779240600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "live nation",
+      "livenation"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4612211963,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4599648888,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612522855,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4610284927,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4602374136,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4518342641,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612211963,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4610284927,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612303785,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4599648888,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4610564924,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4602374136,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4600298848,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4597992948,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4551729586,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4518342641,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "live nation",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "熱帶氣旋",
+    "region": "HK",
+    "started_at_unix": 1779204000,
     "ended_at_unix": null,
     "search_volume": 5000,
     "score": 1000,
     "related_queries": [
-      "衍生集團",
-      "馬浚偉"
+      "熱帶氣旋",
+      "熱帶 氣旋",
+      "天氣報告",
+      "天氣預報"
     ],
     "category_ids": [
-      11
+      20,
+      15
     ],
     "entities": [
       {
-        "id": 4594744815,
+        "id": 4608917611,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4608917611,
         "language": "ja",
         "region": "HK"
       },
       {
-        "id": 4594744815,
-        "language": "zh-TW",
+        "id": 4582379637,
+        "language": "ja",
         "region": "HK"
       },
       {
-        "id": 4610957238,
-        "language": "zh-TW",
+        "id": 4608072491,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4613000832,
+        "language": "ja",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "衍生集團",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "熱帶氣旋",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "兵工廠 對 班來",
+    "keyword": "伯恩茅斯 對 曼城",
     "region": "HK",
-    "started_at_unix": 1779127800,
+    "started_at_unix": 1779212400,
     "ended_at_unix": null,
-    "search_volume": 10000,
+    "search_volume": 5000,
     "score": 1000,
     "related_queries": [
-      "兵工廠 對 班來",
-      "阿仙奴"
+      "伯恩茅斯 對 曼城",
+      "曼城比賽"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4593728314,
-        "language": "zh-TW",
+        "id": 4601289325,
+        "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4603132341,
-        "language": "zh-TW",
+        "id": 4593437401,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4612898441,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4595067929,
+        "language": "zh",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "兵工廠 對 班來",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "伯恩茅斯 對 曼城",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "公務員加薪",
+    "keyword": "袁偉豪",
     "region": "HK",
-    "started_at_unix": 1779148200,
+    "started_at_unix": 1779241200,
     "ended_at_unix": null,
     "search_volume": 2000,
-    "score": 300,
+    "score": 1000,
     "related_queries": [
-      "公務員加薪",
-      "公務員 加 薪"
+      "袁偉豪"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4613055037,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4611143992,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4613050090,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4609449624,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "袁偉豪",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "香港公务员事务",
+    "region": "HK",
+    "started_at_unix": 1779247200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "香港公务员事务",
+      "公務員 加 薪 2026"
     ],
     "category_ids": [
       10
@@ -79,644 +239,343 @@
     "entities": [
       {
         "id": 4602041411,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4598059725,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4602041411,
         "language": "ja",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "公務員加薪",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "香港公务员事务",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "謝嘉怡",
+    "keyword": "尼克 對 騎士",
     "region": "HK",
-    "started_at_unix": 1779094200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "謝嘉怡"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4609014880,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "謝嘉怡",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "港 漂",
-    "region": "HK",
-    "started_at_unix": 1779105600,
+    "started_at_unix": 1779236400,
     "ended_at_unix": null,
     "search_volume": 1000,
-    "score": 700,
-    "related_queries": [
-      "港 漂",
-      "港漂"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4604659217,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4608903356,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "港 漂",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "雷霆 對 馬刺",
-    "region": "HK",
-    "started_at_unix": 1779150600,
-    "ended_at_unix": null,
-    "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "雷霆 對 馬刺",
-      "馬刺",
-      "傑倫·威廉斯",
-      "馬刺對雷霆"
+      "尼克 對 騎士"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4605111150,
+        "id": 4610331682,
         "language": "zh-TW",
         "region": "HK"
-      },
-      {
-        "id": 4605111150,
-        "language": "ja",
-        "region": "HK"
       }
     ],
-    "normalized_keyword": "雷霆 對 馬刺",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "尼克 對 騎士",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "楊婉儀",
+    "keyword": "何 超 蕸",
     "region": "HK",
-    "started_at_unix": 1779100200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "楊婉儀"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4608668595,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "楊婉儀",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "旺角",
-    "region": "HK",
-    "started_at_unix": 1779105000,
+    "started_at_unix": 1779199800,
     "ended_at_unix": null,
     "search_volume": 1000,
-    "score": 600,
-    "related_queries": [
-      "旺角"
-    ],
-    "category_ids": [
-      16
-    ],
-    "entities": [
-      {
-        "id": 4606888980,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4611032594,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4611178266,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4607757762,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4607768651,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4609184273,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4605111186,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4598287549,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4611143937,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "旺角",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "天文台",
-    "region": "HK",
-    "started_at_unix": 1779166200,
-    "ended_at_unix": 1779170400,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "天文台",
-      "特別天氣提示",
-      "香港天文台",
-      "天氣預報",
-      "天氣報告",
-      "weather 香港"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4582379637,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4582379637,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4605883943,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4611080066,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4608917611,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4608072491,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4578115385,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4582379637,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4608072491,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4609945760,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4608917611,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "天文台",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "白雪仙",
-    "region": "HK",
-    "started_at_unix": 1779165600,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "白雪仙"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4610787566,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4610787759,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "白雪仙",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "nba",
-    "region": "HK",
-    "started_at_unix": 1779160200,
-    "ended_at_unix": 1779165000,
-    "search_volume": 10000,
-    "score": 50,
-    "related_queries": [
-      "nba",
-      "thunder vs spurs",
-      "spurs vs thunder",
-      "nba live",
-      "spurs vs okc",
-      "okc vs spurs",
-      "okc",
-      "spurs nba",
-      "spurs",
-      "victor wembanyama",
-      "nba playoffs"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4596586554,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4597768738,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4595889642,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4609459225,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4610736948,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4599769013,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4608981259,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4610827453,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4608881607,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4610216897,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4609465688,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4611161114,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4605143618,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4609808817,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4608171598,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4606024097,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4582846782,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4581068757,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4610567915,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4564348841,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4597193388,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4610645261,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4611161142,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4599491265,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4604873096,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4562166247,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4611026054,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4606622520,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4607040214,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4611047287,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4600011851,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4610244798,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4593172923,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4587225957,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "nba",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "阿sa",
-    "region": "HK",
-    "started_at_unix": 1779167400,
-    "ended_at_unix": null,
-    "search_volume": 200,
     "score": 500,
     "related_queries": [
-      "阿sa",
-      "蔡卓妍"
+      "何 超 蕸"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4607130537,
+        "id": 4603585183,
         "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4610820939,
+        "id": 4599319707,
         "language": "zh",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "阿sa",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "何 超 蕸",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "陳同佳",
+    "keyword": "the weeknd",
     "region": "HK",
-    "started_at_unix": 1779166200,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "陳同佳"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4610202573,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4611110459,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "陳同佳",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "海關",
-    "region": "HK",
-    "started_at_unix": 1779099600,
+    "started_at_unix": 1779256200,
     "ended_at_unix": null,
     "search_volume": 500,
     "score": 400,
     "related_queries": [
-      "海關"
+      "the weeknd",
+      "weeknd"
     ],
     "category_ids": [
-      10
+      4
     ],
     "entities": [
       {
-        "id": 4609660875,
-        "language": "zh-TW",
+        "id": 4584262844,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4610143701,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4613413111,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4584262844,
+        "language": "en",
         "region": "HK"
       },
       {
-        "id": 4595283358,
-        "language": "zh-TW",
+        "id": 4613413111,
+        "language": "en",
         "region": "HK"
       },
       {
-        "id": 4609951215,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4584484503,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4601261677,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4609499404,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4608038827,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4607354079,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4608863675,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4608480522,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4609313038,
-        "language": "zh-TW",
+        "id": 4557603464,
+        "language": "en",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "海關",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "the weeknd",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "arsenal vs burnley",
+    "keyword": "gemini spark",
     "region": "HK",
-    "started_at_unix": 1779128400,
-    "ended_at_unix": 1779162600,
-    "search_volume": 2000,
+    "started_at_unix": 1779238200,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "gemini spark"
+    ],
+    "category_ids": [
+      18
+    ],
+    "entities": [
+      {
+        "id": 4572268832,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4608683268,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "gemini spark",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "信报财经新闻",
+    "region": "HK",
+    "started_at_unix": 1779254400,
+    "ended_at_unix": null,
+    "search_volume": 100,
     "score": 1000,
     "related_queries": [
-      "arsenal vs burnley",
-      "arsenal",
-      "english premier league"
+      "信报财经新闻"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4612066827,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4608696910,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4597471650,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "信报财经新闻",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "英超",
+    "region": "HK",
+    "started_at_unix": 1779219000,
+    "ended_at_unix": 1779238200,
+    "search_volume": 10000,
+    "score": 500,
+    "related_queries": [
+      "英超",
+      "曼城",
+      "阿仙奴",
+      "般尼茅夫"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4592204577,
-        "language": "en",
+        "id": 4612155643,
+        "language": "zh-TW",
         "region": "HK"
       },
+      {
+        "id": 4612155643,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4613217398,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4613259643,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4613581804,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4601289325,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4612898441,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4599527081,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4596164213,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4613217398,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4606406146,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4593437401,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4613437941,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4613496672,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4613475372,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "英超",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "梁敏巧",
+    "region": "HK",
+    "started_at_unix": 1779201600,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "梁敏巧"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4594196818,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4613415816,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4608197752,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4609935607,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "梁敏巧",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "premier league",
+    "region": "HK",
+    "started_at_unix": 1779217800,
+    "ended_at_unix": 1779239400,
+    "search_volume": 5000,
+    "score": 500,
+    "related_queries": [
+      "premier league",
+      "arsenal",
+      "epl",
+      "manchester city",
+      "premier league table",
+      "english premier league",
+      "pl",
+      "premier league games",
+      "epl table",
+      "bournemouth"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
       {
         "id": 4607023259,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4606024097,
         "language": "en",
         "region": "HK"
       },
@@ -726,12 +585,87 @@
         "region": "HK"
       },
       {
-        "id": 4610294723,
+        "id": 4612407745,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4608275923,
+        "id": 4601493711,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4592324777,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4552406809,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4562876557,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4563347055,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4595384844,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4597170256,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4613358728,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4605696976,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4604861850,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4601276425,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4613178628,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4587685393,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4603461658,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612794955,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4592204577,
         "language": "en",
         "region": "HK"
       },
@@ -741,42 +675,32 @@
         "region": "HK"
       },
       {
-        "id": 4609877865,
+        "id": 4535237323,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4608536661,
+        "id": 4568009413,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4583807469,
+        "id": 4589848421,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4603761558,
+        "id": 4601718317,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4599735512,
+        "id": 4612567929,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4610370140,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4604257154,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4610644801,
+        "id": 4600936650,
         "language": "en",
         "region": "HK"
       },
@@ -786,78 +710,929 @@
         "region": "HK"
       },
       {
+        "id": 4607023259,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4599324312,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4587685393,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612794955,
+        "language": "en",
+        "region": "US"
+      },
+      {
         "id": 4610504473,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4598702203,
+        "id": 4600936650,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4610448536,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4598143416,
+        "id": 4607464464,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4564348767,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4585386566,
+        "id": 4581232905,
         "language": "en",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "arsenal vs burnley",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "premier league",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "nba線上看",
+    "keyword": "港漂",
     "region": "HK",
-    "started_at_unix": 1779150600,
-    "ended_at_unix": 1779165000,
-    "search_volume": 1000,
+    "started_at_unix": 1779254400,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 600,
+    "related_queries": [
+      "港漂"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4613050105,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4604659217,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4613572038,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "港漂",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "杨婉仪",
+    "region": "HK",
+    "started_at_unix": 1779255600,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "杨婉仪"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4608687223,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4608668595,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "杨婉仪",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "antigravity",
+    "region": "HK",
+    "started_at_unix": 1779244800,
+    "ended_at_unix": null,
+    "search_volume": 200,
     "score": 300,
     "related_queries": [
-      "nba線上看",
-      "nba 線上 看"
+      "antigravity"
+    ],
+    "category_ids": [
+      18
+    ],
+    "entities": [
+      {
+        "id": 4612539965,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4572268832,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4608683268,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4551887150,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "antigravity",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "whatsapp",
+    "region": "HK",
+    "started_at_unix": 1779232800,
+    "ended_at_unix": 1779242400,
+    "search_volume": 5000,
+    "score": 100,
+    "related_queries": [
+      "whatsapp"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4565826852,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4611717386,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4599696137,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4603309329,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4591218190,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4594242496,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4594421051,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4597736316,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4604182179,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4582332518,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "whatsapp",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "九龍灣",
+    "region": "HK",
+    "started_at_unix": 1779257400,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "九龍灣",
+      "交通消息"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4611068253,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4611068253,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4607963904,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "九龍灣",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "台风",
+    "region": "HK",
+    "started_at_unix": 1779199200,
+    "ended_at_unix": 1779247800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "台风"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4602754013,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4594938904,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "台风",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "切爾西 對 熱刺",
+    "region": "HK",
+    "started_at_unix": 1779216000,
+    "ended_at_unix": 1779240000,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "切爾西 對 熱刺",
+      "車路士",
+      "熱刺"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4594327284,
+        "id": 4613217398,
         "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4612155643,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4599527081,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4598079146,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4593648183,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4610399841,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4600347121,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4613217398,
+        "language": "zh-TW",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "nba線上看",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "切爾西 對 熱刺",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "hk observatory",
+    "keyword": "天文台",
     "region": "HK",
-    "started_at_unix": 1779165600,
-    "ended_at_unix": 1779170400,
-    "search_volume": 500,
-    "score": 400,
+    "started_at_unix": 1779230400,
+    "ended_at_unix": 1779236400,
+    "search_volume": 5000,
+    "score": 300,
     "related_queries": [
-      "hk observatory",
-      "hong kong observatory"
+      "天文台",
+      "香港天文台"
     ],
     "category_ids": [
-      3
+      20
     ],
     "entities": [
       {
-        "id": 4608693286,
+        "id": 4582379637,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4608072491,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4578115385,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4607143011,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4582379637,
         "language": "zh-TW",
         "region": "HK"
       },
+      {
+        "id": 4608072491,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4613000832,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4596645720,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4607143011,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "天文台",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "bournemouth vs man city",
+    "region": "HK",
+    "started_at_unix": 1779213600,
+    "ended_at_unix": 1779243000,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "bournemouth vs man city"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4600936650,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4607023259,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4610618288,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "bournemouth vs man city",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "man city",
+    "region": "HK",
+    "started_at_unix": 1779216000,
+    "ended_at_unix": 1779237600,
+    "search_volume": 1000,
+    "score": 900,
+    "related_queries": [
+      "man city",
+      "enzo maresca"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4606477959,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4607023259,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "man city",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "premier league standings",
+    "region": "HK",
+    "started_at_unix": 1779222000,
+    "ended_at_unix": 1779239400,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "premier league standings",
+      "chelsea vs spurs",
+      "chelsea",
+      "chelsea f.c. vs tottenham standings",
+      "tottenham"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4599324312,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4607023259,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4592204577,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4583807469,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4592324777,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612985999,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612981795,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4605810301,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4608275923,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612794955,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4602512634,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4584616122,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4606477959,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4601773062,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4573390156,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4610584856,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "premier league standings",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "樂易玲",
+    "region": "HK",
+    "started_at_unix": 1779252000,
+    "ended_at_unix": 1779258000,
+    "search_volume": 100,
+    "score": 900,
+    "related_queries": [
+      "樂易玲"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4608197752,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4607899672,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "樂易玲",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "玻璃",
+    "region": "HK",
+    "started_at_unix": 1779204600,
+    "ended_at_unix": 1779253800,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "玻璃"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4598420720,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4613338599,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4613350664,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4613062175,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4612039622,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4610990377,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4598420659,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4592877504,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "玻璃",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "自助餐",
+    "region": "HK",
+    "started_at_unix": 1779194400,
+    "ended_at_unix": 1779241800,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "自助餐"
+    ],
+    "category_ids": [
+      5
+    ],
+    "entities": [
+      {
+        "id": 4607465608,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4278000432,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4608094384,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "自助餐",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "白雪 仙",
+    "region": "HK",
+    "started_at_unix": 1779176400,
+    "ended_at_unix": 1779235200,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "白雪 仙"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4610787759,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4610787566,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "白雪 仙",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "coleman wong",
+    "region": "HK",
+    "started_at_unix": 1779178800,
+    "ended_at_unix": 1779234000,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "coleman wong"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4611436984,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4607882653,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "coleman wong",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "knicks vs cavaliers",
+    "region": "HK",
+    "started_at_unix": 1779244200,
+    "ended_at_unix": 1779249000,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "knicks vs cavaliers",
+      "knicks"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4597768738,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4613582566,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4613323075,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4613291582,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4613449880,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4606890611,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4610567915,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4609465688,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "knicks vs cavaliers",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "泰國",
+    "region": "HK",
+    "started_at_unix": 1779195600,
+    "ended_at_unix": 1779238800,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "泰國",
+      "泰國免簽"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4594607872,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4595992167,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4613407799,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4613255206,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4613350646,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4611661872,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4592341631,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "泰國",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "美國",
+    "region": "HK",
+    "started_at_unix": 1779227400,
+    "ended_at_unix": 1779235800,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "美國"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4609624277,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4606647878,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4586115604,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4600137490,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4611467664,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4603119634,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4596405392,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "美國",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "hko",
+    "region": "HK",
+    "started_at_unix": 1779231000,
+    "ended_at_unix": 1779235800,
+    "search_volume": 500,
+    "score": 100,
+    "related_queries": [
+      "hko",
+      "hk observatory",
+      "hong kong observatory",
+      "hk weather"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
       {
         "id": 4600164461,
         "language": "zh-TW",
@@ -869,248 +1644,98 @@
         "region": "HK"
       },
       {
+        "id": 4599879638,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4600164461,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4608089798,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4600164461,
+        "language": "en",
+        "region": "HK"
+      },
+      {
         "id": 4594599342,
         "language": "zh-TW",
         "region": "HK"
-      },
-      {
-        "id": 4608693286,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4600164461,
-        "language": "en",
-        "region": "US"
       }
     ],
-    "normalized_keyword": "hk observatory",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "hko",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "旅行社",
+    "keyword": "普京",
     "region": "HK",
-    "started_at_unix": 1779169200,
-    "ended_at_unix": null,
-    "search_volume": 100,
+    "started_at_unix": 1779193200,
+    "ended_at_unix": 1779257400,
+    "search_volume": 200,
     "score": 400,
     "related_queries": [
-      "旅行社"
+      "普京"
     ],
     "category_ids": [
-      19
+      14,
+      10
     ],
     "entities": [
       {
-        "id": 4605405152,
-        "language": "zh-TW",
+        "id": 4571849015,
+        "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4608702966,
-        "language": "zh-TW",
+        "id": 4611369799,
+        "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4608961163,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4608585681,
-        "language": "zh-TW",
+        "id": 4571509541,
+        "language": "zh",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "旅行社",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "普京",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "observatory",
+    "keyword": "黃澤林",
     "region": "HK",
-    "started_at_unix": 1779165600,
-    "ended_at_unix": 1779170400,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "observatory"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4600164461,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4611066775,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4609414422,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4610785520,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4602493723,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4570261621,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "observatory",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "亞歷克斯·卡魯索",
-    "region": "HK",
-    "started_at_unix": 1779158400,
-    "ended_at_unix": 1779167400,
+    "started_at_unix": 1779184200,
+    "ended_at_unix": 1779199200,
     "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "亞歷克斯·卡魯索",
-      "sga"
+      "黃澤林"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4610827453,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4596586554,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4602054217,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4609672169,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4597193388,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4610827453,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4596586554,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4609465688,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "亞歷克斯·卡魯索",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "樊 振東",
-    "region": "HK",
-    "started_at_unix": 1779106200,
-    "ended_at_unix": 1779154200,
-    "search_volume": 1000,
-    "score": 600,
-    "related_queries": [
-      "樊 振東"
-    ],
-    "category_ids": [
-      17,
-      6
-    ],
-    "entities": [
-      {
-        "id": 4606051751,
+        "id": 4595821838,
         "language": "ja",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "樊 振東",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "dylan harper",
-    "region": "HK",
-    "started_at_unix": 1779162600,
-    "ended_at_unix": 1779170400,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "dylan harper"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4582846782,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4611078794,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4610812976,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4610199209,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4596586554,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4609465688,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "dylan harper",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "黃澤林",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
     "keyword": "香港探秘地圖",
     "region": "HK",
-    "started_at_unix": 1779104400,
-    "ended_at_unix": 1779129000,
-    "search_volume": 2000,
-    "score": 1000,
+    "started_at_unix": 1779194400,
+    "ended_at_unix": 1779201000,
+    "search_volume": 1000,
+    "score": 800,
     "related_queries": [
       "香港探秘地圖",
       "龔嘉欣",
@@ -1126,6 +1751,21 @@
         "region": "HK"
       },
       {
+        "id": 4609073817,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4611310855,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4611328342,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
         "id": 4596084730,
         "language": "zh",
         "region": "HK"
@@ -1137,805 +1777,333 @@
       }
     ],
     "normalized_keyword": "香港探秘地圖",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "迪倫·哈珀",
+    "keyword": "教育局",
     "region": "HK",
-    "started_at_unix": 1779160800,
-    "ended_at_unix": 1779169800,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "迪倫·哈珀"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4581695749,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4591017258,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4609127108,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "迪倫·哈珀",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "九龍灣",
-    "region": "HK",
-    "started_at_unix": 1779163200,
-    "ended_at_unix": 1779169200,
-    "search_volume": 200,
-    "score": 600,
-    "related_queries": [
-      "九龍灣"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4611068253,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "九龍灣",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "東張西望",
-    "region": "HK",
-    "started_at_unix": 1779148800,
-    "ended_at_unix": 1779171600,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "東張西望"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4608072471,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4610017738,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4600573048,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "東張西望",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "狄鶯",
-    "region": "HK",
-    "started_at_unix": 1779129000,
-    "ended_at_unix": 1779166800,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "狄鶯"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4602933388,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4610892422,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "狄鶯",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "德文·瓦塞爾",
-    "region": "HK",
-    "started_at_unix": 1779160800,
-    "ended_at_unix": 1779166200,
+    "started_at_unix": 1779230400,
+    "ended_at_unix": 1779236400,
     "search_volume": 200,
     "score": 800,
     "related_queries": [
-      "德文·瓦塞爾"
+      "教育局"
     ],
     "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4600256971,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4591017258,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "德文·瓦塞爾",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "陳少霞",
-    "region": "HK",
-    "started_at_unix": 1779116400,
-    "ended_at_unix": 1779154200,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "陳少霞"
-    ],
-    "category_ids": [
+      9,
       4
     ],
     "entities": [
       {
-        "id": 4609356988,
+        "id": 4607555260,
         "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4608824078,
+        "id": 4611565868,
         "language": "zh",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "陳少霞",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "教育局",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "譚永浩",
+    "keyword": "xiaomi",
     "region": "HK",
-    "started_at_unix": 1779117000,
-    "ended_at_unix": 1779153600,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "譚永浩"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4603153874,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "譚永浩",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "謝婷婷",
-    "region": "HK",
-    "started_at_unix": 1779132000,
-    "ended_at_unix": 1779167400,
+    "started_at_unix": 1779229200,
+    "ended_at_unix": 1779240000,
     "search_volume": 200,
     "score": 200,
     "related_queries": [
-      "謝婷婷"
+      "xiaomi"
     ],
     "category_ids": [
-      4
+      18
     ],
     "entities": [
       {
-        "id": 4607057073,
-        "language": "zh",
+        "id": 4610819759,
+        "language": "en",
         "region": "HK"
       },
       {
-        "id": 4607060591,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "謝婷婷",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "來電顯示",
-    "region": "HK",
-    "started_at_unix": 1779145800,
-    "ended_at_unix": 1779159600,
-    "search_volume": 200,
-    "score": 600,
-    "related_queries": [
-      "來電顯示"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4609735501,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "來電顯示",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "楊何蓓茵",
-    "region": "HK",
-    "started_at_unix": 1779103200,
-    "ended_at_unix": 1779147600,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "楊何蓓茵",
-      "旅行"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4598059725,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4603752572,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4608727319,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4608418013,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4594110039,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4588404508,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4596862611,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4598808786,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4603348250,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4600551470,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4598059725,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "楊何蓓茵",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "羅家英",
-    "region": "HK",
-    "started_at_unix": 1779100200,
-    "ended_at_unix": 1779148800,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "羅家英"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4609153296,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "羅家英",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "人工 智慧",
-    "region": "HK",
-    "started_at_unix": 1779091200,
-    "ended_at_unix": 1779149400,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "人工 智慧"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4571684052,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4598549049,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4601697373,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4598376498,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4611032632,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4607185053,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4600648761,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4610969238,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4596381846,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4610748762,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "人工 智慧",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "张柏芝",
-    "region": "HK",
-    "started_at_unix": 1779096600,
-    "ended_at_unix": 1779153600,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "张柏芝"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4608748044,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4608453991,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4607151459,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4592704518,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "张柏芝",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "小米集團",
-    "region": "HK",
-    "started_at_unix": 1779100200,
-    "ended_at_unix": 1779152400,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "小米集團"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4608071878,
-        "language": "zh",
+        "id": 4598954467,
+        "language": "en",
         "region": "HK"
       },
       {
         "id": 4584785104,
-        "language": "zh",
+        "language": "en",
         "region": "HK"
       },
       {
-        "id": 4598911061,
-        "language": "zh",
+        "id": 4584160999,
+        "language": "en",
         "region": "HK"
       },
       {
-        "id": 4603994792,
-        "language": "zh",
+        "id": 4610823895,
+        "language": "en",
         "region": "HK"
       },
       {
-        "id": 4610247312,
-        "language": "zh",
+        "id": 4598922644,
+        "language": "en",
         "region": "HK"
       },
       {
-        "id": 4593893948,
-        "language": "zh",
+        "id": 4607437047,
+        "language": "en",
         "region": "HK"
       },
       {
-        "id": 4601742203,
-        "language": "zh",
+        "id": 4584757167,
+        "language": "en",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "小米集團",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "xiaomi",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "the weeknd",
+    "keyword": "蔣濛",
     "region": "HK",
-    "started_at_unix": 1779155400,
-    "ended_at_unix": 1779159600,
+    "started_at_unix": 1779203400,
+    "ended_at_unix": 1779255600,
     "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "the weeknd"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4610143701,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4584262844,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4557603464,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "the weeknd",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "香港快运航空",
-    "region": "HK",
-    "started_at_unix": 1779093000,
-    "ended_at_unix": 1779171600,
-    "search_volume": 1000,
     "score": 300,
     "related_queries": [
-      "香港快运航空",
-      "hkexpress",
-      "hk express"
+      "蔣濛"
     ],
     "category_ids": [
-      19
+      9
     ],
     "entities": [
       {
-        "id": 4580129421,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4580129421,
-        "language": "en",
+        "id": 4610287707,
+        "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4589135355,
-        "language": "en",
+        "id": 4610434092,
+        "language": "zh",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "香港快运航空",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "蔣濛",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "spotify",
+    "keyword": "安保工程",
     "region": "HK",
-    "started_at_unix": 1779160800,
-    "ended_at_unix": 1779163200,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "spotify"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4587258230,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4594321532,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4610680073,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4610575589,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4610758306,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4609528278,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4609535557,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4608309530,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4599237336,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4557603464,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "spotify",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "金融",
-    "region": "HK",
-    "started_at_unix": 1779144600,
-    "ended_at_unix": 1779153600,
-    "search_volume": 200,
+    "started_at_unix": 1779188400,
+    "ended_at_unix": 1779244800,
+    "search_volume": 500,
     "score": 500,
     "related_queries": [
-      "金融"
+      "安保工程",
+      "極好有限公司"
     ],
     "category_ids": [
-      3
+      11
     ],
     "entities": [
       {
-        "id": 4608683886,
+        "id": 4589117285,
         "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4604741261,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4611153446,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4600821230,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4583715960,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4605380653,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4610895808,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4601702970,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4598844191,
+        "id": 4586656419,
         "language": "zh",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "金融",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "安保工程",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "譚詠麟 演唱 會 2026",
+    "keyword": "佩普·瓜迪歐拉",
     "region": "HK",
-    "started_at_unix": 1779096600,
-    "ended_at_unix": 1779114600,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "譚詠麟 演唱 會 2026"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4608871861,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "譚詠麟 演唱 會 2026",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "吳偉豪",
-    "region": "HK",
-    "started_at_unix": 1779113400,
-    "ended_at_unix": 1779153600,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "吳偉豪"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4578249159,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "吳偉豪",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "csk vs srh",
-    "region": "HK",
-    "started_at_unix": 1779116400,
-    "ended_at_unix": 1779149400,
+    "started_at_unix": 1779199200,
+    "ended_at_unix": 1779233400,
     "search_volume": 200,
     "score": 400,
     "related_queries": [
-      "csk vs srh"
+      "佩普·瓜迪歐拉"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4604022329,
+        "id": 4593437401,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4612898441,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4606406146,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4609163465,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4606447848,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "佩普·瓜迪歐拉",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "六合彩結果",
+    "region": "HK",
+    "started_at_unix": 1779198600,
+    "ended_at_unix": 1779202200,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "六合彩結果"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4592352772,
+        "language": "ja",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "六合彩結果",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "trip",
+    "region": "HK",
+    "started_at_unix": 1779243000,
+    "ended_at_unix": 1779245400,
+    "search_volume": 200,
+    "score": 75,
+    "related_queries": [
+      "trip"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4609600739,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4610298606,
+        "id": 4598188087,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4611211008,
+        "id": 4604326310,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4603385923,
+        "id": 4613048566,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4609922347,
+        "id": 4613217294,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4589799601,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4604758908,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "csk vs srh",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "trip",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "匿蹤戰機",
+    "region": "HK",
+    "started_at_unix": 1779172200,
+    "ended_at_unix": 1779230400,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "匿蹤戰機"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4609112540,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4607544678,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "匿蹤戰機",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "匯 熙 苑",
+    "region": "HK",
+    "started_at_unix": 1779196800,
+    "ended_at_unix": 1779238800,
+    "search_volume": 100,
+    "score": 200,
+    "related_queries": [
+      "匯 熙 苑"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4600820136,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4608483391,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "匯 熙 苑",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
     "keyword": "court viutv",
     "region": "HK",
-    "started_at_unix": 1779112200,
-    "ended_at_unix": 1779122400,
-    "search_volume": 500,
+    "started_at_unix": 1779198600,
+    "ended_at_unix": 1779205200,
+    "search_volume": 200,
     "score": 1000,
     "related_queries": [
       "court viutv"
@@ -1951,571 +2119,815 @@
       }
     ],
     "normalized_keyword": "court viutv",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "阿仙奴對般尼",
+    "keyword": "入浴劑",
     "region": "HK",
-    "started_at_unix": 1779139800,
-    "ended_at_unix": 1779149400,
-    "search_volume": 100,
-    "score": 300,
+    "started_at_unix": 1779174600,
+    "ended_at_unix": 1779240600,
+    "search_volume": 200,
+    "score": 400,
     "related_queries": [
-      "阿仙奴對般尼"
+      "入浴劑"
+    ],
+    "category_ids": [
+      7
+    ],
+    "entities": [
+      {
+        "id": 4611143968,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "入浴劑",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "修咸頓",
+    "region": "HK",
+    "started_at_unix": 1779233400,
+    "ended_at_unix": 1779238200,
+    "search_volume": 100,
+    "score": 400,
+    "related_queries": [
+      "修咸頓"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4610563455,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4593728314,
+        "id": 4588210689,
         "language": "zh",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "阿仙奴對般尼",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "修咸頓",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "退休",
+    "keyword": "颱風",
     "region": "HK",
-    "started_at_unix": 1779141000,
-    "ended_at_unix": 1779147000,
-    "search_volume": 100,
-    "score": 400,
-    "related_queries": [
-      "退休"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4600640848,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4609051133,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4602843508,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4609196546,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4600660081,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4604635144,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4611068303,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4611162422,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4608833351,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4609401659,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4609660864,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4609233821,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "退休",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "柳州地震",
-    "region": "HK",
-    "started_at_unix": 1779113400,
-    "ended_at_unix": 1779151800,
+    "started_at_unix": 1779201000,
+    "ended_at_unix": 1779207000,
     "search_volume": 200,
-    "score": 300,
+    "score": 1000,
     "related_queries": [
-      "柳州地震"
+      "颱風"
     ],
     "category_ids": [
       20
     ],
     "entities": [
       {
-        "id": 4608072491,
-        "language": "zh",
+        "id": 4585026993,
+        "language": "ja",
         "region": "HK"
       },
       {
-        "id": 4607143011,
-        "language": "zh",
+        "id": 4608917611,
+        "language": "ja",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "柳州地震",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "医院",
-    "region": "HK",
-    "started_at_unix": 1779091200,
-    "ended_at_unix": 1779116400,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "医院"
-    ],
-    "category_ids": [
-      7,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4610974069,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4599678216,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4611086655,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4611068762,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4596705998,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4610802125,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4610650356,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4606472023,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4608813360,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "医院",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "human made pokemon",
-    "region": "HK",
-    "started_at_unix": 1779092400,
-    "ended_at_unix": 1779145200,
-    "search_volume": 100,
-    "score": 300,
-    "related_queries": [
-      "human made pokemon"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4608081652,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "human made pokemon",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "颱風",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
     "keyword": "court",
     "region": "HK",
-    "started_at_unix": 1779112800,
-    "ended_at_unix": 1779117600,
+    "started_at_unix": 1779198600,
+    "ended_at_unix": 1779204600,
     "search_volume": 200,
-    "score": 900,
+    "score": 600,
     "related_queries": [
-      "court"
+      "court",
+      "court!"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4589691733,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4602033516,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4605962028,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4605687569,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612233926,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4602374055,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4613382907,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612592692,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4598656467,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612644440,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4610185857,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4598536590,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4610659052,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "court",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "spurs",
+    "region": "HK",
+    "started_at_unix": 1779224400,
+    "ended_at_unix": 1779233400,
+    "search_volume": 100,
+    "score": 200,
+    "related_queries": [
+      "spurs"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4596586554,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4599324312,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612993359,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612875168,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4582846782,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4586477959,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612981795,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4607023259,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4598933191,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612985999,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4610567915,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "spurs",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "teams",
+    "region": "HK",
+    "started_at_unix": 1779237600,
+    "ended_at_unix": 1779240600,
+    "search_volume": 200,
+    "score": 50,
+    "related_queries": [
+      "teams"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4603808860,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4578738452,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4606024029,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4578786519,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4613335346,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4611788050,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4599769013,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4597027624,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612989629,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4602201178,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612287254,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612592692,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4613245941,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4550619412,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612658185,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4604187332,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612276895,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4588123393,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "teams",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "observatory",
+    "region": "HK",
+    "started_at_unix": 1779231000,
+    "ended_at_unix": 1779235200,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "observatory"
+    ],
+    "category_ids": [
+      8
+    ],
+    "entities": [
+      {
+        "id": 4613383187,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4611352476,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4611454197,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4611066775,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4598933163,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612505358,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612449359,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4570261621,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4520594143,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4570288797,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "observatory",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "nvda",
+    "region": "HK",
+    "started_at_unix": 1779228600,
+    "ended_at_unix": 1779233400,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "nvda",
+      "nvidia stock"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4598656467,
+        "id": 4600549886,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4587548461,
+        "id": 4598250198,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4604385689,
+        "id": 4609449332,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4598739597,
+        "id": 4601818118,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4608854666,
+        "id": 4613518614,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4606053392,
+        "id": 4603503391,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4610134154,
+        "id": 4611752421,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4601415710,
+        "id": 4602099530,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4593967267,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4613514024,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4612787938,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4604223855,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4607514460,
         "language": "en",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "court",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "nvda",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "馬逢國",
+    "keyword": "mytv super",
     "region": "HK",
-    "started_at_unix": 1779097200,
-    "ended_at_unix": 1779108600,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "馬逢國"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4608159649,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "馬逢國",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "別離無恙",
-    "region": "HK",
-    "started_at_unix": 1779102600,
-    "ended_at_unix": 1779114600,
+    "started_at_unix": 1779187800,
+    "ended_at_unix": 1779192000,
     "search_volume": 200,
     "score": 200,
     "related_queries": [
-      "別離無恙"
+      "mytv super"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4602553218,
-        "language": "ja",
+        "id": 4610001404,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4610247251,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4601270692,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4608118919,
+        "language": "en",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "別離無恙",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "mytv super",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "李芷晴",
+    "keyword": "高盛",
     "region": "HK",
-    "started_at_unix": 1779118200,
-    "ended_at_unix": 1779145800,
+    "started_at_unix": 1779195000,
+    "ended_at_unix": 1779200400,
     "search_volume": 100,
-    "score": 300,
+    "score": 400,
     "related_queries": [
-      "李芷晴"
+      "高盛"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4595674010,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4603202706,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4601367600,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4595502684,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4611661884,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4599202872,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "高盛",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "楊思琦伍詠薇電視劇",
+    "region": "HK",
+    "started_at_unix": 1779204600,
+    "ended_at_unix": 1779210000,
+    "search_volume": 100,
+    "score": 200,
+    "related_queries": [
+      "楊思琦伍詠薇電視劇",
+      "伍詠薇楊思琦劇集"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4609769595,
+        "id": 4611550638,
         "language": "zh-TW",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "李芷晴",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "楊思琦伍詠薇電視劇",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "pl",
+    "keyword": "王楚然",
     "region": "HK",
-    "started_at_unix": 1779133200,
-    "ended_at_unix": 1779145800,
+    "started_at_unix": 1779201600,
+    "ended_at_unix": 1779204000,
     "search_volume": 100,
-    "score": 200,
+    "score": 500,
     "related_queries": [
-      "pl"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4582053680,
-        "language": "pl",
-        "region": "HK"
-      },
-      {
-        "id": 4610046195,
-        "language": "pl",
-        "region": "HK"
-      },
-      {
-        "id": 4592821168,
-        "language": "pl",
-        "region": "HK"
-      },
-      {
-        "id": 4580127089,
-        "language": "pl",
-        "region": "HK"
-      },
-      {
-        "id": 4606544995,
-        "language": "pl",
-        "region": "HK"
-      },
-      {
-        "id": 4600667699,
-        "language": "pl",
-        "region": "HK"
-      },
-      {
-        "id": 4594769089,
-        "language": "pl",
-        "region": "HK"
-      },
-      {
-        "id": 4600707685,
-        "language": "pl",
-        "region": "HK"
-      },
-      {
-        "id": 4605294474,
-        "language": "pl",
-        "region": "HK"
-      },
-      {
-        "id": 4556864220,
-        "language": "pl",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "pl",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "藍思科技",
-    "region": "HK",
-    "started_at_unix": 1779103200,
-    "ended_at_unix": 1779107400,
-    "search_volume": 100,
-    "score": 800,
-    "related_queries": [
-      "藍思科技"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4599230809,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4598420659,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4606106845,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4603106032,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4598417082,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4604669247,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "藍思科技",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "牛頭角車禍",
-    "region": "HK",
-    "started_at_unix": 1779120000,
-    "ended_at_unix": 1779121800,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "牛頭角車禍"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4598866132,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "牛頭角車禍",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
-  },
-  {
-    "keyword": "超能路人甲線上看",
-    "region": "HK",
-    "started_at_unix": 1779119400,
-    "ended_at_unix": 1779122400,
-    "search_volume": 100,
-    "score": 300,
-    "related_queries": [
-      "超能路人甲線上看",
-      "車銀優"
+      "王楚然"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4596836480,
-        "language": "ja",
+        "id": 4613395926,
+        "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4596836480,
+        "id": 4613205087,
         "language": "zh",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "超能路人甲線上看",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "王楚然",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   },
   {
-    "keyword": "tvb",
+    "keyword": "0700",
     "region": "HK",
-    "started_at_unix": 1779108600,
-    "ended_at_unix": 1779110400,
-    "search_volume": 200,
-    "score": 75,
+    "started_at_unix": 1779183000,
+    "ended_at_unix": 1779186000,
+    "search_volume": 100,
+    "score": 200,
     "related_queries": [
-      "tvb"
+      "0700"
     ],
     "category_ids": [
-      4,
-      7
+      3
     ],
     "entities": [
       {
-        "id": 4602886554,
-        "language": "zh",
+        "id": 4579900553,
+        "language": "en",
         "region": "HK"
       },
       {
-        "id": 4607772433,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4601166873,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4585908418,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4590902544,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4600573048,
-        "language": "zh",
+        "id": 4599587379,
+        "language": "en",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "tvb",
-    "captured_at": "2026-05-19T06:34:56.477529+00:00"
+    "normalized_keyword": "0700",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "x",
+    "region": "HK",
+    "started_at_unix": 1779215400,
+    "ended_at_unix": 1779216600,
+    "search_volume": 100,
+    "score": 50,
+    "related_queries": [
+      "x"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4601190415,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4597768738,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4610360549,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612924026,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4610588343,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4593010130,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4582204069,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4611795293,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4565961425,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4572606058,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4611454315,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4610531431,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "x",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
+  },
+  {
+    "keyword": "ig",
+    "region": "HK",
+    "started_at_unix": 1779217200,
+    "ended_at_unix": 1779218400,
+    "search_volume": 100,
+    "score": 50,
+    "related_queries": [
+      "ig"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4585899291,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4606677373,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4607454033,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4602212568,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4608357154,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4594425818,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4598379660,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4602482523,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4592958913,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4601629756,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4572734196,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "ig",
+    "captured_at": "2026-05-20T06:34:10.515313+00:00"
   }
 ]

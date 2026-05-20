@@ -1,53 +1,282 @@
 [
   {
-    "keyword": "solar sound festival",
+    "keyword": "poliisi",
     "region": "FI",
-    "started_at_unix": 1779121800,
+    "started_at_unix": 1779190800,
     "ended_at_unix": null,
-    "search_volume": 5000,
+    "search_volume": 20000,
     "score": 1000,
     "related_queries": [
-      "solar sound festival"
+      "poliisi"
     ],
     "category_ids": [
-      4
+      10
     ],
     "entities": [
       {
-        "id": 4609631780,
+        "id": 4611543418,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4596199208,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4609631727,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4604481846,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4609524208,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4613020278,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4612597019,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4609153934,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4612734615,
         "language": "fi",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "solar sound festival",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "poliisi",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "laulaja",
+    "keyword": "duffy",
     "region": "FI",
-    "started_at_unix": 1779087600,
+    "started_at_unix": 1779210000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "duffy"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4609600739,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "duffy",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "helga temonen",
+    "region": "FI",
+    "started_at_unix": 1779190800,
     "ended_at_unix": null,
     "search_volume": 5000,
     "score": 1000,
     "related_queries": [
-      "laulaja"
+      "helga temonen"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4608025951,
+        "id": 4611088993,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "helga temonen",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "lounas",
+    "region": "FI",
+    "started_at_unix": 1779178800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "lounas"
+    ],
+    "category_ids": [
+      5,
+      7
+    ],
+    "entities": [
+      {
+        "id": 4611212794,
         "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4608814562,
+        "id": 4612153098,
         "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4609289077,
+        "id": 4608238359,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4608666071,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "lounas",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "päivi lipponen",
+    "region": "FI",
+    "started_at_unix": 1779252600,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "päivi lipponen",
+      "paavo lipponen"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4613179776,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "paivi lipponen",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "ruotsalaiset",
+    "region": "FI",
+    "started_at_unix": 1779254400,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "ruotsalaiset"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4611543368,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4609696793,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "ruotsalaiset",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "sauli niinistö",
+    "region": "FI",
+    "started_at_unix": 1779184800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 700,
+    "related_queries": [
+      "sauli niinistö"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4604316558,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4599568254,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "sauli niinisto",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "martina aitolehti",
+    "region": "FI",
+    "started_at_unix": 1779256200,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 700,
+    "related_queries": [
+      "martina aitolehti"
+    ],
+    "category_ids": [
+      4,
+      17
+    ],
+    "entities": [
+      {
+        "id": 4613292158,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4612597008,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "martina aitolehti",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "helsingin seudun liikenne",
+    "region": "FI",
+    "started_at_unix": 1779215400,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "helsingin seudun liikenne"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4599713231,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4611614321,
         "language": "fi",
         "region": "FI"
       },
@@ -57,465 +286,86 @@
         "region": "FI"
       },
       {
-        "id": 4584048339,
+        "id": 4602743056,
         "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4603847926,
+        "id": 4609696766,
         "language": "fi",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "laulaja",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "helsingin seudun liikenne",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "markku eestilä",
+    "keyword": "juuso myllyrinne",
     "region": "FI",
-    "started_at_unix": 1779124800,
+    "started_at_unix": 1779255600,
     "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "markku eestilä"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4605248569,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "markku eestila",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "turku ratikka",
-    "region": "FI",
-    "started_at_unix": 1779118200,
-    "ended_at_unix": null,
-    "search_volume": 5000,
+    "search_volume": 100,
     "score": 900,
     "related_queries": [
-      "turku ratikka",
-      "turun ratikka",
-      "turun raitiotie",
-      "turku raitiovaunu",
-      "turun kaupunginvaltuusto",
-      "turku ratikka päätös",
-      "ratikka turku",
-      "turku"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4586281611,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "turku ratikka",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "krimin",
-    "region": "FI",
-    "started_at_unix": 1779130200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "krimin",
-      "ukraina"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4609289068,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4600933109,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609289068,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4600933109,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4611153279,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4603525047,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4610323729,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4581249997,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4605866584,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4608743973,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "krimin",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "löytötex",
-    "region": "FI",
-    "started_at_unix": 1779105000,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "löytötex"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4609569107,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "loytotex",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "sadetutka",
-    "region": "FI",
-    "started_at_unix": 1779154800,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 500,
-    "related_queries": [
-      "sadetutka",
-      "sää",
-      "foreca sää",
-      "sää foreca"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4581613005,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "sadetutka",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "cameron hillis",
-    "region": "FI",
-    "started_at_unix": 1779108600,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "cameron hillis"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4597056400,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "cameron hillis",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "samsung",
-    "region": "FI",
-    "started_at_unix": 1779165600,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "samsung"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4573876775,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4586160502,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4607616125,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4609147469,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4608676428,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4610960167,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4595089094,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4599509879,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4607031921,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4547710421,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4592364611,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4602796284,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "samsung",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "urho vaakanainen",
-    "region": "FI",
-    "started_at_unix": 1779117600,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 900,
-    "related_queries": [
-      "urho vaakanainen"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4610323714,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4607837898,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "urho vaakanainen",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "masterchef suomi",
-    "region": "FI",
-    "started_at_unix": 1779170400,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "masterchef suomi"
+      "juuso myllyrinne"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4611022002,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4596487035,
+        "id": 4613370331,
         "language": "fi",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "masterchef suomi",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "juuso myllyrinne",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "realme",
+    "keyword": "suomalaiset",
     "region": "FI",
-    "started_at_unix": 1779104400,
+    "started_at_unix": 1779246000,
     "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 700,
+    "search_volume": 200,
+    "score": 500,
     "related_queries": [
-      "realme"
+      "suomalaiset"
     ],
     "category_ids": [
-      18
+      11
     ],
     "entities": [
       {
-        "id": 4601514749,
+        "id": 4602185810,
         "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4596576465,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4601211470,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4608754598,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4601048888,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4591805042,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4602344161,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4594543146,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4570942677,
-        "language": "en",
-        "region": "FI"
+        "region": "US"
       }
     ],
-    "normalized_keyword": "realme",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "suomalaiset",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "vesa keskinen",
+    "keyword": "arsenal",
     "region": "FI",
-    "started_at_unix": 1779113400,
-    "ended_at_unix": 1779168000,
+    "started_at_unix": 1779222600,
+    "ended_at_unix": 1779258600,
     "search_volume": 5000,
-    "score": 1000,
+    "score": 800,
     "related_queries": [
-      "vesa keskinen"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4609758534,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "vesa keskinen",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "arsenal – burnley",
-    "region": "FI",
-    "started_at_unix": 1779127800,
-    "ended_at_unix": 1779171600,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "arsenal – burnley",
-      "arsenal vs burnley",
       "arsenal",
-      "premier league"
+      "premier league",
+      "man city",
+      "manchester city",
+      "epl",
+      "bournemouth",
+      "premier league table",
+      "manchester city fc"
     ],
     "category_ids": [
       17
     ],
     "entities": [
-      {
-        "id": 4592204577,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4606477959,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4610618288,
-        "language": "en",
-        "region": "FI"
-      },
       {
         "id": 4607023259,
         "language": "en",
@@ -527,22 +377,112 @@
         "region": "FI"
       },
       {
-        "id": 4603245547,
+        "id": 4612407745,
         "language": "en",
         "region": "FI"
       },
       {
-        "id": 4611020713,
+        "id": 4601493711,
         "language": "en",
         "region": "FI"
       },
       {
-        "id": 4599735512,
+        "id": 4592324777,
         "language": "en",
         "region": "FI"
       },
       {
-        "id": 4610370140,
+        "id": 4516039723,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4562876557,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4552406809,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4606789187,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4595384844,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4611380422,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4592204577,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4606477959,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4600936650,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4610775408,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4612901799,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4612567929,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4610618288,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4594242080,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4607464464,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4610448536,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4606442359,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4599018992,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4552159331,
         "language": "en",
         "region": "FI"
       },
@@ -552,85 +492,394 @@
         "region": "FI"
       },
       {
-        "id": 4610644801,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4596352941,
+        "id": 4563716123,
         "language": "en",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "arsenal – burnley",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "arsenal",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "lenni hämeenaho",
+    "keyword": "nato",
     "region": "FI",
-    "started_at_unix": 1779114600,
-    "ended_at_unix": 1779166200,
-    "search_volume": 20000,
+    "started_at_unix": 1779207000,
+    "ended_at_unix": 1779253800,
+    "search_volume": 2000,
+    "score": 900,
+    "related_queries": [
+      "nato",
+      "viro"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4587742750,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4601956040,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4605902832,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4592710979,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4587742750,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "nato",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "helsinki",
+    "region": "FI",
+    "started_at_unix": 1779208200,
+    "ended_at_unix": 1779256800,
+    "search_volume": 1000,
+    "score": 500,
+    "related_queries": [
+      "helsinki"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4609455430,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4603463722,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4612236057,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4611695179,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4605770370,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4609569150,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4611695201,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "helsinki",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "pankki",
+    "region": "FI",
+    "started_at_unix": 1779200400,
+    "ended_at_unix": 1779243600,
+    "search_volume": 5000,
     "score": 1000,
     "related_queries": [
-      "lenni hämeenaho",
-      "suomi usa jääkiekko",
-      "jääkiekon mm 2026",
-      "justus annunen",
-      "suomen mm jääkiekko 2026",
-      "jääkiekon mm",
-      "jääkiekko mm 2026",
-      "antti pennanen",
-      "mm kisat 2026 jääkiekko",
-      "usa suomi",
-      "sakari manninen",
-      "patrik puistola",
-      "suomi usa 2026",
-      "viaplay",
-      "suomi mm jääkiekko",
-      "annunen",
-      "mikko lehtonen",
-      "usa suomi jääkiekko",
-      "suomi vs usa",
-      "suomi-usa",
-      "ville peltonen",
-      "mm kisat 2026",
-      "suomen pelit",
-      "suomi usa mm jääkiekko",
-      "jääkiekko mm",
-      "suomi usa tilanne"
+      "pankki"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4604761903,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "pankki",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "bournemouth – manchester city",
+    "region": "FI",
+    "started_at_unix": 1779213000,
+    "ended_at_unix": 1779254400,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "bournemouth – manchester city",
+      "chelsea"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4607837898,
+        "id": 4606477959,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4599324312,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4584616122,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4609289089,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4608275923,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4602512634,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4610584856,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4599212549,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4584324121,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4594537540,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4516527590,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4610618288,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4611380422,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4600936650,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4609289103,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4607023259,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "bournemouth – manchester city",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "valioliiga",
+    "region": "FI",
+    "started_at_unix": 1779219000,
+    "ended_at_unix": 1779256200,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "valioliiga"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4611380422,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4612339811,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4609289089,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4609289103,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4589019583,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4612066167,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4596352941,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4592294187,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "valioliiga",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "vladimir putin",
+    "region": "FI",
+    "started_at_unix": 1779192000,
+    "ended_at_unix": 1779250800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "vladimir putin"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4592410302,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4608108793,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4603525047,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4613377489,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "vladimir putin",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "suomen talous",
+    "region": "FI",
+    "started_at_unix": 1779207600,
+    "ended_at_unix": 1779258000,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "suomen talous"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4595231819,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4594442373,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4608666139,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4603525007,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4609918130,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "suomen talous",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "jääkiekko",
+    "region": "FI",
+    "started_at_unix": 1779213000,
+    "ended_at_unix": 1779255600,
+    "search_volume": 2000,
+    "score": 100,
+    "related_queries": [
+      "jääkiekko"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4610434286,
         "language": "fi",
         "region": "FI"
       },
       {
         "id": 4607837898,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4604872772,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4604414768,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4573907910,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4603085981,
         "language": "fi",
         "region": "FI"
       },
@@ -640,27 +889,12 @@
         "region": "FI"
       },
       {
-        "id": 4605959830,
+        "id": 4603085981,
         "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4610690366,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4610690352,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4610221304,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4608954276,
+        "id": 4612066196,
         "language": "fi",
         "region": "FI"
       },
@@ -670,80 +904,223 @@
         "region": "FI"
       },
       {
-        "id": 4573907910,
+        "id": 4613292221,
         "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4608666135,
+        "id": 4612734623,
         "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4608238360,
+        "id": 4613370354,
         "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4592294187,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4610138497,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4582755637,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4595566345,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4604414768,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4606490733,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4606490733,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4604000386,
+        "id": 4597274469,
         "language": "fi",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "lenni hameenaho",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "jaakiekko",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "harry potter",
+    "keyword": "onnettomuus",
     "region": "FI",
-    "started_at_unix": 1779134400,
-    "ended_at_unix": 1779172200,
-    "search_volume": 500,
-    "score": 600,
+    "started_at_unix": 1779190800,
+    "ended_at_unix": 1779253200,
+    "search_volume": 2000,
+    "score": 1000,
     "related_queries": [
-      "harry potter"
+      "onnettomuus"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4609455424,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4591806178,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4611861541,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4610323775,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4609758579,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4603085967,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4610938174,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4608238369,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "onnettomuus",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "kauppalehti",
+    "region": "FI",
+    "started_at_unix": 1779179400,
+    "ended_at_unix": 1779211200,
+    "search_volume": 5000,
+    "score": 200,
+    "related_queries": [
+      "kauppalehti"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4608886514,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4599902210,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "kauppalehti",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "ukkonen",
+    "region": "FI",
+    "started_at_unix": 1779176400,
+    "ended_at_unix": 1779255000,
+    "search_volume": 1000,
+    "score": 900,
+    "related_queries": [
+      "ukkonen"
+    ],
+    "category_ids": [
+      10,
+      7
+    ],
+    "entities": [
+      {
+        "id": 4611781543,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4581613005,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4612523380,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4610938150,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4602999452,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "ukkonen",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "donut lab",
+    "region": "FI",
+    "started_at_unix": 1779176400,
+    "ended_at_unix": 1779223200,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "donut lab"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4610859471,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4564806043,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4538676916,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4552780003,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4525848553,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "donut lab",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "hbo",
+    "region": "FI",
+    "started_at_unix": 1779194400,
+    "ended_at_unix": 1779250200,
+    "search_volume": 2000,
+    "score": 200,
+    "related_queries": [
+      "hbo"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4610171657,
+        "id": 4611450500,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4610138496,
         "language": "en",
         "region": "FI"
       },
@@ -751,469 +1128,697 @@
         "id": 4610138583,
         "language": "en",
         "region": "FI"
-      }
-    ],
-    "normalized_keyword": "harry potter",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "michael burry",
-    "region": "FI",
-    "started_at_unix": 1779093000,
-    "ended_at_unix": 1779132000,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "michael burry"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
+      },
       {
-        "id": 4603288772,
+        "id": 4613179767,
         "language": "en",
         "region": "FI"
       },
       {
-        "id": 4603086031,
+        "id": 4608886433,
         "language": "en",
         "region": "FI"
       },
       {
-        "id": 4589420293,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4609147445,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4585796090,
+        "id": 4608814631,
         "language": "en",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "michael burry",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "hbo",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "weather",
+    "keyword": "wilma heltelä",
     "region": "FI",
-    "started_at_unix": 1779162000,
-    "ended_at_unix": 1779169800,
-    "search_volume": 1000,
-    "score": 50,
-    "related_queries": [
-      "weather"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4581176396,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4611035113,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4592946164,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4611211307,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4598093264,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4607004591,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4592776012,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4592241629,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "weather",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "pottukoira",
-    "region": "FI",
-    "started_at_unix": 1779113400,
-    "ended_at_unix": 1779164400,
+    "started_at_unix": 1779196800,
+    "ended_at_unix": 1779210000,
     "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "pottukoira",
-      "ulosotto"
+      "wilma heltelä"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4609758527,
+        "id": 4604316595,
         "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609758527,
-        "language": "en",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "pottukoira",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "wilma heltela",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "stellantis",
+    "keyword": "mikko vapa",
     "region": "FI",
-    "started_at_unix": 1779128400,
-    "ended_at_unix": 1779172200,
+    "started_at_unix": 1779248400,
+    "ended_at_unix": 1779257400,
     "search_volume": 200,
-    "score": 300,
+    "score": 200,
     "related_queries": [
-      "stellantis"
+      "mikko vapa"
     ],
     "category_ids": [
-      1
+      10
     ],
     "entities": [
       {
-        "id": 4603129961,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4609653683,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4597399899,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4588606464,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4602343845,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4594947459,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4600229878,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4581778746,
-        "language": "en",
-        "region": "US"
+        "id": 4609289073,
+        "language": "fi",
+        "region": "FI"
       }
     ],
-    "normalized_keyword": "stellantis",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "mikko vapa",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "grk",
+    "keyword": "samu adler",
     "region": "FI",
-    "started_at_unix": 1779114000,
-    "ended_at_unix": 1779170400,
+    "started_at_unix": 1779212400,
+    "ended_at_unix": 1779258000,
     "search_volume": 1000,
-    "score": 600,
+    "score": 900,
     "related_queries": [
-      "grk"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4601629756,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4609696743,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4598569000,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "grk",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "a-katsastus group",
-    "region": "FI",
-    "started_at_unix": 1779099600,
-    "ended_at_unix": 1779128400,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "a-katsastus group"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4609395053,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "a-katsastus group",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "kuopion palloseura",
-    "region": "FI",
-    "started_at_unix": 1779120000,
-    "ended_at_unix": 1779167400,
-    "search_volume": 1000,
-    "score": 700,
-    "related_queries": [
-      "kuopion palloseura",
-      "fc lahti – vps"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4592710979,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4606080245,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4606604008,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4597783035,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4604316591,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4605586643,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4607837931,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "kuopion palloseura",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "valio",
-    "region": "FI",
-    "started_at_unix": 1779109800,
-    "ended_at_unix": 1779160200,
-    "search_volume": 1000,
-    "score": 600,
-    "related_queries": [
-      "valio",
-      "valio oulu"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4609631742,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "valio",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "mtv katsomo",
-    "region": "FI",
-    "started_at_unix": 1779114000,
-    "ended_at_unix": 1779120000,
-    "search_volume": 5000,
-    "score": 300,
-    "related_queries": [
-      "mtv katsomo",
-      "katsomo"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4610323734,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4607104000,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4604000386,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "mtv katsomo",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "nhl",
-    "region": "FI",
-    "started_at_unix": 1779157800,
-    "ended_at_unix": 1779163200,
-    "search_volume": 500,
-    "score": 50,
-    "related_queries": [
-      "nhl",
-      "nhl playoffs"
+      "samu adler",
+      "salon vilpas",
+      "vilpas kataja"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4606983471,
-        "language": "en",
+        "id": 4601724264,
+        "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4586167937,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4606393719,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4610138521,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4600514542,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4607837898,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4585639579,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4595204987,
+        "id": 4601724264,
         "language": "en",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "nhl",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "samu adler",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "lotta harala",
+    "keyword": "jake paul",
     "region": "FI",
-    "started_at_unix": 1779113400,
-    "ended_at_unix": 1779151200,
-    "search_volume": 500,
-    "score": 900,
+    "started_at_unix": 1779248400,
+    "ended_at_unix": 1779256200,
+    "search_volume": 100,
+    "score": 500,
     "related_queries": [
-      "lotta harala"
+      "jake paul"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4592025109,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4584159813,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4612597059,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4606837105,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4608689847,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4583633404,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4612303565,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4605529282,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "jake paul",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "jonathan andic",
+    "region": "FI",
+    "started_at_unix": 1779238200,
+    "ended_at_unix": 1779255600,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "jonathan andic"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4611374561,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4611543420,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "jonathan andic",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "chelsea – tottenham",
+    "region": "FI",
+    "started_at_unix": 1779216600,
+    "ended_at_unix": 1779229200,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "chelsea – tottenham",
+      "chelsea vs spurs"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4599324312,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4609289089,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "chelsea – tottenham",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "cristiano ronaldo",
+    "region": "FI",
+    "started_at_unix": 1779209400,
+    "ended_at_unix": 1779254400,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "cristiano ronaldo"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4595307696,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4597265580,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4601034496,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4611993241,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4608417867,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4612238101,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4543410519,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4558598809,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "cristiano ronaldo",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "eurojackpot",
+    "region": "FI",
+    "started_at_unix": 1779217200,
+    "ended_at_unix": 1779250200,
+    "search_volume": 1000,
+    "score": 100,
+    "related_queries": [
+      "eurojackpot"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4604481792,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4603929155,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "eurojackpot",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "ennuste",
+    "region": "FI",
+    "started_at_unix": 1779182400,
+    "ended_at_unix": 1779211200,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "ennuste"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4613179760,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4611212787,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4581613005,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "ennuste",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "pohjalainen",
+    "region": "FI",
+    "started_at_unix": 1779185400,
+    "ended_at_unix": 1779250800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "pohjalainen"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4609112709,
+        "id": 4611695216,
         "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4606303787,
+        "id": 4586830943,
         "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4608814607,
+        "id": 4602185784,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4611861548,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4611695225,
         "language": "fi",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "lotta harala",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "pohjalainen",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "mari rantanen",
+    "keyword": "peter jackson",
     "region": "FI",
-    "started_at_unix": 1779127200,
-    "ended_at_unix": 1779166800,
+    "started_at_unix": 1779176400,
+    "ended_at_unix": 1779213600,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "peter jackson"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4600196574,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4598974172,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4606755737,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4610323742,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4599447967,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4604022884,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "peter jackson",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "bournemouth vs man city",
+    "region": "FI",
+    "started_at_unix": 1779214200,
+    "ended_at_unix": 1779228600,
     "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "mari rantanen",
-      "112 sovellus"
+      "bournemouth vs man city"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4600936650,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4607023259,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4610618288,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "bournemouth vs man city",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "atte tolvanen",
+    "region": "FI",
+    "started_at_unix": 1779204000,
+    "ended_at_unix": 1779226800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "atte tolvanen"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4608360176,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "atte tolvanen",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "kari kajala",
+    "region": "FI",
+    "started_at_unix": 1779199200,
+    "ended_at_unix": 1779253200,
+    "search_volume": 200,
+    "score": 700,
+    "related_queries": [
+      "kari kajala"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4611925362,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "kari kajala",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "kari salmelainen",
+    "region": "FI",
+    "started_at_unix": 1779183000,
+    "ended_at_unix": 1779207600,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "kari salmelainen"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4607479666,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "kari salmelainen",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "marika fingerroos",
+    "region": "FI",
+    "started_at_unix": 1779187200,
+    "ended_at_unix": 1779208800,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "marika fingerroos"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4602185784,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "marika fingerroos",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "dylan fabre",
+    "region": "FI",
+    "started_at_unix": 1779186600,
+    "ended_at_unix": 1779205800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "dylan fabre"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4611543328,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "dylan fabre",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "konsta helenius",
+    "region": "FI",
+    "started_at_unix": 1779208200,
+    "ended_at_unix": 1779214800,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "konsta helenius",
+      "sami päivärinta"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4599568268,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4611543394,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4586167937,
+        "language": "fi",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "konsta helenius",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "suomen pelit mm 2026",
+    "region": "FI",
+    "started_at_unix": 1779197400,
+    "ended_at_unix": 1779208800,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "suomen pelit mm 2026"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4604885184,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4607837898,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "suomen pelit mm 2026",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "andy allen",
+    "region": "FI",
+    "started_at_unix": 1779212400,
+    "ended_at_unix": 1779219600,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "andy allen"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4611022002,
+        "language": "en",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "andy allen",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "kaan kairinen",
+    "region": "FI",
+    "started_at_unix": 1779198600,
+    "ended_at_unix": 1779209400,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "kaan kairinen"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4612734647,
+        "language": "tr",
+        "region": "FI"
+      },
+      {
+        "id": 4595063732,
+        "language": "tr",
+        "region": "FI"
+      }
+    ],
+    "normalized_keyword": "kaan kairinen",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
+  },
+  {
+    "keyword": "heikki autto",
+    "region": "FI",
+    "started_at_unix": 1779214200,
+    "ended_at_unix": 1779219000,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "heikki autto"
     ],
     "category_ids": [
       11
@@ -1225,55 +1830,22 @@
         "region": "FI"
       }
     ],
-    "normalized_keyword": "mari rantanen",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "heikki autto",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "mtv3",
+    "keyword": "ksml",
     "region": "FI",
-    "started_at_unix": 1779114600,
-    "ended_at_unix": 1779121200,
-    "search_volume": 2000,
-    "score": 200,
+    "started_at_unix": 1779240600,
+    "ended_at_unix": 1779249600,
+    "search_volume": 100,
+    "score": 75,
     "related_queries": [
-      "mtv3",
-      "mtv 3"
+      "ksml",
+      "karhu jyväskylä"
     ],
     "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4610859438,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4590748454,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4550694825,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "mtv3",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "muurame karhu",
-    "region": "FI",
-    "started_at_unix": 1779106200,
-    "ended_at_unix": 1779119400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "muurame karhu"
-    ],
-    "category_ids": [
-      11
+      10
     ],
     "entities": [
       {
@@ -1282,767 +1854,111 @@
         "region": "FI"
       }
     ],
-    "normalized_keyword": "muurame karhu",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "ksml",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "rachel campos-duffy",
+    "keyword": "asuminen",
     "region": "FI",
-    "started_at_unix": 1779147600,
-    "ended_at_unix": 1779164400,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "rachel campos-duffy"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4608031261,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4593099998,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4589799601,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "rachel campos-duffy",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "silta",
-    "region": "FI",
-    "started_at_unix": 1779111000,
-    "ended_at_unix": 1779129000,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "silta"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4606879145,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4610138540,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4608886506,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609524120,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4592710979,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609051398,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "silta",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "elisa viihde",
-    "region": "FI",
-    "started_at_unix": 1779113400,
-    "ended_at_unix": 1779120600,
-    "search_volume": 500,
+    "started_at_unix": 1779172800,
+    "ended_at_unix": 1779183600,
+    "search_volume": 200,
     "score": 400,
     "related_queries": [
-      "elisa viihde"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4609051368,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4590748454,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "elisa viihde",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "usa mm joukkue 2026",
-    "region": "FI",
-    "started_at_unix": 1779115800,
-    "ended_at_unix": 1779124800,
-    "search_volume": 500,
-    "score": 900,
-    "related_queries": [
-      "usa mm joukkue 2026",
-      "olli jokinen"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4599568268,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4610221224,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4607837898,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4601956103,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "usa mm joukkue 2026",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "yleistuki",
-    "region": "FI",
-    "started_at_unix": 1779147600,
-    "ended_at_unix": 1779165600,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "yleistuki"
+      "asuminen"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4609395101,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "yleistuki",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "shona manderson",
-    "region": "FI",
-    "started_at_unix": 1779136800,
-    "ended_at_unix": 1779169200,
-    "search_volume": 100,
-    "score": 300,
-    "related_queries": [
-      "shona manderson"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4609528198,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "shona manderson",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "wiktor nilsson",
-    "region": "FI",
-    "started_at_unix": 1779096600,
-    "ended_at_unix": 1779110400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "wiktor nilsson",
-      "oulun kärpät"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4597274469,
+        "id": 4611089008,
         "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4609112712,
+        "id": 4611614306,
         "language": "fi",
         "region": "FI"
       },
       {
-        "id": 4610690352,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4596606648,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4597274469,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4609986081,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "wiktor nilsson",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "joseph woll",
-    "region": "FI",
-    "started_at_unix": 1779117000,
-    "ended_at_unix": 1779122400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "joseph woll"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4608388214,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4607837898,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "joseph woll",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "henri nikkanen",
-    "region": "FI",
-    "started_at_unix": 1779098400,
-    "ended_at_unix": 1779117600,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "henri nikkanen"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4609112712,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4574084665,
+        "id": 4603682528,
         "language": "fi",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "henri nikkanen",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "asuminen",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "ssab",
+    "keyword": "ukko-pekka luukkonen",
     "region": "FI",
-    "started_at_unix": 1779110400,
-    "ended_at_unix": 1779121200,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "ssab"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4609353946,
-        "language": "sv",
-        "region": "FI"
-      },
-      {
-        "id": 4609501013,
-        "language": "sv",
-        "region": "FI"
-      },
-      {
-        "id": 4563556235,
-        "language": "sv",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "ssab",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "valioliiga",
-    "region": "FI",
-    "started_at_unix": 1779158400,
-    "ended_at_unix": 1779162000,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "valioliiga"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4596352941,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4610859475,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609289103,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4602185791,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4565387204,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4592294187,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609986159,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4607660184,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4607837854,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609289089,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "valioliiga",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "aatu räty",
-    "region": "FI",
-    "started_at_unix": 1779115800,
-    "ended_at_unix": 1779120000,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "aatu räty"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4595409642,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "aatu raty",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "iihf 2026",
-    "region": "FI",
-    "started_at_unix": 1779119400,
-    "ended_at_unix": 1779125400,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "iihf 2026",
-      "ice hockey world championship 2026"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4608117716,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4603240875,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4574644546,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4608792391,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4606717804,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4587749105,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "iihf 2026",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "neymar",
-    "region": "FI",
-    "started_at_unix": 1779140400,
-    "ended_at_unix": 1779165000,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "neymar"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4587729527,
-        "language": "es",
-        "region": "FI"
-      },
-      {
-        "id": 4610666732,
-        "language": "es",
-        "region": "FI"
-      },
-      {
-        "id": 4608027320,
-        "language": "es",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "neymar",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "barkov",
-    "region": "FI",
-    "started_at_unix": 1779121800,
-    "ended_at_unix": 1779126000,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "barkov"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4608238354,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4610047732,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4610047674,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4605866607,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4607837898,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4602361462,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4610323734,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "barkov",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "jääkiekon mm otteluohjelma",
-    "region": "FI",
-    "started_at_unix": 1779120600,
-    "ended_at_unix": 1779126600,
+    "started_at_unix": 1779179400,
+    "ended_at_unix": 1779188400,
     "search_volume": 200,
     "score": 600,
     "related_queries": [
-      "jääkiekon mm otteluohjelma",
-      "mm otteluohjelma"
+      "ukko-pekka luukkonen"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4573907910,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4573907910,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "jaakiekon mm otteluohjelma",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "lamine yamal",
-    "region": "FI",
-    "started_at_unix": 1779123600,
-    "ended_at_unix": 1779129600,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "lamine yamal"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4604256936,
+        "id": 4586167937,
         "language": "en",
         "region": "FI"
       },
       {
-        "id": 4609939270,
+        "id": 4597699025,
         "language": "en",
         "region": "FI"
       },
       {
-        "id": 4594834427,
+        "id": 4612135251,
         "language": "en",
         "region": "FI"
       },
       {
-        "id": 4609350740,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4593807360,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4609032009,
+        "id": 4612129623,
         "language": "en",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "lamine yamal",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "ukko-pekka luukkonen",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "pep guardiola",
+    "keyword": "sigourney weaver",
     "region": "FI",
-    "started_at_unix": 1779137400,
-    "ended_at_unix": 1779144600,
+    "started_at_unix": 1779218400,
+    "ended_at_unix": 1779222000,
     "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "pep guardiola"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4601688024,
-        "language": "es",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "pep guardiola",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "savon sanomat",
-    "region": "FI",
-    "started_at_unix": 1779160800,
-    "ended_at_unix": 1779163200,
-    "search_volume": 100,
-    "score": 50,
-    "related_queries": [
-      "savon sanomat"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4600638108,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609918091,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "savon sanomat",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "radio city",
-    "region": "FI",
-    "started_at_unix": 1779115200,
-    "ended_at_unix": 1779121200,
-    "search_volume": 200,
     "score": 700,
     "related_queries": [
-      "radio city"
+      "sigourney weaver"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4609775220,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "radio city",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "sotaharjoitus",
-    "region": "FI",
-    "started_at_unix": 1779124200,
-    "ended_at_unix": 1779136200,
-    "search_volume": 100,
-    "score": 700,
-    "related_queries": [
-      "sotaharjoitus"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4609228386,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4589499500,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "sotaharjoitus",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "mtv",
-    "region": "FI",
-    "started_at_unix": 1779115800,
-    "ended_at_unix": 1779118200,
-    "search_volume": 500,
-    "score": 300,
-    "related_queries": [
-      "mtv"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4609228396,
+        "id": 4597287935,
         "language": "en",
         "region": "FI"
       },
       {
-        "id": 4609837070,
+        "id": 4599442022,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4599356040,
+        "language": "en",
+        "region": "FI"
+      },
+      {
+        "id": 4609751765,
         "language": "en",
         "region": "FI"
       },
@@ -2052,311 +1968,86 @@
         "region": "FI"
       },
       {
-        "id": 4600174285,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4608238319,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4590748454,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4607837898,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4599568268,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4604000386,
+        "id": 4604943943,
         "language": "en",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "mtv",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "sigourney weaver",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "anton lundell",
+    "keyword": "erna husko",
     "region": "FI",
-    "started_at_unix": 1779121800,
-    "ended_at_unix": 1779125400,
+    "started_at_unix": 1779174600,
+    "ended_at_unix": 1779181200,
     "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "anton lundell"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4603085981,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4607837898,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4602361462,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4603240875,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "anton lundell",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "hannes björninen",
-    "region": "FI",
-    "started_at_unix": 1779120000,
-    "ended_at_unix": 1779124200,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "hannes björninen"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4608666122,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4599568268,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "hannes bjorninen",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "jyväskylä",
-    "region": "FI",
-    "started_at_unix": 1779116400,
-    "ended_at_unix": 1779120000,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "jyväskylä"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4609758542,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4610690288,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4608954348,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609395027,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609153934,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4610938126,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4607002522,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609003684,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "jyvaskyla",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "alexander barkov",
-    "region": "FI",
-    "started_at_unix": 1779122400,
-    "ended_at_unix": 1779126000,
-    "search_volume": 100,
-    "score": 900,
-    "related_queries": [
-      "alexander barkov"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4604000386,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4608238354,
-        "language": "en",
-        "region": "FI"
-      },
-      {
-        "id": 4602361462,
-        "language": "en",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "alexander barkov",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "jesse joensuu",
-    "region": "FI",
-    "started_at_unix": 1779120000,
-    "ended_at_unix": 1779124200,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "jesse joensuu"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4600083106,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4605959830,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4608025959,
-        "language": "fi",
-        "region": "FI"
-      }
-    ],
-    "normalized_keyword": "jesse joensuu",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
-  },
-  {
-    "keyword": "lauri salovaara",
-    "region": "FI",
-    "started_at_unix": 1779126000,
-    "ended_at_unix": 1779129000,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "lauri salovaara"
+      "erna husko"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4609837072,
+        "id": 4610859482,
         "language": "fi",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "lauri salovaara",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "erna husko",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "malediivit",
+    "keyword": "teknologia",
     "region": "FI",
-    "started_at_unix": 1779106800,
-    "ended_at_unix": 1779111000,
+    "started_at_unix": 1779183000,
+    "ended_at_unix": 1779185400,
     "search_volume": 100,
-    "score": 400,
+    "score": 900,
     "related_queries": [
-      "malediivit"
+      "teknologia"
     ],
     "category_ids": [
-      11
+      18
     ],
     "entities": [
       {
-        "id": 4602185810,
+        "id": 4605159233,
+        "language": "fi",
+        "region": "FI"
+      },
+      {
+        "id": 4611153283,
         "language": "fi",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "malediivit",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "teknologia",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   },
   {
-    "keyword": "rauma",
+    "keyword": "woodio",
     "region": "FI",
-    "started_at_unix": 1779095400,
-    "ended_at_unix": 1779099600,
+    "started_at_unix": 1779203400,
+    "ended_at_unix": 1779204600,
     "search_volume": 100,
-    "score": 600,
+    "score": 500,
     "related_queries": [
-      "rauma"
+      "woodio"
     ],
     "category_ids": [
-      10
+      3
     ],
     "entities": [
       {
-        "id": 4606303758,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609051409,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4609228359,
-        "language": "fi",
-        "region": "FI"
-      },
-      {
-        "id": 4599568239,
+        "id": 4603524990,
         "language": "fi",
         "region": "FI"
       }
     ],
-    "normalized_keyword": "rauma",
-    "captured_at": "2026-05-19T06:31:52.035710+00:00"
+    "normalized_keyword": "woodio",
+    "captured_at": "2026-05-20T06:30:56.684892+00:00"
   }
 ]
