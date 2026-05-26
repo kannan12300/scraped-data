@@ -1,43 +1,381 @@
 [
   {
-    "keyword": "schweiz",
+    "keyword": "zug",
     "region": "CH",
-    "started_at_unix": 1779645000,
+    "started_at_unix": 1779699000,
     "ended_at_unix": null,
-    "search_volume": 5000,
+    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "schweiz"
+      "zug"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4614309720,
+        "id": 4616057970,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4621065574,
+        "id": 4624617850,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4623514285,
+        "id": 4620316872,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4619360337,
+        "id": 4624373678,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4622184786,
+        "id": 4624581120,
         "language": "de",
         "region": "CH"
       },
+      {
+        "id": 4622032548,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4623344523,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4624660120,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "zug",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "ferrari luce",
+    "region": "CH",
+    "started_at_unix": 1779739800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "ferrari luce"
+    ],
+    "category_ids": [
+      1
+    ],
+    "entities": [
+      {
+        "id": 4601633815,
+        "language": "it",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "ferrari luce",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "radfahrer",
+    "region": "CH",
+    "started_at_unix": 1779712200,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "radfahrer"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4625416975,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4624838693,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4625538525,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4623743557,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4622008384,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4624010696,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4624604288,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4623409882,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "radfahrer",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "hitzewelle",
+    "region": "CH",
+    "started_at_unix": 1779709200,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "hitzewelle"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4609604693,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4599034151,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4618900250,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4594795163,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4612664510,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4624613641,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "hitzewelle",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "urlaub",
+    "region": "CH",
+    "started_at_unix": 1779751800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "urlaub"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4609709095,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4625276291,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4625462416,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4619014479,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4621981050,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4615239258,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4614452071,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4610852987,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4615765456,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "urlaub",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "sennwald",
+    "region": "CH",
+    "started_at_unix": 1779733800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "sennwald"
+    ],
+    "category_ids": [
+      10,
+      1
+    ],
+    "entities": [
+      {
+        "id": 4624581057,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "sennwald",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "pierre deny",
+    "region": "CH",
+    "started_at_unix": 1779733200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "pierre deny"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4624591837,
+        "language": "fr",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "pierre deny",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "paderborn",
+    "region": "CH",
+    "started_at_unix": 1779735600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "paderborn",
+      "vfl wolfsburg",
+      "sc paderborn – wolfsburg",
+      "paderborn wolfsburg",
+      "wolfsburg",
+      "relegation bundesliga",
+      "wolfsburg paderborn",
+      "sc paderborn"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4601896875,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4625416957,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4625381376,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4625326053,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4622858201,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4612126245,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4577274933,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4619700760,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "paderborn",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "eishockey-weltmeisterschaft",
+    "region": "CH",
+    "started_at_unix": 1779738000,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 700,
+    "related_queries": [
+      "eishockey-weltmeisterschaft",
+      "eishockey"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
       {
         "id": 4613309030,
         "language": "de",
@@ -49,22 +387,32 @@
         "region": "CH"
       },
       {
-        "id": 4618148294,
+        "id": 4624334604,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4596869531,
+        "id": 4621353430,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4620416798,
+        "id": 4604492706,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4612806331,
+        "id": 4624387471,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4622889902,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4607594740,
         "language": "de",
         "region": "CH"
       },
@@ -74,440 +422,64 @@
         "region": "CH"
       },
       {
-        "id": 4620273142,
+        "id": 4617907048,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4623058980,
+        "id": 4620930419,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4621850757,
+        "id": 4624856935,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4622406111,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4559585396,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4597557988,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4543450904,
+        "id": 4615960965,
         "language": "de",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "schweiz",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "eishockey-weltmeisterschaft",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "novak djokovic",
+    "keyword": "armon orlik",
     "region": "CH",
-    "started_at_unix": 1779647400,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "novak djokovic",
-      "djokovic",
-      "tennis",
-      "giovanni mpetshi perricard"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4607523983,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4612813203,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623305315,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623146292,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623246712,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623296603,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4607523983,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4612154022,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4616839732,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623224786,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623225095,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4607673978,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4617876026,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4618091344,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "novak djokovic",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "mähen",
-    "region": "CH",
-    "started_at_unix": 1779642600,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "mähen"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4614605939,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4599459176,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4616298595,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4616169525,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "mahen",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "matthias hüppi",
-    "region": "CH",
-    "started_at_unix": 1779628200,
-    "ended_at_unix": null,
-    "search_volume": 20000,
-    "score": 900,
-    "related_queries": [
-      "matthias hüppi",
-      "stade-lausanne – st. gallen",
-      "fc st gallen",
-      "st gallen cupfinal",
-      "schweizer cup",
-      "st gallen fc",
-      "fcsg cupfinal",
-      "st gallen",
-      "fcsg",
-      "cupfinal schweiz",
-      "fc sg",
-      "lukas görtler",
-      "fc st. gallen",
-      "wankdorf stadion",
-      "st gallen lausanne",
-      "fc st.gallen",
-      "cup final schweiz",
-      "st. gallen",
-      "cupfinal st gallen"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4610703451,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4623029694,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4615001667,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4618148294,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "matthias huppi",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "byd",
-    "region": "CH",
-    "started_at_unix": 1779652800,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 300,
-    "related_queries": [
-      "byd"
-    ],
-    "category_ids": [
-      1
-    ],
-    "entities": [
-      {
-        "id": 4613716270,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622471684,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4597937893,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4615994320,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4609085230,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622868031,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4598733898,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4603578001,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4596571838,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "byd",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "kimi antonelli",
-    "region": "CH",
-    "started_at_unix": 1779655200,
+    "started_at_unix": 1779724200,
     "ended_at_unix": null,
     "search_volume": 2000,
-    "score": 1000,
+    "score": 900,
     "related_queries": [
-      "kimi antonelli",
-      "formula 1",
-      "f1 standings",
-      "f1 canada",
-      "f1 kanada"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4623042044,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4579179172,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623554278,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623363136,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4611587887,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4619890105,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623162828,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4606481419,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4620594320,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622350711,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622625499,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622867932,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623214652,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4572362960,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "kimi antonelli",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "byd schweiz",
-    "region": "CH",
-    "started_at_unix": 1779651000,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "byd schweiz"
-    ],
-    "category_ids": [
-      1
-    ],
-    "entities": [
-      {
-        "id": 4611996202,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "byd schweiz",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "luzerner kantonales schwingfest 2026",
-    "region": "CH",
-    "started_at_unix": 1779687000,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "luzerner kantonales schwingfest 2026",
-      "schwingfest ruswil"
+      "armon orlik"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4600799036,
+        "id": 4623615690,
         "language": "de",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "luzerner kantonales schwingfest 2026",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "armon orlik",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "stan wawrinka",
+    "keyword": "monfils",
     "region": "CH",
-    "started_at_unix": 1779685800,
+    "started_at_unix": 1779736200,
     "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 500,
+    "search_volume": 2000,
+    "score": 900,
     "related_queries": [
-      "stan wawrinka"
+      "monfils",
+      "gael monfils",
+      "gaël monfils",
+      "hugo gaston"
     ],
     "category_ids": [
       17
@@ -515,6 +487,11 @@
     "entities": [
       {
         "id": 4618091344,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4621501623,
         "language": "en",
         "region": "CH"
       },
@@ -522,843 +499,313 @@
         "id": 4622675650,
         "language": "en",
         "region": "CH"
-      },
-      {
-        "id": 4614044517,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4617253504,
-        "language": "en",
-        "region": "CH"
       }
     ],
-    "normalized_keyword": "stan wawrinka",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "monfils",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "french open",
+    "keyword": "multa",
     "region": "CH",
-    "started_at_unix": 1779619800,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 300,
-    "related_queries": [
-      "french open",
-      "nishesh basavareddy"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4617876026,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4607523983,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623010671,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623224786,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4616839732,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623176338,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4619155141,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4600472534,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4620252378,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4619733675,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4613441481,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4577576360,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "french open",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "villarreal – atlético madrid",
-    "region": "CH",
-    "started_at_unix": 1779646800,
-    "ended_at_unix": 1779691800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "villarreal – atlético madrid",
-      "villarreal - atlético madrid",
-      "villarreal vs atlético madrid"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4600212871,
-        "language": "es",
-        "region": "CH"
-      },
-      {
-        "id": 4623081280,
-        "language": "es",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "villarreal – atletico madrid",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "aéroport international de genève",
-    "region": "CH",
-    "started_at_unix": 1779687000,
+    "started_at_unix": 1779774600,
     "ended_at_unix": null,
     "search_volume": 100,
-    "score": 300,
+    "score": 800,
     "related_queries": [
-      "aéroport international de genève"
-    ],
-    "category_ids": [
-      19,
-      3
-    ],
-    "entities": [
-      {
-        "id": 4611509405,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4599948113,
-        "language": "fr",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "aeroport international de geneve",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "serie a",
-    "region": "CH",
-    "started_at_unix": 1779651000,
-    "ended_at_unix": 1779678600,
-    "search_volume": 5000,
-    "score": 100,
-    "related_queries": [
-      "serie a",
-      "classifica serie a",
-      "classifica di serie a",
-      "cremonese - como",
-      "classifica di ac milan - cagliari calcio",
-      "cremonese – como"
+      "multa"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4598564638,
-        "language": "it",
+        "id": 4621691237,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4614128552,
-        "language": "it",
+        "id": 4610987820,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4610239875,
-        "language": "it",
+        "id": 4625178128,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4610149010,
-        "language": "it",
+        "id": 4624893087,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4622732127,
-        "language": "it",
+        "id": 4625182018,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4612946392,
-        "language": "it",
+        "id": 4615361401,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4594423291,
-        "language": "it",
+        "id": 4625178150,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4606010853,
-        "language": "it",
+        "id": 4619434718,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4623513830,
-        "language": "it",
+        "id": 4615956891,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4607964760,
-        "language": "it",
+        "id": 4624726667,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4616838173,
-        "language": "it",
+        "id": 4622972629,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4620999270,
-        "language": "it",
+        "id": 4608598306,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4622423766,
-        "language": "it",
+        "id": 4624711614,
+        "language": "pt",
         "region": "CH"
       },
       {
-        "id": 4620680317,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4607795397,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4615610266,
-        "language": "it",
+        "id": 4598160127,
+        "language": "pt",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "serie a",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "multa",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "torino - juventus",
+    "keyword": "marco odermatt",
     "region": "CH",
-    "started_at_unix": 1779646800,
-    "ended_at_unix": 1779690000,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "torino - juventus",
-      "juventus",
-      "torino juventus",
-      "juve",
-      "torino juve",
-      "juve torino"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4606010853,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4598564638,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4623601239,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4607803504,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4595227656,
-        "language": "it",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "torino - juventus",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "roland garros",
-    "region": "CH",
-    "started_at_unix": 1779607200,
-    "ended_at_unix": 1779687000,
-    "search_volume": 2000,
-    "score": 100,
-    "related_queries": [
-      "roland garros"
-    ],
-    "category_ids": [
-      17,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4602911380,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4612341214,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4599509355,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4622792315,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4619713991,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4622865604,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4607125264,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4599321023,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4619949007,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4609128031,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4616892728,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4623618915,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4620561589,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4619967771,
-        "language": "fr",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "roland garros",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "sporting - torreense",
-    "region": "CH",
-    "started_at_unix": 1779637800,
-    "ended_at_unix": 1779683400,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "sporting - torreense",
-      "sporting – sport clube união torreense",
-      "sporting",
-      "taça de portugal"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4611749027,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4614486979,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4622753596,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4623009997,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4606795568,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4602722760,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4623613915,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4615133385,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4622393232,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4600654583,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4622793846,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4623011990,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4617052789,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4611749027,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622917288,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "sporting - torreense",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "inter miami – philadelphia",
-    "region": "CH",
-    "started_at_unix": 1779679200,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "inter miami – philadelphia",
-      "inter miami"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4602873407,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4619715585,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4589692096,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4617625204,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4610567915,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "inter miami – philadelphia",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "lewis hamilton",
-    "region": "CH",
-    "started_at_unix": 1779658200,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "lewis hamilton",
-      "max verstappen"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4623185288,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4609751635,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623042044,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4621307083,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4615709239,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623160523,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622214449,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623363136,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622867932,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4616492954,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4619978333,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4611587887,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4620655702,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4579146263,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "lewis hamilton",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "neil armstrong",
-    "region": "CH",
-    "started_at_unix": 1779655200,
-    "ended_at_unix": 1779667800,
+    "started_at_unix": 1779714600,
+    "ended_at_unix": 1779775200,
     "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "neil armstrong"
+      "marco odermatt"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4617493157,
+        "id": 4618148294,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4576167692,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "marco odermatt",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "sonny rollins",
+    "region": "CH",
+    "started_at_unix": 1779775800,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 500,
+    "related_queries": [
+      "sonny rollins"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4607000393,
         "language": "en",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "neil armstrong",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "sonny rollins",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "football club sion",
+    "keyword": "marwin hitz",
     "region": "CH",
-    "started_at_unix": 1779650400,
+    "started_at_unix": 1779734400,
+    "ended_at_unix": 1779775200,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "marwin hitz",
+      "tagblatt"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4624569509,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4610703451,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4612197048,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "marwin hitz",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "droit de douane",
+    "region": "CH",
+    "started_at_unix": 1779723000,
     "ended_at_unix": null,
     "search_volume": 200,
-    "score": 300,
+    "score": 400,
     "related_queries": [
-      "football club sion"
+      "droit de douane"
     ],
     "category_ids": [
-      17
+      3,
+      5
     ],
     "entities": [
       {
-        "id": 4599830904,
-        "language": "en",
+        "id": 4607559058,
+        "language": "fr",
         "region": "CH"
       },
       {
-        "id": 4622780753,
-        "language": "en",
+        "id": 4606576558,
+        "language": "fr",
         "region": "CH"
       },
       {
-        "id": 4616372781,
-        "language": "en",
+        "id": 4616189186,
+        "language": "fr",
         "region": "CH"
       },
       {
-        "id": 4596517328,
-        "language": "en",
+        "id": 4595047592,
+        "language": "fr",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "football club sion",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "droit de douane",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "milan – cagliari",
+    "keyword": "ferrari",
     "region": "CH",
-    "started_at_unix": 1779647400,
-    "ended_at_unix": 1779685800,
-    "search_volume": 2000,
-    "score": 1000,
+    "started_at_unix": 1779744000,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 400,
     "related_queries": [
-      "milan – cagliari",
-      "milan - cagliari",
-      "milan cagliari"
+      "ferrari"
     ],
     "category_ids": [
-      17
+      1
     ],
     "entities": [
       {
-        "id": 4614128552,
-        "language": "it",
-        "region": "CH"
+        "id": 4604442228,
+        "language": "en",
+        "region": "US"
       },
       {
-        "id": 4598564638,
-        "language": "it",
-        "region": "CH"
+        "id": 4623185288,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4618732887,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4576740782,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4563020329,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4525859281,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4604251106,
+        "language": "en",
+        "region": "US"
       }
     ],
-    "normalized_keyword": "milan – cagliari",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "ferrari",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "spurs – thunder",
+    "keyword": "cavaliers – knicks",
     "region": "CH",
-    "started_at_unix": 1779679800,
-    "ended_at_unix": 1779691200,
-    "search_volume": 500,
-    "score": 700,
+    "started_at_unix": 1779769200,
+    "ended_at_unix": 1779775800,
+    "search_volume": 200,
+    "score": 600,
     "related_queries": [
-      "spurs – thunder",
-      "nba",
-      "nba playoffs",
-      "spurs"
+      "cavaliers – knicks",
+      "nba playoffs"
     ],
     "category_ids": [
       17
     ],
     "entities": [
-      {
-        "id": 4620579112,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4619508748,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4596586554,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4608171598,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4582676103,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623408302,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4612920784,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622987768,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4616074353,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4612981795,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4620805619,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4620153631,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4616912626,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4620378673,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4609459225,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4610312187,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623323823,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623571038,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4582918177,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623459478,
-        "language": "en",
-        "region": "CH"
-      },
       {
         "id": 4597768738,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4610459381,
+        "id": 4625444033,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4622256952,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4614461432,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4625109753,
         "language": "en",
         "region": "CH"
       },
@@ -1368,106 +815,413 @@
         "region": "CH"
       },
       {
-        "id": 4623217659,
+        "id": 4618669114,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4613449880,
+        "id": 4596586554,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4618899260,
+        "id": 4619242368,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4613669901,
+        "id": 4625383648,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4620579112,
         "language": "en",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "spurs – thunder",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "cavaliers – knicks",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "sunderland",
+    "keyword": "jan cadieux",
     "region": "CH",
-    "started_at_unix": 1779643800,
-    "ended_at_unix": 1779691800,
-    "search_volume": 2000,
-    "score": 700,
+    "started_at_unix": 1779768000,
+    "ended_at_unix": 1779775800,
+    "search_volume": 200,
+    "score": 400,
     "related_queries": [
-      "sunderland",
-      "sunderland – chelsea",
-      "granit xhaka",
-      "sunderland vs chelsea"
+      "jan cadieux"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4602512634,
-        "language": "en",
+        "id": 4620179190,
+        "language": "fr",
         "region": "CH"
       },
       {
-        "id": 4622987768,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623066014,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4579112952,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4608275923,
-        "language": "en",
+        "id": 4622615803,
+        "language": "fr",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "sunderland",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "jan cadieux",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "zürich",
+    "keyword": "appenzell ausserrhoden",
     "region": "CH",
-    "started_at_unix": 1779625200,
-    "ended_at_unix": 1779654000,
-    "search_volume": 2000,
-    "score": 600,
+    "started_at_unix": 1779720600,
+    "ended_at_unix": 1779771000,
+    "search_volume": 1000,
+    "score": 1000,
     "related_queries": [
-      "zürich"
+      "appenzell ausserrhoden"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4622258573,
+        "id": 4621410754,
         "language": "de",
         "region": "CH"
       },
+      {
+        "id": 4622843097,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4622866180,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "appenzell ausserrhoden",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "wawrinka",
+    "region": "CH",
+    "started_at_unix": 1779708600,
+    "ended_at_unix": 1779723600,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "wawrinka",
+      "stanislas wawrinka",
+      "jesper de jong",
+      "de jong tennis"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4621501623,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4618091344,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4625245675,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4625481144,
+        "language": "en",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "wawrinka",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "volksinitiative",
+    "region": "CH",
+    "started_at_unix": 1779702000,
+    "ended_at_unix": 1779738600,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "volksinitiative"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4614309720,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4618613320,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "volksinitiative",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "buffet",
+    "region": "CH",
+    "started_at_unix": 1779695400,
+    "ended_at_unix": 1779729600,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "buffet"
+    ],
+    "category_ids": [
+      19
+    ],
+    "entities": [
+      {
+        "id": 4609131772,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4623013163,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4625472733,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4616124017,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4617256911,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4624922224,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4592249757,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4621311105,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4625049033,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "buffet",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "espagne",
+    "region": "CH",
+    "started_at_unix": 1779715800,
+    "ended_at_unix": 1779773400,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "espagne"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4608162740,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4624542307,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4611754321,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4608582911,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4625309533,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4622651581,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4624353139,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4619337696,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4624718630,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4596966660,
+        "language": "fr",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "espagne",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "ebola",
+    "region": "CH",
+    "started_at_unix": 1779766200,
+    "ended_at_unix": 1779772200,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "ebola"
+    ],
+    "category_ids": [
+      7
+    ],
+    "entities": [
+      {
+        "id": 4617099738,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4603097471,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4614594582,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4602783383,
+        "language": "en",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "ebola",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "world surf league",
+    "region": "CH",
+    "started_at_unix": 1779713400,
+    "ended_at_unix": 1779732600,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "world surf league"
+    ],
+    "category_ids": [
+      17,
+      8
+    ],
+    "entities": [
+      {
+        "id": 4619461782,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4623038635,
+        "language": "en",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "world surf league",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "zürich",
+    "region": "CH",
+    "started_at_unix": 1779731400,
+    "ended_at_unix": 1779744600,
+    "search_volume": 1000,
+    "score": 100,
+    "related_queries": [
+      "zürich"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
       {
         "id": 4594795163,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4623615665,
+        "id": 4622258573,
         "language": "de",
         "region": "CH"
       },
       {
-        "id": 4623058980,
+        "id": 4622541903,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4616057970,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4617880975,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4622383106,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4624773701,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4621073551,
         "language": "de",
         "region": "CH"
       },
@@ -1480,922 +1234,1092 @@
         "id": 4620863255,
         "language": "de",
         "region": "CH"
-      },
-      {
-        "id": 4621986940,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4623385462,
-        "language": "de",
-        "region": "CH"
       }
     ],
     "normalized_keyword": "zurich",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "torino – juventus",
+    "keyword": "marcel koller",
     "region": "CH",
-    "started_at_unix": 1779647400,
-    "ended_at_unix": 1779689400,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "torino – juventus"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4613586956,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4619894703,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "torino – juventus",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "ac milan",
-    "region": "CH",
-    "started_at_unix": 1779655800,
-    "ended_at_unix": 1779689400,
-    "search_volume": 1000,
+    "started_at_unix": 1779738600,
+    "ended_at_unix": 1779771600,
+    "search_volume": 200,
     "score": 500,
     "related_queries": [
-      "ac milan",
-      "milan",
-      "ac milan – cagliari"
+      "marcel koller"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4611948193,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4620983201,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623617950,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4606258986,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4611588007,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4579573279,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4554903124,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4577892221,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4614758633,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4559152393,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622783496,
-        "language": "en",
+        "id": 4624569563,
+        "language": "de",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "ac milan",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "marcel koller",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "enhanced games 2026",
+    "keyword": "iran",
     "region": "CH",
-    "started_at_unix": 1779684600,
-    "ended_at_unix": 1779691800,
+    "started_at_unix": 1779762000,
+    "ended_at_unix": 1779772200,
     "search_volume": 100,
-    "score": 200,
+    "score": 75,
     "related_queries": [
-      "enhanced games 2026"
+      "iran"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4624675895,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4622853740,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4612276530,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4609443406,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4611108602,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4613663829,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4625481106,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4621465077,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4620390796,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4587527676,
+        "language": "en",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "iran",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "ivar stenberg",
+    "region": "CH",
+    "started_at_unix": 1779717000,
+    "ended_at_unix": 1779735600,
+    "search_volume": 500,
+    "score": 900,
+    "related_queries": [
+      "ivar stenberg"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4589975290,
+        "id": 4614338449,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4621203038,
+        "id": 4619846732,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4621670364,
+        "id": 4585639579,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4609322890,
+        "id": 4593561750,
         "language": "en",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "enhanced games 2026",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "ivar stenberg",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "brighton – manchester united",
+    "keyword": "chaleur",
     "region": "CH",
-    "started_at_unix": 1779634200,
-    "ended_at_unix": 1779663600,
-    "search_volume": 2000,
+    "started_at_unix": 1779703200,
+    "ended_at_unix": 1779724200,
+    "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "brighton – manchester united",
-      "brighton – manunited",
-      "brighton vs man united",
-      "premier league table"
+      "chaleur"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4603677801,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4622330695,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4609478059,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4623945897,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4594347351,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4624738664,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4623966471,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4615540223,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4609460883,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4617407650,
+        "language": "fr",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "chaleur",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "george russell",
+    "region": "CH",
+    "started_at_unix": 1779708600,
+    "ended_at_unix": 1779766800,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "george russell"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4603337832,
+        "id": 4623042044,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4621409785,
+        "id": 4611587887,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4622987768,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4613946904,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4606477959,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4516039723,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4562876557,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4552406809,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4591559519,
+        "id": 4571874622,
         "language": "en",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "brighton – manchester united",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "george russell",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "bettina anderson",
+    "keyword": "thomas süssli",
     "region": "CH",
-    "started_at_unix": 1779685200,
-    "ended_at_unix": 1779690000,
-    "search_volume": 100,
-    "score": 200,
+    "started_at_unix": 1779716400,
+    "ended_at_unix": 1779728400,
+    "search_volume": 500,
+    "score": 1000,
     "related_queries": [
-      "bettina anderson"
+      "thomas süssli"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4611421701,
+        "id": 4619143991,
         "language": "de",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "bettina anderson",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "thomas sussli",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "serie a tabelle",
+    "keyword": "wolfsburg fc",
     "region": "CH",
-    "started_at_unix": 1779653400,
-    "ended_at_unix": 1779688800,
-    "search_volume": 500,
-    "score": 300,
-    "related_queries": [
-      "serie a tabelle"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4614875952,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4615748138,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "serie a tabelle",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "liverpool – brentford",
-    "region": "CH",
-    "started_at_unix": 1779632400,
-    "ended_at_unix": 1779646800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "liverpool – brentford",
-      "liverpool",
-      "liverpool vs brentford"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4605911184,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4604861850,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4621538180,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4594725530,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4611454338,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4579019217,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4587147057,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "liverpool – brentford",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "crystal palace – arsenal",
-    "region": "CH",
-    "started_at_unix": 1779632400,
-    "ended_at_unix": 1779646800,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "crystal palace – arsenal"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4607023259,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4611970368,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4602512634,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4609350968,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "crystal palace – arsenal",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "formel 1 heute",
-    "region": "CH",
-    "started_at_unix": 1779619800,
-    "ended_at_unix": 1779687000,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "formel 1 heute"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4600060933,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4621200066,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4619729441,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "formel 1 heute",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "stade lausanne ouchy",
-    "region": "CH",
-    "started_at_unix": 1779622200,
-    "ended_at_unix": 1779637200,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "stade lausanne ouchy",
-      "coupe de suisse",
-      "lausanne ouchy",
-      "coupe suisse"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4606604736,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4622342990,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4599830904,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4622138083,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4623524251,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4606604736,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4616372781,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623524251,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4599830904,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "stade lausanne ouchy",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "napoli - udinese",
-    "region": "CH",
-    "started_at_unix": 1779637800,
-    "ended_at_unix": 1779652200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "napoli - udinese"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4612946392,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4622915358,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4622892002,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4623056505,
-        "language": "it",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "napoli - udinese",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "jonas omlin",
-    "region": "CH",
-    "started_at_unix": 1779648000,
-    "ended_at_unix": 1779686400,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "jonas omlin"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4612197048,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "jonas omlin",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "man city – aston villa",
-    "region": "CH",
-    "started_at_unix": 1779633600,
-    "ended_at_unix": 1779646800,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "man city – aston villa"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4606477959,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623566071,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4589388332,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "man city – aston villa",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "torreense",
-    "region": "CH",
-    "started_at_unix": 1779648600,
-    "ended_at_unix": 1779661200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "torreense"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4608003949,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "torreense",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "cup final",
-    "region": "CH",
-    "started_at_unix": 1779612600,
-    "ended_at_unix": 1779636000,
-    "search_volume": 1000,
-    "score": 800,
-    "related_queries": [
-      "cup final"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4623537620,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4609888618,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4608003949,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4596975974,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4620558670,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4597663175,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4585773129,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4574295813,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "cup final",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "como",
-    "region": "CH",
-    "started_at_unix": 1779655200,
-    "ended_at_unix": 1779686400,
+    "started_at_unix": 1779742800,
+    "ended_at_unix": 1779773400,
     "search_volume": 200,
     "score": 400,
     "related_queries": [
-      "como"
+      "wolfsburg fc"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4620983201,
+        "id": 4594971332,
         "language": "en",
-        "region": "US"
+        "region": "CH"
       },
       {
-        "id": 4608584573,
+        "id": 4617891683,
         "language": "en",
-        "region": "US"
+        "region": "CH"
       },
       {
-        "id": 4601276168,
+        "id": 4624939620,
         "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4611948193,
-        "language": "en",
-        "region": "US"
+        "region": "CH"
       }
     ],
-    "normalized_keyword": "como",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "wolfsburg fc",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "manchester city – aston villa",
+    "keyword": "the boroughs",
     "region": "CH",
-    "started_at_unix": 1779633600,
-    "ended_at_unix": 1779646200,
-    "search_volume": 1000,
-    "score": 1000,
+    "started_at_unix": 1779736200,
+    "ended_at_unix": 1779751800,
+    "search_volume": 200,
+    "score": 200,
     "related_queries": [
-      "manchester city – aston villa",
-      "man city vs aston villa"
+      "the boroughs"
     ],
     "category_ids": [
-      17
+      4
     ],
     "entities": [
       {
-        "id": 4623566071,
+        "id": 4603824033,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4606477959,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4589388332,
+        "id": 4622952071,
         "language": "en",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "manchester city – aston villa",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "the boroughs",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "verona - roma",
+    "keyword": "transport en commun",
     "region": "CH",
-    "started_at_unix": 1779649200,
-    "ended_at_unix": 1779657600,
+    "started_at_unix": 1779744000,
+    "ended_at_unix": 1779774000,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "transport en commun"
+    ],
+    "category_ids": [
+      19
+    ],
+    "entities": [
+      {
+        "id": 4617019349,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4624268628,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "transport en commun",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "yb frauen",
+    "region": "CH",
+    "started_at_unix": 1779709800,
+    "ended_at_unix": 1779722400,
     "search_volume": 500,
-    "score": 1000,
+    "score": 600,
     "related_queries": [
-      "verona - roma",
-      "as roma",
-      "verona – roma"
+      "yb frauen"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4620999270,
-        "language": "it",
+        "id": 4622014581,
+        "language": "de",
         "region": "CH"
       },
       {
-        "id": 4598564638,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4623067085,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4617452059,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4617204543,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4603432759,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4622892019,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4613524766,
-        "language": "it",
+        "id": 4623400286,
+        "language": "de",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "verona - roma",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "yb frauen",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "tottenham",
+    "keyword": "mette-marit von norwegen",
     "region": "CH",
-    "started_at_unix": 1779637200,
-    "ended_at_unix": 1779647400,
+    "started_at_unix": 1779713400,
+    "ended_at_unix": 1779723600,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "mette-marit von norwegen"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4584206558,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "mette-marit von norwegen",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "ein sommer in italien",
+    "region": "CH",
+    "started_at_unix": 1779734400,
+    "ended_at_unix": 1779741000,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "ein sommer in italien"
+    ],
+    "category_ids": [
+      4,
+      17
+    ],
+    "entities": [
+      {
+        "id": 4615085194,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "ein sommer in italien",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "andres ambühl",
+    "region": "CH",
+    "started_at_unix": 1779730200,
+    "ended_at_unix": 1779735000,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "andres ambühl"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4624519065,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4622889902,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "andres ambuhl",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "hallwilersee",
+    "region": "CH",
+    "started_at_unix": 1779714000,
+    "ended_at_unix": 1779723000,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "hallwilersee"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4622775569,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4620278174,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4620714827,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "hallwilersee",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "susan bandecchi",
+    "region": "CH",
+    "started_at_unix": 1779706800,
+    "ended_at_unix": 1779712800,
     "search_volume": 500,
-    "score": 1000,
+    "score": 600,
     "related_queries": [
-      "tottenham",
-      "premier league standings"
+      "susan bandecchi"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4582676103,
+        "id": 4608084072,
+        "language": "it",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "susan bandecchi",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "jil teichmann",
+    "region": "CH",
+    "started_at_unix": 1779702600,
+    "ended_at_unix": 1779709800,
+    "search_volume": 200,
+    "score": 900,
+    "related_queries": [
+      "jil teichmann"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4624395274,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4603337832,
+        "id": 4624721001,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4621409785,
+        "id": 4616414682,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4613946904,
+        "id": 4619154746,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4594725530,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622987768,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4607781497,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4606477959,
+        "id": 4624212715,
         "language": "en",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "tottenham",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "jil teichmann",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "west ham",
+    "keyword": "2026",
     "region": "CH",
-    "started_at_unix": 1779637800,
-    "ended_at_unix": 1779673200,
-    "search_volume": 2000,
-    "score": 1000,
+    "started_at_unix": 1779728400,
+    "ended_at_unix": 1779735000,
+    "search_volume": 200,
+    "score": 600,
     "related_queries": [
-      "west ham",
-      "premier league"
+      "2026"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4622987768,
+        "id": 4612100294,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4625540852,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4622257088,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4620390796,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4571271315,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "2026",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "lanzarote",
+    "region": "CH",
+    "started_at_unix": 1779742200,
+    "ended_at_unix": 1779745800,
+    "search_volume": 100,
+    "score": 800,
+    "related_queries": [
+      "lanzarote"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4624499415,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4607023259,
+        "id": 4614956349,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4610093964,
+        "id": 4603877992,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4621409785,
+        "id": 4623829834,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4582676103,
+        "id": 4624747309,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4613946904,
+        "id": 4624126479,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4611970368,
+        "id": 4597086800,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4603554028,
+        "id": 4623829786,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4622918109,
+        "id": 4601077468,
         "language": "en",
         "region": "CH"
       },
       {
-        "id": 4622318808,
+        "id": 4618996662,
         "language": "en",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "west ham",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "lanzarote",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "alexander zverev",
+    "keyword": "schurtenberger sven",
     "region": "CH",
-    "started_at_unix": 1779625800,
-    "ended_at_unix": 1779638400,
-    "search_volume": 1000,
+    "started_at_unix": 1779722400,
+    "ended_at_unix": 1779726600,
+    "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "alexander zverev"
+      "schurtenberger sven",
+      "luzerner kantonales schwingfest 2026 live",
+      "luzerner kantonales schwingfest"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4622914693,
+        "id": 4600799036,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4623615690,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "schurtenberger sven",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "tv programm",
+    "region": "CH",
+    "started_at_unix": 1779732000,
+    "ended_at_unix": 1779735600,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "tv programm"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4613279057,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4624764059,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4619423966,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4624033265,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4622665520,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4619209944,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4614813973,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4611421611,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "tv programm",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "migration",
+    "region": "CH",
+    "started_at_unix": 1779691800,
+    "ended_at_unix": 1779710400,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "migration"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4618968517,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4622867955,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4620184047,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4618542799,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4618899214,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4613217255,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4616895735,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4605454519,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4613449392,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612306675,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4616401835,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4608620962,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "migration",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "bandecchi",
+    "region": "CH",
+    "started_at_unix": 1779706800,
+    "ended_at_unix": 1779711600,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "bandecchi"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4615466965,
+        "language": "it",
+        "region": "CH"
+      },
+      {
+        "id": 4622330883,
+        "language": "it",
+        "region": "CH"
+      },
+      {
+        "id": 4624497521,
+        "language": "it",
+        "region": "CH"
+      },
+      {
+        "id": 4616474788,
+        "language": "it",
+        "region": "CH"
+      },
+      {
+        "id": 4609325479,
+        "language": "it",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "bandecchi",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "dax",
+    "region": "CH",
+    "started_at_unix": 1779737400,
+    "ended_at_unix": 1779741000,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "dax"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4625481106,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4618986964,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4615159271,
+        "language": "en",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "dax",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "unfall a8 falschfahrer",
+    "region": "CH",
+    "started_at_unix": 1779691200,
+    "ended_at_unix": 1779699000,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "unfall a8 falschfahrer"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4620989012,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "unfall a8 falschfahrer",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "kleid",
+    "region": "CH",
+    "started_at_unix": 1779738000,
+    "ended_at_unix": 1779741000,
+    "search_volume": 100,
+    "score": 800,
+    "related_queries": [
+      "kleid"
+    ],
+    "category_ids": [
+      16,
+      2
+    ],
+    "entities": [
+      {
+        "id": 4622320942,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4624321132,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4598478307,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4610416880,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4603327452,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4619850766,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "kleid",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "ebola virus",
+    "region": "CH",
+    "started_at_unix": 1779732000,
+    "ended_at_unix": 1779735000,
+    "search_volume": 100,
+    "score": 400,
+    "related_queries": [
+      "ebola virus"
+    ],
+    "category_ids": [
+      7,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4603097471,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4617099738,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4620023052,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4614594582,
+        "language": "en",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "ebola virus",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "martin suter",
+    "region": "CH",
+    "started_at_unix": 1779709200,
+    "ended_at_unix": 1779712800,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "martin suter"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4619781123,
+        "language": "de",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "martin suter",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "restaurateur",
+    "region": "CH",
+    "started_at_unix": 1779693000,
+    "ended_at_unix": 1779697800,
+    "search_volume": 100,
+    "score": 500,
+    "related_queries": [
+      "restaurateur"
+    ],
+    "category_ids": [
+      10,
+      5
+    ],
+    "entities": [
+      {
+        "id": 4606628298,
+        "language": "fr",
+        "region": "CH"
+      },
+      {
+        "id": 4622361852,
+        "language": "fr",
+        "region": "CH"
+      }
+    ],
+    "normalized_keyword": "restaurateur",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
+  },
+  {
+    "keyword": "casper ruud",
+    "region": "CH",
+    "started_at_unix": 1779736200,
+    "ended_at_unix": 1779737400,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "casper ruud"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4620211812,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4625011336,
         "language": "en",
         "region": "CH"
       },
@@ -2405,1499 +2329,161 @@
         "region": "CH"
       },
       {
-        "id": 4607523983,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623106017,
+        "id": 4621501623,
         "language": "en",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "alexander zverev",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "casper ruud",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "vélo",
+    "keyword": "europe",
     "region": "CH",
-    "started_at_unix": 1779636600,
-    "ended_at_unix": 1779687600,
-    "search_volume": 200,
-    "score": 600,
+    "started_at_unix": 1779730200,
+    "ended_at_unix": 1779731400,
+    "search_volume": 100,
+    "score": 700,
     "related_queries": [
-      "vélo"
-    ],
-    "category_ids": [
-      16,
-      17,
-      8,
-      1
-    ],
-    "entities": [
-      {
-        "id": 4607950666,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4622225497,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4607112483,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4623600951,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4623563266,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4622271030,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4623524248,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4620371226,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4623406470,
-        "language": "fr",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "velo",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "palace vs arsenal",
-    "region": "CH",
-    "started_at_unix": 1779634200,
-    "ended_at_unix": 1779645600,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "palace vs arsenal"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4611970368,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4607023259,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "palace vs arsenal",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "catanzaro monza",
-    "region": "CH",
-    "started_at_unix": 1779649200,
-    "ended_at_unix": 1779659400,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "catanzaro monza"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4616155612,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4598170133,
-        "language": "it",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "catanzaro monza",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "rts",
-    "region": "CH",
-    "started_at_unix": 1779652800,
-    "ended_at_unix": 1779658800,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "rts"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4612277039,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4612619729,
-        "language": "fr",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "rts",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "srf",
-    "region": "CH",
-    "started_at_unix": 1779652800,
-    "ended_at_unix": 1779656400,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "srf"
-    ],
-    "category_ids": [
-      14,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4598019049,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4610703451,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4600514780,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4618882013,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4609741919,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "srf",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "golden gate bridge",
-    "region": "CH",
-    "started_at_unix": 1779649200,
-    "ended_at_unix": 1779655200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "golden gate bridge"
+      "europe"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4614703255,
+        "id": 4600706987,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4625502722,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4625540804,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4615001611,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4624843379,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4600841621,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4624064576,
+        "language": "en",
+        "region": "CH"
+      },
+      {
+        "id": 4614926013,
         "language": "en",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "golden gate bridge",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "europe",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "srf live",
+    "keyword": "anna-carina woitschack",
     "region": "CH",
-    "started_at_unix": 1779652800,
-    "ended_at_unix": 1779657000,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "srf live"
-    ],
-    "category_ids": [
-      17,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4623400286,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4616734048,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "srf live",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "hund",
-    "region": "CH",
-    "started_at_unix": 1779641400,
-    "ended_at_unix": 1779684600,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "hund"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4622585075,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4615425107,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4623601620,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4622725027,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4620454746,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4623517940,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4622297820,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "hund",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "gazzetta",
-    "region": "CH",
-    "started_at_unix": 1779651000,
-    "ended_at_unix": 1779663600,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "gazzetta"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4577991767,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4607803504,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4599177885,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4611559870,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4620563026,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4614128552,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4623324639,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4612946392,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4617412805,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4622995057,
-        "language": "it",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "gazzetta",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "celebrini",
-    "region": "CH",
-    "started_at_unix": 1779652800,
-    "ended_at_unix": 1779658200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "celebrini"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4621627709,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4604076083,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4564406103,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4599064400,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4543586125,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "celebrini",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "brigandage",
-    "region": "CH",
-    "started_at_unix": 1779634800,
-    "ended_at_unix": 1779645600,
-    "search_volume": 200,
-    "score": 600,
-    "related_queries": [
-      "brigandage"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4619562823,
-        "language": "fr",
-        "region": "CH"
-      },
-      {
-        "id": 4619667893,
-        "language": "fr",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "brigandage",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "classement manchester city – aston villa",
-    "region": "CH",
-    "started_at_unix": 1779644400,
-    "ended_at_unix": 1779649200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "classement manchester city – aston villa"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4592877372,
-        "language": "fr",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "classement manchester city – aston villa",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "oreschnik rakete",
-    "region": "CH",
-    "started_at_unix": 1779615600,
-    "ended_at_unix": 1779627000,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "oreschnik rakete",
-      "oreschnik"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4615152131,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4615152131,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "oreschnik rakete",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "julia roberts",
-    "region": "CH",
-    "started_at_unix": 1779648600,
-    "ended_at_unix": 1779653400,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "julia roberts"
-    ],
-    "category_ids": [
-      4,
-      2
-    ],
-    "entities": [
-      {
-        "id": 4623157843,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4620011420,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4621841108,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4616949342,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4544734702,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "julia roberts",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "cup final 2026",
-    "region": "CH",
-    "started_at_unix": 1779622800,
-    "ended_at_unix": 1779633600,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "cup final 2026"
-    ],
-    "category_ids": [
-      17,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4613178474,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4583156618,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4585773129,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4574295813,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4492991737,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4603745154,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4594537540,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4599237911,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4542384121,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "cup final 2026",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "armstrong",
-    "region": "CH",
-    "started_at_unix": 1779656400,
-    "ended_at_unix": 1779660000,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "armstrong"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4623102632,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4613855646,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622257153,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619862312,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4608482588,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4600462480,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4599075719,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4585588234,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "armstrong",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "restaurant",
-    "region": "CH",
-    "started_at_unix": 1779637800,
-    "ended_at_unix": 1779645000,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "restaurant"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4617710556,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4612906712,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4620933415,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4621206143,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4600172060,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622404749,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4623180617,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4620865383,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619950682,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4611015640,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622914789,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "restaurant",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "sporting – sc união torreense",
-    "region": "CH",
-    "started_at_unix": 1779640800,
-    "ended_at_unix": 1779646200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "sporting – sc união torreense"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4622917288,
-        "language": "pt",
-        "region": "CH"
-      },
-      {
-        "id": 4614921520,
-        "language": "pt",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "sporting – sc uniao torreense",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "manchester united",
-    "region": "CH",
-    "started_at_unix": 1779637800,
-    "ended_at_unix": 1779645000,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "manchester united"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4599735512,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4603337832,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4583261387,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622474639,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623463555,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4618293349,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "manchester united",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "svizzera",
-    "region": "CH",
-    "started_at_unix": 1779642600,
-    "ended_at_unix": 1779650400,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "svizzera"
-    ],
-    "category_ids": [
-      10,
-      9,
-      1
-    ],
-    "entities": [
-      {
-        "id": 4623451164,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4606092404,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4619056949,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4606466293,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4612046491,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4622891993,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4622117305,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4615808184,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4604858782,
-        "language": "it",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "svizzera",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "patrick thoma fcsg",
-    "region": "CH",
-    "started_at_unix": 1779645600,
-    "ended_at_unix": 1779651000,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "patrick thoma fcsg"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4618822739,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4610703451,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "patrick thoma fcsg",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "timo meier",
-    "region": "CH",
-    "started_at_unix": 1779626400,
-    "ended_at_unix": 1779630600,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "timo meier"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4615960965,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4621065574,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622032528,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4606442181,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4620989053,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "timo meier",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "lecce - genoa",
-    "region": "CH",
-    "started_at_unix": 1779649800,
-    "ended_at_unix": 1779654000,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "lecce - genoa"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4610149010,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "lecce - genoa",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "srf sport",
-    "region": "CH",
-    "started_at_unix": 1779625800,
-    "ended_at_unix": 1779628200,
-    "search_volume": 1000,
-    "score": 300,
-    "related_queries": [
-      "srf sport"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4613309030,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4619542803,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4610703451,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4619462466,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4622376450,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4620930419,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "srf sport",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "premier league tabelle",
-    "region": "CH",
-    "started_at_unix": 1779642000,
-    "ended_at_unix": 1779646200,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "premier league tabelle"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4615670437,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4610852967,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4613966797,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "premier league tabelle",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "sinja kraus",
-    "region": "CH",
-    "started_at_unix": 1779619800,
-    "ended_at_unix": 1779625800,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "sinja kraus"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4619155141,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4619817362,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4612154022,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4619756211,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "sinja kraus",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "coppa svizzera",
-    "region": "CH",
-    "started_at_unix": 1779628200,
-    "ended_at_unix": 1779636600,
-    "search_volume": 200,
-    "score": 600,
-    "related_queries": [
-      "coppa svizzera"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4613092812,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4622125237,
-        "language": "it",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "coppa svizzera",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "parma - sassuolo",
-    "region": "CH",
-    "started_at_unix": 1779628200,
-    "ended_at_unix": 1779633000,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "parma - sassuolo"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4609946857,
-        "language": "it",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "parma - sassuolo",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "dalila di lazzaro",
-    "region": "CH",
-    "started_at_unix": 1779637800,
-    "ended_at_unix": 1779641400,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "dalila di lazzaro"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4607981866,
-        "language": "it",
-        "region": "CH"
-      },
-      {
-        "id": 4623506993,
-        "language": "it",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "dalila di lazzaro",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "tom gaal",
-    "region": "CH",
-    "started_at_unix": 1779627000,
-    "ended_at_unix": 1779631200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "tom gaal"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4623029694,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4610703451,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "tom gaal",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "juventus turin",
-    "region": "CH",
-    "started_at_unix": 1779652200,
-    "ended_at_unix": 1779654600,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "juventus turin"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4615748138,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4614875952,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4609427402,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4623117226,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "juventus turin",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "euroleague",
-    "region": "CH",
-    "started_at_unix": 1779654600,
-    "ended_at_unix": 1779657600,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "euroleague"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4621578216,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4586497010,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4623641787,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "euroleague",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "premier league spiele",
-    "region": "CH",
-    "started_at_unix": 1779638400,
-    "ended_at_unix": 1779642000,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "premier league spiele"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4619538525,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4613966797,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4613460348,
-        "language": "de",
-        "region": "CH"
-      },
-      {
-        "id": 4615670437,
-        "language": "de",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "premier league spiele",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "nove mesto",
-    "region": "CH",
-    "started_at_unix": 1779631200,
-    "ended_at_unix": 1779634800,
-    "search_volume": 100,
-    "score": 800,
-    "related_queries": [
-      "nove mesto"
-    ],
-    "category_ids": [
-      17,
-      8,
-      1,
-      16
-    ],
-    "entities": [
-      {
-        "id": 4620766403,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "nove mesto",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "west ham – leeds",
-    "region": "CH",
-    "started_at_unix": 1779642600,
-    "ended_at_unix": 1779645000,
-    "search_volume": 100,
-    "score": 700,
-    "related_queries": [
-      "west ham – leeds"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4603554028,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622987768,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622864816,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4613946904,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4557335401,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4549383292,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "west ham – leeds",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "jonas siegenthaler",
-    "region": "CH",
-    "started_at_unix": 1779632400,
-    "ended_at_unix": 1779634200,
-    "search_volume": 100,
-    "score": 800,
-    "related_queries": [
-      "jonas siegenthaler"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4620930419,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4622313650,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4617907048,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4604492706,
-        "language": "en",
-        "region": "CH"
-      }
-    ],
-    "normalized_keyword": "jonas siegenthaler",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
-  },
-  {
-    "keyword": "bernardo silva",
-    "region": "CH",
-    "started_at_unix": 1779642000,
-    "ended_at_unix": 1779643800,
+    "started_at_unix": 1779730200,
+    "ended_at_unix": 1779731400,
     "search_volume": 100,
     "score": 500,
     "related_queries": [
-      "bernardo silva"
+      "anna-carina woitschack"
     ],
     "category_ids": [
-      17
+      4
     ],
     "entities": [
       {
-        "id": 4604212057,
-        "language": "en",
+        "id": 4622297847,
+        "language": "de",
         "region": "CH"
       },
       {
-        "id": 4618361152,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4606477959,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4601660947,
-        "language": "en",
-        "region": "CH"
-      },
-      {
-        "id": 4536151283,
-        "language": "en",
+        "id": 4622953192,
+        "language": "de",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "bernardo silva",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "anna-carina woitschack",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   },
   {
-    "keyword": "supersport-weltmeisterschaft",
+    "keyword": "motorrad",
     "region": "CH",
-    "started_at_unix": 1779614400,
-    "ended_at_unix": 1779617400,
+    "started_at_unix": 1779723000,
+    "ended_at_unix": 1779724200,
     "search_volume": 100,
-    "score": 900,
+    "score": 300,
     "related_queries": [
-      "supersport-weltmeisterschaft"
+      "motorrad"
     ],
     "category_ids": [
-      17
+      11
     ],
     "entities": [
       {
-        "id": 4622352060,
-        "language": "nl",
+        "id": 4623837817,
+        "language": "de",
         "region": "CH"
       },
       {
-        "id": 4604060505,
-        "language": "nl",
+        "id": 4611382735,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4625318074,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4622406143,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4624443336,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4623132217,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4622719074,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4622629557,
+        "language": "de",
+        "region": "CH"
+      },
+      {
+        "id": 4620971570,
+        "language": "de",
         "region": "CH"
       }
     ],
-    "normalized_keyword": "supersport-weltmeisterschaft",
-    "captured_at": "2026-05-25T06:52:27.122269+00:00"
+    "normalized_keyword": "motorrad",
+    "captured_at": "2026-05-26T06:23:00.530898+00:00"
   }
 ]
