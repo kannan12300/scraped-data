@@ -1,100 +1,276 @@
 [
   {
-    "keyword": "rtl",
+    "keyword": "nyugdíjrendszer",
     "region": "HU",
-    "started_at_unix": 1779734400,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "rtl"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4613261032,
-        "language": "de",
-        "region": "HU"
-      },
-      {
-        "id": 4623651583,
-        "language": "de",
-        "region": "HU"
-      },
-      {
-        "id": 4613159946,
-        "language": "de",
-        "region": "HU"
-      },
-      {
-        "id": 4603576340,
-        "language": "de",
-        "region": "HU"
-      },
-      {
-        "id": 4625203772,
-        "language": "de",
-        "region": "HU"
-      },
-      {
-        "id": 4624573846,
-        "language": "de",
-        "region": "HU"
-      },
-      {
-        "id": 4618893091,
-        "language": "de",
-        "region": "HU"
-      },
-      {
-        "id": 4619324731,
-        "language": "de",
-        "region": "HU"
-      },
-      {
-        "id": 4608334631,
-        "language": "de",
-        "region": "HU"
-      },
-      {
-        "id": 4624204560,
-        "language": "de",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "rtl",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "magyar péter barátnője 2026",
-    "region": "HU",
-    "started_at_unix": 1779714000,
+    "started_at_unix": 1779793800,
     "ended_at_unix": null,
     "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "magyar péter barátnője 2026",
-      "magyar péter barátnője",
-      "startlap"
+      "nyugdíjrendszer"
     ],
     "category_ids": [
-      4
+      11
     ],
     "entities": [
       {
-        "id": 4623893486,
+        "id": 4607226747,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "nyugdijrendszer",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "hajdu jános",
+    "region": "HU",
+    "started_at_unix": 1779820200,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "hajdu jános",
+      "hajdú jános tek"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4626736477,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4626736477,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "hajdu janos",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "m3",
+    "region": "HU",
+    "started_at_unix": 1779849000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "m3"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4626809101,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4626494802,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4619303181,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4626375711,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "m3",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "fizz",
+    "region": "HU",
+    "started_at_unix": 1779786600,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "fizz",
+      "fizz liga",
+      "fizz.hu"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4625853817,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4625853817,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4622838519,
+        "id": 4625797845,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4625319857,
+        "id": 4625881238,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626528467,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "fizz",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "történelem",
+    "region": "HU",
+    "started_at_unix": 1779801000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "történelem"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4627477362,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4627017774,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4625988613,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4614760789,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4620476218,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4622054600,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4619035186,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "tortenelem",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "köztársasági elnöki rezidencia",
+    "region": "HU",
+    "started_at_unix": 1779858600,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "köztársasági elnöki rezidencia"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4627477380,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "koztarsasagi elnoki rezidencia",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "magyarország",
+    "region": "HU",
+    "started_at_unix": 1779849000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 200,
+    "related_queries": [
+      "magyarország"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4620109847,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "magyarorszag",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "egészségügyi miniszter",
+    "region": "HU",
+    "started_at_unix": 1779853800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "egészségügyi miniszter"
+    ],
+    "category_ids": [
+      7
+    ],
+    "entities": [
+      {
+        "id": 4626871297,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626705940,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4625378171,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4627332551,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4619839586,
         "language": "hu",
         "region": "HU"
       },
@@ -102,161 +278,161 @@
         "id": 4618595420,
         "language": "hu",
         "region": "HU"
+      },
+      {
+        "id": 4626197571,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4605031426,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4622838519,
+        "language": "hu",
+        "region": "HU"
       }
     ],
-    "normalized_keyword": "magyar peter baratnoje 2026",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "egeszsegugyi miniszter",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "pósfai gábor",
+    "keyword": "algyő",
     "region": "HU",
-    "started_at_unix": 1779724800,
+    "started_at_unix": 1779813000,
     "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
+    "search_volume": 1000,
+    "score": 900,
     "related_queries": [
-      "pósfai gábor"
+      "algyő"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4621077043,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4622838519,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "algyo",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "erling haaland",
+    "region": "HU",
+    "started_at_unix": 1779847800,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 900,
+    "related_queries": [
+      "erling haaland"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4621230526,
-        "language": "hu",
+        "id": 4606477959,
+        "language": "en",
         "region": "HU"
       },
       {
-        "id": 4612497005,
-        "language": "hu",
+        "id": 4627123151,
+        "language": "en",
         "region": "HU"
       },
       {
-        "id": 4622199774,
-        "language": "hu",
+        "id": 4613650470,
+        "language": "en",
         "region": "HU"
       },
       {
-        "id": 4570484391,
+        "id": 4612923668,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4615762580,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4621302338,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4599113361,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4577062432,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "erling haaland",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "szigligeti ivett",
+    "region": "HU",
+    "started_at_unix": 1779818400,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 700,
+    "related_queries": [
+      "szigligeti ivett"
+    ],
+    "category_ids": [
+      7
+    ],
+    "entities": [
+      {
+        "id": 4624375461,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "posfai gabor",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "szigligeti ivett",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "érettségi vizsga",
+    "keyword": "államfő",
     "region": "HU",
-    "started_at_unix": 1779721200,
+    "started_at_unix": 1779863400,
     "ended_at_unix": null,
-    "search_volume": 2000,
+    "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "érettségi vizsga"
+      "államfő"
     ],
     "category_ids": [
-      9
+      10
     ],
     "entities": [
       {
-        "id": 4625319845,
+        "id": 4621999445,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4615321091,
+        "id": 4602254058,
         "language": "hu",
         "region": "HU"
-      }
-    ],
-    "normalized_keyword": "erettsegi vizsga",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "propaganda",
-    "region": "HU",
-    "started_at_unix": 1779730200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "propaganda"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4614642196,
-        "language": "en",
-        "region": "US"
       },
       {
-        "id": 4616482153,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4620295195,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4616107473,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4600537279,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619149762,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4615541594,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4595710382,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4556709011,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4577913274,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "propaganda",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "tarjányi péter",
-    "region": "HU",
-    "started_at_unix": 1779718800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "tarjányi péter"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4603433670,
+        "id": 4627412365,
         "language": "hu",
         "region": "HU"
       },
@@ -266,296 +442,969 @@
         "region": "HU"
       },
       {
-        "id": 4601786561,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4583841844,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4523010043,
+        "id": 4537286362,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "tarjanyi peter",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "allamfo",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "polgármester",
+    "keyword": "travis scott budapest",
     "region": "HU",
-    "started_at_unix": 1779696000,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "polgármester",
-      "lengyelország"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4623463841,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4621042666,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4622075216,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4591312591,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4621999445,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4593169733,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4621230577,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4615321108,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4623033168,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4624054821,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4581997290,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "polgarmester",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "eső",
-    "region": "HU",
-    "started_at_unix": 1779760200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "eső"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4621716908,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4625020348,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4618248613,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4623546757,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4621453093,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4625414396,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4606219395,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4610979280,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "eso",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "ferrari luce",
-    "region": "HU",
-    "started_at_unix": 1779741600,
+    "started_at_unix": 1779829800,
     "ended_at_unix": null,
     "search_volume": 1000,
-    "score": 900,
+    "score": 500,
     "related_queries": [
-      "ferrari luce"
-    ],
-    "category_ids": [
-      1
-    ],
-    "entities": [
-      {
-        "id": 4601633815,
-        "language": "it",
-        "region": "HU"
-      },
-      {
-        "id": 4613931873,
-        "language": "it",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "ferrari luce",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "hornyák zsolt",
-    "region": "HU",
-    "started_at_unix": 1779699000,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "hornyák zsolt"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4625468294,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "hornyak zsolt",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "energia",
-    "region": "HU",
-    "started_at_unix": 1779761400,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "energia"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4625227702,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4602850267,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4618204456,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4620343330,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4623024190,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4610786420,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4601799093,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4625304522,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4624030991,
-        "language": "es",
-        "region": "HU"
-      },
-      {
-        "id": 4615161280,
-        "language": "es",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "energia",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "marsi anikó",
-    "region": "HU",
-    "started_at_unix": 1779774000,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "marsi anikó"
+      "travis scott budapest",
+      "travis scott"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
+        "id": 4626097134,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4612303785,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4624163689,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4619334062,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4597288019,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4554226611,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "travis scott budapest",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "l dézsi zoltán",
+    "region": "HU",
+    "started_at_unix": 1779804600,
+    "ended_at_unix": 1779864000,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "l dézsi zoltán",
+      "l. dézsi zoltán"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4625747974,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "l dezsi zoltan",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "schön szabolcs",
+    "region": "HU",
+    "started_at_unix": 1779818400,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "schön szabolcs"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4619035246,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "schon szabolcs",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "shein",
+    "region": "HU",
+    "started_at_unix": 1779829800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 100,
+    "related_queries": [
+      "shein"
+    ],
+    "category_ids": [
+      16,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4608340065,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4620898774,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4626702970,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4596344150,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4590047444,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4565718901,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "shein",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "vihar",
+    "region": "HU",
+    "started_at_unix": 1779850200,
+    "ended_at_unix": 1779862200,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "vihar"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4626123907,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4623369624,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4623079906,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4626375711,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4622838519,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "vihar",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "dubaj",
+    "region": "HU",
+    "started_at_unix": 1779861000,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "dubaj"
+    ],
+    "category_ids": [
+      19
+    ],
+    "entities": [
+      {
+        "id": 4611847997,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4625611079,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4627291485,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4618595420,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "dubaj",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "nyugdíjas szép kártya",
+    "region": "HU",
+    "started_at_unix": 1779848400,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "nyugdíjas szép kártya"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4625643981,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "nyugdijas szep kartya",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "bl döntő 2026",
+    "region": "HU",
+    "started_at_unix": 1779813600,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 100,
+    "related_queries": [
+      "bl döntő 2026"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4601581657,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "bl donto 2026",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "byealex",
+    "region": "HU",
+    "started_at_unix": 1779809400,
+    "ended_at_unix": 1779864600,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "byealex"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4625442549,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "byealex",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "gergényi péter",
+    "region": "HU",
+    "started_at_unix": 1779807000,
+    "ended_at_unix": 1779861600,
+    "search_volume": 2000,
+    "score": 900,
+    "related_queries": [
+      "gergényi péter",
+      "magyar péter gulyás gergely",
+      "országgyűlés élő"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4626097139,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4614441795,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626681358,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4622199774,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "gergenyi peter",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "kormány",
+    "region": "HU",
+    "started_at_unix": 1779801600,
+    "ended_at_unix": 1779818400,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "kormány"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4613081717,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4611346330,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4621077043,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626901396,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4627501972,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4621077134,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4625378128,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626375711,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4614441795,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4614891652,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "kormany",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "varga mihály",
+    "region": "HU",
+    "started_at_unix": 1779850800,
+    "ended_at_unix": 1779860400,
+    "search_volume": 1000,
+    "score": 700,
+    "related_queries": [
+      "varga mihály"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4623834946,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4577260350,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4542330855,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4571906670,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "varga mihaly",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "matolcsy ádám",
+    "region": "HU",
+    "started_at_unix": 1779785400,
+    "ended_at_unix": 1779862200,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "matolcsy ádám"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4625644029,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4564592119,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4554478555,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "matolcsy adam",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "párt",
+    "region": "HU",
+    "started_at_unix": 1779823200,
+    "ended_at_unix": 1779862800,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "párt"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4614441795,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4617833836,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626681358,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4614891652,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4627613573,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4621077043,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4621973202,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626043367,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626018829,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4612723552,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4610729095,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4607674637,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4596654966,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4564879684,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4616235048,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "part",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "sam altman",
+    "region": "HU",
+    "started_at_unix": 1779818400,
+    "ended_at_unix": 1779861000,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "sam altman"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4625035391,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4626449836,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4627031999,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4619504327,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4593116248,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4583695535,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4613028334,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "sam altman",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "részvény",
+    "region": "HU",
+    "started_at_unix": 1779822600,
+    "ended_at_unix": 1779864000,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "részvény"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4627055590,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4618899851,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4627212325,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4616722546,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "reszveny",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "dárdai márton",
+    "region": "HU",
+    "started_at_unix": 1779792600,
+    "ended_at_unix": 1779860400,
+    "search_volume": 1000,
+    "score": 800,
+    "related_queries": [
+      "dárdai márton"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4625668518,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4609720822,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "dardai marton",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "007 first light",
+    "region": "HU",
+    "started_at_unix": 1779810600,
+    "ended_at_unix": 1779863400,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "007 first light"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4608665098,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "007 first light",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "szinetár dóra",
+    "region": "HU",
+    "started_at_unix": 1779852600,
+    "ended_at_unix": 1779864600,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "szinetár dóra"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4617182522,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "szinetar dora",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "forbes",
+    "region": "HU",
+    "started_at_unix": 1779790800,
+    "ended_at_unix": 1779822000,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "forbes"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4623812529,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4627594044,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4617580800,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4626661836,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4612366570,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4617474311,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4627551420,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4626731860,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4612154022,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4626746679,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "forbes",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "rubint réka",
+    "region": "HU",
+    "started_at_unix": 1779792000,
+    "ended_at_unix": 1779817200,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "rubint réka"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4593870003,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "rubint reka",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "lévai anikó",
+    "region": "HU",
+    "started_at_unix": 1779783000,
+    "ended_at_unix": 1779798000,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "lévai anikó"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4621017041,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4601786561,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "levai aniko",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "playstation",
+    "region": "HU",
+    "started_at_unix": 1779809400,
+    "ended_at_unix": 1779859800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "playstation"
+    ],
+    "category_ids": [
+      6,
+      18
+    ],
+    "entities": [
+      {
+        "id": 4615880128,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4595750152,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4620697287,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4626555809,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4615201264,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4625521008,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4623272434,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4619678930,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4615603909,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4597440960,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4601946844,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "playstation",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "gönczi gábor",
+    "region": "HU",
+    "started_at_unix": 1779790800,
+    "ended_at_unix": 1779813000,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "gönczi gábor"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4624427664,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
         "id": 4625155977,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4588792222,
+        "id": 4618595420,
         "language": "hu",
         "region": "HU"
       },
@@ -565,18 +1414,372 @@
         "region": "HU"
       }
     ],
-    "normalized_keyword": "marsi aniko",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "gonczi gabor",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "hidegfront",
+    "keyword": "orbán áron",
     "region": "HU",
-    "started_at_unix": 1779722400,
-    "ended_at_unix": null,
-    "search_volume": 2000,
+    "started_at_unix": 1779808800,
+    "ended_at_unix": 1779858600,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "orbán áron"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4621973206,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626147156,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4555434851,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "orban aron",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "kaposvár",
+    "region": "HU",
+    "started_at_unix": 1779787800,
+    "ended_at_unix": 1779805200,
+    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "hidegfront"
+      "kaposvár"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4594959730,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4620798465,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4624455788,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4625961854,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626043347,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "kaposvar",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "stewart mclean virgin river",
+    "region": "HU",
+    "started_at_unix": 1779798000,
+    "ended_at_unix": 1779811800,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "stewart mclean virgin river",
+      "stewart mclean",
+      "virgin river"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4612788334,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4620559639,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "stewart mclean virgin river",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "ross brawn",
+    "region": "HU",
+    "started_at_unix": 1779816600,
+    "ended_at_unix": 1779858000,
+    "search_volume": 100,
+    "score": 600,
+    "related_queries": [
+      "ross brawn"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4625896846,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4625961846,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "ross brawn",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "vilmos walesi herceg",
+    "region": "HU",
+    "started_at_unix": 1779816000,
+    "ended_at_unix": 1779859800,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "vilmos walesi herceg"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4625668462,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4620638161,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "vilmos walesi herceg",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "horrorfilm",
+    "region": "HU",
+    "started_at_unix": 1779813000,
+    "ended_at_unix": 1779850800,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "horrorfilm"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4620118505,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4620120343,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4623250431,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612211830,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4585856249,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4624014198,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4601289609,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4618810355,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4607853764,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "horrorfilm",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "rétvári bence",
+    "region": "HU",
+    "started_at_unix": 1779797400,
+    "ended_at_unix": 1779830400,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "rétvári bence"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4626347161,
+        "language": "tr",
+        "region": "HU"
+      },
+      {
+        "id": 4615424725,
+        "language": "tr",
+        "region": "HU"
+      },
+      {
+        "id": 4606219395,
+        "language": "tr",
+        "region": "HU"
+      },
+      {
+        "id": 4614441795,
+        "language": "tr",
+        "region": "HU"
+      },
+      {
+        "id": 4620587523,
+        "language": "tr",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "retvari bence",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "m1",
+    "region": "HU",
+    "started_at_unix": 1779819000,
+    "ended_at_unix": 1779858000,
+    "search_volume": 100,
+    "score": 400,
+    "related_queries": [
+      "m1"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4626782183,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4621470120,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4625763240,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4626601903,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4537750424,
+        "language": "en",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "m1",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "hegedűs zsolt",
+    "region": "HU",
+    "started_at_unix": 1779819600,
+    "ended_at_unix": 1779822600,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "hegedűs zsolt"
+    ],
+    "category_ids": [
+      7
+    ],
+    "entities": [
+      {
+        "id": 4625378171,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626197571,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4619839586,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626871297,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4622838519,
+        "language": "hu",
+        "region": "HU"
+      }
+    ],
+    "normalized_keyword": "hegedus zsolt",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
+  },
+  {
+    "keyword": "hőmérséklet",
+    "region": "HU",
+    "started_at_unix": 1779786000,
+    "ended_at_unix": 1779820200,
+    "search_volume": 200,
+    "score": 700,
+    "related_queries": [
+      "hőmérséklet"
     ],
     "category_ids": [
       20
@@ -588,653 +1791,148 @@
         "region": "HU"
       },
       {
-        "id": 4624427586,
+        "id": 4626123907,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4622838519,
+        "id": 4610979280,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4520253913,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "hidegfront",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "kocsis máté",
-    "region": "HU",
-    "started_at_unix": 1779771000,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "kocsis máté"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4614891652,
+        "id": 4618248623,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4625355001,
+        "id": 4622838544,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4626871222,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4563900978,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "kocsis mate",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "homerseklet",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "telekom",
+    "keyword": "nba",
     "region": "HU",
-    "started_at_unix": 1779717600,
-    "ended_at_unix": 1779775800,
-    "search_volume": 5000,
-    "score": 400,
+    "started_at_unix": 1779843600,
+    "ended_at_unix": 1779851400,
+    "search_volume": 100,
+    "score": 75,
     "related_queries": [
-      "telekom"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4620351267,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4613195215,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4614188183,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "telekom",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "rogán antal",
-    "region": "HU",
-    "started_at_unix": 1779766200,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 600,
-    "related_queries": [
-      "rogán antal"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4624815280,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4621854173,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4606219395,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4595538821,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4529540930,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4547939304,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4563493507,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4549284724,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "rogan antal",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "kalifornia",
-    "region": "HU",
-    "started_at_unix": 1779714600,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "kalifornia"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4617900633,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4619894809,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4608261463,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4574277771,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4598916304,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4617736509,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4614226276,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4625029906,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624981008,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4613200436,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4621338887,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "kalifornia",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "szombathelyi haladás",
-    "region": "HU",
-    "started_at_unix": 1779728400,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "szombathelyi haladás"
+      "nba"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4622794577,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4606571756,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "szombathelyi haladas",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "dua lipa",
-    "region": "HU",
-    "started_at_unix": 1779774000,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "dua lipa"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4622649142,
+        "id": 4627627094,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4617672567,
+        "id": 4612105803,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4623033337,
+        "id": 4627496433,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4609944918,
+        "id": 4626552227,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4611554610,
+        "id": 4622256952,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4624169880,
+        "id": 4597768738,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4622917661,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "dua lipa",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "gáz",
-    "region": "HU",
-    "started_at_unix": 1779775800,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "gáz"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4616995695,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4622838489,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4623624840,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4610206111,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4621170711,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4552738173,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "gaz",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "bodycam",
-    "region": "HU",
-    "started_at_unix": 1779765000,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "bodycam"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4623949281,
+        "id": 4614813050,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4625266741,
+        "id": 4627123520,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4610972421,
+        "id": 4602312649,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4621905359,
+        "id": 4627700601,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4593436925,
+        "id": 4610115315,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4612585235,
+        "id": 4617474545,
         "language": "en",
         "region": "HU"
       },
       {
-        "id": 4546371228,
+        "id": 4627484536,
         "language": "en",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "bodycam",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "nba",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "velkey györgy",
+    "keyword": "infláció",
     "region": "HU",
-    "started_at_unix": 1779775800,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "velkey györgy",
-      "velkey györgy lászló"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4598069038,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4622325759,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4607507359,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4565437085,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "velkey gyorgy",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "christian bale",
-    "region": "HU",
-    "started_at_unix": 1779714600,
-    "ended_at_unix": 1779774600,
-    "search_volume": 1000,
-    "score": 800,
-    "related_queries": [
-      "christian bale"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4622687582,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624261648,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4605992008,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4614315619,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "christian bale",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "adatközpont",
-    "region": "HU",
-    "started_at_unix": 1779704400,
-    "ended_at_unix": 1779776400,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "adatközpont"
-    ],
-    "category_ids": [
-      15
-    ],
-    "entities": [
-      {
-        "id": 4620697290,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4597480971,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "adatkozpont",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "real madrid cf",
-    "region": "HU",
-    "started_at_unix": 1779718200,
-    "ended_at_unix": 1779775200,
-    "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "real madrid cf"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4625367598,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4613211363,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4621156861,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4623320417,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4618930051,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624967169,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624025886,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4603346136,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "real madrid cf",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "olaj",
-    "region": "HU",
-    "started_at_unix": 1779706200,
-    "ended_at_unix": 1779777000,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "olaj"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4614212489,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4602336180,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4625552175,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4616995695,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4615804556,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4552738173,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "olaj",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "légi közlekedés",
-    "region": "HU",
-    "started_at_unix": 1779709200,
-    "ended_at_unix": 1779767400,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "légi közlekedés"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4613195212,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "legi kozlekedes",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "magyar forint",
-    "region": "HU",
-    "started_at_unix": 1779764400,
-    "ended_at_unix": 1779773400,
+    "started_at_unix": 1779790200,
+    "ended_at_unix": 1779799200,
     "search_volume": 500,
-    "score": 700,
+    "score": 1000,
     "related_queries": [
-      "magyar forint"
+      "infláció"
     ],
     "category_ids": [
-      11
+      3
     ],
     "entities": [
       {
-        "id": 4614726979,
+        "id": 4620500792,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4624509053,
+        "id": 4626464558,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4627017737,
         "language": "hu",
         "region": "HU"
       },
@@ -1244,237 +1942,55 @@
         "region": "HU"
       },
       {
-        "id": 4614689595,
+        "id": 4602336180,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4584183143,
+        "id": 4623782292,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4624481314,
+        "language": "hu",
+        "region": "HU"
+      },
+      {
+        "id": 4618756329,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "magyar forint",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "inflacio",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "tv2",
+    "keyword": "lannert judit",
     "region": "HU",
-    "started_at_unix": 1779696000,
-    "ended_at_unix": 1779735000,
-    "search_volume": 5000,
-    "score": 1000,
+    "started_at_unix": 1779855600,
+    "ended_at_unix": 1779856800,
+    "search_volume": 100,
+    "score": 300,
     "related_queries": [
-      "tv2"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4622150678,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624427664,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4625155977,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4618969547,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4614520248,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4615463405,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "tv2",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "star wars jedi",
-    "region": "HU",
-    "started_at_unix": 1779714600,
-    "ended_at_unix": 1779775800,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "star wars jedi"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4623893446,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4616883445,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4612746992,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "star wars jedi",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "novak đoković",
-    "region": "HU",
-    "started_at_unix": 1779729600,
-    "ended_at_unix": 1779776400,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "novak đoković"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4607523983,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4623224786,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4614646510,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4615880113,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4623113346,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "novak đokovic",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "demeter andrás",
-    "region": "HU",
-    "started_at_unix": 1779739200,
-    "ended_at_unix": 1779777000,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "demeter andrás"
-    ],
-    "category_ids": [
-      14,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4624240769,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "demeter andras",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "kelenföld",
-    "region": "HU",
-    "started_at_unix": 1779724200,
-    "ended_at_unix": 1779775800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "kelenföld",
-      "telex.hu",
-      "vitézy dávid",
-      "kelenföld vasútállomás",
-      "telex hu"
+      "lannert judit"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4624401575,
+        "id": 4599424755,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4623369593,
+        "id": 4626901396,
         "language": "hu",
         "region": "HU"
       },
       {
-        "id": 4621017041,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4600153773,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4622838519,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4625496825,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4624815280,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4608812011,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4620407569,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4624240769,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4620871371,
+        "id": 4620587523,
         "language": "hu",
         "region": "HU"
       },
@@ -1482,1133 +1998,189 @@
         "id": 4614493707,
         "language": "hu",
         "region": "HU"
-      },
-      {
-        "id": 4609795263,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4611952765,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4557296040,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4570484394,
-        "language": "hu",
-        "region": "HU"
       }
     ],
-    "normalized_keyword": "kelenfold",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "lannert judit",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "erős antónia",
+    "keyword": "harry potter",
     "region": "HU",
-    "started_at_unix": 1779712800,
-    "ended_at_unix": 1779735600,
-    "search_volume": 2000,
-    "score": 1000,
+    "started_at_unix": 1779809400,
+    "ended_at_unix": 1779813000,
+    "search_volume": 100,
+    "score": 500,
     "related_queries": [
-      "erős antónia"
+      "harry potter"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4623925821,
-        "language": "hu",
+        "id": 4626770467,
+        "language": "en",
         "region": "HU"
       },
       {
-        "id": 4620313175,
-        "language": "hu",
+        "id": 4607762640,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4625521019,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4625718867,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4624287019,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4603854195,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4610171657,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4625674651,
+        "language": "en",
+        "region": "HU"
+      },
+      {
+        "id": 4605870785,
+        "language": "en",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "eros antonia",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "harry potter",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "illés fanni",
+    "keyword": "siklóernyős baleset",
     "region": "HU",
-    "started_at_unix": 1779729600,
-    "ended_at_unix": 1779772200,
-    "search_volume": 1000,
+    "started_at_unix": 1779780000,
+    "ended_at_unix": 1779784200,
+    "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "illés fanni"
+      "siklóernyős baleset"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4609834953,
+        "id": 4623653203,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "illes fanni",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "sikloernyos baleset",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "loupe színházi társulás",
+    "keyword": "lovas rozi",
     "region": "HU",
-    "started_at_unix": 1779692400,
-    "ended_at_unix": 1779719400,
-    "search_volume": 2000,
-    "score": 1000,
+    "started_at_unix": 1779803400,
+    "ended_at_unix": 1779807600,
+    "search_volume": 100,
+    "score": 400,
     "related_queries": [
-      "loupe színházi társulás",
-      "molnar aron"
+      "lovas rozi"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4622969784,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4622127021,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4621077043,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4622838519,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4600232142,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4622969784,
+        "id": 4621417736,
         "language": "hu",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "loupe szinhazi tarsulas",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "lovas rozi",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "mohammed abu fani",
+    "keyword": "rtl group",
     "region": "HU",
-    "started_at_unix": 1779721200,
-    "ended_at_unix": 1779767400,
-    "search_volume": 1000,
-    "score": 1000,
+    "started_at_unix": 1779811200,
+    "ended_at_unix": 1779813600,
+    "search_volume": 100,
+    "score": 700,
     "related_queries": [
-      "mohammed abu fani"
+      "rtl group"
     ],
     "category_ids": [
-      17
+      4
     ],
     "entities": [
       {
-        "id": 4615779129,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "mohammed abu fani",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "vidéki prókátor",
-    "region": "HU",
-    "started_at_unix": 1779697200,
-    "ended_at_unix": 1779727200,
-    "search_volume": 2000,
-    "score": 600,
-    "related_queries": [
-      "vidéki prókátor"
-    ],
-    "category_ids": [
-      14,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4604015196,
-        "language": "hu",
+        "id": 4618396557,
+        "language": "de",
         "region": "HU"
       },
       {
-        "id": 4601786561,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4594690010,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "videki prokator",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "paderborn–wolfsburg",
-    "region": "HU",
-    "started_at_unix": 1779734400,
-    "ended_at_unix": 1779772800,
-    "search_volume": 500,
-    "score": 600,
-    "related_queries": [
-      "paderborn–wolfsburg"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4601896875,
+        "id": 4625790631,
         "language": "de",
         "region": "HU"
       }
     ],
-    "normalized_keyword": "paderborn–wolfsburg",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "rtl group",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   },
   {
-    "keyword": "james bond",
+    "keyword": "unicredit",
     "region": "HU",
-    "started_at_unix": 1779730800,
-    "ended_at_unix": 1779772800,
+    "started_at_unix": 1779784200,
+    "ended_at_unix": 1779785400,
     "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "james bond"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4624687644,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4614794118,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4595112741,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624054896,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4625131256,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4625168588,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4625116164,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624552034,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4623304911,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4622513803,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "james bond",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "magyarország",
-    "region": "HU",
-    "started_at_unix": 1779766200,
-    "ended_at_unix": 1779769200,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "magyarország"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4607860949,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4620109847,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4618114496,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4615424725,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4622054632,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4624313470,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4621882675,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4598069038,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "magyarorszag",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "monfils",
-    "region": "HU",
-    "started_at_unix": 1779737400,
-    "ended_at_unix": 1779751200,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "monfils",
-      "svitolina"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4618091344,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4621501623,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4618193271,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4612634191,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624427674,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "monfils",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "telex",
-    "region": "HU",
-    "started_at_unix": 1779729000,
-    "ended_at_unix": 1779766800,
-    "search_volume": 1000,
     "score": 100,
     "related_queries": [
-      "telex"
-    ],
-    "category_ids": [
-      14,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4625496825,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4624401575,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4625442577,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4625258189,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4625258126,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4624815280,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4622838519,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4606219395,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "telex",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "xiaomi su7",
-    "region": "HU",
-    "started_at_unix": 1779702600,
-    "ended_at_unix": 1779736200,
-    "search_volume": 500,
-    "score": 900,
-    "related_queries": [
-      "xiaomi su7"
-    ],
-    "category_ids": [
-      16,
-      1
-    ],
-    "entities": [
-      {
-        "id": 4624402500,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4585279267,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "xiaomi su7",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "brit védelmi miniszter",
-    "region": "HU",
-    "started_at_unix": 1779725400,
-    "ended_at_unix": 1779769800,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "brit védelmi miniszter"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4614726983,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "brit vedelmi miniszter",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "jegesmedve",
-    "region": "HU",
-    "started_at_unix": 1779742800,
-    "ended_at_unix": 1779768600,
-    "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "jegesmedve"
-    ],
-    "category_ids": [
-      8,
-      13
-    ],
-    "entities": [
-      {
-        "id": 4624631310,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "jegesmedve",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "katasztrófa",
-    "region": "HU",
-    "started_at_unix": 1779709200,
-    "ended_at_unix": 1779736200,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "katasztrófa"
+      "unicredit"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4623369593,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4622075216,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4620407617,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4624279933,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4599727296,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4622603535,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4621615725,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4622659574,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4556666093,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "katasztrofa",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "google",
-    "region": "HU",
-    "started_at_unix": 1779760200,
-    "ended_at_unix": 1779765000,
-    "search_volume": 100,
-    "score": 50,
-    "related_queries": [
-      "google"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4611642502,
+        "id": 4626154774,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4572268832,
+        "id": 4616044954,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4614937572,
+        "id": 4614286258,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4608683268,
+        "id": 4571653025,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4622088709,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4624027565,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619499095,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4592215507,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4620443920,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4584077953,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625433519,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4612535658,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4607155798,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625119183,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4621356190,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4612539965,
+        "id": 4600875417,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "google",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "bondár anna",
-    "region": "HU",
-    "started_at_unix": 1779712800,
-    "ended_at_unix": 1779722400,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "bondár anna"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4624427674,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4623519326,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4609120083,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4606219395,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "bondar anna",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "meryl streep",
-    "region": "HU",
-    "started_at_unix": 1779718200,
-    "ended_at_unix": 1779726600,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "meryl streep"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4625355045,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624003744,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624149730,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4625489168,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4623712815,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4590663592,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4593718859,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4597637240,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "meryl streep",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "robert redford",
-    "region": "HU",
-    "started_at_unix": 1779718800,
-    "ended_at_unix": 1779725400,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "robert redford"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4621111635,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4622411007,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4567782751,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4575536887,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "robert redford",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "otp",
-    "region": "HU",
-    "started_at_unix": 1779698400,
-    "ended_at_unix": 1779703200,
-    "search_volume": 1000,
-    "score": 50,
-    "related_queries": [
-      "otp"
-    ],
-    "category_ids": [
-      9
-    ],
-    "entities": [
-      {
-        "id": 4612569951,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4624279973,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4605425241,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4615804556,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4541495664,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "otp",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "sydney sweeney",
-    "region": "HU",
-    "started_at_unix": 1779740400,
-    "ended_at_unix": 1779744600,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "sydney sweeney"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4613479576,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624658354,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4622744337,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4615593810,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624384658,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4610478991,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4616743967,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "sydney sweeney",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "falco szolnok",
-    "region": "HU",
-    "started_at_unix": 1779736800,
-    "ended_at_unix": 1779739800,
-    "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "falco szolnok"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4601037365,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "falco szolnok",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "madeira",
-    "region": "HU",
-    "started_at_unix": 1779712200,
-    "ended_at_unix": 1779716400,
-    "search_volume": 100,
-    "score": 800,
-    "related_queries": [
-      "madeira"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4620620839,
-        "language": "pt",
-        "region": "HU"
-      },
-      {
-        "id": 4612063632,
-        "language": "pt",
-        "region": "HU"
-      },
-      {
-        "id": 4624007870,
-        "language": "pt",
-        "region": "HU"
-      },
-      {
-        "id": 4624398027,
-        "language": "pt",
-        "region": "HU"
-      },
-      {
-        "id": 4623950401,
-        "language": "pt",
-        "region": "HU"
-      },
-      {
-        "id": 4614098861,
-        "language": "pt",
-        "region": "HU"
-      },
-      {
-        "id": 4624482010,
-        "language": "pt",
-        "region": "HU"
-      },
-      {
-        "id": 4624676495,
-        "language": "pt",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "madeira",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "bikás park",
-    "region": "HU",
-    "started_at_unix": 1779726000,
-    "ended_at_unix": 1779729600,
-    "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "bikás park"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4623987452,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "bikas park",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "manchester united fc",
-    "region": "HU",
-    "started_at_unix": 1779707400,
-    "ended_at_unix": 1779711000,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "manchester united fc"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4602967716,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4602263465,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4625143257,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4621509312,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624930729,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4599735512,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4607741583,
-        "language": "en",
-        "region": "HU"
-      },
-      {
-        "id": 4624687430,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "manchester united fc",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "horoszkóp",
-    "region": "HU",
-    "started_at_unix": 1779708600,
-    "ended_at_unix": 1779709800,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "horoszkóp"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4621134429,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4613081669,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4615603900,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4624781302,
-        "language": "hu",
-        "region": "HU"
-      },
-      {
-        "id": 4609932617,
-        "language": "hu",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "horoszkop",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
-  },
-  {
-    "keyword": "from season 4 episode 6",
-    "region": "HU",
-    "started_at_unix": 1779741600,
-    "ended_at_unix": 1779742800,
-    "search_volume": 100,
-    "score": 400,
-    "related_queries": [
-      "from season 4 episode 6"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4624983798,
-        "language": "en",
-        "region": "HU"
-      }
-    ],
-    "normalized_keyword": "from season 4 episode 6",
-    "captured_at": "2026-05-26T06:33:04.996350+00:00"
+    "normalized_keyword": "unicredit",
+    "captured_at": "2026-05-27T06:56:40.389412+00:00"
   }
 ]
