@@ -1,16 +1,240 @@
 [
   {
-    "keyword": "σούπερ μάρκετ",
+    "keyword": "λοττο",
     "region": "GR",
-    "started_at_unix": 1780143000,
+    "started_at_unix": 1780215600,
     "ended_at_unix": null,
-    "search_volume": 10000,
+    "search_volume": 1000,
+    "score": 200,
+    "related_queries": [
+      "λοττο"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4635146494,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "λοττο",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "λαχειο",
+    "region": "GR",
+    "started_at_unix": 1780216800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 500,
+    "related_queries": [
+      "λαχειο"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4635046560,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635570188,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "λαχειο",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "dua lipa",
+    "region": "GR",
+    "started_at_unix": 1780233600,
+    "ended_at_unix": null,
+    "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "σούπερ μάρκετ",
-      "σουπερ μαρκετ αγιου πνευματοσ",
-      "αργία",
-      "αγίου πνεύματοσ"
+      "dua lipa",
+      "callum turner"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4628838781,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4630158717,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "dua lipa",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "casino",
+    "region": "GR",
+    "started_at_unix": 1780215600,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 200,
+    "related_queries": [
+      "casino"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4636118228,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4627794119,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637238324,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634423295,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636489783,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628939140,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637088064,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4598905060,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635095171,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635177856,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4624747365,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636190947,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634706216,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637087836,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637030120,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "casino",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "λαϊκό λαχείο",
+    "region": "GR",
+    "started_at_unix": 1780225200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "λαϊκό λαχείο"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4601195525,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "λαικο λαχειο",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "στοιχημα καζινο",
+    "region": "GR",
+    "started_at_unix": 1780217400,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "στοιχημα καζινο"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4622263522,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4629669051,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "στοιχημα καζινο",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "αγιου πνευματοσ 2026",
+    "region": "GR",
+    "started_at_unix": 1780250400,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "αγιου πνευματοσ 2026",
+      "αγιου πνευματοσ",
+      "αγιου πνευματοσ αργια",
+      "euro2day"
     ],
     "category_ids": [
       11
@@ -18,11 +242,11 @@
     "entities": [
       {
         "id": 4597240277,
-        "language": "el",
+        "language": "en",
         "region": "GR"
       },
       {
-        "id": 4597240277,
+        "id": 4625589153,
         "language": "en",
         "region": "GR"
       },
@@ -32,17 +256,716 @@
         "region": "GR"
       },
       {
-        "id": 4634409350,
+        "id": 4636968557,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4624551026,
+        "id": 4629633750,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "αγιου πνευματοσ 2026",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "online casino ελλαδα",
+    "region": "GR",
+    "started_at_unix": 1780216200,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "online casino ελλαδα"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4633880883,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "online casino ελλαδα",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "deutschland finnland",
+    "region": "GR",
+    "started_at_unix": 1780260600,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "deutschland finnland"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4628466668,
+        "language": "de",
+        "region": "GR"
+      },
+      {
+        "id": 4633276376,
+        "language": "de",
+        "region": "GR"
+      },
+      {
+        "id": 4636468869,
+        "language": "de",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "deutschland finnland",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "στοίχημα κουπόνι",
+    "region": "GR",
+    "started_at_unix": 1780219800,
+    "ended_at_unix": 1780299000,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "στοίχημα κουπόνι"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4620659707,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "στοιχημα κουπονι",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "news",
+    "region": "GR",
+    "started_at_unix": 1780220400,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "news",
+      "in",
+      "a"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4624675895,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4614540210,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634009687,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4626702867,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637040341,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4622100713,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637033498,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635363200,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636940898,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4621841130,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636614263,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4620625741,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4630355681,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628613168,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636732643,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4603813367,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4629518116,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4557796873,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4539542351,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4599395318,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635271586,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636777660,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637066044,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636957375,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634412597,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634809957,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636492928,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637037177,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4633730517,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634834862,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637095496,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4633877634,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4616822725,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636326437,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4629200880,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635853533,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4541846609,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4566021265,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4595852147,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "news",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "εθνικη",
+    "region": "GR",
+    "started_at_unix": 1780294800,
+    "ended_at_unix": 1780299000,
+    "search_volume": 100,
+    "score": 50,
+    "related_queries": [
+      "εθνικη"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4635866899,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4625886279,
+        "id": 4629495048,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4632639299,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4605605791,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4637141849,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4611843519,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4636419648,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4628553787,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4627327745,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4636762941,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "εθνικη",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "bet 365",
+    "region": "GR",
+    "started_at_unix": 1780218600,
+    "ended_at_unix": 1780297200,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "bet 365",
+      "pamestoixima",
+      "interwetten",
+      "902"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4608323644,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4608323644,
+        "language": "de",
+        "region": "GR"
+      },
+      {
+        "id": 4635920258,
+        "language": "de",
+        "region": "GR"
+      },
+      {
+        "id": 4635011126,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "bet 365",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "roland garros 2026",
+    "region": "GR",
+    "started_at_unix": 1780213800,
+    "ended_at_unix": 1780297200,
+    "search_volume": 200,
+    "score": 50,
+    "related_queries": [
+      "roland garros 2026"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4635115060,
+        "language": "fr",
+        "region": "GR"
+      },
+      {
+        "id": 4594684344,
+        "language": "fr",
+        "region": "GR"
+      },
+      {
+        "id": 4618226905,
+        "language": "fr",
+        "region": "GR"
+      },
+      {
+        "id": 4634498820,
+        "language": "fr",
+        "region": "GR"
+      },
+      {
+        "id": 4630502405,
+        "language": "fr",
+        "region": "GR"
+      },
+      {
+        "id": 4617189661,
+        "language": "fr",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "roland garros 2026",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "programma tv",
+    "region": "GR",
+    "started_at_unix": 1780228200,
+    "ended_at_unix": 1780298400,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "programma tv"
+    ],
+    "category_ids": [
+      17,
+      4
+    ],
+    "entities": [
+      {
+        "id": 4635466710,
+        "language": "it",
+        "region": "GR"
+      },
+      {
+        "id": 4630997357,
+        "language": "it",
+        "region": "GR"
+      },
+      {
+        "id": 4627760799,
+        "language": "it",
+        "region": "GR"
+      },
+      {
+        "id": 4631699839,
+        "language": "it",
+        "region": "GR"
+      },
+      {
+        "id": 4628109991,
+        "language": "it",
+        "region": "GR"
+      },
+      {
+        "id": 4633009158,
+        "language": "it",
+        "region": "GR"
+      },
+      {
+        "id": 4603811856,
+        "language": "it",
+        "region": "GR"
+      },
+      {
+        "id": 4630395159,
+        "language": "it",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "programma tv",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "gossip",
+    "region": "GR",
+    "started_at_unix": 1780225200,
+    "ended_at_unix": 1780297200,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "gossip",
+      "τζενη μπαλατσινου",
+      "μπαλατσινου",
+      "amalia kostopoulou",
+      "κωστοπουλοσ"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4628191481,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635028556,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635113381,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635092094,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635028481,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4620412868,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4632378438,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "gossip",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "σκληρό σιτάρι",
+    "region": "GR",
+    "started_at_unix": 1780213200,
+    "ended_at_unix": 1780228800,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "σκληρό σιτάρι"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4624226767,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4614242206,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "σκληρο σιταρι",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "εξαφάνιση",
+    "region": "GR",
+    "started_at_unix": 1780214400,
+    "ended_at_unix": 1780228800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "εξαφάνιση"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4636204227,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4632853394,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635459729,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4632506447,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4630818461,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4632461340,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635625869,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "εξαφανιση",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "cretalive",
+    "region": "GR",
+    "started_at_unix": 1780251000,
+    "ended_at_unix": 1780294200,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "cretalive"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4635801965,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4637141808,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4637048882,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "cretalive",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "αθήνα",
+    "region": "GR",
+    "started_at_unix": 1780216200,
+    "ended_at_unix": 1780229400,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "αθήνα"
+    ],
+    "category_ids": [
+      19
+    ],
+    "entities": [
+      {
+        "id": 4620388612,
         "language": "en",
         "region": "GR"
       },
@@ -52,203 +975,234 @@
         "region": "GR"
       },
       {
-        "id": 4624265985,
+        "id": 4635639745,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4629660279,
+        "id": 4635688728,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4635065072,
+        "id": 4632938879,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4626035965,
+        "id": 4628424364,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4633624308,
+        "id": 4636419677,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4625570534,
+        "id": 4635625916,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4629495002,
+        "id": 4634955751,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4630356048,
+        "id": 4621696561,
         "language": "en",
         "region": "GR"
       }
     ],
-    "normalized_keyword": "σουπερ μαρκετ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
+    "normalized_keyword": "αθηνα",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
   },
   {
-    "keyword": "μάρκοσ σεφερλήσ",
+    "keyword": "η εφημερίδα των συντακτών",
     "region": "GR",
-    "started_at_unix": 1780198800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
+    "started_at_unix": 1780222200,
+    "ended_at_unix": 1780229400,
+    "search_volume": 1000,
+    "score": 900,
     "related_queries": [
-      "μάρκοσ σεφερλήσ"
+      "η εφημερίδα των συντακτών",
+      "μαθητήσ"
     ],
     "category_ids": [
-      4
+      9
     ],
     "entities": [
       {
-        "id": 4635366691,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4630034114,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625793051,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "μαρκοσ σεφερλησ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "πσζ εναντίον άρσεναλ",
-    "region": "GR",
-    "started_at_unix": 1780153800,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "πσζ εναντίον άρσεναλ",
-      "προπονητησ αρσεναλ"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635046560,
+        "id": 4635745272,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4632596311,
+        "id": 4613311182,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4608323644,
+        "id": 4634282707,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4629873287,
+        "id": 4624265960,
         "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4633477629,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4632295668,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4632362323,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4629849570,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635745272,
+        "language": "el",
+        "region": "GR"
+      },
+      {
+        "id": 4635113455,
+        "language": "el",
         "region": "GR"
       }
     ],
-    "normalized_keyword": "πσζ εναντιον αρσεναλ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
+    "normalized_keyword": "η εφημεριδα των συντακτων",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
   },
   {
-    "keyword": "τουρισμοσ για ολουσ 2026",
+    "keyword": "in gr",
     "region": "GR",
-    "started_at_unix": 1780147200,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 700,
+    "started_at_unix": 1780288200,
+    "ended_at_unix": 1780291200,
+    "search_volume": 500,
+    "score": 100,
     "related_queries": [
-      "τουρισμοσ για ολουσ 2026"
+      "in gr",
+      "ειδησεισ",
+      "skai",
+      "tvxs",
+      "ieidiseis",
+      "νιουζιτ"
     ],
     "category_ids": [
-      11
+      10
     ],
     "entities": [
       {
-        "id": 4635326088,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "τουρισμοσ για ολουσ 2026",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ήλιο",
-    "region": "GR",
-    "started_at_unix": 1780162800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "ήλιο"
-    ],
-    "category_ids": [
-      15
-    ],
-    "entities": [
-      {
-        "id": 4634561416,
+        "id": 4637048882,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4627374002,
+        "id": 4637126556,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4633209364,
+        "id": 4635893662,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4632613361,
+        "id": 4597240277,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4632967576,
+        "id": 4625128036,
         "language": "en",
         "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ηλιο",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ελλάδα",
-    "region": "GR",
-    "started_at_unix": 1780152600,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "ελλάδα"
-    ],
-    "category_ids": [
-      19
-    ],
-    "entities": [
+      },
       {
-        "id": 4626655885,
+        "id": 4611044026,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635602937,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4634795651,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4631586312,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4633001973,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4630027718,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635720833,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4631307970,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4626261705,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4636278339,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4636596526,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4605388462,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4630092877,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4618109363,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4636995276,
         "language": "en",
         "region": "GR"
       },
@@ -258,186 +1212,325 @@
         "region": "GR"
       },
       {
-        "id": 4635475624,
+        "id": 4620511417,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4627154116,
+        "id": 4636010859,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4635534816,
+        "id": 4604570199,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4602505952,
+        "id": 4625556794,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4627154155,
+        "id": 4593927342,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4628835584,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4637126529,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4624534414,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4634282686,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4631757960,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4622887801,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4634201866,
         "language": "en",
         "region": "GR"
       }
     ],
-    "normalized_keyword": "ελλαδα",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
+    "normalized_keyword": "in gr",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
   },
   {
-    "keyword": "παρι αρσεναλ",
+    "keyword": "μετεωρίτησ",
     "region": "GR",
-    "started_at_unix": 1780138200,
-    "ended_at_unix": null,
-    "search_volume": 20000,
-    "score": 1000,
+    "started_at_unix": 1780215000,
+    "ended_at_unix": 1780229400,
+    "search_volume": 200,
+    "score": 700,
     "related_queries": [
-      "παρι αρσεναλ",
-      "αστυνομία",
-      "παρι",
-      "αρσεναλ παρι",
-      "λουισ ενρικε",
-      "αρσεναλ",
-      "τσαμπιονσ λιγκ",
-      "τσάμπιονσ λιγκ",
-      "παρι σεν ζερμεν αρσεναλ",
-      "βουδαπεστη",
-      "τελικοσ champions league 2026 καναλι",
-      "πουσκασ αρενα",
-      "τελικοσ champions league",
-      "βουδαπέστη",
-      "champions league τελικοσ",
-      "άρσεναλ",
-      "telikos champions league",
-      "mega live τωρα",
-      "τελικοσ",
-      "κάι χάβερτσ",
-      "champions league live",
-      "αρσεναλ παρι σεν ζερμεν",
-      "παρί σεν ζερμέν",
-      "champions league 2025",
-      "λουίσ ενρίκε",
-      "αρτετα",
-      "προπονητησ παρι σεν ζερμεν",
-      "champions league καναλι",
-      "τσαμπιονσ λιγκ σημερα",
-      "παρι σεν ζερμεν",
-      "champions"
+      "μετεωρίτησ"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4635113446,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "μετεωριτησ",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "blue moon",
+    "region": "GR",
+    "started_at_unix": 1780252800,
+    "ended_at_unix": 1780267800,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "blue moon"
+    ],
+    "category_ids": [
+      15
+    ],
+    "entities": [
+      {
+        "id": 4598257999,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4636226256,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4633627260,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4623959396,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "blue moon",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "bbc news",
+    "region": "GR",
+    "started_at_unix": 1780234800,
+    "ended_at_unix": 1780293600,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "bbc news"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4621643596,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4623926936,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4636774191,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635722673,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4609744635,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4636608644,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4628649805,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4636298578,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4633629809,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "bbc news",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "ενικοσ",
+    "region": "GR",
+    "started_at_unix": 1780225200,
+    "ended_at_unix": 1780285200,
+    "search_volume": 200,
+    "score": 50,
+    "related_queries": [
+      "ενικοσ"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4626854730,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4637048882,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635011126,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4597240277,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4636995276,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4635893662,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4628191481,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4621696561,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4633717335,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4626518222,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "ενικοσ",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "οι αθωοι",
+    "region": "GR",
+    "started_at_unix": 1780254000,
+    "ended_at_unix": 1780280400,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "οι αθωοι"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4628784589,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "οι αθωοι",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "τσουροσ",
+    "region": "GR",
+    "started_at_unix": 1780217400,
+    "ended_at_unix": 1780296600,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "τσουροσ"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4605388462,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "τσουροσ",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "olympiacos bc tickets",
+    "region": "GR",
+    "started_at_unix": 1780216200,
+    "ended_at_unix": 1780227600,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "olympiacos bc tickets",
+      "εισιτηρια ολυμπιακοσ μπασκετ"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4608323644,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4619296658,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4586394118,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635046560,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4576972286,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632639290,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635182419,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635182330,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4585386566,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4632596311,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629321849,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635534810,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634707146,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634659739,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4616783003,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633286999,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4622393947,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630411582,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633993900,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4623871721,
-        "language": "en",
+        "id": 4634454425,
+        "language": "el",
         "region": "GR"
       },
       {
@@ -446,1283 +1539,23 @@
         "region": "GR"
       },
       {
-        "id": 4635137251,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634167661,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4607515179,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631509812,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633945262,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634457995,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4516527590,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635103729,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632429027,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632596311,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632428998,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634901218,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4623448601,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635191230,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4622115629,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631934185,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635092105,
+        "id": 4625410824,
         "language": "en",
         "region": "GR"
       }
     ],
-    "normalized_keyword": "παρι αρσεναλ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
+    "normalized_keyword": "olympiacos bc tickets",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
   },
   {
-    "keyword": "κώστασ καραγκούνησ",
+    "keyword": "ai",
     "region": "GR",
-    "started_at_unix": 1780145400,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
+    "started_at_unix": 1780217400,
+    "ended_at_unix": 1780287600,
+    "search_volume": 100,
+    "score": 50,
     "related_queries": [
-      "κώστασ καραγκούνησ"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4632428976,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "κωστασ καραγκουνησ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "psg",
-    "region": "GR",
-    "started_at_unix": 1780136400,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "psg",
-      "paris saint germain",
-      "paris",
-      "paris-sg – arsenal"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4606254173,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4635422031,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4634961047,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4635375543,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4635638279,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4631562954,
-        "language": "fr",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "psg",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "τζένιφερ λόπεζ",
-    "region": "GR",
-    "started_at_unix": 1780167600,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 900,
-    "related_queries": [
-      "τζένιφερ λόπεζ"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4627680249,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632009178,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630066378,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632656297,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629836209,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4625589105,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "τζενιφερ λοπεζ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "βασίλησ σπανούλησ",
-    "region": "GR",
-    "started_at_unix": 1780198800,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "βασίλησ σπανούλησ"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4620896808,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "βασιλησ σπανουλησ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "πύραυλοσ",
-    "region": "GR",
-    "started_at_unix": 1780161600,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "πύραυλοσ"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4634353038,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4619999741,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4617711820,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630627220,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630027718,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "πυραυλοσ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "paris arsenal",
-    "region": "GR",
-    "started_at_unix": 1780153800,
-    "ended_at_unix": null,
-    "search_volume": 20000,
-    "score": 1000,
-    "related_queries": [
-      "paris arsenal",
-      "psg vs arsenal",
-      "psg arsenal",
-      "arsenal psg",
-      "arsenal",
-      "pari arsenal",
-      "ucl",
-      "arsenal vs psg",
-      "psg – arsenal",
-      "arsenal pari",
-      "arsenal paris",
-      "paris saint germain arsenal",
-      "psg - arsenal",
-      "ucl final",
-      "champions league finale",
-      "havertz",
-      "champions league winners",
-      "champions league finals",
-      "arsenal paris saint-germain",
-      "paris vs arsenal",
-      "arsenal champions league",
-      "kai havertz",
-      "doue",
-      "budapest",
-      "champion league",
-      "arsenal fc",
-      "trossard",
-      "champions league final 2026",
-      "arsenal score",
-      "joao neves",
-      "paris saint-germain arsenal",
-      "psg arsenal live",
-      "arsenal champions league titles",
-      "fabian ruiz"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635188967,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635091826,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4607023259,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4613946904,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4619296658,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635054253,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634144505,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635024819,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4564348767,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4585386566,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4560745536,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4524222986,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4626109044,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4576972286,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632639290,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635117749,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4626148788,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634496052,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4617498387,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4603346136,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635175410,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635089455,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4624802910,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630112097,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4585773129,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4558851528,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632000728,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4592729257,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615167018,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631871475,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633271098,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4491834457,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615163371,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634391385,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4612522774,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4605172815,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635046560,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4603745154,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615682246,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634763658,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4581454952,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632606564,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4610504473,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4592204577,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4588404041,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634167661,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634797950,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631368054,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4618634833,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634457995,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634697525,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633945262,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4617653035,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634759902,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635002553,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635137251,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4586394118,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635428549,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634607421,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "paris arsenal",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ελένη μενεγάκη",
-    "region": "GR",
-    "started_at_unix": 1780150800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "ελένη μενεγάκη"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4634420370,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633002016,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630864614,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ελενη μενεγακη",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "31 μαΐου",
-    "region": "GR",
-    "started_at_unix": 1780202400,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "31 μαΐου"
-    ],
-    "category_ids": [
-      8
-    ],
-    "entities": [
-      {
-        "id": 4635173980,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4623959396,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4626971762,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4599700835,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629702550,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4603441197,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635534795,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633920337,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631509812,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628424408,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "31 μαιου",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "αλβανία",
-    "region": "GR",
-    "started_at_unix": 1780173600,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "αλβανία"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4635011126,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4618445696,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632578631,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632506473,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634353032,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635570270,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4619162162,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4611485424,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "αλβανια",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "γιώργοσ μπαρτζώκασ",
-    "region": "GR",
-    "started_at_unix": 1780164600,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 700,
-    "related_queries": [
-      "γιώργοσ μπαρτζώκασ"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4633255894,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631099347,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4611759761,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "γιωργοσ μπαρτζωκασ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "μετοχή",
-    "region": "GR",
-    "started_at_unix": 1780169400,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "μετοχή"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4635459686,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633091267,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633514034,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630428700,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631687725,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615022596,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628263160,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4618029468,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628651454,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631283504,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "μετοχη",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "παιδί",
-    "region": "GR",
-    "started_at_unix": 1780156800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 800,
-    "related_queries": [
-      "παιδί"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4613358289,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629803672,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635602949,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635613778,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4621154889,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632270538,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635489718,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632967596,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632762973,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "παιδι",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "αμαλια κωστοπουλου γαμοσ",
-    "region": "GR",
-    "started_at_unix": 1780164600,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 400,
-    "related_queries": [
-      "αμαλια κωστοπουλου γαμοσ",
-      "αμαλια κωστοπουλου",
-      "αμαλία κωστοπούλου",
-      "jake medwell",
-      "γαμοσ αμαλιασ κωστοπουλου",
-      "τζέικ μέντγουελ",
-      "τζένη μπαλατσινού"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4628191481,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628191481,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628191481,
-        "language": "el",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "αμαλια κωστοπουλου γαμοσ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "nba",
-    "region": "GR",
-    "started_at_unix": 1780186800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 100,
-    "related_queries": [
-      "nba",
-      "νβα"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4627416928,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634314370,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4612739237,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634842437,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4622066159,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4622987276,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630054461,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635002553,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "nba",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "μίχαελ σουμάχερ",
-    "region": "GR",
-    "started_at_unix": 1780149600,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 800,
-    "related_queries": [
-      "μίχαελ σουμάχερ"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4632739420,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629959985,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "μιχαελ σουμαχερ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "luis enrique",
-    "region": "GR",
-    "started_at_unix": 1780161600,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "luis enrique"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4615957794,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4635433222,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4635171969,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4634898254,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4635171883,
-        "language": "es",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "luis enrique",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "spurs",
-    "region": "GR",
-    "started_at_unix": 1780186800,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 300,
-    "related_queries": [
-      "spurs",
-      "spurs okc",
-      "san antonio spurs",
-      "nba finals",
-      "nba playoffs",
-      "wembanyama",
-      "spurs nba"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4630054461,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628822021,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635558489,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635632136,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4620178492,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633619688,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4626387752,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4612739237,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635353684,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631256405,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4614854187,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627416928,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629274917,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628736493,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635489209,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634890559,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629171619,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4619508513,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635114200,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635002553,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628958065,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631447516,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635536762,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "spurs",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "microsoft",
-    "region": "GR",
-    "started_at_unix": 1780191000,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "microsoft"
+      "ai"
     ],
     "category_ids": [
       18,
@@ -1735,759 +1568,189 @@
         "region": "US"
       },
       {
-        "id": 4630790968,
+        "id": 4635030830,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4609236695,
+        "id": 4636777660,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4623025918,
+        "id": 4636755004,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4628132489,
+        "id": 4637066044,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4633133198,
+        "id": 4628954695,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4627539232,
+        "id": 4637069680,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4604565573,
+        "id": 4615844818,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4635062253,
+        "id": 4637131000,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4635467274,
+        "id": 4636079413,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4631106786,
+        "id": 4622791482,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4595191005,
+        "id": 4636765334,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4602455790,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4573199057,
+        "id": 4608050957,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "microsoft",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
+    "normalized_keyword": "ai",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
   },
   {
-    "keyword": "phishing",
+    "keyword": "ντένισ σρέντερ",
     "region": "GR",
-    "started_at_unix": 1780207800,
-    "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "phishing"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4634707146,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633049878,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627892073,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4623299426,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4620698005,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627655241,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632443330,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628243716,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "phishing",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ατύχημα",
-    "region": "GR",
-    "started_at_unix": 1780204200,
-    "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 800,
-    "related_queries": [
-      "ατύχημα"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4623759143,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4616783003,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4618635739,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628097791,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632739420,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633384168,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4625827037,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634795678,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4622380382,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631810615,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ατυχημα",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "mega tv",
-    "region": "GR",
-    "started_at_unix": 1780155000,
-    "ended_at_unix": 1780171200,
-    "search_volume": 20000,
-    "score": 700,
-    "related_queries": [
-      "mega tv",
-      "mega tv live",
-      "megatv"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4629179436,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627560067,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "mega tv",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "κυριακη τησ πεντηκοστησ",
-    "region": "GR",
-    "started_at_unix": 1780201800,
-    "ended_at_unix": null,
+    "started_at_unix": 1780225200,
+    "ended_at_unix": 1780229400,
     "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "κυριακη τησ πεντηκοστησ",
-      "κυριακή τησ πεντηκοστήσ"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4624551026,
-        "language": "el",
-        "region": "GR"
-      },
-      {
-        "id": 4635173980,
-        "language": "el",
-        "region": "GR"
-      },
-      {
-        "id": 4623848080,
-        "language": "el",
-        "region": "GR"
-      },
-      {
-        "id": 4624551026,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635173980,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4623848080,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "κυριακη τησ πεντηκοστησ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "exxon mobil",
-    "region": "GR",
-    "started_at_unix": 1780208400,
-    "ended_at_unix": null,
-    "search_volume": 100,
     "score": 1000,
     "related_queries": [
-      "exxon mobil"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4635057453,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4617092905,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627920065,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633374322,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629585506,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629513970,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4596173826,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628634611,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634449983,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "exxon mobil",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "πεντηκοστή 2026",
-    "region": "GR",
-    "started_at_unix": 1780203000,
-    "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 400,
-    "related_queries": [
-      "πεντηκοστή 2026",
-      "ψυχοσαββατο"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4623848080,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4592292091,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4623848080,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "πεντηκοστη 2026",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "χρηματιστήριο",
-    "region": "GR",
-    "started_at_unix": 1780205400,
-    "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "χρηματιστήριο"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4627373954,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627892034,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4606443919,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "χρηματιστηριο",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ορμπελίν πινέδα",
-    "region": "GR",
-    "started_at_unix": 1780201200,
-    "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 300,
-    "related_queries": [
-      "ορμπελίν πινέδα"
+      "ντένισ σρέντερ"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4628615019,
+        "id": 4630505626,
         "language": "en",
         "region": "GR"
       }
     ],
-    "normalized_keyword": "ορμπελιν πινεδα",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
+    "normalized_keyword": "ντενισ σρεντερ",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
   },
   {
-    "keyword": "παοκ παναθηναϊκόσ μπασκετ",
+    "keyword": "πλοίο",
     "region": "GR",
-    "started_at_unix": 1780140000,
-    "ended_at_unix": 1780204800,
-    "search_volume": 5000,
-    "score": 900,
-    "related_queries": [
-      "παοκ παναθηναϊκόσ μπασκετ",
-      "paok vs panathinaikos",
-      "ερτ2 live",
-      "παοκ παο",
-      "παοκ παο μπασκετ",
-      "παοκ μπασκετ",
-      "paok bc",
-      "basket league"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4607508072,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4625410824,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634454425,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4620821217,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634866273,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634659801,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634314370,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634707172,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630818497,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4607599773,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4617360782,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631038234,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4607508072,
-        "language": "el",
-        "region": "GR"
-      },
-      {
-        "id": 4630818497,
-        "language": "el",
-        "region": "GR"
-      },
-      {
-        "id": 4634454425,
-        "language": "el",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "παοκ παναθηναικοσ μπασκετ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "mega live",
-    "region": "GR",
-    "started_at_unix": 1780155000,
-    "ended_at_unix": 1780171200,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "mega live"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4625378827,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4623550238,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629179436,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627560067,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629987360,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4623448601,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4618182135,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "mega live",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "thunder vs spurs",
-    "region": "GR",
-    "started_at_unix": 1780189800,
-    "ended_at_unix": 1780207200,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "thunder vs spurs",
-      "okc"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4628822021,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635558489,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629171619,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630054461,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634204053,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628736493,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635489209,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4611814092,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4626635993,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635387088,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "thunder vs spurs",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ναταλία γερμανού",
-    "region": "GR",
-    "started_at_unix": 1780156200,
-    "ended_at_unix": 1780209000,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "ναταλία γερμανού"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4592100628,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628223178,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4605388462,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ναταλια γερμανου",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "πρόωρεσ εκλογέσ",
-    "region": "GR",
-    "started_at_unix": 1780154400,
-    "ended_at_unix": null,
+    "started_at_unix": 1780224000,
+    "ended_at_unix": 1780228200,
     "search_volume": 200,
-    "score": 400,
+    "score": 1000,
     "related_queries": [
-      "πρόωρεσ εκλογέσ"
+      "πλοίο"
     ],
     "category_ids": [
-      14
+      10
     ],
     "entities": [
       {
-        "id": 4635011109,
+        "id": 4630027718,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4634014649,
+        "id": 4622785130,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4614526235,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4614318162,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4615770714,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625128036,
+        "id": 4620224007,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "προωρεσ εκλογεσ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
+    "normalized_keyword": "πλοιο",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
+  },
+  {
+    "keyword": "world cup 2026",
+    "region": "GR",
+    "started_at_unix": 1780225200,
+    "ended_at_unix": 1780267800,
+    "search_volume": 100,
+    "score": 50,
+    "related_queries": [
+      "world cup 2026"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4616258357,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4628243539,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4629107677,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4628553787,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4615741700,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4627723163,
+        "language": "en",
+        "region": "GR"
+      },
+      {
+        "id": 4614471826,
+        "language": "en",
+        "region": "GR"
+      }
+    ],
+    "normalized_keyword": "world cup 2026",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
   },
   {
     "keyword": "πανσεληνοσ μαιου 2026",
     "region": "GR",
-    "started_at_unix": 1780162800,
-    "ended_at_unix": 1780188000,
-    "search_volume": 2000,
-    "score": 900,
+    "started_at_unix": 1780257000,
+    "ended_at_unix": 1780260000,
+    "search_volume": 100,
+    "score": 300,
     "related_queries": [
       "πανσεληνοσ μαιου 2026",
       "πανσεληνοσ μαΐου 2026",
-      "πανσεληνοσ μαιου",
-      "πανσέληνοσ",
-      "πανσέληνοσ μαιου",
-      "πανσέληνοσ μαΐου"
+      "πανσεληνοσ μαιου"
     ],
     "category_ids": [
       11
@@ -2500,3044 +1763,39 @@
       }
     ],
     "normalized_keyword": "πανσεληνοσ μαιου 2026",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
   },
   {
-    "keyword": "pari",
+    "keyword": "newsit",
     "region": "GR",
-    "started_at_unix": 1780156200,
-    "ended_at_unix": 1780208400,
-    "search_volume": 2000,
-    "score": 1000,
+    "started_at_unix": 1780235400,
+    "ended_at_unix": 1780236600,
+    "search_volume": 200,
+    "score": 75,
     "related_queries": [
-      "pari"
-    ],
-    "category_ids": [
-      18,
-      15
-    ],
-    "entities": [
-      {
-        "id": 4622456218,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4606254173,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4634858253,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4626836004,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4624348486,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4616363271,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4634538343,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4603474975,
-        "language": "fr",
-        "region": "GR"
-      },
-      {
-        "id": 4585459371,
-        "language": "fr",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "pari",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ραλφ σουμάχερ",
-    "region": "GR",
-    "started_at_unix": 1780147800,
-    "ended_at_unix": 1780209000,
-    "search_volume": 1000,
-    "score": 600,
-    "related_queries": [
-      "ραλφ σουμάχερ"
+      "newsit"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4629959985,
+        "id": 4635011126,
         "language": "en",
         "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ραλφ σουμαχερ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "θαλάσσιο πάρκο",
-    "region": "GR",
-    "started_at_unix": 1780137600,
-    "ended_at_unix": 1780204800,
-    "search_volume": 2000,
-    "score": 900,
-    "related_queries": [
-      "θαλάσσιο πάρκο",
-      "γαλάζια πατρίδα",
-      "πάρκο"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4627154116,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627154116,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "θαλασσιο παρκο",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "wordle",
-    "region": "GR",
-    "started_at_unix": 1780204200,
-    "ended_at_unix": 1780209600,
-    "search_volume": 200,
-    "score": 50,
-    "related_queries": [
-      "wordle"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4635121069,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4614304425,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632867710,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4562876561,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "wordle",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "εξετάσεισ",
-    "region": "GR",
-    "started_at_unix": 1780159200,
-    "ended_at_unix": 1780171800,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "εξετάσεισ",
-      "θεματα πανελληνιων 2026 επαλ",
-      "πανελληνιεσ 2026 εκθεση επαλ",
-      "θεματα επαλ εκθεση 2026",
-      "πανελληνιεσ επαλ 2026",
-      "θεματα επαλ εκθεση",
-      "εκθεση πανελληνιεσ 2026 επαλ",
-      "επαλ εκθεση πανελληνιεσ 2026",
-      "θεματα επαλ",
-      "επαλ εκθεση",
-      "εκθεση επαλ",
-      "πανελληνιεσ επαλ",
-      "θεματα πανελληνιων εκθεση επαλ"
-    ],
-    "category_ids": [
-      9
-    ],
-    "entities": [
-      {
-        "id": 4613311182,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633920377,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634282707,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632203522,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629472325,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628450175,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4625451731,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4621187628,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4613311182,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4613311182,
-        "language": "el",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "εξετασεισ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "uefa champions league",
-    "region": "GR",
-    "started_at_unix": 1780154400,
-    "ended_at_unix": 1780174200,
-    "search_volume": 1000,
-    "score": 800,
-    "related_queries": [
-      "uefa champions league"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4586394118,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635046560,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635137251,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635199505,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "uefa champions league",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ρεκόρ",
-    "region": "GR",
-    "started_at_unix": 1780134000,
-    "ended_at_unix": 1780208400,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "ρεκόρ"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4634249180,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635409849,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634601630,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4626204185,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628614972,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627373954,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4622488471,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4602505952,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633235316,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629660279,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4622613925,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4625512742,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ρεκορ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "puskas arena",
-    "region": "GR",
-    "started_at_unix": 1780154400,
-    "ended_at_unix": 1780172400,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "puskas arena"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4629286823,
-        "language": "hu",
-        "region": "GR"
-      },
-      {
-        "id": 4632910540,
-        "language": "hu",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "hu",
-        "region": "GR"
-      },
-      {
-        "id": 4625193149,
-        "language": "hu",
-        "region": "GR"
-      },
-      {
-        "id": 4633472752,
-        "language": "hu",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "puskas arena",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "aek vs olympiacos",
-    "region": "GR",
-    "started_at_unix": 1780149600,
-    "ended_at_unix": 1780164600,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "aek vs olympiacos"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4576972286,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4625410824,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634866273,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4614712631,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "aek vs olympiacos",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "νέα αριστερά",
-    "region": "GR",
-    "started_at_unix": 1780149600,
-    "ended_at_unix": 1780169400,
-    "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "νέα αριστερά"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4604570199,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "νεα αριστερα",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "safonov",
-    "region": "GR",
-    "started_at_unix": 1780158600,
-    "ended_at_unix": 1780171800,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "safonov",
-      "raya",
-      "raya arsenal",
-      "david raya"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4632715175,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635593698,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634352546,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634144505,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628892011,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4510142494,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632715175,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635593698,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634144505,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628892011,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4510142494,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4621118785,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634968086,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628332699,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635358420,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "safonov",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "αεκ ολυμπιακόσ μπασκετ",
-    "region": "GR",
-    "started_at_unix": 1780149600,
-    "ended_at_unix": 1780170600,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "αεκ ολυμπιακόσ μπασκετ",
-      "σεφ",
-      "αεκ ολυμπιακοσ μπασκετ",
-      "greek basket league",
-      "ert 2 live",
-      "ερτ2 σπορ live"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4625410824,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4624450057,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634454425,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4620821217,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4602275236,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632868933,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627397995,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4607508072,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631099347,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634707172,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633255894,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4611960426,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "αεκ ολυμπιακοσ μπασκετ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "australia vs pakistan",
-    "region": "GR",
-    "started_at_unix": 1780141200,
-    "ended_at_unix": 1780168200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "australia vs pakistan",
-      "aus vs pak",
-      "pak vs aus"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4631779887,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4614387829,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634461361,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631779887,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4606351550,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "australia vs pakistan",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "iraola",
-    "region": "GR",
-    "started_at_unix": 1780141200,
-    "ended_at_unix": 1780169400,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "iraola",
-      "andoni iraola"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4623329972,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4634694072,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4616171144,
-        "language": "es",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "iraola",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "σωκράτησ κόκκαλησ",
-    "region": "GR",
-    "started_at_unix": 1780125000,
-    "ended_at_unix": 1780159200,
-    "search_volume": 1000,
-    "score": 900,
-    "related_queries": [
-      "σωκράτησ κόκκαλησ"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4630428700,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "σωκρατησ κοκκαλησ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "η εφημερίδα των συντακτών",
-    "region": "GR",
-    "started_at_unix": 1780146000,
-    "ended_at_unix": 1780166400,
-    "search_volume": 1000,
-    "score": 700,
-    "related_queries": [
-      "η εφημερίδα των συντακτών"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4634779975,
-        "language": "el",
-        "region": "GR"
-      },
-      {
-        "id": 4634353038,
-        "language": "el",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "η εφημεριδα των συντακτων",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ετεοκλήσ παύλου",
-    "region": "GR",
-    "started_at_unix": 1780147200,
-    "ended_at_unix": 1780167000,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "ετεοκλήσ παύλου"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4628223178,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632147476,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ετεοκλησ παυλου",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "cl",
-    "region": "GR",
-    "started_at_unix": 1780155600,
-    "ended_at_unix": 1780174200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "cl"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4633758821,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4610585026,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4632828043,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4634694086,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4628108530,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4633101291,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4613034228,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4616615102,
-        "language": "es",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "cl",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "νίκοσ μαραντζίδησ",
-    "region": "GR",
-    "started_at_unix": 1780153200,
-    "ended_at_unix": 1780186200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "νίκοσ μαραντζίδησ"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4634314369,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "νικοσ μαραντζιδησ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "αριστερά",
-    "region": "GR",
-    "started_at_unix": 1780164000,
-    "ended_at_unix": 1780208400,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "αριστερά"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4593927342,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622941002,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4604570199,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4623296148,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634749107,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625410784,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4535795443,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "αριστερα",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "arteta",
-    "region": "GR",
-    "started_at_unix": 1780159800,
-    "ended_at_unix": 1780171800,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "arteta",
-      "marquinhos",
-      "declan rice",
-      "bbc sport",
-      "madueke"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635054253,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630054461,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627577650,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633945262,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633487830,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628184522,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628227512,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633246806,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634256163,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4603450185,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634391385,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629878858,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635275589,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4607023259,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633267111,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635083426,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4618571811,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635046560,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633333322,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4620132354,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "arteta",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "γεωργία",
-    "region": "GR",
-    "started_at_unix": 1780136400,
-    "ended_at_unix": 1780156200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "γεωργία"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4632490593,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "γεωργια",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "εκπαίδευση",
-    "region": "GR",
-    "started_at_unix": 1780144200,
-    "ended_at_unix": 1780162800,
-    "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "εκπαίδευση"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4614001941,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634420374,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630066414,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631810657,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629513986,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634226246,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627876814,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634292011,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630445364,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634036040,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "εκπαιδευση",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "γιάννησ παπαμιχαήλ",
-    "region": "GR",
-    "started_at_unix": 1780180200,
-    "ended_at_unix": 1780209600,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "γιάννησ παπαμιχαήλ"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4632090309,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "γιαννησ παπαμιχαηλ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "μουντιαλ 2026",
-    "region": "GR",
-    "started_at_unix": 1780158000,
-    "ended_at_unix": 1780172400,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "μουντιαλ 2026",
-      "μουντιαλ"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4629107684,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4620347133,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630505574,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632090322,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633360693,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4619035372,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4620896791,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4622613925,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4599923746,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629107677,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4620170732,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631000557,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631122873,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630840818,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "μουντιαλ 2026",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "γιώργοσ μυλωνάκησ",
-    "region": "GR",
-    "started_at_unix": 1780150200,
-    "ended_at_unix": 1780159800,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "γιώργοσ μυλωνάκησ"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4612526424,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4620896776,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4571952984,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "γιωργοσ μυλωνακησ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "βουλγαρία",
-    "region": "GR",
-    "started_at_unix": 1780153800,
-    "ended_at_unix": 1780209000,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "βουλγαρία"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4634828085,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4603751907,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630488602,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635625851,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635475581,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4614283801,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "βουλγαρια",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "mason greenwood",
-    "region": "GR",
-    "started_at_unix": 1780170000,
-    "ended_at_unix": 1780179000,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "mason greenwood"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4608839153,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "mason greenwood",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "zdf live",
-    "region": "GR",
-    "started_at_unix": 1780158600,
-    "ended_at_unix": 1780170600,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "zdf live"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4599434304,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4633983345,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4625996262,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4628466668,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4630089841,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4614014116,
-        "language": "de",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "zdf live",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "τελικοσ τσαμπιονσ λιγκ 2026",
-    "region": "GR",
-    "started_at_unix": 1780153200,
-    "ended_at_unix": 1780170000,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "τελικοσ τσαμπιονσ λιγκ 2026"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635191230,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635046560,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631509812,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "τελικοσ τσαμπιονσ λιγκ 2026",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "mundial 2026",
-    "region": "GR",
-    "started_at_unix": 1780159200,
-    "ended_at_unix": 1780171800,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "mundial 2026"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635380286,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4628218755,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4633568208,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4628887579,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4635072194,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4628098222,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4631044466,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4634572593,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4629477346,
-        "language": "es",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "mundial 2026",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "zdf",
-    "region": "GR",
-    "started_at_unix": 1780156800,
-    "ended_at_unix": 1780170600,
-    "search_volume": 500,
-    "score": 800,
-    "related_queries": [
-      "zdf"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4633983345,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4633130875,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4628010089,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4628466668,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4630089841,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4619733917,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4635052444,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4614014116,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4618822636,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4634851990,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4599434304,
-        "language": "de",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "zdf",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ert2",
-    "region": "GR",
-    "started_at_unix": 1780142400,
-    "ended_at_unix": 1780152600,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "ert2",
-      "ερτ2",
-      "ερτ2 σπορ"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4619035372,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4612719516,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4625410824,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4607508072,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ert2",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "κλίβελαντ μέλβιν",
-    "region": "GR",
-    "started_at_unix": 1780179000,
-    "ended_at_unix": 1780209000,
-    "search_volume": 100,
-    "score": 300,
-    "related_queries": [
-      "κλίβελαντ μέλβιν"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4634690475,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4607508072,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "κλιβελαντ μελβιν",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "γκαλαπάγκοσ",
-    "region": "GR",
-    "started_at_unix": 1780176000,
-    "ended_at_unix": 1780180200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "γκαλαπάγκοσ",
-      "γκαλαπαγκοσ"
-    ],
-    "category_ids": [
-      15
-    ],
-    "entities": [
-      {
-        "id": 4623404619,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4622540805,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "γκαλαπαγκοσ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "champions league heute",
-    "region": "GR",
-    "started_at_unix": 1780158000,
-    "ended_at_unix": 1780171800,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "champions league heute"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4614014116,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4634060202,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4620289342,
-        "language": "de",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "champions league heute",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "vitinha",
-    "region": "GR",
-    "started_at_unix": 1780162800,
-    "ended_at_unix": 1780208400,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "vitinha"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635401636,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635100055,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635046602,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "vitinha",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "hakimi",
-    "region": "GR",
-    "started_at_unix": 1780161600,
-    "ended_at_unix": 1780171200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "hakimi"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4628743487,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4634851597,
-        "language": "es",
-        "region": "GR"
-      },
-      {
-        "id": 4615957794,
-        "language": "es",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "hakimi",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ζαν μοντέρο",
-    "region": "GR",
-    "started_at_unix": 1780152000,
-    "ended_at_unix": 1780158000,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "ζαν μοντέρο"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4615946385,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ζαν μοντερο",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "φλιωνησ",
-    "region": "GR",
-    "started_at_unix": 1780144800,
-    "ended_at_unix": 1780185000,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "φλιωνησ"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4632868933,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "φλιωνησ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "mbappe",
-    "region": "GR",
-    "started_at_unix": 1780162200,
-    "ended_at_unix": 1780173000,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "mbappe"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4634737020,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635046560,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635100055,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635182330,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4619296658,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635191230,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633528234,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4584345223,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "mbappe",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "world cup 2026",
-    "region": "GR",
-    "started_at_unix": 1780159800,
-    "ended_at_unix": 1780171800,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "world cup 2026"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4628243539,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633813689,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4624126687,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629107677,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632836804,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4624772408,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635234303,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629501793,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4604662700,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "world cup 2026",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "dembele",
-    "region": "GR",
-    "started_at_unix": 1780162200,
-    "ended_at_unix": 1780171200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "dembele",
-      "nuno mendes"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635100055,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634752189,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635059480,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633391307,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "dembele",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "kimpembe",
-    "region": "GR",
-    "started_at_unix": 1780168200,
-    "ended_at_unix": 1780197000,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "kimpembe"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4628706161,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "kimpembe",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "the killers",
-    "region": "GR",
-    "started_at_unix": 1780156200,
-    "ended_at_unix": 1780160400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "the killers",
-      "killers"
-    ],
-    "category_ids": [
-      4,
-      17
-    ],
-    "entities": [
-      {
-        "id": 4634797950,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "the killers",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ηνωμένο βασίλειο",
-    "region": "GR",
-    "started_at_unix": 1780146600,
-    "ended_at_unix": 1780156800,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "ηνωμένο βασίλειο"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4632739416,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4602505952,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4621123707,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634780018,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630680354,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630076983,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634409382,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633035710,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ηνωμενο βασιλειο",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "world cup",
-    "region": "GR",
-    "started_at_unix": 1780159200,
-    "ended_at_unix": 1780171800,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "world cup"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4633686173,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634607522,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627043894,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4628618532,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615178881,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634775088,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634890488,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4613441445,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630134984,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627737847,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4625429841,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627022331,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629501793,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629107677,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633084994,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4626529828,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "world cup",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "τηλεοπτικό πρόγραμμα",
-    "region": "GR",
-    "started_at_unix": 1780162200,
-    "ended_at_unix": 1780203600,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "τηλεοπτικό πρόγραμμα"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4635092056,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631509812,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634454425,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "τηλεοπτικο προγραμμα",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "gyokeres",
-    "region": "GR",
-    "started_at_unix": 1780164600,
-    "ended_at_unix": 1780171200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "gyokeres"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635027908,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629695896,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615028790,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629391547,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635022154,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632524332,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "gyokeres",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "μαρία σάκκαρη",
-    "region": "GR",
-    "started_at_unix": 1780156800,
-    "ended_at_unix": 1780171800,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "μαρία σάκκαρη"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4627609081,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "μαρια σακκαρη",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "arne slot",
-    "region": "GR",
-    "started_at_unix": 1780141200,
-    "ended_at_unix": 1780152000,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "arne slot"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4633945262,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4620816827,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629072894,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4579019217,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4626148963,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "arne slot",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "cl final",
-    "region": "GR",
-    "started_at_unix": 1780156200,
-    "ended_at_unix": 1780169400,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "cl final"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635188967,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635054253,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632097418,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4585773129,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "cl final",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "άρσεναλ φκ",
-    "region": "GR",
-    "started_at_unix": 1780159800,
-    "ended_at_unix": 1780169400,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "άρσεναλ φκ"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4628274731,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4626109044,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "αρσεναλ φκ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "έλενα χριστοπούλου",
-    "region": "GR",
-    "started_at_unix": 1780158600,
-    "ended_at_unix": 1780203600,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "έλενα χριστοπούλου"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4624690464,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634327143,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ελενα χριστοπουλου",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "τάισον γουόρντ",
-    "region": "GR",
-    "started_at_unix": 1780162800,
-    "ended_at_unix": 1780168200,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "τάισον γουόρντ"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4631099347,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633255894,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4602373531,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ταισον γουορντ",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "gbl",
-    "region": "GR",
-    "started_at_unix": 1780147200,
-    "ended_at_unix": 1780156200,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "gbl",
-      "τελικοι μπασκετ"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4634454425,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4607508072,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4625410824,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "gbl",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "kvaratskhelia",
-    "region": "GR",
-    "started_at_unix": 1780162200,
-    "ended_at_unix": 1780168800,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "kvaratskhelia"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4617151700,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634334550,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4586664852,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4595151597,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "kvaratskhelia",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ticketmaster",
-    "region": "GR",
-    "started_at_unix": 1780159800,
-    "ended_at_unix": 1780164600,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "ticketmaster"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4624957605,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4626778342,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "ticketmaster",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "τσεντί οσμάν",
-    "region": "GR",
-    "started_at_unix": 1780168800,
-    "ended_at_unix": 1780174200,
-    "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "τσεντί οσμάν"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4634702181,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4607508072,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "τσεντι οσμαν",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "mega news live",
-    "region": "GR",
-    "started_at_unix": 1780152000,
-    "ended_at_unix": 1780156800,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "mega news live"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4623550238,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4607515179,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627560067,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4608323644,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629179436,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4623448601,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4625378827,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631810661,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4624707704,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "mega news live",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "ιουλια καλλιμανη",
-    "region": "GR",
-    "started_at_unix": 1780143000,
-    "ended_at_unix": 1780147200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "ιουλια καλλιμανη",
-      "ιουλία καλλιμάνη"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4634614165,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632024593,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "ιουλια καλλιμανη",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "donnarumma",
-    "region": "GR",
-    "started_at_unix": 1780167000,
-    "ended_at_unix": 1780171200,
-    "search_volume": 100,
-    "score": 700,
-    "related_queries": [
-      "donnarumma"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4633452641,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "donnarumma",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "zdf mediathek",
-    "region": "GR",
-    "started_at_unix": 1780158000,
-    "ended_at_unix": 1780164600,
-    "search_volume": 100,
-    "score": 400,
-    "related_queries": [
-      "zdf mediathek"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4624024079,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4632369767,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4627271763,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4630666336,
-        "language": "de",
-        "region": "GR"
-      },
-      {
-        "id": 4624973624,
-        "language": "de",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "zdf mediathek",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "full moon",
-    "region": "GR",
-    "started_at_unix": 1780164600,
-    "ended_at_unix": 1780168200,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "full moon"
-    ],
-    "category_ids": [
-      15
-    ],
-    "entities": [
-      {
-        "id": 4598257999,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "full moon",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "travis scott",
-    "region": "GR",
-    "started_at_unix": 1780158600,
-    "ended_at_unix": 1780162800,
-    "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "travis scott"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4633499775,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629974847,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634977514,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4619247656,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4635345842,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4619334062,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615163371,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "travis scott",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "bet365",
-    "region": "GR",
-    "started_at_unix": 1780186800,
-    "ended_at_unix": 1780188600,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "bet365"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4609459225,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4627416928,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4630054461,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4619944603,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4633945262,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "bet365",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "saka",
-    "region": "GR",
-    "started_at_unix": 1780162200,
-    "ended_at_unix": 1780165800,
-    "search_volume": 100,
-    "score": 600,
-    "related_queries": [
-      "saka"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635024819,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634391385,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4632697492,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631867209,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4631595229,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634229206,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629391547,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4629772525,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4615639002,
-        "language": "en",
-        "region": "GR"
-      }
-    ],
-    "normalized_keyword": "saka",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
-  },
-  {
-    "keyword": "hincapie",
-    "region": "GR",
-    "started_at_unix": 1780162200,
-    "ended_at_unix": 1780164600,
-    "search_volume": 100,
-    "score": 600,
-    "related_queries": [
-      "hincapie"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4630692995,
-        "language": "en",
-        "region": "GR"
-      },
-      {
-        "id": 4634256163,
-        "language": "en",
-        "region": "GR"
       },
       {
-        "id": 4616970464,
+        "id": 4636373066,
         "language": "en",
         "region": "GR"
       },
       {
-        "id": 4591921613,
+        "id": 4634282621,
         "language": "en",
         "region": "GR"
       }
     ],
-    "normalized_keyword": "hincapie",
-    "captured_at": "2026-05-31T06:49:24.960721+00:00"
+    "normalized_keyword": "newsit",
+    "captured_at": "2026-06-01T07:37:09.418818+00:00"
   }
 ]
