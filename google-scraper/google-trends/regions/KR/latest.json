@@ -1,586 +1,534 @@
 [
   {
-    "keyword": "한화에어로스페이스",
+    "keyword": "우 서윤",
     "region": "KR",
-    "started_at_unix": 1780280400,
+    "started_at_unix": 1780365600,
     "ended_at_unix": null,
-    "search_volume": 2000,
+    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "한화에어로스페이스",
-      "한화에어로스페이스 주가",
-      "한화에어로",
-      "에어로스페이스",
-      "한화 에어로스페이스"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4636854503,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "한화에어로스페이스",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "new york times",
-    "region": "KR",
-    "started_at_unix": 1780222200,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "new york times"
-    ],
-    "category_ids": [
-      14,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4599395318,
-        "language": "en",
-        "region": "KR"
-      },
-      {
-        "id": 4629200609,
-        "language": "en",
-        "region": "KR"
-      },
-      {
-        "id": 4617135724,
-        "language": "en",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "new york times",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "게임",
-    "region": "KR",
-    "started_at_unix": 1780278000,
-    "ended_at_unix": 1780296000,
-    "search_volume": 2000,
-    "score": 75,
-    "related_queries": [
-      "게임"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4630054461,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635566435,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628275048,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619296658,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635860120,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629171619,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4626552050,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634913767,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "게임",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "네이버 주가",
-    "region": "KR",
-    "started_at_unix": 1780285800,
-    "ended_at_unix": 1780297200,
-    "search_volume": 20000,
-    "score": 400,
-    "related_queries": [
-      "네이버 주가",
-      "네이버",
-      "lg전자 주가",
-      "네이버주가"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4625580854,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4637170315,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4615364548,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4629808620,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4629437748,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4629817084,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4637233902,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4629498745,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4636848632,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "네이버 주가",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "경제총조사",
-    "region": "KR",
-    "started_at_unix": 1780295400,
-    "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "경제총조사"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4627074915,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "경제총조사",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "국립중앙박물관",
-    "region": "KR",
-    "started_at_unix": 1780273200,
-    "ended_at_unix": 1780285800,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "국립중앙박물관"
-    ],
-    "category_ids": [
-      19
-    ],
-    "entities": [
-      {
-        "id": 4636695135,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4633582888,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4636252650,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635202083,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "국립중앙박물관",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "구축함",
-    "region": "KR",
-    "started_at_unix": 1780215000,
-    "ended_at_unix": 1780229400,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "구축함"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4626914062,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635223274,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4618161272,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "구축함",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "일본 대 아이슬란드",
-    "region": "KR",
-    "started_at_unix": 1780219800,
-    "ended_at_unix": 1780229400,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "일본 대 아이슬란드",
-      "일본 축구",
-      "일본 아이슬란드"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4610807526,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4621705262,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4636808381,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "일본 대 아이슬란드",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "이차 전지",
-    "region": "KR",
-    "started_at_unix": 1780215600,
-    "ended_at_unix": 1780228200,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "이차 전지"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4629691846,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4625537343,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4621395915,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "이차 전지",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "하이닉스 화재",
-    "region": "KR",
-    "started_at_unix": 1780289400,
-    "ended_at_unix": 1780297800,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "하이닉스 화재"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4627610175,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "하이닉스 화재",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "장재인",
-    "region": "KR",
-    "started_at_unix": 1780215000,
-    "ended_at_unix": 1780229400,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "장재인"
+      "우 서윤"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4624537272,
+        "id": 4623131258,
         "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "장재인",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "우 서윤",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "이재명",
+    "keyword": "정년",
     "region": "KR",
-    "started_at_unix": 1780216200,
-    "ended_at_unix": 1780228200,
-    "search_volume": 5000,
+    "started_at_unix": 1780365600,
+    "ended_at_unix": null,
+    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "이재명"
+      "정년"
     ],
     "category_ids": [
-      14,
-      10
+      9
     ],
     "entities": [
       {
-        "id": 4627511146,
+        "id": 4625620299,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4631819819,
+        "id": 4637848888,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4630494098,
+        "id": 4629560551,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4631782117,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635570347,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4611464098,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635688411,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4629024328,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4625749470,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4626962380,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635699867,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635150345,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4628725946,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4612210415,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4627396074,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635970261,
+        "id": 4630199793,
         "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "이재명",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "정년",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "blockchain technology",
+    "keyword": "lg이노텍",
     "region": "KR",
-    "started_at_unix": 1780219200,
-    "ended_at_unix": 1780270800,
-    "search_volume": 200,
-    "score": 200,
+    "started_at_unix": 1780373400,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
     "related_queries": [
-      "blockchain technology"
+      "lg이노텍"
+    ],
+    "category_ids": [
+      18,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4638838881,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4626913988,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4626416430,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638671733,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625580854,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "lg이노텍",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "건설근로자공제회",
+    "region": "KR",
+    "started_at_unix": 1780369200,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "건설근로자공제회"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4633935370,
-        "language": "en",
+        "id": 4638783398,
+        "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4636514402,
-        "language": "en",
+        "id": 4638139656,
+        "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "blockchain technology",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "건설근로자공제회",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "국가유산",
+    "keyword": "한국마사회",
     "region": "KR",
-    "started_at_unix": 1780278000,
-    "ended_at_unix": 1780288800,
-    "search_volume": 200,
-    "score": 400,
+    "started_at_unix": 1780365600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
     "related_queries": [
-      "국가유산"
+      "한국마사회"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4627538440,
+        "id": 4636797129,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4625554143,
+        "id": 4631723650,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4636834861,
+        "id": 4631723603,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4623682429,
+        "id": 4639342883,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4629110762,
+        "id": 4639323044,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4612127062,
+        "id": 4629502736,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636775610,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629283867,
         "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "국가유산",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "한국마사회",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "다저스 대 다이아몬드백스",
+    "region": "KR",
+    "started_at_unix": 1780365000,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "다저스 대 다이아몬드백스"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4639092488,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "다저스 대 다이아몬드백스",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "전기 요금",
+    "region": "KR",
+    "started_at_unix": 1780368000,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "전기 요금"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4625144335,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4628051412,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4609822530,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627412953,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629873358,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4632645355,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "전기 요금",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "결혼식",
+    "region": "KR",
+    "started_at_unix": 1780365600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "결혼식"
+    ],
+    "category_ids": [
+      8
+    ],
+    "entities": [
+      {
+        "id": 4637255076,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4634420972,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639297018,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637481376,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629090957,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4620988611,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638911876,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631585960,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638876542,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "결혼식",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "두산에너 빌리티",
+    "region": "KR",
+    "started_at_unix": 1780366200,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "두산에너 빌리티"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4637100376,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637270318,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631351684,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631556873,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625580854,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629090891,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "두산에너 빌리티",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "이예림",
+    "region": "KR",
+    "started_at_unix": 1780368000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "이예림"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4636652348,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "이예림",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "주한 미군 사령관",
+    "region": "KR",
+    "started_at_unix": 1780366200,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "주한 미군 사령관"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4612845019,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4632672159,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "주한 미군 사령관",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "평택시 을",
+    "region": "KR",
+    "started_at_unix": 1780366200,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "평택시 을"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4628585150,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4609208769,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "평택시 을",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "트와이스",
+    "region": "KR",
+    "started_at_unix": 1780368000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "트와이스"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4638719362,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4621131107,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631541105,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4628077070,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636973519,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "트와이스",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "오은영",
+    "region": "KR",
+    "started_at_unix": 1780371000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "오은영"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4635048946,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "오은영",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
     "keyword": "김민석",
     "region": "KR",
-    "started_at_unix": 1780223400,
-    "ended_at_unix": 1780263000,
+    "started_at_unix": 1780363200,
+    "ended_at_unix": null,
     "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "김민석",
-      "한국경제신문사"
+      "김민석"
     ],
     "category_ids": [
-      14,
-      10
+      14
     ],
     "entities": [
       {
@@ -594,12 +542,992 @@
         "region": "KR"
       },
       {
-        "id": 4636307984,
+        "id": 4625567970,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4636878953,
+        "id": 4636854503,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "김민석",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "초과 근무",
+    "region": "KR",
+    "started_at_unix": 1780367400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "초과 근무"
+    ],
+    "category_ids": [
+      10,
+      9
+    ],
+    "entities": [
+      {
+        "id": 4636797105,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635513015,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636864035,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "초과 근무",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "무인 항공기",
+    "region": "KR",
+    "started_at_unix": 1780372200,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "무인 항공기"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4636924573,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4633913431,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638942148,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629437816,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4632231833,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4623021611,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4617741518,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627637050,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "무인 항공기",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "배달",
+    "region": "KR",
+    "started_at_unix": 1780372800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "배달"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4636233975,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639167230,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4632208403,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625337082,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636984809,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638825993,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636367427,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4613410445,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638856088,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636864063,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627853302,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638974125,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "배달",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "자이언츠 대 브루어스",
+    "region": "KR",
+    "started_at_unix": 1780362000,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "자이언츠 대 브루어스",
+      "이정후"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631073713,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "자이언츠 대 브루어스",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "집",
+    "region": "KR",
+    "started_at_unix": 1780367400,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "집"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4638825987,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637146876,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4628910999,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4624176653,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638945721,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636548439,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631596362,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636973488,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636685591,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629919655,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "집",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "김승연",
+    "region": "KR",
+    "started_at_unix": 1780367400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "김승연"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4636854503,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638635340,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "김승연",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "이의 리",
+    "region": "KR",
+    "started_at_unix": 1780375200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "이의 리"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4622691720,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4630917594,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4619211735,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "이의 리",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "이시영",
+    "region": "KR",
+    "started_at_unix": 1780367400,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "이시영"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4623100416,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "이시영",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "다리",
+    "region": "KR",
+    "started_at_unix": 1780368000,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "다리"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4629420885,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637454230,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636995941,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638856000,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4623904672,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629945706,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627680990,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4622550015,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637309069,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4618377218,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "다리",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "펩 과르디올라",
+    "region": "KR",
+    "started_at_unix": 1780368600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "펩 과르디올라"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4623387642,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639213695,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635376914,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636307911,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "펩 과르디올라",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "lig 디펜스 & 에어로 스페이스",
+    "region": "KR",
+    "started_at_unix": 1780368600,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 900,
+    "related_queries": [
+      "lig 디펜스 & 에어로 스페이스"
+    ],
+    "category_ids": [
+      3,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4636758641,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631757391,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629583160,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636881209,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "lig 디펜스 & 에어로 스페이스",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "택시",
+    "region": "KR",
+    "started_at_unix": 1780357800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "택시"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4637132715,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629126091,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639259441,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639116081,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637605882,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638573230,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635290852,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627244505,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "택시",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "삼성전자 미국법인",
+    "region": "KR",
+    "started_at_unix": 1780369800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 800,
+    "related_queries": [
+      "삼성전자 미국법인"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4631403750,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "삼성전자 미국법인",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "기부",
+    "region": "KR",
+    "started_at_unix": 1780380000,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "기부"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4611106102,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638873066,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636870788,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627972779,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4615871128,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639163159,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625211986,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638167777,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638860036,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4630993028,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635614413,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4620988611,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631785956,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "기부",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "아트 센터 나비",
+    "region": "KR",
+    "started_at_unix": 1780367400,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 900,
+    "related_queries": [
+      "아트 센터 나비"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4627656459,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "아트 센터 나비",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "안리원",
+    "region": "KR",
+    "started_at_unix": 1780371000,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "안리원"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4617928114,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "안리원",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "암호화폐",
+    "region": "KR",
+    "started_at_unix": 1780370400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "암호화폐"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4622975095,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4628209020,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636580921,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631428431,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4628029788,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4614921434,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "암호화폐",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "아들",
+    "region": "KR",
+    "started_at_unix": 1780367400,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 900,
+    "related_queries": [
+      "아들"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4604014364,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638931473,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4634717585,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4633232070,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638799833,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "아들",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "신혜선",
+    "region": "KR",
+    "started_at_unix": 1780368000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "신혜선",
+      "지옥에서 온 판사",
+      "이제훈"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4636864032,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4633875321,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4632573566,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "신혜선",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "오승환",
+    "region": "KR",
+    "started_at_unix": 1780368600,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "오승환"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4625666377,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627518350,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639100697,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4622982650,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "오승환",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "국가보훈부",
+    "region": "KR",
+    "started_at_unix": 1780368600,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "국가보훈부"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4631797855,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4600570747,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4606817907,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4598539566,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637502549,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625015798,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631609765,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "국가보훈부",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "한샘",
+    "region": "KR",
+    "started_at_unix": 1780369200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "한샘"
+    ],
+    "category_ids": [
+      8
+    ],
+    "entities": [
+      {
+        "id": 4629062086,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638818408,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637111362,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "한샘",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "무기",
+    "region": "KR",
+    "started_at_unix": 1780368000,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "무기",
+      "폴란드"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4637150060,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637049766,
         "language": "ko",
         "region": "KR"
       },
@@ -609,146 +1537,604 @@
         "region": "KR"
       },
       {
-        "id": 4596540684,
+        "id": 4636704182,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4625749470,
+        "id": 4638167782,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4628998702,
+        "id": 4636711940,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4628981947,
+        "id": 4634346406,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4631684605,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4629265926,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4617582007,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4626913988,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635308389,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4623993542,
+        "id": 4636794003,
         "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "김민석",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "무기",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "classroom",
+    "keyword": "하이닉스",
     "region": "KR",
-    "started_at_unix": 1780279200,
-    "ended_at_unix": 1780285800,
-    "search_volume": 100,
+    "started_at_unix": 1780321200,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 500,
+    "related_queries": [
+      "하이닉스"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4627610175,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625580854,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4615400584,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4633434377,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4632470679,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4628129466,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629213582,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639143587,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638838881,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4632591073,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "하이닉스",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "교장",
+    "region": "KR",
+    "started_at_unix": 1780372800,
+    "ended_at_unix": null,
+    "search_volume": 500,
     "score": 300,
     "related_queries": [
-      "classroom"
+      "교장"
     ],
     "category_ids": [
       9
     ],
     "entities": [
       {
-        "id": 4625371428,
-        "language": "en",
-        "region": "US"
+        "id": 4632063222,
+        "language": "ko",
+        "region": "KR"
       },
       {
-        "id": 4630879411,
-        "language": "en",
-        "region": "US"
+        "id": 4639143673,
+        "language": "ko",
+        "region": "KR"
       },
       {
-        "id": 4630423442,
-        "language": "en",
-        "region": "US"
+        "id": 4637163455,
+        "language": "ko",
+        "region": "KR"
       },
       {
-        "id": 4619775688,
-        "language": "en",
-        "region": "US"
+        "id": 4638635299,
+        "language": "ko",
+        "region": "KR"
       },
       {
-        "id": 4622254057,
-        "language": "en",
-        "region": "US"
+        "id": 4637922020,
+        "language": "ko",
+        "region": "KR"
       },
       {
-        "id": 4634578576,
-        "language": "en",
-        "region": "US"
+        "id": 4631271243,
+        "language": "ko",
+        "region": "KR"
       },
       {
-        "id": 4626945000,
-        "language": "en",
-        "region": "US"
+        "id": 4631073777,
+        "language": "ko",
+        "region": "KR"
       },
       {
-        "id": 4631430728,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622997025,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627531724,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635816538,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633226762,
-        "language": "en",
-        "region": "US"
+        "id": 4637975402,
+        "language": "ko",
+        "region": "KR"
       }
     ],
-    "normalized_keyword": "classroom",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "교장",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "artificial intelligence news",
+    "keyword": "싸이",
     "region": "KR",
-    "started_at_unix": 1780213800,
-    "ended_at_unix": 1780265400,
-    "search_volume": 200,
-    "score": 75,
+    "started_at_unix": 1780367400,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
     "related_queries": [
-      "artificial intelligence news"
+      "싸이"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4638822322,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "싸이",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "이재명",
+    "region": "KR",
+    "started_at_unix": 1780378800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "이재명"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4613503772,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4612021490,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638927837,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638873111,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638882950,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4613122190,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638705713,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639045477,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629484090,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636854503,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4609208769,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4624970325,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625824206,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635150345,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4623272980,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637223795,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631714061,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627511146,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4621879885,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631056724,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "이재명",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "sk실트론",
+    "region": "KR",
+    "started_at_unix": 1780377000,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "sk실트론"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4627495276,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "sk실트론",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "문 도엽",
+    "region": "KR",
+    "started_at_unix": 1780371600,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "문 도엽"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4637637943,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4621936765,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631955148,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "문 도엽",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "현금",
+    "region": "KR",
+    "started_at_unix": 1780371600,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "현금"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4626732454,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636525802,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4634516234,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4626150464,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638565553,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638759061,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4601901524,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627800477,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631407801,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "현금",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "거울",
+    "region": "KR",
+    "started_at_unix": 1780369200,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "거울"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4636663594,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "거울",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "철권",
+    "region": "KR",
+    "started_at_unix": 1780375200,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "철권"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4630323374,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "철권",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "미스김",
+    "region": "KR",
+    "started_at_unix": 1780371600,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "미스김"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4627495258,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "미스김",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "kdb생명",
+    "region": "KR",
+    "started_at_unix": 1780375800,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "kdb생명"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4636966103,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "kdb생명",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "공공기관 경영평가",
+    "region": "KR",
+    "started_at_unix": 1780375200,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "공공기관 경영평가"
+    ],
+    "category_ids": [
+      3,
+      15
+    ],
+    "entities": [
+      {
+        "id": 4631688398,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4600137994,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "공공기관 경영평가",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "한강 벨트",
+    "region": "KR",
+    "started_at_unix": 1780373400,
+    "ended_at_unix": 1780383000,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "한강 벨트"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4629578998,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4628805140,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627363050,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4609451637,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636501575,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627720707,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631210588,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "한강 벨트",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "rtx spark",
+    "region": "KR",
+    "started_at_unix": 1780380600,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "rtx spark"
     ],
     "category_ids": [
       18,
@@ -759,554 +2145,1115 @@
         "id": 4622100713,
         "language": "en",
         "region": "KR"
-      },
-      {
-        "id": 4637184295,
-        "language": "en",
-        "region": "KR"
-      },
-      {
-        "id": 4615907265,
-        "language": "en",
-        "region": "KR"
-      },
-      {
-        "id": 4634820409,
-        "language": "en",
-        "region": "KR"
-      },
-      {
-        "id": 4630428218,
-        "language": "en",
-        "region": "KR"
-      },
-      {
-        "id": 4625675058,
-        "language": "en",
-        "region": "KR"
-      },
-      {
-        "id": 4628663321,
-        "language": "en",
-        "region": "KR"
       }
     ],
-    "normalized_keyword": "artificial intelligence news",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "rtx spark",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "김지민",
+    "keyword": "kbo 올스타 투표",
     "region": "KR",
-    "started_at_unix": 1780221600,
-    "ended_at_unix": 1780228200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "김지민"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4630446359,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4636127999,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4634615184,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4629036063,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4636548410,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "김지민",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "크리스티나",
-    "region": "KR",
-    "started_at_unix": 1780272600,
-    "ended_at_unix": 1780276800,
+    "started_at_unix": 1780312200,
+    "ended_at_unix": null,
     "search_volume": 200,
-    "score": 1000,
+    "score": 300,
     "related_queries": [
-      "크리스티나"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4636704147,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "크리스티나",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "이기택",
-    "region": "KR",
-    "started_at_unix": 1780222800,
-    "ended_at_unix": 1780228800,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "이기택",
-      "이용진"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4632017482,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4601053549,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4610465127,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "이기택",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "이가 시비옹테크",
-    "region": "KR",
-    "started_at_unix": 1780219200,
-    "ended_at_unix": 1780228200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "이가 시비옹테크",
-      "마르타 코스튜크",
-      "프랑스오픈"
+      "kbo 올스타 투표"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4629191002,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4630275759,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4637038320,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4627012602,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4631782110,
+        "id": 4613580701,
         "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "이가 시비옹테크",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "kbo 올스타 투표",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "아라시",
+    "keyword": "두산로보틱스",
     "region": "KR",
-    "started_at_unix": 1780224000,
-    "ended_at_unix": 1780271400,
-    "search_volume": 200,
-    "score": 300,
+    "started_at_unix": 1780369200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 100,
     "related_queries": [
-      "아라시"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4636673570,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "아라시",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "교양만두",
-    "region": "KR",
-    "started_at_unix": 1780222200,
-    "ended_at_unix": 1780283400,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "교양만두"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4636805318,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "교양만두",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "안산 그리너스 대 천안시티",
-    "region": "KR",
-    "started_at_unix": 1780221000,
-    "ended_at_unix": 1780228800,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "안산 그리너스 대 천안시티"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4629849246,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "안산 그리너스 대 천안시티",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "사전 투표",
-    "region": "KR",
-    "started_at_unix": 1780222200,
-    "ended_at_unix": 1780228800,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "사전 투표"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4611464098,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635608481,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4627656460,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4629405821,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4631819819,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635308389,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635688411,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4594285899,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4627381011,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "사전 투표",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "이순신",
-    "region": "KR",
-    "started_at_unix": 1780272600,
-    "ended_at_unix": 1780285800,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "이순신"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4631688349,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "이순신",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "박해수",
-    "region": "KR",
-    "started_at_unix": 1780219800,
-    "ended_at_unix": 1780228200,
-    "search_volume": 500,
-    "score": 800,
-    "related_queries": [
-      "박해수"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4613796231,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "박해수",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "과학 기술",
-    "region": "KR",
-    "started_at_unix": 1780218000,
-    "ended_at_unix": 1780228200,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "과학 기술"
-    ],
-    "category_ids": [
-      9,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4635443519,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4629651930,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4636695128,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4618186525,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4636252740,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4631782117,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4631600125,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4618762593,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "과학 기술",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "롯데백화점",
-    "region": "KR",
-    "started_at_unix": 1780218600,
-    "ended_at_unix": 1780231200,
-    "search_volume": 500,
-    "score": 300,
-    "related_queries": [
-      "롯데백화점",
-      "백화점"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4635669828,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4627168378,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4636739205,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635443487,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635146714,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4629336555,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "롯데백화점",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "대구은행",
-    "region": "KR",
-    "started_at_unix": 1780272000,
-    "ended_at_unix": 1780277400,
-    "search_volume": 200,
-    "score": 50,
-    "related_queries": [
-      "대구은행"
+      "두산로보틱스",
+      "두산로보틱스 주가",
+      "인공지능",
+      "네이버 주식",
+      "엘지전자주가"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4632020822,
+        "id": 4625580854,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4618106196,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639092536,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4630539240,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639177878,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625144348,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637093533,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4626025756,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4633465477,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4621483061,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636959261,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629433257,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4618545062,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4620980057,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639136784,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638660153,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635247525,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4633096709,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629011145,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631103693,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638671733,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4617582007,
         "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "대구은행",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "두산로보틱스",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "테니스",
+    "keyword": "박지윤",
     "region": "KR",
-    "started_at_unix": 1780217400,
-    "ended_at_unix": 1780222200,
-    "search_volume": 500,
-    "score": 500,
+    "started_at_unix": 1780378800,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 100,
     "related_queries": [
-      "테니스"
+      "박지윤"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4637319522,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "박지윤",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "반도체",
+    "region": "KR",
+    "started_at_unix": 1780370400,
+    "ended_at_unix": 1780373400,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "반도체"
+    ],
+    "category_ids": [
+      3,
+      18
+    ],
+    "entities": [
+      {
+        "id": 4639136839,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627168456,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627495276,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4617893132,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629579041,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636890962,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625212034,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627165358,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629133251,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625580854,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639262322,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638897689,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "반도체",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "일본 여자 배구 국가대표팀",
+    "region": "KR",
+    "started_at_unix": 1780371000,
+    "ended_at_unix": 1780384200,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "일본 여자 배구 국가대표팀"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4635109421,
+        "id": 4638112398,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4632245741,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634330482,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631139297,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633230883,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631805009,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636473753,
+        "id": 4636586546,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "테니스",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "일본 여자 배구 국가대표팀",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "김해준",
+    "region": "KR",
+    "started_at_unix": 1780374600,
+    "ended_at_unix": 1780384200,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "김해준"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4631633566,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4622164554,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "김해준",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "모스탄",
+    "region": "KR",
+    "started_at_unix": 1780317600,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "모스탄"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4630100556,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638660166,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "모스탄",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "119",
+    "region": "KR",
+    "started_at_unix": 1780367400,
+    "ended_at_unix": 1780380000,
+    "search_volume": 500,
+    "score": 900,
+    "related_queries": [
+      "119"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4628902531,
+        "language": "en",
+        "region": "KR"
+      },
+      {
+        "id": 4630034250,
+        "language": "en",
+        "region": "KR"
+      },
+      {
+        "id": 4639292796,
+        "language": "en",
+        "region": "KR"
+      },
+      {
+        "id": 4619812112,
+        "language": "en",
+        "region": "KR"
+      },
+      {
+        "id": 4638456180,
+        "language": "en",
+        "region": "KR"
+      },
+      {
+        "id": 4620093989,
+        "language": "en",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "119",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "장윤기",
+    "region": "KR",
+    "started_at_unix": 1780360200,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "장윤기"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4620258518,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "장윤기",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "구혜선",
+    "region": "KR",
+    "started_at_unix": 1780369200,
+    "ended_at_unix": 1780380000,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "구혜선"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4636973480,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "구혜선",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "안유진",
+    "region": "KR",
+    "started_at_unix": 1780374600,
+    "ended_at_unix": 1780382400,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "안유진"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4624428913,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4626580781,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631217556,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "안유진",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "김대희",
+    "region": "KR",
+    "started_at_unix": 1780377600,
+    "ended_at_unix": 1780384200,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "김대희"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4632585060,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "김대희",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "이해식",
+    "region": "KR",
+    "started_at_unix": 1780368600,
+    "ended_at_unix": 1780378200,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "이해식"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4635855176,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "이해식",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "한강버스",
+    "region": "KR",
+    "started_at_unix": 1780373400,
+    "ended_at_unix": 1780381800,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "한강버스"
+    ],
+    "category_ids": [
+      19
+    ],
+    "entities": [
+      {
+        "id": 4634469247,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "한강버스",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "플레이스테이션 5",
+    "region": "KR",
+    "started_at_unix": 1780371000,
+    "ended_at_unix": 1780378800,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "플레이스테이션 5"
+    ],
+    "category_ids": [
+      18
+    ],
+    "entities": [
+      {
+        "id": 4638070659,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629283935,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4628351212,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638796178,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "플레이스테이션 5",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "방공",
+    "region": "KR",
+    "started_at_unix": 1780371000,
+    "ended_at_unix": 1780383000,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "방공"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4620795085,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631739527,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637223802,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638883027,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639326987,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "방공",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "유선호",
+    "region": "KR",
+    "started_at_unix": 1780371000,
+    "ended_at_unix": 1780373400,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "유선호"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4610465127,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "유선호",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "롯데건설",
+    "region": "KR",
+    "started_at_unix": 1780372800,
+    "ended_at_unix": 1780378200,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "롯데건설"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4635608474,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629395337,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627202106,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639136810,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629583160,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637449954,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637454196,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "롯데건설",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "명예훼손",
+    "region": "KR",
+    "started_at_unix": 1780368000,
+    "ended_at_unix": 1780373400,
+    "search_volume": 200,
+    "score": 700,
+    "related_queries": [
+      "명예훼손"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4614114830,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4630100556,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "명예훼손",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "고윤정",
+    "region": "KR",
+    "started_at_unix": 1780368000,
+    "ended_at_unix": 1780378200,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "고윤정"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4622008865,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627459375,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639133553,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4610807498,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "고윤정",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "한채영",
+    "region": "KR",
+    "started_at_unix": 1780375200,
+    "ended_at_unix": 1780380000,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "한채영"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4638573240,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "한채영",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "해피투게더",
+    "region": "KR",
+    "started_at_unix": 1780371600,
+    "ended_at_unix": 1780377600,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "해피투게더"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4635060447,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "해피투게더",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "이란 대통령",
+    "region": "KR",
+    "started_at_unix": 1780369200,
+    "ended_at_unix": 1780378200,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "이란 대통령"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4636851204,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636403688,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "이란 대통령",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "전인지",
+    "region": "KR",
+    "started_at_unix": 1780376400,
+    "ended_at_unix": 1780378800,
+    "search_volume": 100,
+    "score": 400,
+    "related_queries": [
+      "전인지"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4635290790,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4623108572,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "전인지",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "허경환",
+    "region": "KR",
+    "started_at_unix": 1780375800,
+    "ended_at_unix": 1780380000,
+    "search_volume": 100,
+    "score": 200,
+    "related_queries": [
+      "허경환"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4621720309,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "허경환",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "서대문형무소",
+    "region": "KR",
+    "started_at_unix": 1780359000,
+    "ended_at_unix": 1780372200,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "서대문형무소"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4632264662,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "서대문형무소",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "한국농어촌공사",
+    "region": "KR",
+    "started_at_unix": 1780371600,
+    "ended_at_unix": 1780377000,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "한국농어촌공사"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4626818165,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631902070,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627181456,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636763786,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "한국농어촌공사",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "강상준",
+    "region": "KR",
+    "started_at_unix": 1780371600,
+    "ended_at_unix": 1780377000,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "강상준"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4633875321,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "강상준",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "제주대학교병원",
+    "region": "KR",
+    "started_at_unix": 1780371600,
+    "ended_at_unix": 1780378200,
+    "search_volume": 100,
+    "score": 400,
+    "related_queries": [
+      "제주대학교병원"
+    ],
+    "category_ids": [
+      7,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4637034193,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "제주대학교병원",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "로베르트 레반도프스키",
+    "region": "KR",
+    "started_at_unix": 1780374000,
+    "ended_at_unix": 1780377600,
+    "search_volume": 100,
+    "score": 200,
+    "related_queries": [
+      "로베르트 레반도프스키"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4618492006,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638392468,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "로베르트 레반도프스키",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "주해은",
+    "region": "KR",
+    "started_at_unix": 1780375200,
+    "ended_at_unix": 1780377600,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "주해은"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4608511818,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "주해은",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "독도",
+    "region": "KR",
+    "started_at_unix": 1780362000,
+    "ended_at_unix": 1780366800,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "독도"
+    ],
+    "category_ids": [
+      9
+    ],
+    "entities": [
+      {
+        "id": 4586540896,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638764449,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629773170,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635845032,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637159110,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637552821,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4628989622,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "독도",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
     "keyword": "경복궁",
     "region": "KR",
-    "started_at_unix": 1780279200,
-    "ended_at_unix": 1780282800,
-    "search_volume": 100,
+    "started_at_unix": 1780365000,
+    "ended_at_unix": 1780378800,
+    "search_volume": 200,
     "score": 100,
     "related_queries": [
       "경복궁"
@@ -1321,582 +3268,625 @@
         "region": "KR"
       },
       {
-        "id": 4636949487,
+        "id": 4637299793,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637631321,
         "language": "ko",
         "region": "KR"
       }
     ],
     "normalized_keyword": "경복궁",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "기상청 날씨누리",
+    "keyword": "레미콘",
     "region": "KR",
-    "started_at_unix": 1780273200,
-    "ended_at_unix": 1780276800,
+    "started_at_unix": 1780371600,
+    "ended_at_unix": 1780373400,
     "search_volume": 200,
-    "score": 200,
+    "score": 600,
     "related_queries": [
-      "기상청 날씨누리",
-      "열대야"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4618412144,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4618412144,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "기상청 날씨누리",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "박준금",
-    "region": "KR",
-    "started_at_unix": 1780230000,
-    "ended_at_unix": 1780234800,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "박준금",
-      "탁재훈"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4623108518,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4632137776,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4627260266,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4631428368,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "박준금",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "ssg",
-    "region": "KR",
-    "started_at_unix": 1780214400,
-    "ended_at_unix": 1780224000,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "ssg",
-      "프로야구순위",
-      "ssg 랜더스"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4618377218,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4636793992,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4627918945,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4632125829,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4626131057,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4634469236,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4632585013,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4618377218,
-        "language": "en",
-        "region": "KR"
-      },
-      {
-        "id": 4633017574,
-        "language": "en",
-        "region": "KR"
-      },
-      {
-        "id": 4599668060,
-        "language": "en",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "ssg",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "한게임",
-    "region": "KR",
-    "started_at_unix": 1780241400,
-    "ended_at_unix": 1780272000,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "한게임"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4629329058,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "한게임",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "디스클로저 데이",
-    "region": "KR",
-    "started_at_unix": 1780221000,
-    "ended_at_unix": 1780240800,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "디스클로저 데이"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4632340279,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633458201,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "디스클로저 데이",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "황성빈",
-    "region": "KR",
-    "started_at_unix": 1780215600,
-    "ended_at_unix": 1780220400,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "황성빈"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4632452481,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4634562127,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4630289373,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4634346383,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "황성빈",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "장재식",
-    "region": "KR",
-    "started_at_unix": 1780218600,
-    "ended_at_unix": 1780225800,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "장재식"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4635331536,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "장재식",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "한국프로농구",
-    "region": "KR",
-    "started_at_unix": 1780222200,
-    "ended_at_unix": 1780228200,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "한국프로농구"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4636652363,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4631684590,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4632430042,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4636743998,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4627428510,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4623066485,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "한국프로농구",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "싱가포르 오픈",
-    "region": "KR",
-    "started_at_unix": 1780225200,
-    "ended_at_unix": 1780229400,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "싱가포르 오픈"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4614896184,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "싱가포르 오픈",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "로또번호",
-    "region": "KR",
-    "started_at_unix": 1780266600,
-    "ended_at_unix": 1780271400,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "로또번호"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4636642006,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "로또번호",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "1박2일",
-    "region": "KR",
-    "started_at_unix": 1780224000,
-    "ended_at_unix": 1780228200,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "1박2일"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4610465127,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4632017482,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "1박2일",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "노태문 자사주",
-    "region": "KR",
-    "started_at_unix": 1780219200,
-    "ended_at_unix": 1780228200,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "노태문 자사주"
+      "레미콘"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4635237542,
+        "id": 4629095429,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625357692,
         "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "노태문 자사주",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "레미콘",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "농작물",
+    "keyword": "구글 유상 증자",
     "region": "KR",
-    "started_at_unix": 1780225200,
-    "ended_at_unix": 1780228800,
-    "search_volume": 200,
-    "score": 500,
+    "started_at_unix": 1780374000,
+    "ended_at_unix": 1780377600,
+    "search_volume": 100,
+    "score": 200,
     "related_queries": [
-      "농작물"
+      "구글 유상 증자"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4629322218,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "구글 유상 증자",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "아마존",
+    "region": "KR",
+    "started_at_unix": 1780364400,
+    "ended_at_unix": 1780380000,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "아마존"
+    ],
+    "category_ids": [
+      18,
+      15
+    ],
+    "entities": [
+      {
+        "id": 4636668209,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638443001,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4630527382,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636881232,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639192880,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4628981947,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4606139321,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638767321,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635169531,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "아마존",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "포항시",
+    "region": "KR",
+    "started_at_unix": 1780371600,
+    "ended_at_unix": 1780373400,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "포항시"
+    ],
+    "category_ids": [
+      9
+    ],
+    "entities": [
+      {
+        "id": 4615155639,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4624984310,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639184475,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637528697,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636875732,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636848621,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639262363,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638902497,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637067331,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638775432,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4613309076,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636808423,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635699854,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "포항시",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "농구",
+    "region": "KR",
+    "started_at_unix": 1780373400,
+    "ended_at_unix": 1780374600,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "농구"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4629417249,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4638999659,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636611440,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627867277,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4627238951,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639133489,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635897447,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4633693277,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635900960,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4637245072,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636848624,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635796082,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "농구",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "이삭토스트 포켓몬 뱃지",
+    "region": "KR",
+    "started_at_unix": 1780368000,
+    "ended_at_unix": 1780371600,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "이삭토스트 포켓몬 뱃지",
+      "이삭토스트 포켓몬"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4629560539,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4626955397,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4636797148,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4633848218,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4631342965,
+        "id": 4623199362,
         "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "농작물",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "이삭토스트 포켓몬 뱃지",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "이상규",
+    "keyword": "휴머노이드 로봇",
     "region": "KR",
-    "started_at_unix": 1780214400,
-    "ended_at_unix": 1780244400,
+    "started_at_unix": 1780371600,
+    "ended_at_unix": 1780373400,
     "search_volume": 100,
-    "score": 500,
+    "score": 300,
     "related_queries": [
-      "이상규"
+      "휴머노이드 로봇"
     ],
     "category_ids": [
-      17
+      15
     ],
     "entities": [
       {
-        "id": 4636501521,
+        "id": 4638966040,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4632585013,
+        "id": 4633465477,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4618190717,
+        "id": 4636860791,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4608286487,
+        "id": 4636403695,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639228100,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4625144348,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4623021611,
         "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "이상규",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "휴머노이드 로봇",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "고용",
+    "keyword": "철원군",
     "region": "KR",
-    "started_at_unix": 1780223400,
-    "ended_at_unix": 1780228200,
+    "started_at_unix": 1780372800,
+    "ended_at_unix": 1780374000,
     "search_volume": 100,
-    "score": 400,
+    "score": 300,
     "related_queries": [
-      "고용"
+      "철원군"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4627185900,
+        "id": 4629187754,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4628831742,
+        "id": 4632980768,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4616155065,
+        "id": 4632357024,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4626969368,
+        "id": 4631750061,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4596253094,
+        "id": 4616084247,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4633610325,
+        "id": 4638992255,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4635420578,
+        "id": 4627293268,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4629372941,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4633864190,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4635779768,
         "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "고용",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "철원군",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "이준영",
+    "keyword": "넷플릭스",
     "region": "KR",
-    "started_at_unix": 1780228800,
-    "ended_at_unix": 1780241400,
+    "started_at_unix": 1780357200,
+    "ended_at_unix": 1780360200,
     "search_volume": 100,
-    "score": 200,
+    "score": 800,
     "related_queries": [
-      "이준영",
-      "재벌집 막내아들"
+      "넷플릭스"
     ],
     "category_ids": [
-      4
+      11
     ],
     "entities": [
       {
-        "id": 4629082561,
+        "id": 4628630469,
         "language": "ko",
         "region": "KR"
       },
       {
-        "id": 4631603994,
+        "id": 4636663564,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639109008,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4639309049,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4631103701,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4636580970,
+        "language": "ko",
+        "region": "KR"
+      },
+      {
+        "id": 4632326514,
         "language": "ko",
         "region": "KR"
       }
     ],
-    "normalized_keyword": "이준영",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "넷플릭스",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   },
   {
-    "keyword": "xsmb",
+    "keyword": "운석",
     "region": "KR",
-    "started_at_unix": 1780227600,
-    "ended_at_unix": 1780230000,
-    "search_volume": 500,
+    "started_at_unix": 1780362600,
+    "ended_at_unix": 1780369800,
+    "search_volume": 100,
+    "score": 75,
+    "related_queries": [
+      "운석"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4635237596,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "운석",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "캐시워크 정답",
+    "region": "KR",
+    "started_at_unix": 1780315200,
+    "ended_at_unix": 1780323000,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "캐시워크 정답"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4626834977,
+        "language": "ko",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "캐시워크 정답",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "kbo",
+    "region": "KR",
+    "started_at_unix": 1780299000,
+    "ended_at_unix": 1780302000,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "kbo"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4637023248,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636301437,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634412582,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4632487725,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4630244314,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "kbo",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "ตรวจหวย",
+    "region": "KR",
+    "started_at_unix": 1780308000,
+    "ended_at_unix": 1780312200,
+    "search_volume": 100,
+    "score": 800,
+    "related_queries": [
+      "ตรวจหวย"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4629740673,
+        "language": "th",
+        "region": "KR"
+      },
+      {
+        "id": 4635803133,
+        "language": "th",
+        "region": "KR"
+      },
+      {
+        "id": 4628866766,
+        "language": "th",
+        "region": "KR"
+      }
+    ],
+    "normalized_keyword": "ตรวจหวย",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
+  },
+  {
+    "keyword": "sxmb",
+    "region": "KR",
+    "started_at_unix": 1780314000,
+    "ended_at_unix": 1780317600,
+    "search_volume": 200,
     "score": 50,
     "related_queries": [
-      "xsmb",
-      "sxmb"
+      "sxmb",
+      "xsmb"
     ],
     "category_ids": [
       6
@@ -1908,182 +3898,7 @@
         "region": "KR"
       }
     ],
-    "normalized_keyword": "xsmb",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "이영표",
-    "region": "KR",
-    "started_at_unix": 1780218000,
-    "ended_at_unix": 1780221000,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "이영표"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4625211989,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "이영표",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "이용찬",
-    "region": "KR",
-    "started_at_unix": 1780214400,
-    "ended_at_unix": 1780219800,
-    "search_volume": 100,
-    "score": 600,
-    "related_queries": [
-      "이용찬"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4636043734,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635745356,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "이용찬",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "삼성sdi",
-    "region": "KR",
-    "started_at_unix": 1780222800,
-    "ended_at_unix": 1780225800,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "삼성sdi"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4635490235,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4615364620,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635546118,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4625537343,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4629380972,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "삼성sdi",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "한화그룹",
-    "region": "KR",
-    "started_at_unix": 1780216200,
-    "ended_at_unix": 1780218000,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "한화그룹"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4635897473,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4612566268,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4627154628,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4635293763,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4625068664,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4631717651,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4620286742,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "한화그룹",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
-  },
-  {
-    "keyword": "베스킨라빈스",
-    "region": "KR",
-    "started_at_unix": 1780223400,
-    "ended_at_unix": 1780225800,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "베스킨라빈스"
-    ],
-    "category_ids": [
-      5
-    ],
-    "entities": [
-      {
-        "id": 4625041188,
-        "language": "ko",
-        "region": "KR"
-      },
-      {
-        "id": 4632050636,
-        "language": "ko",
-        "region": "KR"
-      }
-    ],
-    "normalized_keyword": "베스킨라빈스",
-    "captured_at": "2026-06-01T07:45:02.295076+00:00"
+    "normalized_keyword": "sxmb",
+    "captured_at": "2026-06-02T07:18:47.514367+00:00"
   }
 ]

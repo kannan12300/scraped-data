@@ -1,431 +1,106 @@
 [
   {
-    "keyword": "classroom",
+    "keyword": "microsoft",
     "region": "PT",
-    "started_at_unix": 1780215000,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "classroom"
-    ],
-    "category_ids": [
-      9
-    ],
-    "entities": [
-      {
-        "id": 4625371428,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4630879411,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4630423442,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619775688,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622254057,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634578576,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4626945000,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631430728,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622997025,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627531724,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635816538,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633226762,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "classroom",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "sapo",
-    "region": "PT",
-    "started_at_unix": 1780217400,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "sapo"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4628101406,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4627579415,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4634974624,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4633396021,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "sapo",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "brasil",
-    "region": "PT",
-    "started_at_unix": 1780255200,
+    "started_at_unix": 1780324200,
     "ended_at_unix": null,
     "search_volume": 2000,
-    "score": 800,
-    "related_queries": [
-      "brasil",
-      "brasil jogo",
-      "brasil x panama",
-      "jogo do brasil",
-      "brasil x",
-      "jogo brasil",
-      "seleção brasileira",
-      "selecao brasileira"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635518172,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4634519690,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636608454,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4630033034,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4627237202,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636414498,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635518172,
-        "language": "es",
-        "region": "PT"
-      },
-      {
-        "id": 4619786239,
-        "language": "es",
-        "region": "PT"
-      },
-      {
-        "id": 4631387353,
-        "language": "es",
-        "region": "PT"
-      },
-      {
-        "id": 4627237202,
-        "language": "es",
-        "region": "PT"
-      },
-      {
-        "id": 4623059973,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4598965060,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4619786239,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4631387353,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4606048348,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4631419575,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635453929,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636738770,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4614559003,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4628023835,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4628582550,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4630262538,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4609030989,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636548158,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4633665967,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4627240771,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4634866159,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4628091901,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4630994070,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4610380371,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636580748,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636732267,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4628515516,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4609968509,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4610154490,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4627211955,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4621364611,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636010237,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "brasil",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "joao barbosa",
-    "region": "PT",
-    "started_at_unix": 1780263600,
-    "ended_at_unix": null,
-    "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "joao barbosa",
-      "ator joao barbosa"
+      "microsoft"
     ],
     "category_ids": [
-      4
+      18,
+      15
     ],
     "entities": [
       {
-        "id": 4636487501,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "joao barbosa",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "dia dos irmãos",
-    "region": "PT",
-    "started_at_unix": 1780215000,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "dia dos irmãos"
-    ],
-    "category_ids": [
-      8
-    ],
-    "entities": [
-      {
-        "id": 4635731572,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4633139841,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "dia dos irmaos",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "radio online",
-    "region": "PT",
-    "started_at_unix": 1780297200,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "radio online"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4634269270,
+        "id": 4622100713,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4630550073,
+        "id": 4627425620,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4623025918,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631048212,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4629892660,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4639040529,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4630790968,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4638422187,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631543113,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637509950,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637904112,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4629019635,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4595191005,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "radio online",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "microsoft",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
-    "keyword": "dia da criança",
+    "keyword": "jato polar",
     "region": "PT",
-    "started_at_unix": 1780216800,
+    "started_at_unix": 1780377600,
     "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 400,
+    "search_volume": 2000,
+    "score": 1000,
     "related_queries": [
-      "dia da criança"
+      "jato polar",
+      "tempo",
+      "tempo para hoje"
     ],
     "category_ids": [
-      11
+      20
     ],
     "entities": [
       {
-        "id": 4632464025,
+        "id": 4635563216,
         "language": "pt",
         "region": "PT"
       },
@@ -435,95 +110,435 @@
         "region": "PT"
       },
       {
-        "id": 4630930822,
+        "id": 4636863261,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4618965571,
+        "id": 4624079600,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4616566205,
+        "id": 4637664429,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4636298773,
+        "id": 4638603965,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4636580743,
+        "id": 4636790301,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4616746138,
+        "id": 4639225545,
         "language": "pt",
         "region": "PT"
       }
     ],
-    "normalized_keyword": "dia da crianca",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "jato polar",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
-    "keyword": "noticias ao minuto",
+    "keyword": "explosão",
     "region": "PT",
-    "started_at_unix": 1780216200,
+    "started_at_unix": 1780376400,
     "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 100,
+    "search_volume": 1000,
+    "score": 1000,
     "related_queries": [
-      "noticias ao minuto"
+      "explosão"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4637149508,
+        "id": 4637016274,
         "language": "pt",
         "region": "PT"
       },
+      {
+        "id": 4635031222,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4637307913,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4628073357,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4637664412,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4636191411,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4619782639,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4616902548,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4615192812,
+        "language": "pt",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "explosao",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "acidente",
+    "region": "PT",
+    "started_at_unix": 1780378800,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "acidente"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4637865787,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4625683483,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4638391152,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4638408376,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4638270270,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4633524475,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4636278269,
+        "language": "pt",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "acidente",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "greve",
+    "region": "PT",
+    "started_at_unix": 1780372800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 800,
+    "related_queries": [
+      "greve",
+      "greve geral 3 de junho",
+      "greve geral",
+      "metro lisboa"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
       {
         "id": 4628515516,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4632464025,
+        "id": 4615250835,
         "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4617665579,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4628732693,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4634711735,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4628515516,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4633909019,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4638489185,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4639276980,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4631486130,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4638155496,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4639276980,
+        "language": "pt",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "greve",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "josé mourinho",
+    "region": "PT",
+    "started_at_unix": 1780374600,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 700,
+    "related_queries": [
+      "josé mourinho"
+    ],
+    "category_ids": [
+      17,
+      5
+    ],
+    "entities": [
+      {
+        "id": 4638018363,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4638219019,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4618439792,
+        "language": "en",
         "region": "PT"
       },
       {
         "id": 4602722760,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4618894283,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4638004706,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4636311655,
+        "language": "en",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "jose mourinho",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "ipma",
+    "region": "PT",
+    "started_at_unix": 1780380000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 50,
+    "related_queries": [
+      "ipma"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4637479346,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4628889455,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4637820190,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4606570397,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4635563216,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4636539819,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4634438292,
+        "language": "en",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "ipma",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "secret story - casa dos segredos",
+    "region": "PT",
+    "started_at_unix": 1780377600,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "secret story - casa dos segredos"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4637658969,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4637269089,
+        "id": 4624154500,
+        "language": "pt",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "secret story - casa dos segredos",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "lazar marković",
+    "region": "PT",
+    "started_at_unix": 1780377000,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "lazar marković"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638134985,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4637820190,
+        "language": "en",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "lazar markovic",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "sporting clube de portugal",
+    "region": "PT",
+    "started_at_unix": 1780378800,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "sporting clube de portugal"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4580703686,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4636411412,
+        "id": 4631645786,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4636919321,
+        "id": 4627955147,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4636743371,
+        "id": 4624270625,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4636487501,
+        "id": 4607853326,
         "language": "pt",
         "region": "PT"
       },
@@ -531,134 +546,376 @@
         "id": 4632443004,
         "language": "pt",
         "region": "PT"
+      },
+      {
+        "id": 4624332205,
+        "language": "pt",
+        "region": "PT"
       }
     ],
-    "normalized_keyword": "noticias ao minuto",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "sporting clube de portugal",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
-    "keyword": "secret story",
+    "keyword": "código da estrada",
     "region": "PT",
-    "started_at_unix": 1780261800,
+    "started_at_unix": 1780381800,
     "ended_at_unix": null,
     "search_volume": 200,
-    "score": 100,
+    "score": 600,
     "related_queries": [
-      "secret story",
-      "catarina miranda big brother"
+      "código da estrada"
     ],
     "category_ids": [
-      4
+      10
     ],
     "entities": [
       {
-        "id": 4616294440,
+        "id": 4638062357,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4636329733,
+        "id": 4637582539,
         "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4602363299,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4616294440,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4602363299,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4629755689,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4636329733,
-        "language": "fr",
         "region": "PT"
       }
     ],
-    "normalized_keyword": "secret story",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "codigo da estrada",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
-    "keyword": "brasil panama",
+    "keyword": "rio tejo",
     "region": "PT",
-    "started_at_unix": 1780269600,
+    "started_at_unix": 1780378800,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "rio tejo"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4638062352,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4638263570,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4635446312,
+        "language": "pt",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "rio tejo",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "itália",
+    "region": "PT",
+    "started_at_unix": 1780380600,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "itália"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4635005581,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4631905811,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4625772274,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4628629663,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4634795494,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4625578074,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4637941450,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4638197436,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4637027262,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4626290268,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4611736295,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4614509280,
+        "language": "pt",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "italia",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "weather",
+    "region": "PT",
+    "started_at_unix": 1780378200,
+    "ended_at_unix": 1780384200,
+    "search_volume": 1000,
+    "score": 75,
+    "related_queries": [
+      "weather"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4629373636,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4634779068,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4639119337,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4629582387,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4639212581,
+        "language": "en",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "weather",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "sindicato",
+    "region": "PT",
+    "started_at_unix": 1780383600,
     "ended_at_unix": null,
     "search_volume": 100,
-    "score": 800,
+    "score": 300,
     "related_queries": [
-      "brasil panama"
+      "sindicato"
+    ],
+    "category_ids": [
+      7,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4639355705,
+        "language": "es",
+        "region": "PT"
+      },
+      {
+        "id": 4619896248,
+        "language": "es",
+        "region": "PT"
+      },
+      {
+        "id": 4633909019,
+        "language": "es",
+        "region": "PT"
+      },
+      {
+        "id": 4633039745,
+        "language": "es",
+        "region": "PT"
+      },
+      {
+        "id": 4638342572,
+        "language": "es",
+        "region": "PT"
+      },
+      {
+        "id": 4638187402,
+        "language": "es",
+        "region": "PT"
+      },
+      {
+        "id": 4624917909,
+        "language": "es",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "sindicato",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "meteoro",
+    "region": "PT",
+    "started_at_unix": 1780381800,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 200,
+    "related_queries": [
+      "meteoro"
+    ],
+    "category_ids": [
+      15
+    ],
+    "entities": [
+      {
+        "id": 4635031222,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4624746748,
+        "language": "pt",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "meteoro",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "william gomes",
+    "region": "PT",
+    "started_at_unix": 1780381800,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 400,
+    "related_queries": [
+      "william gomes"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4613894010,
-        "language": "en",
-        "region": "US"
+        "id": 4632705148,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4638211108,
+        "language": "pt",
+        "region": "PT"
       }
     ],
-    "normalized_keyword": "brasil panama",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "william gomes",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
-    "keyword": "feriados junho 2026",
+    "keyword": "michael jordan",
     "region": "PT",
-    "started_at_unix": 1780232400,
+    "started_at_unix": 1780383600,
     "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 200,
+    "search_volume": 100,
+    "score": 300,
     "related_queries": [
-      "feriados junho 2026"
+      "michael jordan"
     ],
     "category_ids": [
-      8
+      17
     ],
     "entities": [
       {
-        "id": 4626984637,
-        "language": "pt",
+        "id": 4638152568,
+        "language": "en",
         "region": "PT"
       },
       {
-        "id": 4628434667,
-        "language": "pt",
+        "id": 4638827977,
+        "language": "en",
         "region": "PT"
       },
       {
-        "id": 4572779426,
-        "language": "pt",
+        "id": 4637830692,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4638584294,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4621343166,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4612558133,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4638110890,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4636461769,
+        "language": "en",
         "region": "PT"
       }
     ],
-    "normalized_keyword": "feriados junho 2026",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "michael jordan",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
-    "keyword": "abola",
+    "keyword": "benfica",
     "region": "PT",
-    "started_at_unix": 1780218600,
+    "started_at_unix": 1780381200,
     "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 50,
+    "search_volume": 100,
+    "score": 100,
     "related_queries": [
-      "abola",
-      "bola",
-      "marco silva",
-      "futebol",
-      "cnn portugal"
+      "benfica",
+      "a bola"
     ],
     "category_ids": [
       17
@@ -666,41 +923,6 @@
     "entities": [
       {
         "id": 4602722760,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4614677783,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635312612,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635577832,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4605677457,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4629125285,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635868967,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4604085594,
         "language": "pt",
         "region": "PT"
       },
@@ -710,597 +932,12 @@
         "region": "PT"
       },
       {
-        "id": 4617614344,
+        "id": 4638004706,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4635037018,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635584133,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4632201654,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4622502387,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4621749409,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4619789959,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4633828450,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4602722760,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4604085594,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4624270625,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4635037018,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4613882114,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4629125285,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4635016896,
-        "language": "en",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "abola",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "email",
-    "region": "PT",
-    "started_at_unix": 1780242000,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "email"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4635622201,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628640747,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629067776,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635618974,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619950898,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4616292012,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4592027297,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4589108154,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4543989501,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4621196389,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "email",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "tvi direto",
-    "region": "PT",
-    "started_at_unix": 1780259400,
-    "ended_at_unix": 1780296600,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "tvi direto"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4636329733,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4602363299,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "tvi direto",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "jogos",
-    "region": "PT",
-    "started_at_unix": 1780227000,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "jogos",
-      "calendario 2026",
-      "portugal jogos",
-      "quando começa o mundial",
-      "calendario mundial 2026",
-      "jogos mundial"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4601704989,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4625611749,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4636580714,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4631374738,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4632980148,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4635945179,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4601704989,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4629359671,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636850448,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4625998706,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4620789456,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4625588490,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4634519690,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4601704989,
-        "language": "es",
-        "region": "PT"
-      },
-      {
-        "id": 4637278880,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4614247367,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4621749409,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635158876,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4637136307,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4634635699,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635037018,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4614677783,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "jogos",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "dia da criança 2026",
-    "region": "PT",
-    "started_at_unix": 1780224000,
-    "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "dia da criança 2026"
-    ],
-    "category_ids": [
-      8
-    ],
-    "entities": [
-      {
-        "id": 4616746138,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4618545545,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "dia da crianca 2026",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "brasil fc",
-    "region": "PT",
-    "started_at_unix": 1780235400,
-    "ended_at_unix": 1780299600,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "brasil fc"
-    ],
-    "category_ids": [
-      6,
-      17
-    ],
-    "entities": [
-      {
-        "id": 4619222848,
-        "language": "en",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "brasil fc",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "teams",
-    "region": "PT",
-    "started_at_unix": 1780252200,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 75,
-    "related_queries": [
-      "teams"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4629248633,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636006177,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4624791964,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634654668,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619835162,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4632916507,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636826619,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631705804,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629313856,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625758348,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619866250,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4630959875,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634693284,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619407916,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635013958,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4603346136,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634787154,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4624587746,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635358513,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622825738,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636042830,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636090992,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4601778884,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4542622314,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "teams",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "callum turner",
-    "region": "PT",
-    "started_at_unix": 1780269000,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "callum turner",
-      "dua lipa"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4628838781,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4628874737,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4632070817,
-        "language": "en",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "callum turner",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "caixa geral",
-    "region": "PT",
-    "started_at_unix": 1780216200,
-    "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "caixa geral"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4637131522,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4633286924,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "caixa geral",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "cabo verde",
-    "region": "PT",
-    "started_at_unix": 1780238400,
-    "ended_at_unix": 1780270200,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "cabo verde",
-      "cabo verde servia"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4625998706,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636760211,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4630863323,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4609843599,
+        "id": 4638963063,
         "language": "pt",
         "region": "PT"
       },
@@ -1310,628 +947,147 @@
         "region": "PT"
       },
       {
-        "id": 4631270138,
+        "id": 4618439792,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4637871552,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4635192842,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4616955552,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4637211538,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4617233793,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4635037018,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4615462567,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4600654583,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4634438301,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4631110340,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4580572158,
         "language": "pt",
         "region": "PT"
       }
     ],
-    "normalized_keyword": "cabo verde",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "benfica",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
-    "keyword": "joao fonseca",
+    "keyword": "perguntar não ofende",
     "region": "PT",
-    "started_at_unix": 1780259400,
-    "ended_at_unix": 1780295400,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "joao fonseca",
-      "casper ruud"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4589491940,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4637131494,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4632666537,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4633653190,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4607390672,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4620211812,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4589491940,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4633630463,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4637131494,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636612676,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "joao fonseca",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "cm",
-    "region": "PT",
-    "started_at_unix": 1780276800,
+    "started_at_unix": 1780384200,
     "ended_at_unix": null,
     "search_volume": 100,
-    "score": 50,
+    "score": 200,
     "related_queries": [
-      "cm"
+      "perguntar não ofende"
     ],
     "category_ids": [
-      7,
-      10
+      11
     ],
     "entities": [
       {
-        "id": 4622601847,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4636743389,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4634281780,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4628675267,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4635590654,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4637040306,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4634578576,
-        "language": "en",
+        "id": 4637088717,
+        "language": "pt",
         "region": "PT"
       }
     ],
-    "normalized_keyword": "cm",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "perguntar nao ofende",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
-    "keyword": "catarina miranda",
+    "keyword": "keanu reeves",
     "region": "PT",
-    "started_at_unix": 1780266000,
-    "ended_at_unix": 1780296600,
+    "started_at_unix": 1780383600,
+    "ended_at_unix": 1780384800,
     "search_volume": 100,
-    "score": 500,
+    "score": 200,
     "related_queries": [
-      "catarina miranda"
+      "keanu reeves"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4629755689,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4616294440,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636636576,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "catarina miranda",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "roland garros 2026",
-    "region": "PT",
-    "started_at_unix": 1780263000,
-    "ended_at_unix": 1780297200,
-    "search_volume": 200,
-    "score": 75,
-    "related_queries": [
-      "roland garros 2026"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4620620129,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4618226905,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4634498820,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4636344557,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4597159736,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4630502405,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4594684344,
-        "language": "fr",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "roland garros 2026",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "autoridade tributaria",
-    "region": "PT",
-    "started_at_unix": 1780233600,
-    "ended_at_unix": 1780297800,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "autoridade tributaria"
-    ],
-    "category_ids": [
-      1
-    ],
-    "entities": [
-      {
-        "id": 4635177807,
-        "language": "es",
-        "region": "PT"
-      },
-      {
-        "id": 4633158211,
-        "language": "es",
-        "region": "PT"
-      },
-      {
-        "id": 4635177827,
-        "language": "es",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "autoridade tributaria",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "jn",
-    "region": "PT",
-    "started_at_unix": 1780242000,
-    "ended_at_unix": 1780299000,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "jn"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4636442569,
+        "id": 4615793617,
         "language": "en",
         "region": "PT"
       },
       {
-        "id": 4636329761,
+        "id": 4633513879,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4626279430,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4633452773,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4629022609,
+        "language": "en",
+        "region": "PT"
+      },
+      {
+        "id": 4628756949,
         "language": "en",
         "region": "PT"
       }
     ],
-    "normalized_keyword": "jn",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "sic",
-    "region": "PT",
-    "started_at_unix": 1780260600,
-    "ended_at_unix": 1780276800,
-    "search_volume": 100,
-    "score": 75,
-    "related_queries": [
-      "sic"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4633909019,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4637121877,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4634866159,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4617654664,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4618624816,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635080327,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635913349,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636207603,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "sic",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "fisco",
-    "region": "PT",
-    "started_at_unix": 1780222200,
-    "ended_at_unix": 1780228800,
-    "search_volume": 500,
-    "score": 800,
-    "related_queries": [
-      "fisco"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4633158211,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4635720571,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4631407282,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4620605210,
-        "language": "en",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "fisco",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "samsung",
-    "region": "PT",
-    "started_at_unix": 1780214400,
-    "ended_at_unix": 1780227000,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "samsung"
-    ],
-    "category_ids": [
-      3,
-      18
-    ],
-    "entities": [
-      {
-        "id": 4635395758,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625126141,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635371517,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4606497946,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4626770431,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628803658,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629523180,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627180728,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629292363,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4615395447,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633052332,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634613359,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622454006,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636487043,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635944594,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "samsung",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "mette marit",
-    "region": "PT",
-    "started_at_unix": 1780213800,
-    "ended_at_unix": 1780271400,
-    "search_volume": 100,
-    "score": 600,
-    "related_queries": [
-      "mette marit"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4628210407,
-        "language": "en",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "mette marit",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "fotis ioannidis",
-    "region": "PT",
-    "started_at_unix": 1780217400,
-    "ended_at_unix": 1780228800,
-    "search_volume": 200,
-    "score": 600,
-    "related_queries": [
-      "fotis ioannidis"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4629902566,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4633263694,
-        "language": "en",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "fotis ioannidis",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "ojogo",
-    "region": "PT",
-    "started_at_unix": 1780221000,
-    "ended_at_unix": 1780291200,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "ojogo"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4617614344,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4602722760,
-        "language": "pt",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "ojogo",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
-  },
-  {
-    "keyword": "roland garros",
-    "region": "PT",
-    "started_at_unix": 1780267200,
-    "ended_at_unix": 1780270800,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "roland garros"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4634498820,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4618585714,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4589491940,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4620620129,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4620162194,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4630502405,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4635203115,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4628864088,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4637201335,
-        "language": "fr",
-        "region": "PT"
-      },
-      {
-        "id": 4636677061,
-        "language": "fr",
-        "region": "PT"
-      }
-    ],
-    "normalized_keyword": "roland garros",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "keanu reeves",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
     "keyword": "correio da manhã",
     "region": "PT",
-    "started_at_unix": 1780214400,
-    "ended_at_unix": 1780217400,
+    "started_at_unix": 1780301400,
+    "ended_at_unix": 1780382400,
     "search_volume": 500,
-    "score": 100,
+    "score": 75,
     "related_queries": [
       "correio da manhã"
     ],
@@ -1940,201 +1096,269 @@
     ],
     "entities": [
       {
-        "id": 4636018404,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636587556,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4614677783,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4617654664,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4636122951,
-        "language": "pt",
-        "region": "PT"
+        "id": 4638822929,
+        "language": "en",
+        "region": "US"
       },
       {
         "id": 4634507699,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635748673,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4628587466,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4635785555,
-        "language": "pt",
-        "region": "PT"
+        "language": "en",
+        "region": "US"
       }
     ],
     "normalized_keyword": "correio da manha",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
-    "keyword": "ipl",
+    "keyword": "dre",
     "region": "PT",
-    "started_at_unix": 1780237800,
-    "ended_at_unix": 1780247400,
-    "search_volume": 100,
-    "score": 200,
+    "started_at_unix": 1780302000,
+    "ended_at_unix": 1780334400,
+    "search_volume": 500,
+    "score": 50,
     "related_queries": [
-      "ipl"
+      "dre"
     ],
     "category_ids": [
-      17
+      14
     ],
     "entities": [
       {
-        "id": 4637152855,
+        "id": 4632682877,
         "language": "en",
-        "region": "PT"
+        "region": "US"
       },
       {
-        "id": 4606928464,
+        "id": 4521583928,
         "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4625493704,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4636621290,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4622825616,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4637174144,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4636298414,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4635301387,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4627586877,
-        "language": "en",
-        "region": "PT"
-      },
-      {
-        "id": 4599822723,
-        "language": "en",
-        "region": "PT"
+        "region": "US"
       }
     ],
-    "normalized_keyword": "ipl",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "dre",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
-    "keyword": "herança",
+    "keyword": "observador",
     "region": "PT",
-    "started_at_unix": 1780219800,
-    "ended_at_unix": 1780222200,
+    "started_at_unix": 1780299000,
+    "ended_at_unix": 1780359600,
     "search_volume": 200,
-    "score": 400,
+    "score": 100,
     "related_queries": [
-      "herança"
+      "observador"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4638750231,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "observador",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "diario da republica",
+    "region": "PT",
+    "started_at_unix": 1780303800,
+    "ended_at_unix": 1780317000,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "diario da republica"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4635720571,
+        "id": 4638187446,
+        "language": "it",
+        "region": "PT"
+      },
+      {
+        "id": 4622275667,
+        "language": "it",
+        "region": "PT"
+      },
+      {
+        "id": 4626139636,
+        "language": "it",
+        "region": "PT"
+      }
+    ],
+    "normalized_keyword": "diario da republica",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "occ",
+    "region": "PT",
+    "started_at_unix": 1780322400,
+    "ended_at_unix": 1780333800,
+    "search_volume": 100,
+    "score": 75,
+    "related_queries": [
+      "occ"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4638547026,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4633354481,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "occ",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "correio manha",
+    "region": "PT",
+    "started_at_unix": 1780303800,
+    "ended_at_unix": 1780315800,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "correio manha"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4634507699,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4631265759,
+        "id": 4630310123,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4603392930,
+        "id": 4617383379,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4635396249,
+        "id": 4635972947,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4633035017,
+        "id": 4636348714,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4634488894,
-        "language": "pt",
-        "region": "PT"
-      },
-      {
-        "id": 4634523153,
+        "id": 4612566151,
         "language": "pt",
         "region": "PT"
       }
     ],
-    "normalized_keyword": "heranca",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "correio manha",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   },
   {
-    "keyword": "ponte 25 de abril",
+    "keyword": "jogos santa casa",
     "region": "PT",
-    "started_at_unix": 1780214400,
-    "ended_at_unix": 1780215600,
-    "search_volume": 200,
-    "score": 600,
+    "started_at_unix": 1780300800,
+    "ended_at_unix": 1780353600,
+    "search_volume": 100,
+    "score": 50,
     "related_queries": [
-      "ponte 25 de abril"
+      "jogos santa casa"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4628794698,
+        "id": 4637463998,
         "language": "pt",
         "region": "PT"
       },
       {
-        "id": 4631363480,
+        "id": 4638366632,
+        "language": "pt",
+        "region": "PT"
+      },
+      {
+        "id": 4630610382,
         "language": "pt",
         "region": "PT"
       }
     ],
-    "normalized_keyword": "ponte 25 de abril",
-    "captured_at": "2026-06-01T07:52:46.161046+00:00"
+    "normalized_keyword": "jogos santa casa",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
+  },
+  {
+    "keyword": "word",
+    "region": "PT",
+    "started_at_unix": 1780299600,
+    "ended_at_unix": 1780305000,
+    "search_volume": 100,
+    "score": 50,
+    "related_queries": [
+      "word"
+    ],
+    "category_ids": [
+      18
+    ],
+    "entities": [
+      {
+        "id": 4636339488,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4632951657,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4611147344,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635489151,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635054281,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631719208,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631524946,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628613168,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "word",
+    "captured_at": "2026-06-02T07:26:25.899030+00:00"
   }
 ]
