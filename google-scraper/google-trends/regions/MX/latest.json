@@ -1,58 +1,399 @@
 [
   {
-    "keyword": "la nación",
+    "keyword": "telefonía móvil",
     "region": "MX",
-    "started_at_unix": 1780368000,
+    "started_at_unix": 1780433400,
     "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 600,
+    "search_volume": 20000,
+    "score": 900,
     "related_queries": [
-      "la nación"
+      "telefonía móvil",
+      "telefonía móvil en méxico",
+      "teléfono móvil"
     ],
     "category_ids": [
-      3
+      18
     ],
     "entities": [
       {
-        "id": 4634332098,
+        "id": 4627312340,
         "language": "es",
         "region": "MX"
       },
       {
-        "id": 4638289428,
+        "id": 4631902155,
         "language": "es",
         "region": "MX"
       },
       {
-        "id": 4577430595,
+        "id": 4627721032,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4631819573,
         "language": "es",
         "region": "MX"
       }
     ],
-    "normalized_keyword": "la nacion",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "telefonia movil",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   },
   {
-    "keyword": "lluvia",
+    "keyword": "nasa",
     "region": "MX",
-    "started_at_unix": 1780372800,
+    "started_at_unix": 1780410600,
     "ended_at_unix": null,
-    "search_volume": 5000,
+    "search_volume": 10000,
+    "score": 700,
+    "related_queries": [
+      "nasa"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4635046614,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4633973922,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4630372812,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4638170980,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4634904355,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640285345,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4635019368,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4641150432,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4615234709,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4618644253,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "nasa",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "asteroide",
+    "region": "MX",
+    "started_at_unix": 1780418400,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 700,
+    "related_queries": [
+      "asteroide"
+    ],
+    "category_ids": [
+      15,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4633973922,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4637589327,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4639936636,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640956056,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4636011608,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "asteroide",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "nueva zelanda vs",
+    "region": "MX",
+    "started_at_unix": 1780444800,
+    "ended_at_unix": 1780468200,
+    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "lluvia"
+      "nueva zelanda vs",
+      "haití - nueva zelanda",
+      "haiti vs",
+      "nueva zelanda vs haiti",
+      "nueva zelanda",
+      "haiti"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4628796377,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640792997,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4621065943,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4628796377,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4634851552,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640923707,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4616830899,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4641165730,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "nueva zelanda vs",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "erik lira",
+    "region": "MX",
+    "started_at_unix": 1780423200,
+    "ended_at_unix": 1780465200,
+    "search_volume": 5000,
+    "score": 600,
+    "related_queries": [
+      "erik lira"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4636834543,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4641005067,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4636459554,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638764197,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4631934263,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4631435930,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "erik lira",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "croacia - bélgica",
+    "region": "MX",
+    "started_at_unix": 1780413000,
+    "ended_at_unix": 1780443000,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "croacia - bélgica",
+      "croacia vs bélgica",
+      "croacia vs",
+      "belgica vs",
+      "belgica vs croacia",
+      "croacia vs. bélgica"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4615477887,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4615477887,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "croacia - belgica",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "yankees - guardians",
+    "region": "MX",
+    "started_at_unix": 1780440600,
+    "ended_at_unix": 1780463400,
+    "search_volume": 5000,
+    "score": 900,
+    "related_queries": [
+      "yankees - guardians"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4630440074,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4639363899,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4641150483,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640683072,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4627463618,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4631288275,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "yankees - guardians",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "clima",
+    "region": "MX",
+    "started_at_unix": 1780404000,
+    "ended_at_unix": 1780408200,
+    "search_volume": 200000,
+    "score": 75,
+    "related_queries": [
+      "clima"
     ],
     "category_ids": [
       20
     ],
     "entities": [
       {
-        "id": 4626879701,
+        "id": 4635973791,
         "language": "es",
         "region": "MX"
       },
       {
-        "id": 4629336827,
+        "id": 4627681651,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4636938400,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4631304081,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4635973746,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4639191795,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640973997,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4637055595,
         "language": "es",
         "region": "MX"
       },
@@ -62,150 +403,79 @@
         "region": "MX"
       },
       {
-        "id": 4598491352,
+        "id": 4630936898,
         "language": "es",
         "region": "MX"
       },
       {
-        "id": 4629322332,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638828319,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4639048926,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4639032244,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4639146193,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4629239960,
+        "id": 4630232562,
         "language": "es",
         "region": "MX"
       }
     ],
-    "normalized_keyword": "lluvia",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "clima",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   },
   {
-    "keyword": "colombia vs costa rica",
+    "keyword": "junior - atlético nacional",
     "region": "MX",
-    "started_at_unix": 1780350000,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 500,
-    "related_queries": [
-      "colombia vs costa rica",
-      "colombia - costa rica",
-      "colombia vs"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4620065217,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638921295,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4636661447,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4627242576,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "colombia vs costa rica",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "dbacks - dodgers",
-    "region": "MX",
-    "started_at_unix": 1780365600,
-    "ended_at_unix": 1780380000,
-    "search_volume": 5000,
-    "score": 900,
-    "related_queries": [
-      "dbacks - dodgers"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4623405257,
-        "language": "en",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "dbacks - dodgers",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "canadá - uzbekistán",
-    "region": "MX",
-    "started_at_unix": 1780365600,
-    "ended_at_unix": 1780375800,
+    "started_at_unix": 1780444200,
+    "ended_at_unix": 1780459800,
     "search_volume": 2000,
-    "score": 700,
+    "score": 1000,
     "related_queries": [
-      "canadá - uzbekistán",
-      "canada vs uzbekistan"
+      "junior - atlético nacional"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4627242576,
+        "id": 4637756592,
         "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4627242576,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4636661447,
-        "language": "en",
         "region": "MX"
       }
     ],
-    "normalized_keyword": "canada - uzbekistan",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "junior - atletico nacional",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   },
   {
-    "keyword": "reyes rodríguez mondragón",
+    "keyword": "kevin álvarez",
     "region": "MX",
-    "started_at_unix": 1780367400,
-    "ended_at_unix": 1780381800,
-    "search_volume": 2000,
+    "started_at_unix": 1780397400,
+    "ended_at_unix": 1780453800,
+    "search_volume": 5000,
     "score": 200,
     "related_queries": [
-      "reyes rodríguez mondragón"
+      "kevin álvarez"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638487182,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4632679254,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "kevin alvarez",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "corte suprema",
+    "region": "MX",
+    "started_at_unix": 1780394400,
+    "ended_at_unix": 1780425000,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "corte suprema"
     ],
     "category_ids": [
       14,
@@ -213,391 +483,1177 @@
     ],
     "entities": [
       {
-        "id": 4629530201,
-        "language": "en",
+        "id": 4627231747,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638091109,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4637777355,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4630778835,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4628208924,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638550821,
+        "language": "es",
         "region": "MX"
       }
     ],
-    "normalized_keyword": "reyes rodriguez mondragon",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "corte suprema",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   },
   {
-    "keyword": "canada vs",
+    "keyword": "dumfries",
     "region": "MX",
-    "started_at_unix": 1780359600,
-    "ended_at_unix": 1780378200,
-    "search_volume": 1000,
-    "score": 600,
+    "started_at_unix": 1780434600,
+    "ended_at_unix": 1780454400,
+    "search_volume": 2000,
+    "score": 700,
     "related_queries": [
-      "canada vs",
-      "canada"
+      "dumfries"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4627291890,
+        "id": 4638693200,
         "language": "en",
         "region": "MX"
       },
       {
-        "id": 4630771567,
+        "id": 4640041464,
         "language": "en",
         "region": "MX"
       },
       {
-        "id": 4624772408,
+        "id": 4632207479,
         "language": "en",
         "region": "MX"
       },
       {
-        "id": 4636661447,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4627242576,
+        "id": 4618312752,
         "language": "en",
         "region": "MX"
       }
     ],
-    "normalized_keyword": "canada vs",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "dumfries",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   },
   {
-    "keyword": "antonio mohamed",
+    "keyword": "cnte",
     "region": "MX",
-    "started_at_unix": 1780367400,
-    "ended_at_unix": 1780380000,
-    "search_volume": 1000,
-    "score": 300,
-    "related_queries": [
-      "antonio mohamed"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635579062,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4634481600,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "antonio mohamed",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "sofía castro",
-    "region": "MX",
-    "started_at_unix": 1780367400,
-    "ended_at_unix": 1780378800,
-    "search_volume": 1000,
+    "started_at_unix": 1780431000,
+    "ended_at_unix": 1780454400,
+    "search_volume": 5000,
     "score": 200,
     "related_queries": [
-      "sofía castro"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4636565812,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4626455176,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638534517,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "sofia castro",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "claude",
-    "region": "MX",
-    "started_at_unix": 1780383600,
-    "ended_at_unix": 1780384800,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "claude"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4606497946,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4623025918,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625849854,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634795085,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634585204,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622371395,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638351576,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636976386,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628552791,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636930214,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4540393161,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4600633330,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "claude",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "whatsapp",
-    "region": "MX",
-    "started_at_unix": 1780325400,
-    "ended_at_unix": 1780338600,
-    "search_volume": 20000,
-    "score": 50,
-    "related_queries": [
-      "whatsapp",
-      "whatsapp app"
+      "cnte"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4611039432,
+        "id": 4598133362,
         "language": "en",
-        "region": "US"
+        "region": "MX"
       },
       {
-        "id": 4629437433,
+        "id": 4640670930,
         "language": "en",
-        "region": "US"
+        "region": "MX"
       },
       {
-        "id": 4638676751,
+        "id": 4630051057,
         "language": "en",
-        "region": "US"
+        "region": "MX"
       },
       {
-        "id": 4627372628,
+        "id": 4639524390,
         "language": "en",
-        "region": "US"
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "cnte",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "god of war laufey",
+    "region": "MX",
+    "started_at_unix": 1780439400,
+    "ended_at_unix": 1780453800,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "god of war laufey",
+      "laufey"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4640817500,
+        "language": "en",
+        "region": "MX"
       },
       {
-        "id": 4639235540,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634155885,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4632156480,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629114523,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4617453262,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4582332518,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625399855,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4576876412,
+        "id": 4640817500,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "whatsapp",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "god of war laufey",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   },
   {
-    "keyword": "noruega vs suecia",
+    "keyword": "phillies - padres",
     "region": "MX",
-    "started_at_unix": 1780328400,
-    "ended_at_unix": 1780372800,
+    "started_at_unix": 1780439400,
+    "ended_at_unix": 1780453200,
     "search_volume": 2000,
-    "score": 1000,
+    "score": 800,
     "related_queries": [
-      "noruega vs suecia",
-      "noruega vs"
+      "phillies - padres"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4615477847,
+        "id": 4625168556,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "phillies - padres",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "tiempo",
+    "region": "MX",
+    "started_at_unix": 1780399800,
+    "ended_at_unix": 1780409400,
+    "search_volume": 20000,
+    "score": 75,
+    "related_queries": [
+      "tiempo"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4631727548,
         "language": "es",
         "region": "MX"
       },
       {
-        "id": 4636661447,
+        "id": 4640970123,
         "language": "es",
         "region": "MX"
       },
       {
-        "id": 4624189061,
+        "id": 4638875604,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4624397411,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640489797,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640354420,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638834819,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4636610991,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4628319672,
         "language": "es",
         "region": "MX"
       }
     ],
-    "normalized_keyword": "noruega vs suecia",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "tiempo",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   },
   {
-    "keyword": "teams",
+    "keyword": "gales vs ghana",
     "region": "MX",
-    "started_at_unix": 1780319400,
-    "ended_at_unix": 1780363800,
+    "started_at_unix": 1780425600,
+    "ended_at_unix": 1780438800,
+    "search_volume": 5000,
+    "score": 800,
+    "related_queries": [
+      "gales vs ghana",
+      "ghana vs"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638831154,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4628603383,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "gales vs ghana",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "marruecos vs",
+    "region": "MX",
+    "started_at_unix": 1780420800,
+    "ended_at_unix": 1780433400,
+    "search_volume": 5000,
+    "score": 600,
+    "related_queries": [
+      "marruecos vs",
+      "marruecos vs madagascar",
+      "marruecos fc",
+      "marruecos"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4617060463,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640389396,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640070501,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640329931,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638817145,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4639966672,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4636730529,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4639850489,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4615477887,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4635291263,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4628603383,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "marruecos vs",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "piero quispe",
+    "region": "MX",
+    "started_at_unix": 1780444200,
+    "ended_at_unix": 1780453200,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "piero quispe"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4626030244,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "piero quispe",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "cayetana álvarez de toledo",
+    "region": "MX",
+    "started_at_unix": 1780439400,
+    "ended_at_unix": 1780450200,
     "search_volume": 2000,
+    "score": 300,
+    "related_queries": [
+      "cayetana álvarez de toledo"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4638886508,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "cayetana alvarez de toledo",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "gales vs",
+    "region": "MX",
+    "started_at_unix": 1780428000,
+    "ended_at_unix": 1780437600,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "gales vs"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4628603383,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "gales vs",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "efraín juárez",
+    "region": "MX",
+    "started_at_unix": 1780398000,
+    "ended_at_unix": 1780413000,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "efraín juárez"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631538420,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638491959,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4626030244,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "efrain juarez",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "braves - blue jays",
+    "region": "MX",
+    "started_at_unix": 1780441800,
+    "ended_at_unix": 1780453200,
+    "search_volume": 1000,
+    "score": 900,
+    "related_queries": [
+      "braves - blue jays"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4630439629,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4641068828,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4641028501,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "braves - blue jays",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "alexander zverev",
+    "region": "MX",
+    "started_at_unix": 1780405800,
+    "ended_at_unix": 1780417200,
+    "search_volume": 2000,
+    "score": 800,
+    "related_queries": [
+      "alexander zverev",
+      "zverev"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4633704387,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640863959,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640447447,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4637804686,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4636674548,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640516977,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640190547,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4633714322,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4567864342,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "alexander zverev",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "denzel dumfries",
+    "region": "MX",
+    "started_at_unix": 1780434600,
+    "ended_at_unix": 1780442400,
+    "search_volume": 2000,
+    "score": 900,
+    "related_queries": [
+      "denzel dumfries"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4632207479,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4638693200,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "denzel dumfries",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "roland garros",
+    "region": "MX",
+    "started_at_unix": 1780401000,
+    "ended_at_unix": 1780411800,
+    "search_volume": 5000,
     "score": 100,
     "related_queries": [
-      "teams"
+      "roland garros",
+      "roland garros 2026"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4624791964,
+        "id": 4640025007,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4640309730,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4640804333,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4626555971,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4640764372,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4633714322,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4632347873,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4640109475,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4611411418,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4631364637,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4635833101,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4637657832,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4638075813,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4594684344,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4635115021,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4632265363,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4638572378,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4637804686,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4597159736,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4641206908,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4622990881,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4619713991,
+        "language": "fr",
+        "region": "MX"
+      },
+      {
+        "id": 4636665367,
+        "language": "fr",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "roland garros",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "marruecos - madagascar",
+    "region": "MX",
+    "started_at_unix": 1780421400,
+    "ended_at_unix": 1780432200,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "marruecos - madagascar"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4615310152,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4638478764,
+        "id": 4628603383,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4638316549,
+        "id": 4633601625,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4638422393,
+        "id": 4617060463,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "marruecos - madagascar",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "fortaleza - vitória",
+    "region": "MX",
+    "started_at_unix": 1780445400,
+    "ended_at_unix": 1780450200,
+    "search_volume": 1000,
+    "score": 900,
+    "related_queries": [
+      "fortaleza - vitória"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4640668774,
+        "language": "pt",
+        "region": "MX"
+      },
+      {
+        "id": 4640619441,
+        "language": "pt",
+        "region": "MX"
+      },
+      {
+        "id": 4641107375,
+        "language": "pt",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "fortaleza - vitoria",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "astros - pirates",
+    "region": "MX",
+    "started_at_unix": 1780446000,
+    "ended_at_unix": 1780450800,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "astros - pirates"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4641190227,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4630439552,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "astros - pirates",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "georgia vs",
+    "region": "MX",
+    "started_at_unix": 1780423200,
+    "ended_at_unix": 1780430400,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "georgia vs",
+      "georgia vs rumania"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4633755286,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4638634328,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4615477853,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640158842,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4623049899,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "georgia vs",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "joao fonseca",
+    "region": "MX",
+    "started_at_unix": 1780435200,
+    "ended_at_unix": 1780438200,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "joao fonseca",
+      "joão fonseca"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4589491940,
+        "language": "pt",
+        "region": "MX"
+      },
+      {
+        "id": 4629329705,
+        "language": "pt",
+        "region": "MX"
+      },
+      {
+        "id": 4637446866,
+        "language": "pt",
+        "region": "MX"
+      },
+      {
+        "id": 4640308972,
+        "language": "pt",
+        "region": "MX"
+      },
+      {
+        "id": 4635860694,
+        "language": "pt",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "joao fonseca",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "2 de junio",
+    "region": "MX",
+    "started_at_unix": 1780453800,
+    "ended_at_unix": 1780456200,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "2 de junio"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4630051057,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4632620559,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4633457658,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4629634806,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4634713026,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4629630150,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4631328713,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4633196791,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4627489048,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4628881226,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4626280488,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4641021212,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4635049089,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4598133362,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4623249450,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640782832,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4639453936,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4629239952,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4625774790,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "2 de junio",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "red sox - orioles",
+    "region": "MX",
+    "started_at_unix": 1780440600,
+    "ended_at_unix": 1780444800,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "red sox - orioles"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4624727514,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "red sox - orioles",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "weather",
+    "region": "MX",
+    "started_at_unix": 1780403400,
+    "ended_at_unix": 1780409400,
+    "search_volume": 2000,
+    "score": 50,
+    "related_queries": [
+      "weather"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4632709633,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640943191,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4641047108,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640812617,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4641229367,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4636277759,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4628386300,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4637494163,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4631522001,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "weather",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "mensik",
+    "region": "MX",
+    "started_at_unix": 1780435200,
+    "ended_at_unix": 1780439400,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "mensik"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4636674548,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4631364637,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4638023358,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640857219,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640401003,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4640863959,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4636665367,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4621893820,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "mensik",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "2026",
+    "region": "MX",
+    "started_at_unix": 1780402200,
+    "ended_at_unix": 1780405800,
+    "search_volume": 2000,
+    "score": 900,
+    "related_queries": [
+      "2026"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4620998698,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4636600969,
+        "id": 4613771835,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4628483886,
+        "id": 4641044116,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4627849484,
+        "id": 4598916304,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4637438090,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629599673,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634326102,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633340965,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638483125,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4612397807,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629313856,
+        "id": 4640010266,
         "language": "en",
         "region": "US"
       },
@@ -607,852 +1663,68 @@
         "region": "US"
       },
       {
-        "id": 4635999636,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4601778884,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4586408739,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638218315,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4568816483,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4555449116,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4606561774,
+        "id": 4628489549,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "teams",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "2026",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   },
   {
-    "keyword": "mundial",
+    "keyword": "barracas central - huracán",
     "region": "MX",
-    "started_at_unix": 1780321200,
-    "ended_at_unix": 1780384800,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "mundial"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4615351548,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4619702542,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4633035436,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4616020963,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638588725,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4623061422,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4635087356,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4633193423,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4624384374,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4632656846,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4639287526,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4634768683,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4622104713,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4639326203,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "mundial",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "día del padre",
-    "region": "MX",
-    "started_at_unix": 1780368000,
-    "ended_at_unix": 1780375800,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "día del padre",
-      "dia del padre"
-    ],
-    "category_ids": [
-      8
-    ],
-    "entities": [
-      {
-        "id": 4626693776,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638429305,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4627205641,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638925726,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4635265397,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4619388290,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4639028303,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638344891,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638596229,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "dia del padre",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "clima slp",
-    "region": "MX",
-    "started_at_unix": 1780378200,
-    "ended_at_unix": 1780383000,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "clima slp"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4629099205,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "clima slp",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "tipo de cambio",
-    "region": "MX",
-    "started_at_unix": 1780323600,
-    "ended_at_unix": 1780359600,
-    "search_volume": 2000,
-    "score": 100,
-    "related_queries": [
-      "tipo de cambio",
-      "precio del dolar",
-      "tipo de cambio dolar"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4629263217,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4629258951,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4629010474,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638961561,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4632585590,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4624432669,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "tipo de cambio",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "chubasco",
-    "region": "MX",
-    "started_at_unix": 1780369200,
-    "ended_at_unix": 1780374000,
-    "search_volume": 1000,
-    "score": 300,
-    "related_queries": [
-      "chubasco"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4623595374,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4635629997,
-        "language": "en",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "chubasco",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "snake",
-    "region": "MX",
-    "started_at_unix": 1780321200,
-    "ended_at_unix": 1780356600,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "snake"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4638609722,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639304379,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4621849427,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635909015,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627094863,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638387242,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4624579632,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4637824961,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "snake",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "canada fc",
-    "region": "MX",
-    "started_at_unix": 1780365600,
-    "ended_at_unix": 1780372800,
+    "started_at_unix": 1780447800,
+    "ended_at_unix": 1780450200,
     "search_volume": 500,
-    "score": 200,
+    "score": 800,
     "related_queries": [
-      "canada fc"
+      "barracas central - huracán"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4638062814,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4627291890,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4624933503,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4624772408,
-        "language": "en",
+        "id": 4627075127,
+        "language": "es",
         "region": "MX"
       }
     ],
-    "normalized_keyword": "canada fc",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "barracas central - huracan",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   },
   {
-    "keyword": "dof",
+    "keyword": "estados unidos",
     "region": "MX",
-    "started_at_unix": 1780323600,
-    "ended_at_unix": 1780344600,
-    "search_volume": 2000,
+    "started_at_unix": 1780399200,
+    "ended_at_unix": 1780408200,
+    "search_volume": 500,
     "score": 100,
     "related_queries": [
-      "dof",
-      "diario oficial de la federación"
+      "estados unidos"
     ],
     "category_ids": [
-      14,
       10
     ],
     "entities": [
       {
-        "id": 4627589106,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "dof",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "selección de fútbol de cabo verde",
-    "region": "MX",
-    "started_at_unix": 1780368000,
-    "ended_at_unix": 1780372200,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "selección de fútbol de cabo verde"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4627139200,
+        "id": 4625289116,
         "language": "es",
         "region": "MX"
       },
       {
-        "id": 4630283322,
+        "id": 4638242355,
         "language": "es",
         "region": "MX"
       },
       {
-        "id": 4635254461,
+        "id": 4640023012,
         "language": "es",
         "region": "MX"
       },
       {
-        "id": 4638310129,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4637535944,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "seleccion de futbol de cabo verde",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "imss",
-    "region": "MX",
-    "started_at_unix": 1780329000,
-    "ended_at_unix": 1780362600,
-    "search_volume": 1000,
-    "score": 50,
-    "related_queries": [
-      "imss"
-    ],
-    "category_ids": [
-      7
-    ],
-    "entities": [
-      {
-        "id": 4631347214,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4622740987,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4635946323,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4607620489,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4618794943,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4623625278,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4628171317,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4626669379,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4636279230,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "imss",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "calendario mundial 2026",
-    "region": "MX",
-    "started_at_unix": 1780320600,
-    "ended_at_unix": 1780359000,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "calendario mundial 2026",
-      "cuando inicia el mundial 2026"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4628491890,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4627168321,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4604120510,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4624469879,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4631356648,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4608846890,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "calendario mundial 2026",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "scotiabank",
-    "region": "MX",
-    "started_at_unix": 1780325400,
-    "ended_at_unix": 1780354200,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "scotiabank"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4628459098,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4632808193,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4637560995,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4617284000,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4637293093,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633448266,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627808155,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "scotiabank",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "junio",
-    "region": "MX",
-    "started_at_unix": 1780323600,
-    "ended_at_unix": 1780341000,
-    "search_volume": 500,
-    "score": 900,
-    "related_queries": [
-      "junio"
-    ],
-    "category_ids": [
-      8,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4638040267,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4631356599,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4629336827,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638521348,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4637240480,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4637313822,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4619702542,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4626533842,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4629588002,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4636393962,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "junio",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "austria vs",
-    "region": "MX",
-    "started_at_unix": 1780341000,
-    "ended_at_unix": 1780351200,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "austria vs"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4617360056,
-        "language": "en",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "austria vs",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "taylor swift",
-    "region": "MX",
-    "started_at_unix": 1780330800,
-    "ended_at_unix": 1780341000,
-    "search_volume": 500,
-    "score": 300,
-    "related_queries": [
-      "taylor swift"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4614215505,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4634348948,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4635173656,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4637984464,
-        "language": "en",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "taylor swift",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "austria vs tunez",
-    "region": "MX",
-    "started_at_unix": 1780341000,
-    "ended_at_unix": 1780349400,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "austria vs tunez"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4615477752,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "austria vs tunez",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "calendario junio 2026",
-    "region": "MX",
-    "started_at_unix": 1780327800,
-    "ended_at_unix": 1780343400,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "calendario junio 2026"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4626533842,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4614117211,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4630621929,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "calendario junio 2026",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "inundaciones en apizaco",
-    "region": "MX",
-    "started_at_unix": 1780369200,
-    "ended_at_unix": 1780370400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "inundaciones en apizaco"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4629239960,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "inundaciones en apizaco",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "la jornada",
-    "region": "MX",
-    "started_at_unix": 1780317000,
-    "ended_at_unix": 1780355400,
-    "search_volume": 500,
-    "score": 75,
-    "related_queries": [
-      "la jornada"
-    ],
-    "category_ids": [
-      17,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4587510326,
+        "id": 4629430471,
         "language": "es",
         "region": "MX"
       },
@@ -1462,544 +1734,410 @@
         "region": "MX"
       },
       {
+        "id": 4626043434,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4627242522,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640253382,
+        "language": "es",
+        "region": "MX"
+      },
+      {
         "id": 4636747742,
         "language": "es",
         "region": "MX"
       },
       {
-        "id": 4627315848,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638317762,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4633617348,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4619702542,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4598133362,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4633697031,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638359812,
+        "id": 4624162778,
         "language": "es",
         "region": "MX"
       }
     ],
-    "normalized_keyword": "la jornada",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "estados unidos",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   },
   {
-    "keyword": "odessa",
+    "keyword": "clima zapopan",
     "region": "MX",
-    "started_at_unix": 1780314600,
-    "ended_at_unix": 1780360200,
-    "search_volume": 200,
+    "started_at_unix": 1780396800,
+    "ended_at_unix": 1780405800,
+    "search_volume": 500,
     "score": 100,
     "related_queries": [
-      "odessa"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4638144642,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4638495975,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4638414195,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4638580367,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4636755049,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4638521349,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4638911049,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4638707728,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4631423924,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4638702292,
-        "language": "en",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "odessa",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "dia de la marina",
-    "region": "MX",
-    "started_at_unix": 1780327800,
-    "ended_at_unix": 1780338000,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "dia de la marina"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4608571961,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "dia de la marina",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "myles garrett",
-    "region": "MX",
-    "started_at_unix": 1780336800,
-    "ended_at_unix": 1780341600,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "myles garrett"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4634210809,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4614191251,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4633371928,
-        "language": "en",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "myles garrett",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "turquia vs",
-    "region": "MX",
-    "started_at_unix": 1780340400,
-    "ended_at_unix": 1780345200,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "turquia vs"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4627242495,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "turquia vs",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "msn noticias",
-    "region": "MX",
-    "started_at_unix": 1780326600,
-    "ended_at_unix": 1780332600,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "msn noticias"
-    ],
-    "category_ids": [
-      14,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4636747742,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636345837,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "msn noticias",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "noticias",
-    "region": "MX",
-    "started_at_unix": 1780314600,
-    "ended_at_unix": 1780327200,
-    "search_volume": 200,
-    "score": 50,
-    "related_queries": [
-      "noticias"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4617773914,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4628887579,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4598133362,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4629588002,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4601998765,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4638289443,
-        "language": "en",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "noticias",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "eslovaquia vs",
-    "region": "MX",
-    "started_at_unix": 1780336200,
-    "ended_at_unix": 1780339800,
-    "search_volume": 100,
-    "score": 300,
-    "related_queries": [
-      "eslovaquia vs"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4615477888,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "eslovaquia vs",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "mlb",
-    "region": "MX",
-    "started_at_unix": 1780357800,
-    "ended_at_unix": 1780361400,
-    "search_volume": 100,
-    "score": 75,
-    "related_queries": [
-      "mlb"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4628483734,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4622131762,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4628483596,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4623214794,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4638751817,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4634467803,
-        "language": "en",
-        "region": "MX"
-      },
-      {
-        "id": 4636464844,
-        "language": "en",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "mlb",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "estafeta",
-    "region": "MX",
-    "started_at_unix": 1780328400,
-    "ended_at_unix": 1780359600,
-    "search_volume": 100,
-    "score": 50,
-    "related_queries": [
-      "estafeta"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4631012791,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "estafeta",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "poder judicial del estado de mexico",
-    "region": "MX",
-    "started_at_unix": 1780326600,
-    "ended_at_unix": 1780332000,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "poder judicial del estado de mexico"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4638917658,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638640662,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4629079793,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638505677,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4636878807,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4633072917,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "poder judicial del estado de mexico",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "vivaaerobus",
-    "region": "MX",
-    "started_at_unix": 1780333800,
-    "ended_at_unix": 1780341000,
-    "search_volume": 200,
-    "score": 75,
-    "related_queries": [
-      "vivaaerobus",
-      "volaris"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4629322255,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4626491942,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4628536879,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4617293731,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4638837941,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4629385585,
-        "language": "es",
-        "region": "MX"
-      },
-      {
-        "id": 4615779568,
-        "language": "es",
-        "region": "MX"
-      }
-    ],
-    "normalized_keyword": "vivaaerobus",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
-  },
-  {
-    "keyword": "clima merida",
-    "region": "MX",
-    "started_at_unix": 1780314000,
-    "ended_at_unix": 1780353600,
-    "search_volume": 100,
-    "score": 50,
-    "related_queries": [
-      "clima merida"
+      "clima zapopan"
     ],
     "category_ids": [
       20
     ],
     "entities": [
       {
-        "id": 4638803746,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638806368,
-        "language": "en",
-        "region": "US"
+        "id": 4639347645,
+        "language": "es",
+        "region": "MX"
       }
     ],
-    "normalized_keyword": "clima merida",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "clima zapopan",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   },
   {
-    "keyword": "grupos del mundial 2026",
+    "keyword": "marta kostiuk",
     "region": "MX",
-    "started_at_unix": 1780338600,
-    "ended_at_unix": 1780345200,
-    "search_volume": 100,
-    "score": 50,
+    "started_at_unix": 1780398600,
+    "ended_at_unix": 1780407600,
+    "search_volume": 200,
+    "score": 100,
     "related_queries": [
-      "grupos del mundial 2026"
+      "marta kostiuk"
     ],
     "category_ids": [
-      17,
-      16
+      17
     ],
     "entities": [
       {
-        "id": 4630907763,
-        "language": "es",
+        "id": 4636031836,
+        "language": "pl",
         "region": "MX"
       },
       {
-        "id": 4628491890,
-        "language": "es",
+        "id": 4628558772,
+        "language": "pl",
         "region": "MX"
       },
       {
-        "id": 4624415707,
-        "language": "es",
+        "id": 4641090888,
+        "language": "pl",
         "region": "MX"
       },
       {
-        "id": 4624469879,
-        "language": "es",
+        "id": 4620933893,
+        "language": "pl",
         "region": "MX"
       },
       {
-        "id": 4608846890,
+        "id": 4634081980,
+        "language": "pl",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "marta kostiuk",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "alfredo gutiérrez ortiz mena",
+    "region": "MX",
+    "started_at_unix": 1780401600,
+    "ended_at_unix": 1780410000,
+    "search_volume": 500,
+    "score": 100,
+    "related_queries": [
+      "alfredo gutiérrez ortiz mena"
+    ],
+    "category_ids": [
+      9,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4633416846,
         "language": "es",
         "region": "MX"
       }
     ],
-    "normalized_keyword": "grupos del mundial 2026",
-    "captured_at": "2026-06-02T07:20:27.052740+00:00"
+    "normalized_keyword": "alfredo gutierrez ortiz mena",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "papel higiénico",
+    "region": "MX",
+    "started_at_unix": 1780400400,
+    "ended_at_unix": 1780405800,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "papel higiénico"
+    ],
+    "category_ids": [
+      8
+    ],
+    "entities": [
+      {
+        "id": 4626471490,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640325973,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640734449,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "papel higienico",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "mateo chávez",
+    "region": "MX",
+    "started_at_unix": 1780403400,
+    "ended_at_unix": 1780407000,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "mateo chávez"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638588725,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "mateo chavez",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "tiempo de hoy",
+    "region": "MX",
+    "started_at_unix": 1780399800,
+    "ended_at_unix": 1780404600,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "tiempo de hoy"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4640211685,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4637112156,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4636952286,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4636189221,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4635493843,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640340015,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4635987428,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638599472,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4635334033,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4635490643,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "tiempo de hoy",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "konate",
+    "region": "MX",
+    "started_at_unix": 1780410600,
+    "ended_at_unix": 1780413000,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "konate"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4615910495,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4629072894,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4632207479,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4639394415,
+        "language": "en",
+        "region": "MX"
+      },
+      {
+        "id": 4633945262,
+        "language": "en",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "konate",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "tercera edad",
+    "region": "MX",
+    "started_at_unix": 1780410000,
+    "ended_at_unix": 1780412400,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "tercera edad"
+    ],
+    "category_ids": [
+      7
+    ],
+    "entities": [
+      {
+        "id": 4637626426,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638020158,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4631078488,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638670888,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638821263,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638965147,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638970186,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638972836,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "tercera edad",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
+  },
+  {
+    "keyword": "el cronista",
+    "region": "MX",
+    "started_at_unix": 1780401000,
+    "ended_at_unix": 1780402200,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "el cronista"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4633469486,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4630107708,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640983535,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4640262305,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4633658129,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638392732,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4629753466,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4638550821,
+        "language": "es",
+        "region": "MX"
+      },
+      {
+        "id": 4630473750,
+        "language": "es",
+        "region": "MX"
+      }
+    ],
+    "normalized_keyword": "el cronista",
+    "captured_at": "2026-06-03T07:31:09.319421+00:00"
   }
 ]

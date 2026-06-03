@@ -1,453 +1,88 @@
 [
   {
-    "keyword": "gaz",
+    "keyword": "komunikat",
     "region": "PL",
-    "started_at_unix": 1780369200,
+    "started_at_unix": 1780390800,
     "ended_at_unix": null,
-    "search_volume": 5000,
+    "search_volume": 20000,
     "score": 1000,
     "related_queries": [
-      "gaz"
+      "komunikat"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4637884779,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4631980340,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4639286380,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4629608699,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4613980845,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4631607837,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4637597136,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4637160228,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4637257434,
-        "language": "fr",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "gaz",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "ołów",
-    "region": "PL",
-    "started_at_unix": 1780370400,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "ołów"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4637952049,
+        "id": 4637486681,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4630159958,
+        "id": 4625708714,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4628776759,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4622364546,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4641278025,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4609628270,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4628088273,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4640566022,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4633260352,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4638305983,
         "language": "pl",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "ołow",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "komunikat",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "elektrownia jądrowa",
+    "keyword": "kierowca",
     "region": "PL",
-    "started_at_unix": 1780369200,
+    "started_at_unix": 1780456800,
     "ended_at_unix": null,
     "search_volume": 5000,
     "score": 1000,
     "related_queries": [
-      "elektrownia jądrowa"
+      "kierowca"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4622521749,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4630466809,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4635672779,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4557383585,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "elektrownia jadrowa",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "jay silva",
-    "region": "PL",
-    "started_at_unix": 1780307400,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "jay silva",
-      "jay silva nie żyje"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4637517310,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4637517310,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4637681421,
-        "language": "en",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "jay silva",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "sklep",
-    "region": "PL",
-    "started_at_unix": 1780371600,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 600,
-    "related_queries": [
-      "sklep"
-    ],
-    "category_ids": [
-      16,
-      3
-    ],
-    "entities": [
-      {
-        "id": 4636428540,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4630936585,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4630586382,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4637551403,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4636573328,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638925149,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4635652271,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4618914050,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "sklep",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "su-57",
-    "region": "PL",
-    "started_at_unix": 1780370400,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 700,
-    "related_queries": [
-      "su-57"
-    ],
-    "category_ids": [
-      3,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4622408123,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4632733145,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638009111,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4609376644,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "su-57",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "polityk",
-    "region": "PL",
-    "started_at_unix": 1780371000,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 500,
-    "related_queries": [
-      "polityk",
-      "radio zet",
-      "maciej zabłocki adwokat"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4636563420,
-        "language": "nl",
-        "region": "PL"
-      },
-      {
-        "id": 4627914107,
-        "language": "nl",
-        "region": "PL"
-      },
-      {
-        "id": 4605632456,
-        "language": "nl",
-        "region": "PL"
-      },
-      {
-        "id": 4622017409,
-        "language": "nl",
-        "region": "PL"
-      },
-      {
-        "id": 4639155367,
-        "language": "nl",
-        "region": "PL"
-      },
-      {
-        "id": 4636563420,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638990531,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4628088291,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4628108837,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4631033469,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4634052207,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4637842054,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "polityk",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "ksiądz",
-    "region": "PL",
-    "started_at_unix": 1780370400,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 700,
-    "related_queries": [
-      "ksiądz"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4635904144,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4635924153,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4630102023,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4634417034,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4637208467,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638005792,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4622402435,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4636622660,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4637351979,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4529439876,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "ksiadz",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "włodzimierz korcz",
-    "region": "PL",
-    "started_at_unix": 1780373400,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 400,
-    "related_queries": [
-      "włodzimierz korcz"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4633019410,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "włodzimierz korcz",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "prawo jazdy",
-    "region": "PL",
-    "started_at_unix": 1780370400,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 600,
-    "related_queries": [
-      "prawo jazdy"
-    ],
-    "category_ids": [
-      10,
-      1
-    ],
-    "entities": [
-      {
-        "id": 4614425201,
+        "id": 4623759809,
         "language": "pl",
         "region": "PL"
       },
@@ -457,685 +92,121 @@
         "region": "PL"
       },
       {
-        "id": 4637605445,
+        "id": 4614425201,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4637709442,
+        "id": 4640107564,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4637562763,
+        "id": 4639554674,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4634253295,
+        "id": 4628202583,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4637100625,
+        "id": 4639882865,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4629351431,
+        "id": 4640907705,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4638211670,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4634996040,
+        "id": 4639848402,
         "language": "pl",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "prawo jazdy",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "kierowca",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "interia pogoda",
+    "keyword": "dmitrij pieskow",
     "region": "PL",
-    "started_at_unix": 1780382400,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 100,
-    "related_queries": [
-      "interia pogoda",
-      "pogoda długoterminowa"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4637107356,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622364546,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4637107356,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4622007852,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4619263010,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4639155444,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "interia pogoda",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "włochy",
-    "region": "PL",
-    "started_at_unix": 1780378200,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "włochy"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4638802744,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638560400,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4631843197,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4608358721,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4632435543,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638655681,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4612104823,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "włochy",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "chwalińska",
-    "region": "PL",
-    "started_at_unix": 1780320600,
+    "started_at_unix": 1780410600,
     "ended_at_unix": null,
     "search_volume": 10000,
-    "score": 400,
+    "score": 1000,
     "related_queries": [
-      "chwalińska",
-      "aryna sabalenka",
-      "sabalenka",
-      "maja chwalińska",
-      "chwalinska",
-      "chwalińska mecz dzisiaj",
-      "maja chwalinska",
-      "maja chwalińska mecz",
-      "roland garros 2026",
-      "wta ranking",
-      "chwalińska mecz",
-      "ranking wta",
-      "roland garros"
+      "dmitrij pieskow"
     ],
     "category_ids": [
-      17
+      14
     ],
     "entities": [
       {
-        "id": 4609628270,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4631266251,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4617051616,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4627772724,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4636031836,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4629703401,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4637909062,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4634831405,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4609628270,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4617051616,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4618585714,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4627772724,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4623738407,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4630502405,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4635355395,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4637657832,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4633233148,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4639214179,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4633426783,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4632976574,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4637517313,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4609628270,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4636031836,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4630695386,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4620657368,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4632403594,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4638385271,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4618226905,
-        "language": "fr",
-        "region": "PL"
-      },
-      {
-        "id": 4638385271,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4634817725,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "chwalinska",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "bagaż",
-    "region": "PL",
-    "started_at_unix": 1780372800,
-    "ended_at_unix": 1780383000,
-    "search_volume": 1000,
-    "score": 300,
-    "related_queries": [
-      "bagaż"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4623773774,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4635643239,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "bagaz",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "rmf fm",
-    "region": "PL",
-    "started_at_unix": 1780375800,
-    "ended_at_unix": 1780383000,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "rmf fm"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4632745663,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636165715,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "rmf fm",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "dorota wellman",
-    "region": "PL",
-    "started_at_unix": 1780373400,
-    "ended_at_unix": 1780383000,
-    "search_volume": 1000,
-    "score": 300,
-    "related_queries": [
-      "dorota wellman"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4637166964,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "dorota wellman",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "chłoniaki",
-    "region": "PL",
-    "started_at_unix": 1780372200,
-    "ended_at_unix": 1780383000,
-    "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "chłoniaki"
-    ],
-    "category_ids": [
-      7
-    ],
-    "entities": [
-      {
-        "id": 4626143612,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "chłoniaki",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "radio online",
-    "region": "PL",
-    "started_at_unix": 1780372800,
-    "ended_at_unix": 1780383000,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "radio online"
-    ],
-    "category_ids": [
-      4,
-      18
-    ],
-    "entities": [
-      {
-        "id": 4626878637,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638447652,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "radio online",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "czerwiec",
-    "region": "PL",
-    "started_at_unix": 1780376400,
-    "ended_at_unix": 1780383000,
-    "search_volume": 500,
-    "score": 300,
-    "related_queries": [
-      "czerwiec"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4637428433,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4628330689,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638754043,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4613980845,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4636573328,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4626155338,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4615445605,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4549992543,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4633330858,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "czerwiec",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "magdalena tarnowska",
-    "region": "PL",
-    "started_at_unix": 1780335600,
-    "ended_at_unix": 1780383000,
-    "search_volume": 2000,
-    "score": 500,
-    "related_queries": [
-      "magdalena tarnowska",
-      "bagi",
-      "magda tarnowska"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4638231833,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638231833,
+        "id": 4636928001,
         "language": "en",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "magdalena tarnowska",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "dmitrij pieskow",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "pożar",
+    "keyword": "ukraina",
     "region": "PL",
-    "started_at_unix": 1780371600,
-    "ended_at_unix": 1780380000,
-    "search_volume": 1000,
-    "score": 400,
+    "started_at_unix": 1780435200,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 1000,
     "related_queries": [
-      "pożar",
-      "pozar plock"
+      "ukraina",
+      "włodzimierz czarzasty",
+      "donald tusk"
     ],
     "category_ids": [
-      11
+      14
     ],
     "entities": [
       {
-        "id": 4638305983,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4639219650,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4639226278,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4639307533,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4628461082,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638453781,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4637409734,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "pozar",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "radio eska",
-    "region": "PL",
-    "started_at_unix": 1780376400,
-    "ended_at_unix": 1780383000,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "radio eska"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4635049692,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4637605468,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4637787303,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638045304,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4634431707,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638231833,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "radio eska",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "rmf fm online",
-    "region": "PL",
-    "started_at_unix": 1780377000,
-    "ended_at_unix": 1780383000,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "rmf fm online",
-      "polsat news"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4609349160,
+        "id": 4628108837,
         "language": "en",
-        "region": "US"
+        "region": "PL"
       },
       {
-        "id": 4632854192,
+        "id": 4626328971,
         "language": "en",
-        "region": "US"
+        "region": "PL"
       },
       {
-        "id": 4609349160,
-        "language": "pl",
+        "id": 4640074974,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4640091475,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4623629744,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4641326474,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4618342780,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4625713857,
+        "language": "en",
         "region": "PL"
       },
       {
@@ -1144,253 +215,292 @@
         "region": "PL"
       },
       {
-        "id": 4632780546,
+        "id": 4638289074,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4632363096,
+        "id": 4627665962,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4607736675,
+        "id": 4638276343,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4638878741,
+        "id": 4632679834,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4638925113,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4638960013,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4585882390,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4628589562,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4625990814,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4635614584,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4630529002,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4638990531,
         "language": "pl",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "rmf fm online",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "ukraina",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "radio rmf",
+    "keyword": "aleksandra kwaśniewska",
     "region": "PL",
-    "started_at_unix": 1780374000,
-    "ended_at_unix": 1780381800,
-    "search_volume": 200,
-    "score": 100,
+    "started_at_unix": 1780434000,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
     "related_queries": [
-      "radio rmf"
+      "aleksandra kwaśniewska"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4636165715,
+        "id": 4640603885,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4630649609,
+        "id": 4637361661,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4641480022,
         "language": "pl",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "radio rmf",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "aleksandra kwasniewska",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "eska",
+    "keyword": "god of war laufey",
     "region": "PL",
-    "started_at_unix": 1780377600,
-    "ended_at_unix": 1780382400,
-    "search_volume": 200,
-    "score": 100,
+    "started_at_unix": 1780438800,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
     "related_queries": [
-      "eska"
+      "god of war laufey",
+      "laufey"
     ],
     "category_ids": [
-      8
+      6
     ],
     "entities": [
       {
-        "id": 4630277250,
-        "language": "pl",
+        "id": 4640817500,
+        "language": "en",
         "region": "PL"
+      },
+      {
+        "id": 4636440523,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4640817500,
+        "language": "en",
+        "region": "US"
       }
     ],
-    "normalized_keyword": "eska",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "god of war laufey",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "siatkarz",
+    "keyword": "petersburg",
     "region": "PL",
-    "started_at_unix": 1780371600,
-    "ended_at_unix": 1780378200,
-    "search_volume": 500,
-    "score": 200,
+    "started_at_unix": 1780466400,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
     "related_queries": [
-      "siatkarz"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4637626256,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4635245118,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4609061261,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4634431757,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4626874455,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4635011444,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "siatkarz",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "пособие",
-    "region": "PL",
-    "started_at_unix": 1780372200,
-    "ended_at_unix": 1780378200,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "пособие"
+      "petersburg"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4629349598,
-        "language": "ru",
+        "id": 4635128180,
+        "language": "en",
         "region": "PL"
       },
       {
-        "id": 4626822849,
-        "language": "ru",
+        "id": 4626328971,
+        "language": "en",
         "region": "PL"
       },
       {
-        "id": 4629320606,
-        "language": "ru",
-        "region": "PL"
-      },
-      {
-        "id": 4623620184,
-        "language": "ru",
-        "region": "PL"
-      },
-      {
-        "id": 4618539189,
-        "language": "ru",
-        "region": "PL"
-      },
-      {
-        "id": 4635534452,
-        "language": "ru",
-        "region": "PL"
-      },
-      {
-        "id": 4635315376,
-        "language": "ru",
-        "region": "PL"
-      },
-      {
-        "id": 4624197369,
-        "language": "ru",
+        "id": 4637780428,
+        "language": "en",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "пособие",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "petersburg",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "podatek",
+    "keyword": "henry nowak",
     "region": "PL",
-    "started_at_unix": 1780370400,
-    "ended_at_unix": 1780374600,
-    "search_volume": 500,
-    "score": 1000,
+    "started_at_unix": 1780435200,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 200,
     "related_queries": [
-      "podatek"
+      "henry nowak"
     ],
     "category_ids": [
-      3
+      10
     ],
     "entities": [
       {
-        "id": 4627264057,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638211647,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4636211383,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4603560519,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4637100631,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4632590775,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4635939240,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4634092061,
+        "id": 4631428751,
         "language": "pl",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "podatek",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "henry nowak",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "plymouth argyle f.c.",
+    "keyword": "pogoda",
     "region": "PL",
-    "started_at_unix": 1780378200,
-    "ended_at_unix": 1780380600,
-    "search_volume": 200,
-    "score": 500,
+    "started_at_unix": 1780462200,
+    "ended_at_unix": 1780465800,
+    "search_volume": 50000,
+    "score": 50,
     "related_queries": [
-      "plymouth argyle f.c."
+      "pogoda"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4639273392,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4637107356,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4629678692,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4622364546,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "pogoda",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "emerytura",
+    "region": "PL",
+    "started_at_unix": 1780390800,
+    "ended_at_unix": 1780411800,
+    "search_volume": 50000,
+    "score": 700,
+    "related_queries": [
+      "emerytura"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4629288469,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4625964059,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4613211047,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4637244233,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4634105950,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4632745663,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4637356810,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "emerytura",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "plymouth argyle fc",
+    "region": "PL",
+    "started_at_unix": 1780386000,
+    "ended_at_unix": 1780468200,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "plymouth argyle fc"
     ],
     "category_ids": [
       17
@@ -1402,7 +512,7 @@
         "region": "PL"
       },
       {
-        "id": 4637669539,
+        "id": 4630783688,
         "language": "en",
         "region": "PL"
       },
@@ -1412,319 +522,1057 @@
         "region": "PL"
       },
       {
-        "id": 4629633486,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4638039005,
+        "id": 4637669539,
         "language": "en",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "plymouth argyle f.c.",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "plymouth argyle fc",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "rmf24",
+    "keyword": "hanna żudziewicz",
     "region": "PL",
-    "started_at_unix": 1780382400,
-    "ended_at_unix": 1780383600,
-    "search_volume": 200,
-    "score": 75,
+    "started_at_unix": 1780423200,
+    "ended_at_unix": 1780470000,
+    "search_volume": 2000,
+    "score": 600,
     "related_queries": [
-      "rmf24"
+      "hanna żudziewicz"
     ],
     "category_ids": [
-      20
+      4
     ],
     "entities": [
       {
-        "id": 4622364546,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4630485486,
+        "id": 4637962268,
         "language": "pl",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "rmf24",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "hanna zudziewicz",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "kalinskaya",
+    "keyword": "ruch drogowy",
     "region": "PL",
-    "started_at_unix": 1780315200,
-    "ended_at_unix": 1780334400,
-    "search_volume": 1000,
+    "started_at_unix": 1780397400,
+    "ended_at_unix": 1780458600,
+    "search_volume": 10000,
+    "score": 900,
+    "related_queries": [
+      "ruch drogowy"
+    ],
+    "category_ids": [
+      8
+    ],
+    "entities": [
+      {
+        "id": 4637269909,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4639887559,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "ruch drogowy",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "karol nawrocki",
+    "region": "PL",
+    "started_at_unix": 1780412400,
+    "ended_at_unix": 1780457400,
+    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "kalinskaya",
-      "anna kalinskaya"
+      "karol nawrocki"
     ],
     "category_ids": [
-      17
+      14
     ],
     "entities": [
       {
-        "id": 4635264975,
-        "language": "en",
+        "id": 4624023190,
+        "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4634831405,
-        "language": "en",
+        "id": 4628108837,
+        "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4627718630,
-        "language": "en",
+        "id": 4626842950,
+        "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4609628270,
-        "language": "en",
+        "id": 4634911896,
+        "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4638385271,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4636522367,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4638181035,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4631266251,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4631624319,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4636716006,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4635118017,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4635253759,
-        "language": "en",
+        "id": 4628088273,
+        "language": "pl",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "kalinskaya",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "karol nawrocki",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "radio plus",
+    "keyword": "taktyka",
     "region": "PL",
-    "started_at_unix": 1780377600,
-    "ended_at_unix": 1780380600,
-    "search_volume": 100,
-    "score": 100,
+    "started_at_unix": 1780386000,
+    "ended_at_unix": 1780422000,
+    "search_volume": 10000,
+    "score": 600,
     "related_queries": [
-      "radio plus"
+      "taktyka"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4635381868,
-        "language": "en",
-        "region": "US"
+        "id": 4624518283,
+        "language": "pl",
+        "region": "PL"
       },
       {
-        "id": 4635314781,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633513573,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634689133,
-        "language": "en",
-        "region": "US"
+        "id": 4635880884,
+        "language": "pl",
+        "region": "PL"
       }
     ],
-    "normalized_keyword": "radio plus",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "taktyka",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "malta",
+    "keyword": "5 czerwca",
     "region": "PL",
-    "started_at_unix": 1780312800,
-    "ended_at_unix": 1780341000,
-    "search_volume": 1000,
-    "score": 200,
+    "started_at_unix": 1780416000,
+    "ended_at_unix": 1780468200,
+    "search_volume": 10000,
+    "score": 1000,
     "related_queries": [
-      "malta"
+      "5 czerwca"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4637166904,
-        "language": "en",
+        "id": 4636573328,
+        "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4637033357,
-        "language": "en",
+        "id": 4630649622,
+        "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4639330832,
-        "language": "en",
+        "id": 4639764050,
+        "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4637319176,
-        "language": "en",
+        "id": 4633260352,
+        "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4637914639,
-        "language": "en",
+        "id": 4638005824,
+        "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4613161777,
-        "language": "en",
+        "id": 4639433501,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "5 czerwca",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "michał drewnicki",
+    "region": "PL",
+    "started_at_unix": 1780417800,
+    "ended_at_unix": 1780436400,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "michał drewnicki",
+      "michal drewnicki",
+      "michał drewnicki kraków",
+      "michał drewnicki radny miasta krakowa",
+      "drewnicki michał"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4627665962,
+        "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4605915543,
+        "id": 4627665962,
         "language": "en",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "malta",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "michał drewnicki",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "naomi ōsaka",
+    "keyword": "el niño",
     "region": "PL",
-    "started_at_unix": 1780341000,
-    "ended_at_unix": 1780347000,
+    "started_at_unix": 1780458000,
+    "ended_at_unix": 1780467600,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "el niño"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4622508452,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4627681651,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4639220774,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4638194773,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4630975749,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4601142870,
+        "language": "es",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "el nino",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "rada polityki pieniężnej",
+    "region": "PL",
+    "started_at_unix": 1780415400,
+    "ended_at_unix": 1780459200,
+    "search_volume": 2000,
+    "score": 500,
+    "related_queries": [
+      "rada polityki pieniężnej"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4640205208,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "rada polityki pienieznej",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "piero hincapié",
+    "region": "PL",
+    "started_at_unix": 1780423800,
+    "ended_at_unix": 1780459200,
+    "search_volume": 2000,
+    "score": 200,
+    "related_queries": [
+      "piero hincapié"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4586730348,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4622988400,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4641519658,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4634335547,
+        "language": "es",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "piero hincapie",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "elina switolina",
+    "region": "PL",
+    "started_at_unix": 1780396800,
+    "ended_at_unix": 1780408200,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "elina switolina"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4628558772,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4610059663,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4636031836,
+        "language": "en",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "elina switolina",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "polska belgia siatkówka kobiet",
+    "region": "PL",
+    "started_at_unix": 1780465200,
+    "ended_at_unix": 1780468800,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "polska belgia siatkówka kobiet"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4630786304,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "polska belgia siatkowka kobiet",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "mensik",
+    "region": "PL",
+    "started_at_unix": 1780427400,
+    "ended_at_unix": 1780439400,
+    "search_volume": 2000,
+    "score": 200,
+    "related_queries": [
+      "mensik"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4636674548,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4637517313,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4628782665,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4633704387,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4640401003,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4640857219,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4640863959,
+        "language": "en",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "mensik",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "stanisław koziej",
+    "region": "PL",
+    "started_at_unix": 1780393200,
+    "ended_at_unix": 1780410000,
+    "search_volume": 5000,
+    "score": 700,
+    "related_queries": [
+      "stanisław koziej"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4627219539,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4636711977,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "stanisław koziej",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "patryk jaki",
+    "region": "PL",
+    "started_at_unix": 1780390800,
+    "ended_at_unix": 1780409400,
+    "search_volume": 5000,
+    "score": 500,
+    "related_queries": [
+      "patryk jaki"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4630719202,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "patryk jaki",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "state of play",
+    "region": "PL",
+    "started_at_unix": 1780434000,
+    "ended_at_unix": 1780444800,
+    "search_volume": 2000,
+    "score": 300,
+    "related_queries": [
+      "state of play",
+      "god of war",
+      "summer game fest"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4636440523,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4638075518,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4636296720,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4633108635,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4640817500,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4528555952,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4619994427,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4641500174,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4601946844,
+        "language": "en",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "state of play",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "płaca",
+    "region": "PL",
+    "started_at_unix": 1780458000,
+    "ended_at_unix": 1780462800,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "płaca"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4628497658,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "płaca",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "mirra andriejewa",
+    "region": "PL",
+    "started_at_unix": 1780392600,
+    "ended_at_unix": 1780407000,
+    "search_volume": 5000,
+    "score": 800,
+    "related_queries": [
+      "mirra andriejewa"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4620933893,
+        "language": "pt",
+        "region": "PL"
+      },
+      {
+        "id": 4632976574,
+        "language": "pt",
+        "region": "PL"
+      },
+      {
+        "id": 4627371835,
+        "language": "pt",
+        "region": "PL"
+      },
+      {
+        "id": 4586524569,
+        "language": "pt",
+        "region": "PL"
+      },
+      {
+        "id": 4640775014,
+        "language": "pt",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "mirra andriejewa",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "chorwacja – belgia",
+    "region": "PL",
+    "started_at_unix": 1780413600,
+    "ended_at_unix": 1780427400,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "chorwacja – belgia"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4633617920,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "chorwacja – belgia",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "denzel dumfries",
+    "region": "PL",
+    "started_at_unix": 1780435200,
+    "ended_at_unix": 1780444800,
     "search_volume": 1000,
     "score": 800,
     "related_queries": [
-      "naomi ōsaka",
-      "osaka naomi",
-      "osaka",
-      "sabalenka osaka"
+      "denzel dumfries"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4631266251,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4617051616,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4638110707,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4627772724,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4635253759,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4579333415,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4627646676,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4639296211,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4638359615,
+        "id": 4624367152,
         "language": "en",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "naomi osaka",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "denzel dumfries",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "plusliga",
+    "keyword": "gra",
     "region": "PL",
-    "started_at_unix": 1780362000,
-    "ended_at_unix": 1780375800,
-    "search_volume": 100,
-    "score": 100,
+    "started_at_unix": 1780411800,
+    "ended_at_unix": 1780428000,
+    "search_volume": 2000,
+    "score": 200,
     "related_queries": [
-      "plusliga"
+      "gra"
+    ],
+    "category_ids": [
+      6,
+      18
+    ],
+    "entities": [
+      {
+        "id": 4639848342,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4631621359,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4628695017,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4619994427,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4609628270,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4616728868,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4634459282,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "gra",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "oglądalność",
+    "region": "PL",
+    "started_at_unix": 1780419600,
+    "ended_at_unix": 1780462200,
+    "search_volume": 1000,
+    "score": 300,
+    "related_queries": [
+      "oglądalność"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4638211615,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4623427430,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "ogladalnosc",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "until dawn 2",
+    "region": "PL",
+    "started_at_unix": 1780437600,
+    "ended_at_unix": 1780444800,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "until dawn 2"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4619994427,
+        "language": "en",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "until dawn 2",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "weather",
+    "region": "PL",
+    "started_at_unix": 1780462800,
+    "ended_at_unix": 1780464600,
+    "search_volume": 500,
+    "score": 50,
+    "related_queries": [
+      "weather"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4636886311,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4631696740,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4631555845,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4630679997,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4628386300,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4619296374,
+        "language": "en",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "weather",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "marta kostiuk",
+    "region": "PL",
+    "started_at_unix": 1780398600,
+    "ended_at_unix": 1780407000,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "marta kostiuk"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4597913147,
+        "id": 4636031836,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4638371582,
+        "id": 4628558772,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4628450744,
+        "id": 4629718616,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "marta kostiuk",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "польша",
+    "region": "PL",
+    "started_at_unix": 1780453800,
+    "ended_at_unix": 1780460400,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "польша"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4624845944,
+        "language": "ru",
+        "region": "PL"
+      },
+      {
+        "id": 4635778879,
+        "language": "ru",
+        "region": "PL"
+      },
+      {
+        "id": 4641300331,
+        "language": "ru",
+        "region": "PL"
+      },
+      {
+        "id": 4627961365,
+        "language": "ru",
+        "region": "PL"
+      },
+      {
+        "id": 4639327630,
+        "language": "ru",
+        "region": "PL"
+      },
+      {
+        "id": 4639450341,
+        "language": "ru",
+        "region": "PL"
+      },
+      {
+        "id": 4632784749,
+        "language": "ru",
+        "region": "PL"
+      },
+      {
+        "id": 4640831702,
+        "language": "ru",
+        "region": "PL"
+      },
+      {
+        "id": 4627814117,
+        "language": "ru",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "польша",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "rayman legends retold",
+    "region": "PL",
+    "started_at_unix": 1780437600,
+    "ended_at_unix": 1780443000,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "rayman legends retold"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4628695017,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4628632950,
+        "language": "en",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "rayman legends retold",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "śląsk wrocław",
+    "region": "PL",
+    "started_at_unix": 1780459200,
+    "ended_at_unix": 1780462200,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "śląsk wrocław"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4634879804,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4632471440,
+        "id": 4624356708,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4638223841,
+        "id": 4640135730,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4622663752,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4637361621,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4636279007,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4614041523,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "slask wrocław",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "gugu",
+    "region": "PL",
+    "started_at_unix": 1780411200,
+    "ended_at_unix": 1780417800,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "gugu"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4639007111,
+        "language": "pt",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "gugu",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "warszawa",
+    "region": "PL",
+    "started_at_unix": 1780406400,
+    "ended_at_unix": 1780411800,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "warszawa"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4600877854,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4631843188,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4633210550,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4626155344,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4621518346,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4639433532,
         "language": "pl",
         "region": "PL"
       },
@@ -1734,568 +1582,567 @@
         "region": "PL"
       },
       {
-        "id": 4609061261,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4635835196,
+        "id": 4640965880,
         "language": "pl",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "plusliga",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "warszawa",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "wyniki na żywo",
+    "keyword": "fonseca",
     "region": "PL",
-    "started_at_unix": 1780362600,
-    "ended_at_unix": 1780371600,
-    "search_volume": 100,
-    "score": 200,
+    "started_at_unix": 1780434600,
+    "ended_at_unix": 1780438800,
+    "search_volume": 500,
+    "score": 600,
     "related_queries": [
-      "wyniki na żywo"
+      "fonseca"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4622649432,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4616023706,
-        "language": "pl",
+        "id": 4589491940,
+        "language": "pt",
         "region": "PL"
       },
       {
         "id": 4637517313,
-        "language": "pl",
+        "language": "pt",
         "region": "PL"
       },
       {
-        "id": 4614041523,
-        "language": "pl",
+        "id": 4637446866,
+        "language": "pt",
         "region": "PL"
       },
       {
-        "id": 4625396092,
-        "language": "pl",
+        "id": 4607893769,
+        "language": "pt",
         "region": "PL"
       },
       {
-        "id": 4606303262,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4624425398,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4627641402,
-        "language": "pl",
+        "id": 4635860694,
+        "language": "pt",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "wyniki na zywo",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "fonseca",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "radio",
+    "keyword": "grób",
     "region": "PL",
-    "started_at_unix": 1780378800,
-    "ended_at_unix": 1780380600,
-    "search_volume": 100,
-    "score": 75,
+    "started_at_unix": 1780412400,
+    "ended_at_unix": 1780418400,
+    "search_volume": 1000,
+    "score": 300,
     "related_queries": [
-      "radio"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4636850279,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4626878637,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638043606,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638103999,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633609083,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631310250,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639095609,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "radio",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "sydney sweeney",
-    "region": "PL",
-    "started_at_unix": 1780378200,
-    "ended_at_unix": 1780379400,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "sydney sweeney"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4631632685,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4625907963,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4634279995,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4638655680,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4638186670,
-        "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4631114853,
-        "language": "en",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "sydney sweeney",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "casino",
-    "region": "PL",
-    "started_at_unix": 1780360200,
-    "ended_at_unix": 1780371600,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "casino"
+      "grób"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4637350685,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4637764875,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638198285,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631485325,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635663988,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4632932211,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633085499,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638034386,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639291771,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635095171,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638979922,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4626317867,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635177856,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "casino",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "program tv",
-    "region": "PL",
-    "started_at_unix": 1780335600,
-    "ended_at_unix": 1780344000,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "program tv"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4636641661,
+        "id": 4628769009,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4624081312,
+        "id": 4634804600,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4624806719,
+        "id": 4635718426,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4635652225,
+        "id": 4639187446,
         "language": "pl",
         "region": "PL"
       },
       {
-        "id": 4633409336,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4628945103,
+        "id": 4631924085,
         "language": "pl",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "program tv",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "grob",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "skoki narciarskie",
+    "keyword": "downdetector",
     "region": "PL",
-    "started_at_unix": 1780358400,
-    "ended_at_unix": 1780372200,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "skoki narciarskie"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4633305472,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4634059493,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4600654635,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638117852,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4638117873,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4635137562,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4629530145,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "skoki narciarskie",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "lengyelország",
-    "region": "PL",
-    "started_at_unix": 1780337400,
-    "ended_at_unix": 1780341600,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "lengyelország"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4632104197,
-        "language": "hu",
-        "region": "PL"
-      },
-      {
-        "id": 4637217251,
-        "language": "hu",
-        "region": "PL"
-      },
-      {
-        "id": 4635217996,
-        "language": "hu",
-        "region": "PL"
-      },
-      {
-        "id": 4632476664,
-        "language": "hu",
-        "region": "PL"
-      },
-      {
-        "id": 4631919139,
-        "language": "hu",
-        "region": "PL"
-      },
-      {
-        "id": 4636779103,
-        "language": "hu",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "lengyelorszag",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "anna kalinska",
-    "region": "PL",
-    "started_at_unix": 1780324800,
-    "ended_at_unix": 1780333800,
-    "search_volume": 200,
-    "score": 600,
-    "related_queries": [
-      "anna kalinska"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4638385271,
-        "language": "pl",
-        "region": "PL"
-      },
-      {
-        "id": 4609628270,
-        "language": "pl",
-        "region": "PL"
-      }
-    ],
-    "normalized_keyword": "anna kalinska",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
-  },
-  {
-    "keyword": "jennifer lawrence",
-    "region": "PL",
-    "started_at_unix": 1780345800,
-    "ended_at_unix": 1780353000,
-    "search_volume": 200,
+    "started_at_unix": 1780408200,
+    "ended_at_unix": 1780412400,
+    "search_volume": 1000,
     "score": 900,
     "related_queries": [
-      "jennifer lawrence"
+      "downdetector"
     ],
     "category_ids": [
-      4
+      11
     ],
     "entities": [
       {
-        "id": 4631412823,
+        "id": 4631467178,
         "language": "en",
-        "region": "PL"
+        "region": "US"
       },
       {
-        "id": 4638107195,
+        "id": 4636840333,
         "language": "en",
-        "region": "PL"
-      },
-      {
-        "id": 4638478489,
-        "language": "en",
-        "region": "PL"
+        "region": "US"
       }
     ],
-    "normalized_keyword": "jennifer lawrence",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "downdetector",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "anna seniuk",
+    "keyword": "europa",
     "region": "PL",
-    "started_at_unix": 1780341600,
-    "ended_at_unix": 1780346400,
-    "search_volume": 200,
-    "score": 500,
+    "started_at_unix": 1780429800,
+    "ended_at_unix": 1780433400,
+    "search_volume": 500,
+    "score": 600,
     "related_queries": [
-      "anna seniuk"
+      "europa"
     ],
     "category_ids": [
-      4
+      3
     ],
     "entities": [
       {
-        "id": 4629731399,
-        "language": "pl",
+        "id": 4627320533,
+        "language": "es",
         "region": "PL"
       },
       {
-        "id": 4620322253,
-        "language": "pl",
+        "id": 4625324280,
+        "language": "es",
         "region": "PL"
       },
       {
-        "id": 4637605371,
-        "language": "pl",
+        "id": 4626317125,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4599080354,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4641322821,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4623527614,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4631073955,
+        "language": "es",
+        "region": "PL"
+      },
+      {
+        "id": 4635738754,
+        "language": "es",
         "region": "PL"
       }
     ],
-    "normalized_keyword": "anna seniuk",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "europa",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "wta live",
+    "keyword": "junior - atlético nacional",
     "region": "PL",
-    "started_at_unix": 1780324800,
-    "ended_at_unix": 1780330800,
-    "search_volume": 200,
-    "score": 500,
+    "started_at_unix": 1780452600,
+    "ended_at_unix": 1780457400,
+    "search_volume": 100,
+    "score": 100,
     "related_queries": [
-      "wta live"
+      "junior - atlético nacional"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4611147344,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638110707,
-        "language": "en",
-        "region": "US"
+        "id": 4637756592,
+        "language": "es",
+        "region": "PL"
       }
     ],
-    "normalized_keyword": "wta live",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "junior - atletico nacional",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   },
   {
-    "keyword": "parry",
+    "keyword": "twitch",
     "region": "PL",
-    "started_at_unix": 1780321800,
-    "ended_at_unix": 1780326600,
-    "search_volume": 200,
-    "score": 1000,
+    "started_at_unix": 1780407600,
+    "ended_at_unix": 1780411200,
+    "search_volume": 1000,
+    "score": 200,
     "related_queries": [
-      "parry"
+      "twitch"
+    ],
+    "category_ids": [
+      6,
+      4
+    ],
+    "entities": [
+      {
+        "id": 4639813739,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4634925223,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4628053458,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4639966142,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4639877694,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4613764905,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4568862730,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4616518168,
+        "language": "en",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "twitch",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "raków",
+    "region": "PL",
+    "started_at_unix": 1780457400,
+    "ended_at_unix": 1780459800,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "raków"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4634831405,
+        "id": 4641470972,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4639774067,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4634105977,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4633861063,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4633861085,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4635718410,
+        "language": "pl",
+        "region": "PL"
+      },
+      {
+        "id": 4640577593,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "rakow",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "pogoda radom",
+    "region": "PL",
+    "started_at_unix": 1780459800,
+    "ended_at_unix": 1780461000,
+    "search_volume": 200,
+    "score": 50,
+    "related_queries": [
+      "pogoda radom"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4641180651,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "pogoda radom",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "alexander zverev",
+    "region": "PL",
+    "started_at_unix": 1780407000,
+    "ended_at_unix": 1780410000,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "alexander zverev"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4633704387,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4622914693,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4640863959,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4640516977,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4640190547,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4637517313,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4640775014,
+        "language": "en",
+        "region": "PL"
+      },
+      {
+        "id": 4567864342,
+        "language": "en",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "alexander zverev",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "sorana cîrstea",
+    "region": "PL",
+    "started_at_unix": 1780393800,
+    "ended_at_unix": 1780396800,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "sorana cîrstea"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4616771331,
+        "language": "ro",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "sorana cirstea",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "play awaria",
+    "region": "PL",
+    "started_at_unix": 1780410000,
+    "ended_at_unix": 1780412400,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "play awaria"
+    ],
+    "category_ids": [
+      18
+    ],
+    "entities": [
+      {
+        "id": 4640117139,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "play awaria",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "play",
+    "region": "PL",
+    "started_at_unix": 1780410000,
+    "ended_at_unix": 1780411800,
+    "search_volume": 1000,
+    "score": 200,
+    "related_queries": [
+      "play"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4633108635,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4637464444,
+        "id": 4640808899,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4631003974,
+        "id": 4640788508,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4635167063,
+        "id": 4624772408,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4615736465,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640806236,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4614471826,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631958153,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4627291890,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628974275,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4614540210,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628343005,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631244321,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4540981723,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4587685393,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4596586554,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "parry",
-    "captured_at": "2026-06-02T07:25:34.833389+00:00"
+    "normalized_keyword": "play",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
+  },
+  {
+    "keyword": "niebo nad normandią",
+    "region": "PL",
+    "started_at_unix": 1780387800,
+    "ended_at_unix": 1780389000,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "niebo nad normandią"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4627933667,
+        "language": "pl",
+        "region": "PL"
+      }
+    ],
+    "normalized_keyword": "niebo nad normandia",
+    "captured_at": "2026-06-03T07:36:37.999886+00:00"
   }
 ]

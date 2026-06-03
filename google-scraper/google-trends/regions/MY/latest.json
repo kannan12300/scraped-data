@@ -1,367 +1,1871 @@
 [
   {
-    "keyword": "indonesia open 2026",
+    "keyword": "bts",
     "region": "MY",
-    "started_at_unix": 1780368000,
+    "started_at_unix": 1780450200,
     "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 500,
+    "search_volume": 2000,
+    "score": 600,
     "related_queries": [
-      "indonesia open 2026",
-      "bwf indonesia open 2026"
+      "bts",
+      "bts ticket",
+      "bts singapore"
     ],
     "category_ids": [
-      17,
       4
     ],
     "entities": [
       {
-        "id": 4625315983,
+        "id": 4636452357,
         "language": "en",
         "region": "MY"
       },
       {
-        "id": 4639058488,
+        "id": 4625418864,
         "language": "en",
         "region": "MY"
       },
       {
-        "id": 4632588119,
+        "id": 4624325066,
         "language": "en",
         "region": "MY"
       },
       {
-        "id": 4638988156,
+        "id": 4639801743,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4601640665,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4636703857,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4641075768,
         "language": "en",
         "region": "MY"
       }
     ],
-    "normalized_keyword": "indonesia open 2026",
-    "captured_at": "2026-06-02T07:19:33.074137+00:00"
+    "normalized_keyword": "bts",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
   },
   {
-    "keyword": "malaysiakini",
+    "keyword": "livenation",
     "region": "MY",
-    "started_at_unix": 1780305000,
+    "started_at_unix": 1780445400,
     "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 100,
+    "search_volume": 5000,
+    "score": 500,
     "related_queries": [
-      "malaysiakini"
-    ],
-    "category_ids": [
-      10,
-      14
-    ],
-    "entities": [
-      {
-        "id": 4639059644,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4631783537,
-        "language": "en",
-        "region": "MY"
-      }
-    ],
-    "normalized_keyword": "malaysiakini",
-    "captured_at": "2026-06-02T07:19:33.074137+00:00"
-  },
-  {
-    "keyword": "menampar",
-    "region": "MY",
-    "started_at_unix": 1780371000,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "menampar"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4637247673,
-        "language": "en",
-        "region": "MY"
-      }
-    ],
-    "normalized_keyword": "menampar",
-    "captured_at": "2026-06-02T07:19:33.074137+00:00"
-  },
-  {
-    "keyword": "simpang renggam",
-    "region": "MY",
-    "started_at_unix": 1780367400,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "simpang renggam",
-      "simpang renggam accident"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4637403313,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4637311553,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4625030336,
-        "language": "en",
-        "region": "MY"
-      }
-    ],
-    "normalized_keyword": "simpang renggam",
-    "captured_at": "2026-06-02T07:19:33.074137+00:00"
-  },
-  {
-    "keyword": "berita",
-    "region": "MY",
-    "started_at_unix": 1780383600,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "berita",
-      "harian metro"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4623465442,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4639244561,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4639113006,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4637311553,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4621657641,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4634904625,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4637247673,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4631988472,
-        "language": "en",
-        "region": "MY"
-      }
-    ],
-    "normalized_keyword": "berita",
-    "captured_at": "2026-06-02T07:19:33.074137+00:00"
-  },
-  {
-    "keyword": "lotto result",
-    "region": "MY",
-    "started_at_unix": 1780313400,
-    "ended_at_unix": 1780383000,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "lotto result",
-      "lotto"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4601529906,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633948570,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627678466,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635213426,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631567595,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4613090633,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4624734475,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631584582,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4621041673,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629328361,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629331580,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "lotto result",
-    "captured_at": "2026-06-02T07:19:33.074137+00:00"
-  },
-  {
-    "keyword": "canada vs uzbekistan",
-    "region": "MY",
-    "started_at_unix": 1780371000,
-    "ended_at_unix": 1780377000,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "canada vs uzbekistan"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4627291890,
-        "language": "en",
-        "region": "MY"
-      }
-    ],
-    "normalized_keyword": "canada vs uzbekistan",
-    "captured_at": "2026-06-02T07:19:33.074137+00:00"
-  },
-  {
-    "keyword": "outlook",
-    "region": "MY",
-    "started_at_unix": 1780331400,
-    "ended_at_unix": 1780375200,
-    "search_volume": 200,
-    "score": 75,
-    "related_queries": [
-      "outlook"
+      "livenation"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4629171771,
+        "id": 4628575446,
         "language": "en",
-        "region": "MY"
+        "region": "US"
       },
       {
-        "id": 4627189137,
+        "id": 4632995131,
         "language": "en",
-        "region": "MY"
+        "region": "US"
       },
       {
-        "id": 4630564628,
+        "id": 4641170287,
         "language": "en",
-        "region": "MY"
+        "region": "US"
       },
       {
-        "id": 4632040965,
+        "id": 4637747433,
         "language": "en",
-        "region": "MY"
+        "region": "US"
       },
       {
-        "id": 4601749388,
+        "id": 4518342641,
         "language": "en",
-        "region": "MY"
-      },
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "livenation",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "jay chou malaysia",
+    "region": "MY",
+    "started_at_unix": 1780448400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "jay chou malaysia",
+      "jay chou malaysia concert 2027"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
       {
-        "id": 4626481752,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4635675603,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4627031999,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4630410680,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4638887104,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4626977678,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4631239107,
-        "language": "en",
-        "region": "MY"
-      },
-      {
-        "id": 4627485173,
+        "id": 4638863867,
         "language": "en",
         "region": "MY"
       }
     ],
-    "normalized_keyword": "outlook",
-    "captured_at": "2026-06-02T07:19:33.074137+00:00"
+    "normalized_keyword": "jay chou malaysia",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "go live",
+    "region": "MY",
+    "started_at_unix": 1780413000,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 500,
+    "related_queries": [
+      "go live"
+    ],
+    "category_ids": [
+      3,
+      16
+    ],
+    "entities": [
+      {
+        "id": 4641051214,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4630112074,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4633108635,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4620219117,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612005018,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4585113659,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "go live",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "god of war laufey",
+    "region": "MY",
+    "started_at_unix": 1780443600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 800,
+    "related_queries": [
+      "god of war laufey",
+      "laufey"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4640817500,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4640817500,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "god of war laufey",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "live nation",
+    "region": "MY",
+    "started_at_unix": 1780444800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 300,
+    "related_queries": [
+      "live nation"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4625418864,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4629242025,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628575446,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637747433,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4518342641,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4602104822,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4597992948,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4621643670,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "live nation",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "ticketmaster",
+    "region": "MY",
+    "started_at_unix": 1780450800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "ticketmaster",
+      "ticket master"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631131347,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640247526,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4630702620,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4518342641,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "ticketmaster",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "croatia vs belgium",
+    "region": "MY",
+    "started_at_unix": 1780412400,
+    "ended_at_unix": 1780470000,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "croatia vs belgium"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4619467736,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "croatia vs belgium",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "rempuh",
+    "region": "MY",
+    "started_at_unix": 1780464600,
+    "ended_at_unix": 1780471200,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "rempuh"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4641044665,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4637311553,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639797754,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4635496118,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "rempuh",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "bts concert",
+    "region": "MY",
+    "started_at_unix": 1780457400,
+    "ended_at_unix": 1780471200,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "bts concert"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4601640665,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4636452357,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4625418864,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4634022347,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639242854,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "bts concert",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "bts malaysia",
+    "region": "MY",
+    "started_at_unix": 1780454400,
+    "ended_at_unix": 1780470000,
+    "search_volume": 1000,
+    "score": 500,
+    "related_queries": [
+      "bts malaysia"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4624325066,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4625418864,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "bts malaysia",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "hoo pang ron",
+    "region": "MY",
+    "started_at_unix": 1780470600,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 500,
+    "related_queries": [
+      "hoo pang ron"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4641256916,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4641223971,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "hoo pang ron",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "lemas",
+    "region": "MY",
+    "started_at_unix": 1780395000,
+    "ended_at_unix": 1780455600,
+    "search_volume": 2000,
+    "score": 300,
+    "related_queries": [
+      "lemas"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4639005898,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4640217831,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "lemas",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "japan",
+    "region": "MY",
+    "started_at_unix": 1780398000,
+    "ended_at_unix": 1780453200,
+    "search_volume": 2000,
+    "score": 300,
+    "related_queries": [
+      "japan"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4628786647,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4632267984,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4629448003,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4626948329,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4641441142,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4627301594,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639499644,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4629151296,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4609095439,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "japan",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "anutin charnvirakul",
+    "region": "MY",
+    "started_at_unix": 1780410600,
+    "ended_at_unix": 1780452600,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "anutin charnvirakul"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4635464745,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4624328637,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4617950701,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4629448003,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "anutin charnvirakul",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "india vs england",
+    "region": "MY",
+    "started_at_unix": 1780423200,
+    "ended_at_unix": 1780450200,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "india vs england"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4609066979,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4631447139,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4640252935,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "india vs england",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "weverse",
+    "region": "MY",
+    "started_at_unix": 1780443600,
+    "ended_at_unix": 1780456200,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "weverse"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4636703857,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "weverse",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "australia vs pakistan",
+    "region": "MY",
+    "started_at_unix": 1780398600,
+    "ended_at_unix": 1780411800,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "australia vs pakistan",
+      "australia national cricket team vs pakistan national cricket team match scorecard",
+      "pak vs aus",
+      "aus vs pak"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631779887,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4606351550,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641099198,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4633005995,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640434956,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631779887,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4606351550,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4638634328,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4638634328,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "australia vs pakistan",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "ederson atalanta",
+    "region": "MY",
+    "started_at_unix": 1780441200,
+    "ended_at_unix": 1780458000,
+    "search_volume": 1000,
+    "score": 700,
+    "related_queries": [
+      "ederson atalanta"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4633844871,
+        "language": "it",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "ederson atalanta",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "noniswara",
+    "region": "MY",
+    "started_at_unix": 1780410600,
+    "ended_at_unix": 1780450200,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "noniswara"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4616997808,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "noniswara",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "morocco vs madagascar",
+    "region": "MY",
+    "started_at_unix": 1780419600,
+    "ended_at_unix": 1780450800,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "morocco vs madagascar"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4615310152,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "morocco vs madagascar",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "wales vs ghana",
+    "region": "MY",
+    "started_at_unix": 1780423800,
+    "ended_at_unix": 1780449000,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "wales vs ghana"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638831154,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "wales vs ghana",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "tnb",
+    "region": "MY",
+    "started_at_unix": 1780450800,
+    "ended_at_unix": 1780457400,
+    "search_volume": 1000,
+    "score": 100,
+    "related_queries": [
+      "tnb"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4636933046,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4630027221,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4631876748,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4638951297,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "tnb",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "el nino",
+    "region": "MY",
+    "started_at_unix": 1780406400,
+    "ended_at_unix": 1780448400,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "el nino"
+    ],
+    "category_ids": [
+      15
+    ],
+    "entities": [
+      {
+        "id": 4627681651,
+        "language": "es",
+        "region": "MY"
+      },
+      {
+        "id": 4638194773,
+        "language": "es",
+        "region": "MY"
+      },
+      {
+        "id": 4628386300,
+        "language": "es",
+        "region": "MY"
+      },
+      {
+        "id": 4601142870,
+        "language": "es",
+        "region": "MY"
+      },
+      {
+        "id": 4592842588,
+        "language": "es",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "el nino",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "man g",
+    "region": "MY",
+    "started_at_unix": 1780393800,
+    "ended_at_unix": 1780444200,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "man g"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4639461208,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639901520,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "man g",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "maid",
+    "region": "MY",
+    "started_at_unix": 1780392000,
+    "ended_at_unix": 1780444200,
+    "search_volume": 1000,
+    "score": 200,
+    "related_queries": [
+      "maid"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4636703910,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4641339510,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4610716396,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "maid",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "radio online",
+    "region": "MY",
+    "started_at_unix": 1780444200,
+    "ended_at_unix": 1780450800,
+    "search_volume": 1000,
+    "score": 75,
+    "related_queries": [
+      "radio online"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4639901420,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4638447652,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "radio online",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "dumfries",
+    "region": "MY",
+    "started_at_unix": 1780441200,
+    "ended_at_unix": 1780453200,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "dumfries",
+      "denzel dumfries"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638693200,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4618312752,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4620486437,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "dumfries",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "emas",
+    "region": "MY",
+    "started_at_unix": 1780435800,
+    "ended_at_unix": 1780449600,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "emas"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4635381607,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639461197,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4638703367,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4621757519,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "emas",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "georgia vs romania",
+    "region": "MY",
+    "started_at_unix": 1780419000,
+    "ended_at_unix": 1780444800,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "georgia vs romania"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4633755286,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "georgia vs romania",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "lubnan",
+    "region": "MY",
+    "started_at_unix": 1780390200,
+    "ended_at_unix": 1780410600,
+    "search_volume": 1000,
+    "score": 200,
+    "related_queries": [
+      "lubnan"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4635628230,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4628570200,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4624675895,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4638926696,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4623204308,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639024857,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4636304146,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639474077,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "lubnan",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "bangladesh vs scotland",
+    "region": "MY",
+    "started_at_unix": 1780402200,
+    "ended_at_unix": 1780412400,
+    "search_volume": 1000,
+    "score": 500,
+    "related_queries": [
+      "bangladesh vs scotland",
+      "bangladesh vs scotland women"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4634187718,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "bangladesh vs scotland",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "haiti vs new zealand",
+    "region": "MY",
+    "started_at_unix": 1780448400,
+    "ended_at_unix": 1780456200,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "haiti vs new zealand"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4630712359,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "haiti vs new zealand",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "kematian",
+    "region": "MY",
+    "started_at_unix": 1780440600,
+    "ended_at_unix": 1780448400,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "kematian"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4640037279,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4641119030,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4637311553,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639721098,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4641363373,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4632518194,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "kematian",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "what",
+    "region": "MY",
+    "started_at_unix": 1780446000,
+    "ended_at_unix": 1780450800,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "what"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4598916304,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4632517488,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4638998927,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4624194571,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641264968,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634260520,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635550338,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641110444,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636042830,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641322598,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628958214,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4638245884,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628601201,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636926624,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640041949,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4537954121,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "what",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "aaron chia",
+    "region": "MY",
+    "started_at_unix": 1780392600,
+    "ended_at_unix": 1780441200,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "aaron chia"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4639270661,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4626297101,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "aaron chia",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "jakub menšík",
+    "region": "MY",
+    "started_at_unix": 1780438800,
+    "ended_at_unix": 1780447800,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "jakub menšík"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4636674548,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4640401003,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4637238342,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4633704387,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4628782665,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "jakub mensik",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "nigeria",
+    "region": "MY",
+    "started_at_unix": 1780390800,
+    "ended_at_unix": 1780405200,
+    "search_volume": 500,
+    "score": 100,
+    "related_queries": [
+      "nigeria"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4636104915,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4620439856,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641160047,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641154374,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640759207,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4639982799,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4624338348,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "nigeria",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "world cup",
+    "region": "MY",
+    "started_at_unix": 1780409400,
+    "ended_at_unix": 1780430400,
+    "search_volume": 500,
+    "score": 75,
+    "related_queries": [
+      "world cup",
+      "fifa world cup"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638321077,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4636363038,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4632879802,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639494416,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4626850786,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4638634328,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4637892357,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4616258357,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4633370780,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639789679,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4638831154,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "world cup",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "luka di hujung setia",
+    "region": "MY",
+    "started_at_unix": 1780398000,
+    "ended_at_unix": 1780404600,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "luka di hujung setia"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4629333647,
+        "language": "ms",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "luka di hujung setia",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "leong jun hao",
+    "region": "MY",
+    "started_at_unix": 1780405200,
+    "ended_at_unix": 1780444800,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "leong jun hao"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4639587920,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639545467,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "leong jun hao",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "roland garros",
+    "region": "MY",
+    "started_at_unix": 1780439400,
+    "ended_at_unix": 1780444800,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "roland garros"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4640025007,
+        "language": "fr",
+        "region": "MY"
+      },
+      {
+        "id": 4640309730,
+        "language": "fr",
+        "region": "MY"
+      },
+      {
+        "id": 4640385727,
+        "language": "fr",
+        "region": "MY"
+      },
+      {
+        "id": 4630695386,
+        "language": "fr",
+        "region": "MY"
+      },
+      {
+        "id": 4618226905,
+        "language": "fr",
+        "region": "MY"
+      },
+      {
+        "id": 4637657832,
+        "language": "fr",
+        "region": "MY"
+      },
+      {
+        "id": 4594684344,
+        "language": "fr",
+        "region": "MY"
+      },
+      {
+        "id": 4640804333,
+        "language": "fr",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "roland garros",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "baling",
+    "region": "MY",
+    "started_at_unix": 1780389000,
+    "ended_at_unix": 1780396800,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "baling"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4639115007,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4638951350,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "baling",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "hot fm",
+    "region": "MY",
+    "started_at_unix": 1780445400,
+    "ended_at_unix": 1780448400,
+    "search_volume": 200,
+    "score": 50,
+    "related_queries": [
+      "hot fm"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4641278759,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641261016,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631450421,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4639419099,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "hot fm",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "anfield",
+    "region": "MY",
+    "started_at_unix": 1780395000,
+    "ended_at_unix": 1780402800,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "anfield"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4640248307,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4633945262,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4624042424,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4639254397,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4640584259,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4627349952,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "anfield",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "marta kostyuk",
+    "region": "MY",
+    "started_at_unix": 1780402200,
+    "ended_at_unix": 1780406400,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "marta kostyuk"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4633692614,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4633704387,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4638023358,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4636674548,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4622518852,
+        "language": "en",
+        "region": "MY"
+      },
+      {
+        "id": 4619155141,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "marta kostyuk",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "rafael jodar",
+    "region": "MY",
+    "started_at_unix": 1780406400,
+    "ended_at_unix": 1780410600,
+    "search_volume": 100,
+    "score": 200,
+    "related_queries": [
+      "rafael jodar"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4633714322,
+        "language": "es",
+        "region": "MY"
+      },
+      {
+        "id": 4633215167,
+        "language": "es",
+        "region": "MY"
+      },
+      {
+        "id": 4624856501,
+        "language": "es",
+        "region": "MY"
+      },
+      {
+        "id": 4629329705,
+        "language": "es",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "rafael jodar",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "alexandra eala",
+    "region": "MY",
+    "started_at_unix": 1780397400,
+    "ended_at_unix": 1780399200,
+    "search_volume": 100,
+    "score": 200,
+    "related_queries": [
+      "alexandra eala"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4632102599,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "alexandra eala",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
+  },
+  {
+    "keyword": "malaysia manufacturing sector contraction",
+    "region": "MY",
+    "started_at_unix": 1780397400,
+    "ended_at_unix": 1780398600,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "malaysia manufacturing sector contraction"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4638865922,
+        "language": "en",
+        "region": "MY"
+      }
+    ],
+    "normalized_keyword": "malaysia manufacturing sector contraction",
+    "captured_at": "2026-06-03T07:30:23.735859+00:00"
   }
 ]

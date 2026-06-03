@@ -1,851 +1,760 @@
 [
   {
-    "keyword": "billy gilmour",
+    "keyword": "barracas central - huracán",
     "region": "AR",
-    "started_at_unix": 1780365600,
-    "ended_at_unix": 1780383000,
-    "search_volume": 1000,
-    "score": 400,
+    "started_at_unix": 1780443600,
+    "ended_at_unix": null,
+    "search_volume": 50000,
+    "score": 1000,
     "related_queries": [
-      "billy gilmour"
+      "barracas central - huracán",
+      "huracan",
+      "barracas central"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4634775088,
-        "language": "en",
+        "id": 4627075127,
+        "language": "es",
         "region": "AR"
       },
       {
-        "id": 4635072204,
-        "language": "en",
+        "id": 4625049577,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640438928,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4598315595,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4632722331,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4622272461,
+        "language": "es",
         "region": "AR"
       }
     ],
-    "normalized_keyword": "billy gilmour",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
+    "normalized_keyword": "barracas central - huracan",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
   },
   {
-    "keyword": "feriados junio 2026",
+    "keyword": "alejandra majluf",
     "region": "AR",
-    "started_at_unix": 1780316400,
-    "ended_at_unix": 1780371600,
+    "started_at_unix": 1780450800,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "alejandra majluf",
+      "majluf alejandra",
+      "majluf"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4641075892,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "alejandra majluf",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "nasa",
+    "region": "AR",
+    "started_at_unix": 1780417200,
+    "ended_at_unix": null,
     "search_volume": 5000,
-    "score": 200,
-    "related_queries": [
-      "feriados junio 2026",
-      "feriados 2026",
-      "dia del padre"
-    ],
-    "category_ids": [
-      8
-    ],
-    "entities": [
-      {
-        "id": 4607781543,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4626693776,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4627205641,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4636775231,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638199443,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638123058,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4607781543,
-        "language": "pt",
-        "region": "AR"
-      },
-      {
-        "id": 4627488960,
-        "language": "pt",
-        "region": "AR"
-      },
-      {
-        "id": 4599847785,
-        "language": "pt",
-        "region": "AR"
-      },
-      {
-        "id": 4633317409,
-        "language": "pt",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "feriados junio 2026",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "colombia - costa rica",
-    "region": "AR",
-    "started_at_unix": 1780363800,
-    "ended_at_unix": 1780372200,
-    "search_volume": 1000,
-    "score": 500,
-    "related_queries": [
-      "colombia - costa rica",
-      "colombia vs"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4620065217,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638896739,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638872340,
-        "language": "es",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "colombia - costa rica",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "whatsapp",
-    "region": "AR",
-    "started_at_unix": 1780309200,
-    "ended_at_unix": 1780350600,
-    "search_volume": 10000,
-    "score": 75,
-    "related_queries": [
-      "whatsapp"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4611039432,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629437433,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638676751,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639235540,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634155885,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4632156480,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629114523,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4617453262,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "whatsapp",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "posiciones de peñarol contra central español",
-    "region": "AR",
-    "started_at_unix": 1780365600,
-    "ended_at_unix": 1780370400,
-    "search_volume": 1000,
     "score": 300,
     "related_queries": [
-      "posiciones de peñarol contra central español",
-      "peñarol - central"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4624327448,
-        "language": "es",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "posiciones de penarol contra central espanol",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "técnico universitario - barcelona sc",
-    "region": "AR",
-    "started_at_unix": 1780363200,
-    "ended_at_unix": 1780371600,
-    "search_volume": 1000,
-    "score": 500,
-    "related_queries": [
-      "técnico universitario - barcelona sc"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4627649707,
-        "language": "es",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "tecnico universitario - barcelona sc",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "flybondi",
-    "region": "AR",
-    "started_at_unix": 1780364400,
-    "ended_at_unix": 1780381200,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "flybondi"
+      "nasa"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4617353438,
+        "id": 4635046614,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4618644253,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4619958356,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4630372812,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4638170980,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4634904355,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4640285345,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4635019368,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4628796377,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4641150432,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4639224071,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4621168208,
         "language": "en",
         "region": "AR"
       }
     ],
-    "normalized_keyword": "flybondi",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
+    "normalized_keyword": "nasa",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
   },
   {
-    "keyword": "banco nacion",
+    "keyword": "nueva zelanda vs haiti",
     "region": "AR",
-    "started_at_unix": 1780312200,
-    "ended_at_unix": 1780351200,
-    "search_volume": 2000,
-    "score": 50,
+    "started_at_unix": 1780441800,
+    "ended_at_unix": 1780470000,
+    "search_volume": 20000,
+    "score": 1000,
     "related_queries": [
-      "banco nacion"
+      "nueva zelanda vs haiti",
+      "nueva zelanda",
+      "nueva zelanda vs",
+      "haiti",
+      "nueva zelanda seleccion"
     ],
     "category_ids": [
-      11
+      17
     ],
     "entities": [
       {
-        "id": 4629869624,
+        "id": 4628796377,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4619544470,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4621065943,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4628796377,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4626907071,
+        "id": 4641174359,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4637644016,
+        "id": 4616830899,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4623792708,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4630142570,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4626140828,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4617592491,
+        "id": 4640471989,
         "language": "es",
         "region": "AR"
       }
     ],
-    "normalized_keyword": "banco nacion",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
+    "normalized_keyword": "nueva zelanda vs haiti",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
   },
   {
-    "keyword": "banco provincia",
+    "keyword": "progresar 2026",
     "region": "AR",
-    "started_at_unix": 1780312200,
-    "ended_at_unix": 1780355400,
-    "search_volume": 2000,
-    "score": 50,
+    "started_at_unix": 1780431000,
+    "ended_at_unix": 1780453800,
+    "search_volume": 20000,
+    "score": 1000,
     "related_queries": [
-      "banco provincia"
+      "progresar 2026"
     ],
     "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4629713236,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638497091,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4626338069,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638212366,
-        "language": "es",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "banco provincia",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "bna",
-    "region": "AR",
-    "started_at_unix": 1780312200,
-    "ended_at_unix": 1780332600,
-    "search_volume": 2000,
-    "score": 50,
-    "related_queries": [
-      "bna"
-    ],
-    "category_ids": [
-      19,
+      9,
       3
     ],
     "entities": [
       {
-        "id": 4629118742,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4637887143,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "bna",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "telefe en vivo",
-    "region": "AR",
-    "started_at_unix": 1780363800,
-    "ended_at_unix": 1780367400,
-    "search_volume": 500,
-    "score": 50,
-    "related_queries": [
-      "telefe en vivo",
-      "telefe"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4638657037,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4625931744,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4636165650,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4630875506,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4631421157,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638628203,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638150459,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4617610406,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638764209,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4635673365,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4620084071,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4633920567,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4626591900,
-        "language": "es",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "telefe en vivo",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "cadena 3",
-    "region": "AR",
-    "started_at_unix": 1780305000,
-    "ended_at_unix": 1780351800,
-    "search_volume": 500,
-    "score": 75,
-    "related_queries": [
-      "cadena 3"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4619079211,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4637843531,
-        "language": "es",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "cadena 3",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "contexto",
-    "region": "AR",
-    "started_at_unix": 1780308000,
-    "ended_at_unix": 1780335600,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "contexto"
-    ],
-    "category_ids": [
-      3,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4637996150,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4625096681,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4635111716,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4639131871,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638510195,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4617561869,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638896753,
-        "language": "es",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "contexto",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "tate mcrae",
-    "region": "AR",
-    "started_at_unix": 1780367400,
-    "ended_at_unix": 1780369200,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "tate mcrae"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4635346013,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4632331033,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4581334921,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "tate mcrae",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "abc",
-    "region": "AR",
-    "started_at_unix": 1780313400,
-    "ended_at_unix": 1780336200,
-    "search_volume": 500,
-    "score": 75,
-    "related_queries": [
-      "abc"
-    ],
-    "category_ids": [
-      14,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4636288497,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4632989473,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622257088,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639115077,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629384447,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629331275,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4624944773,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638218262,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629803146,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "abc",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "jetsmart",
-    "region": "AR",
-    "started_at_unix": 1780361400,
-    "ended_at_unix": 1780366200,
-    "search_volume": 200,
-    "score": 50,
-    "related_queries": [
-      "jetsmart"
-    ],
-    "category_ids": [
-      19
-    ],
-    "entities": [
-      {
-        "id": 4627815444,
-        "language": "es",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "jetsmart",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "anses",
-    "region": "AR",
-    "started_at_unix": 1780321200,
-    "ended_at_unix": 1780359600,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "anses",
-      "mi anses"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4627488960,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4637481108,
-        "language": "es",
-        "region": "AR"
-      },
-      {
         "id": 4583610220,
         "language": "es",
         "region": "AR"
-      },
-      {
-        "id": 4638806448,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4617335321,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4633218749,
-        "language": "es",
-        "region": "AR"
       }
     ],
-    "normalized_keyword": "anses",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
+    "normalized_keyword": "progresar 2026",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
   },
   {
-    "keyword": "minuto uno",
+    "keyword": "ministerio público",
     "region": "AR",
-    "started_at_unix": 1780314000,
-    "ended_at_unix": 1780344000,
-    "search_volume": 200,
-    "score": 100,
+    "started_at_unix": 1780437000,
+    "ended_at_unix": 1780464600,
+    "search_volume": 10000,
+    "score": 700,
     "related_queries": [
-      "minuto uno"
+      "ministerio público"
     ],
     "category_ids": [
-      8
+      10
     ],
     "entities": [
       {
-        "id": 4637810940,
-        "language": "it",
+        "id": 4640727059,
+        "language": "es",
         "region": "AR"
       },
       {
-        "id": 4626693776,
-        "language": "it",
+        "id": 4640508693,
+        "language": "es",
         "region": "AR"
       },
       {
-        "id": 4638476822,
-        "language": "it",
+        "id": 4640308995,
+        "language": "es",
         "region": "AR"
       },
       {
-        "id": 4632193526,
-        "language": "it",
+        "id": 4637771506,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4639634907,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4633223910,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4635293826,
+        "language": "es",
         "region": "AR"
       },
       {
         "id": 4625096681,
-        "language": "it",
-        "region": "AR"
-      },
-      {
-        "id": 4636733963,
-        "language": "it",
-        "region": "AR"
-      },
-      {
-        "id": 4638359784,
-        "language": "it",
-        "region": "AR"
-      },
-      {
-        "id": 4630412406,
-        "language": "it",
+        "language": "es",
         "region": "AR"
       }
     ],
-    "normalized_keyword": "minuto uno",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
+    "normalized_keyword": "ministerio publico",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
   },
   {
-    "keyword": "mundial",
+    "keyword": "cuenta bancaria",
     "region": "AR",
-    "started_at_unix": 1780329000,
-    "ended_at_unix": 1780366200,
-    "search_volume": 200,
-    "score": 100,
+    "started_at_unix": 1780417800,
+    "ended_at_unix": 1780453200,
+    "search_volume": 5000,
+    "score": 300,
     "related_queries": [
-      "mundial",
-      "argentina",
-      "tyc sports",
-      "partidos de argentina en el mundial"
+      "cuenta bancaria"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4623045186,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640561800,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4626889395,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4635573066,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4638189281,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4629662043,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4633761761,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "cuenta bancaria",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "sedán",
+    "region": "AR",
+    "started_at_unix": 1780391400,
+    "ended_at_unix": 1780449000,
+    "search_volume": 10000,
+    "score": 300,
+    "related_queries": [
+      "sedán"
+    ],
+    "category_ids": [
+      1
+    ],
+    "entities": [
+      {
+        "id": 4631012364,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631499826,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4632187643,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636785002,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4621797300,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4639473831,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637813802,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636180102,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4638342932,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4629886219,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "sedan",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "junior - atlético nacional",
+    "region": "AR",
+    "started_at_unix": 1780444200,
+    "ended_at_unix": 1780459200,
+    "search_volume": 2000,
+    "score": 700,
+    "related_queries": [
+      "junior - atlético nacional"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4628887579,
+        "id": 4637756592,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "junior - atletico nacional",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "viernes",
+    "region": "AR",
+    "started_at_unix": 1780412400,
+    "ended_at_unix": 1780452600,
+    "search_volume": 5000,
+    "score": 300,
+    "related_queries": [
+      "viernes"
+    ],
+    "category_ids": [
+      8
+    ],
+    "entities": [
+      {
+        "id": 4632412870,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4639220774,
+        "id": 4640211653,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4627962337,
+        "id": 4640651292,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4633154310,
+        "id": 4632679176,
         "language": "es",
         "region": "AR"
       },
+      {
+        "id": 4629043208,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4638356197,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640221401,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4639697234,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4641213054,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "viernes",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "croacia - bélgica",
+    "region": "AR",
+    "started_at_unix": 1780413600,
+    "ended_at_unix": 1780438200,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "croacia - bélgica"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4615477887,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640640174,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "croacia - belgica",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "clint eastwood",
+    "region": "AR",
+    "started_at_unix": 1780434000,
+    "ended_at_unix": 1780450800,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "clint eastwood"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4635474939,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4605714722,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4636487104,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4626630589,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4640285001,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4623263315,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4611825613,
+        "language": "en",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "clint eastwood",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "mensik",
+    "region": "AR",
+    "started_at_unix": 1780428600,
+    "ended_at_unix": 1780438800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "mensik"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4636674548,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4640857219,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4636665367,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4633714322,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4640401003,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4640863959,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4641098910,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4628782665,
+        "language": "en",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "mensik",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "carlos belloso",
+    "region": "AR",
+    "started_at_unix": 1780452600,
+    "ended_at_unix": 1780457400,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "carlos belloso"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4641114742,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "carlos belloso",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "alexander zverev",
+    "region": "AR",
+    "started_at_unix": 1780405800,
+    "ended_at_unix": 1780417200,
+    "search_volume": 5000,
+    "score": 500,
+    "related_queries": [
+      "alexander zverev",
+      "zverev"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4633704387,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4636665367,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4633714322,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4640447447,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4631364637,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4637804686,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4567864342,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4636674548,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4640863959,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4640516977,
+        "language": "en",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "alexander zverev",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "argentina",
+    "region": "AR",
+    "started_at_unix": 1780447200,
+    "ended_at_unix": 1780452000,
+    "search_volume": 2000,
+    "score": 75,
+    "related_queries": [
+      "argentina"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
       {
         "id": 4600216784,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4636391029,
+        "id": 4640554092,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4626556041,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4639238316,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4626959571,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4610403057,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4630766501,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4606109472,
+        "id": 4628887579,
         "language": "es",
         "region": "AR"
       },
@@ -855,495 +764,873 @@
         "region": "AR"
       },
       {
-        "id": 4627168321,
+        "id": 4640674190,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4638437369,
+        "id": 4635179334,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4615477752,
+        "id": 4638558138,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4617592593,
+        "id": 4628796377,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4638172329,
+        "id": 4610369894,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4638177629,
+        "id": 4640318067,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4632656846,
+        "id": 4640087766,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4635567345,
+        "id": 4610037409,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4635101351,
+        "id": 4641106109,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4614459340,
+        "id": 4636668128,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4633746113,
+        "id": 4633256086,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4624327410,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638104507,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4635111716,
+        "id": 4628867791,
         "language": "es",
         "region": "AR"
       }
     ],
-    "normalized_keyword": "mundial",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
+    "normalized_keyword": "argentina",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
   },
   {
-    "keyword": "diario panorama",
+    "keyword": "joão fonseca",
     "region": "AR",
-    "started_at_unix": 1780308600,
-    "ended_at_unix": 1780317600,
-    "search_volume": 500,
-    "score": 75,
+    "started_at_unix": 1780428000,
+    "ended_at_unix": 1780438200,
+    "search_volume": 2000,
+    "score": 400,
     "related_queries": [
-      "diario panorama"
+      "joão fonseca"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4589491940,
+        "language": "pt",
+        "region": "AR"
+      },
+      {
+        "id": 4629329705,
+        "language": "pt",
+        "region": "AR"
+      },
+      {
+        "id": 4637446866,
+        "language": "pt",
+        "region": "AR"
+      },
+      {
+        "id": 4636665367,
+        "language": "pt",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "joao fonseca",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "fortaleza - vitória",
+    "region": "AR",
+    "started_at_unix": 1780444800,
+    "ended_at_unix": 1780449600,
+    "search_volume": 1000,
+    "score": 500,
+    "related_queries": [
+      "fortaleza - vitória"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4640668774,
+        "language": "pt",
+        "region": "AR"
+      },
+      {
+        "id": 4640619441,
+        "language": "pt",
+        "region": "AR"
+      },
+      {
+        "id": 4641107375,
+        "language": "pt",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "fortaleza - vitoria",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "bullrich",
+    "region": "AR",
+    "started_at_unix": 1780433400,
+    "ended_at_unix": 1780439400,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "bullrich"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4624712394,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4629869701,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640860480,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640863657,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640131498,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640776265,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "bullrich",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "tiempo",
+    "region": "AR",
+    "started_at_unix": 1780392000,
+    "ended_at_unix": 1780395600,
+    "search_volume": 20000,
+    "score": 50,
+    "related_queries": [
+      "tiempo",
+      "precipitación"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4640318067,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4638677257,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4628082555,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4622874095,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4624712394,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4609582554,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4626907137,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4636609197,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4637911620,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4639220774,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4637528567,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4627315799,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640076925,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4638359921,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "tiempo",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "ypf",
+    "region": "AR",
+    "started_at_unix": 1780434600,
+    "ended_at_unix": 1780440600,
+    "search_volume": 1000,
+    "score": 300,
+    "related_queries": [
+      "ypf"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4636656834,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636878862,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "diario panorama",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "galicia",
-    "region": "AR",
-    "started_at_unix": 1780316400,
-    "ended_at_unix": 1780337400,
-    "search_volume": 500,
-    "score": 50,
-    "related_queries": [
-      "galicia"
-    ],
-    "category_ids": [
-      3,
-      1
-    ],
-    "entities": [
-      {
-        "id": 4638073750,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4624175681,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "galicia",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "diario de cuyo",
-    "region": "AR",
-    "started_at_unix": 1780308600,
-    "ended_at_unix": 1780315200,
-    "search_volume": 200,
-    "score": 75,
-    "related_queries": [
-      "diario de cuyo"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4633674337,
+        "id": 4640554092,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4625887947,
+        "id": 4622285528,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4636558195,
+        "id": 4631311042,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4619079211,
+        "id": 4633996763,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4638104507,
+        "id": 4633735339,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4625655347,
+        "id": 4625015618,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4636597727,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4632870356,
+        "id": 4615281442,
         "language": "es",
         "region": "AR"
       }
     ],
-    "normalized_keyword": "diario de cuyo",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
+    "normalized_keyword": "ypf",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
   },
   {
-    "keyword": "mercado pago",
+    "keyword": "exportación",
     "region": "AR",
-    "started_at_unix": 1780312200,
-    "ended_at_unix": 1780352400,
-    "search_volume": 200,
-    "score": 50,
-    "related_queries": [
-      "mercado pago"
-    ],
-    "category_ids": [
-      3,
-      18
-    ],
-    "entities": [
-      {
-        "id": 4638660121,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4628884864,
-        "language": "es",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "mercado pago",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "a24 en vivo",
-    "region": "AR",
-    "started_at_unix": 1780309200,
-    "ended_at_unix": 1780317000,
-    "search_volume": 200,
-    "score": 50,
-    "related_queries": [
-      "a24 en vivo"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4636234474,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625096681,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "a24 en vivo",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "la gaceta",
-    "region": "AR",
-    "started_at_unix": 1780314000,
-    "ended_at_unix": 1780331400,
-    "search_volume": 200,
+    "started_at_unix": 1780390800,
+    "ended_at_unix": 1780405800,
+    "search_volume": 2000,
     "score": 100,
     "related_queries": [
-      "la gaceta"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4636870965,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4636507364,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4635179342,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4637916616,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4631338870,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4635097369,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4629785387,
-        "language": "es",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "la gaceta",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "bcra",
-    "region": "AR",
-    "started_at_unix": 1780323000,
-    "ended_at_unix": 1780332600,
-    "search_volume": 200,
-    "score": 75,
-    "related_queries": [
-      "bcra"
+      "exportación"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4636015994,
+        "id": 4625015618,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4633204548,
+        "id": 4615281442,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4613083162,
+        "id": 4622285528,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4617592491,
+        "id": 4634367189,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4619281733,
+        "id": 4635623355,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4636745028,
+        "id": 4627425038,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4630875450,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4639884708,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4636312210,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4633049684,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4638624930,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4638712290,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4628350455,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4638790679,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4636259216,
         "language": "es",
         "region": "AR"
       }
     ],
-    "normalized_keyword": "bcra",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
+    "normalized_keyword": "exportacion",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
   },
   {
-    "keyword": "diario rio negro",
+    "keyword": "mi anses",
     "region": "AR",
-    "started_at_unix": 1780314000,
-    "ended_at_unix": 1780317600,
-    "search_volume": 100,
+    "started_at_unix": 1780386600,
+    "ended_at_unix": 1780398000,
+    "search_volume": 2000,
     "score": 100,
     "related_queries": [
-      "diario rio negro"
+      "mi anses"
+    ],
+    "category_ids": [
+      10,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4630802845,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4627488960,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "mi anses",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "amistosos",
+    "region": "AR",
+    "started_at_unix": 1780446600,
+    "ended_at_unix": 1780449600,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "amistosos"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4640674190,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4628796377,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4634753427,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4626898748,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4628887579,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4641165730,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4628098222,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4641272544,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640566599,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4606109472,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "amistosos",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "fórmula 1",
+    "region": "AR",
+    "started_at_unix": 1780396200,
+    "ended_at_unix": 1780405200,
+    "search_volume": 1000,
+    "score": 100,
+    "related_queries": [
+      "fórmula 1"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4622966944,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4636294244,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4639660472,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4631144713,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4635880564,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4623179031,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4626656468,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4641003082,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640201966,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640678301,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4633518298,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640308877,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "formula 1",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "quiniela",
+    "region": "AR",
+    "started_at_unix": 1780389600,
+    "ended_at_unix": 1780410600,
+    "search_volume": 2000,
+    "score": 100,
+    "related_queries": [
+      "quiniela"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4637678138,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4630107708,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4626209851,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4629210096,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4630579000,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4635248006,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4631464293,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "quiniela",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "gimnasia",
+    "region": "AR",
+    "started_at_unix": 1780458000,
+    "ended_at_unix": 1780459200,
+    "search_volume": 200,
+    "score": 900,
+    "related_queries": [
+      "gimnasia"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4634586566,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640202029,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4638872340,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4632531665,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4636665367,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4640688024,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4634051939,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4630601442,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4612618122,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "gimnasia",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "el niño",
+    "region": "AR",
+    "started_at_unix": 1780389000,
+    "ended_at_unix": 1780399200,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "el niño"
+    ],
+    "category_ids": [
+      15
+    ],
+    "entities": [
+      {
+        "id": 4627681651,
+        "language": "es",
+        "region": "AR"
+      },
+      {
+        "id": 4639220774,
+        "language": "es",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "el nino",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "sebastián báez",
+    "region": "AR",
+    "started_at_unix": 1780392000,
+    "ended_at_unix": 1780398600,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "sebastián báez"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638472913,
+        "language": "en",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "sebastian baez",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "laufey",
+    "region": "AR",
+    "started_at_unix": 1780441200,
+    "ended_at_unix": 1780442400,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "laufey"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4640817500,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4633108635,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4640822571,
+        "language": "en",
+        "region": "AR"
+      },
+      {
+        "id": 4587910324,
+        "language": "en",
+        "region": "AR"
+      }
+    ],
+    "normalized_keyword": "laufey",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
+  },
+  {
+    "keyword": "diario panorama",
+    "region": "AR",
+    "started_at_unix": 1780395600,
+    "ended_at_unix": 1780398600,
+    "search_volume": 500,
+    "score": 50,
+    "related_queries": [
+      "diario panorama"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4619036841,
+        "id": 4639930351,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4628245649,
+        "id": 4639595878,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "diario rio negro",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
+    "normalized_keyword": "diario panorama",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
   },
   {
-    "keyword": "la 100 en vivo",
+    "keyword": "mercado cambiario",
     "region": "AR",
-    "started_at_unix": 1780312200,
-    "ended_at_unix": 1780315800,
-    "search_volume": 100,
-    "score": 50,
+    "started_at_unix": 1780392000,
+    "ended_at_unix": 1780395000,
+    "search_volume": 200,
+    "score": 200,
     "related_queries": [
-      "la 100 en vivo"
+      "mercado cambiario"
     ],
     "category_ids": [
-      10
+      3
     ],
     "entities": [
       {
-        "id": 4637621817,
+        "id": 4640706073,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4638925815,
+        "id": 4631945354,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4634687494,
+        "id": 4636015994,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4635291390,
+        "id": 4635214005,
         "language": "es",
         "region": "AR"
       },
       {
-        "id": 4638584891,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4633247833,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638446155,
+        "id": 4628277361,
         "language": "es",
         "region": "AR"
       }
     ],
-    "normalized_keyword": "la 100 en vivo",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
-  },
-  {
-    "keyword": "la voz del interior",
-    "region": "AR",
-    "started_at_unix": 1780315200,
-    "ended_at_unix": 1780317000,
-    "search_volume": 100,
-    "score": 75,
-    "related_queries": [
-      "la voz del interior"
-    ],
-    "category_ids": [
-      8,
-      13
-    ],
-    "entities": [
-      {
-        "id": 4636553295,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4583610220,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4638828396,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4625096681,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4637963334,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4636704923,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4636650268,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4624327388,
-        "language": "es",
-        "region": "AR"
-      },
-      {
-        "id": 4636884771,
-        "language": "es",
-        "region": "AR"
-      }
-    ],
-    "normalized_keyword": "la voz del interior",
-    "captured_at": "2026-06-02T06:56:28.209318+00:00"
+    "normalized_keyword": "mercado cambiario",
+    "captured_at": "2026-06-03T07:07:48.328691+00:00"
   }
 ]

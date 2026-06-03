@@ -1,594 +1,1455 @@
 [
   {
-    "keyword": "chatgpt",
+    "keyword": "liquid glass",
     "region": "PK",
-    "started_at_unix": 1780375200,
+    "started_at_unix": 1780386000,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "liquid glass"
+    ],
+    "category_ids": [
+      18
+    ],
+    "entities": [
+      {
+        "id": 4638676751,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4639156169,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4623476723,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4618784673,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4584380780,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4559929939,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4580292004,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4570914416,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4594421051,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "liquid glass",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "saudi riyal",
+    "region": "PK",
+    "started_at_unix": 1780392600,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "saudi riyal"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4636531793,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "saudi riyal",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "india vs england",
+    "region": "PK",
+    "started_at_unix": 1780420800,
     "ended_at_unix": null,
     "search_volume": 20000,
-    "score": 50,
+    "score": 1000,
     "related_queries": [
-      "chatgpt"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4637549972,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4632606324,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4637697263,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4615258010,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4638592209,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4602163550,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4627031999,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4636571319,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4630322610,
-        "language": "en",
-        "region": "PK"
-      }
-    ],
-    "normalized_keyword": "chatgpt",
-    "captured_at": "2026-06-02T07:24:41.489497+00:00"
-  },
-  {
-    "keyword": "claude",
-    "region": "PK",
-    "started_at_unix": 1780384200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 100,
-    "related_queries": [
-      "claude",
-      "claude ai"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4606497946,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4623025918,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625849854,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634795085,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634585204,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622371395,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638351576,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636976386,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628552791,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636930214,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4540393161,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4600633330,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4606497946,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4623025918,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4638379847,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4630790968,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4637984591,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4628397038,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4636930214,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4637131000,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4625849854,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4634585204,
-        "language": "en",
-        "region": "PK"
-      }
-    ],
-    "normalized_keyword": "claude",
-    "captured_at": "2026-06-02T07:24:41.489497+00:00"
-  },
-  {
-    "keyword": "fuel",
-    "region": "PK",
-    "started_at_unix": 1780372800,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 600,
-    "related_queries": [
-      "fuel"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4619733688,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631795963,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4603675473,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4609711751,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4626142918,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4626421603,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627130407,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627433491,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4637764731,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627484774,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631298128,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635545213,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628386300,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631152375,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4630268280,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4632388470,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636458178,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "fuel",
-    "captured_at": "2026-06-02T07:24:41.489497+00:00"
-  },
-  {
-    "keyword": "budget",
-    "region": "PK",
-    "started_at_unix": 1780380600,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "budget"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4630086287,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4638198147,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4634225566,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4627619603,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4632643028,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4635307583,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4630472080,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4636233046,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4635427880,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4621609879,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4629959627,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4637935705,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4630850666,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4638605437,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4623025918,
-        "language": "en",
-        "region": "PK"
-      }
-    ],
-    "normalized_keyword": "budget",
-    "captured_at": "2026-06-02T07:24:41.489497+00:00"
-  },
-  {
-    "keyword": "pakistan meteorological department",
-    "region": "PK",
-    "started_at_unix": 1780371000,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "pakistan meteorological department"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4624949630,
-        "language": "en",
-        "region": "PK"
-      }
-    ],
-    "normalized_keyword": "pakistan meteorological department",
-    "captured_at": "2026-06-02T07:24:41.489497+00:00"
-  },
-  {
-    "keyword": "west indies women vs ireland women",
-    "region": "PK",
-    "started_at_unix": 1780371600,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 300,
-    "related_queries": [
-      "west indies women vs ireland women"
+      "india vs england",
+      "alice capsey",
+      "india women's national cricket team vs england women's national cricket team match scorecard",
+      "heather knight",
+      "smriti mandhana",
+      "yastika bhatia"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4624840265,
+        "id": 4609066979,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4624741176,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4633556620,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631447139,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4609066979,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "india vs england",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "adam zampa",
+    "region": "PK",
+    "started_at_unix": 1780398600,
+    "ended_at_unix": null,
+    "search_volume": 200000,
+    "score": 1000,
+    "related_queries": [
+      "adam zampa",
+      "pakistan vs australia",
+      "shadab khan",
+      "nathan ellis",
+      "australia national cricket team vs pakistan national cricket team match scorecard",
+      "pak v aus",
+      "abdul samad",
+      "live cricket",
+      "matt short",
+      "cameron green",
+      "pk vs aus",
+      "marnus labuschagne",
+      "oliver peake",
+      "live cricket match",
+      "pakistan national cricket team",
+      "pak vs aus live score",
+      "matthew kuhnemann",
+      "matt renshaw",
+      "cricbuzz",
+      "babar azam",
+      "salman ali agha",
+      "pak vs aus live streaming in pakistan",
+      "pak vs",
+      "pak vs aus odi series 2026",
+      "pcb",
+      "pak vs aus live match",
+      "pak",
+      "live cricket score",
+      "pak vs aus live streaming",
+      "pak aus",
+      "today match",
+      "pak vs aus toss",
+      "live cricket streaming",
+      "live match score",
+      "aus vs pak live"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631779887,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4639742235,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631447139,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4630712338,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4638474804,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4640053386,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4633005995,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4614433811,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4641351187,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4638033950,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4568556969,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631779887,
+        "language": "de",
+        "region": "PK"
+      },
+      {
+        "id": 4639092123,
+        "language": "de",
+        "region": "PK"
+      },
+      {
+        "id": 4606351550,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4608394311,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4639092123,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4584632866,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4640698430,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631893341,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4638634328,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631779887,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640069954,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4640252935,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4641393363,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4641453217,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4639919407,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4606351550,
+        "language": "de",
+        "region": "PK"
+      },
+      {
+        "id": 4638634328,
+        "language": "de",
+        "region": "PK"
+      },
+      {
+        "id": 4625892385,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4639238772,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631327577,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4640898950,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4640285040,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4639748163,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4639837604,
         "language": "en",
         "region": "PK"
       }
     ],
-    "normalized_keyword": "west indies women vs ireland women",
-    "captured_at": "2026-06-02T07:24:41.489497+00:00"
+    "normalized_keyword": "adam zampa",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
   },
   {
-    "keyword": "farmer",
+    "keyword": "state bank of pakistan",
     "region": "PK",
-    "started_at_unix": 1780377000,
+    "started_at_unix": 1780389000,
     "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 100,
+    "search_volume": 5000,
+    "score": 500,
     "related_queries": [
-      "farmer"
+      "state bank of pakistan"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4638588056,
+        "id": 4640800489,
         "language": "en",
         "region": "PK"
       },
       {
-        "id": 3401480896,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4634225566,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4639231383,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4617896291,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4637620546,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4639166305,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4622912241,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4589408448,
+        "id": 4639878069,
         "language": "en",
         "region": "PK"
       }
     ],
-    "normalized_keyword": "farmer",
-    "captured_at": "2026-06-02T07:24:41.489497+00:00"
+    "normalized_keyword": "state bank of pakistan",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
   },
   {
-    "keyword": "tradingview",
+    "keyword": "icc",
     "region": "PK",
-    "started_at_unix": 1780365000,
-    "ended_at_unix": null,
+    "started_at_unix": 1780401000,
+    "ended_at_unix": 1780431000,
+    "search_volume": 20000,
+    "score": 400,
+    "related_queries": [
+      "icc"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638080727,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4620746778,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4625984887,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4624658267,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4640174246,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4624840455,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "icc",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "shaheen afridi",
+    "region": "PK",
+    "started_at_unix": 1780401600,
+    "ended_at_unix": 1780456800,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "shaheen afridi",
+      "alex carey"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4640434956,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631779887,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4638634328,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "shaheen afridi",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "2",
+    "region": "PK",
+    "started_at_unix": 1780459200,
+    "ended_at_unix": 1780464600,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "2"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4598916304,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "2",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "maaz sadaqat",
+    "region": "PK",
+    "started_at_unix": 1780404000,
+    "ended_at_unix": 1780423200,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "maaz sadaqat"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4638634328,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4633005995,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "maaz sadaqat",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "pcb live",
+    "region": "PK",
+    "started_at_unix": 1780399200,
+    "ended_at_unix": 1780428600,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "pcb live"
+    ],
+    "category_ids": [
+      9
+    ],
+    "entities": [
+      {
+        "id": 4629624491,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "pcb live",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "karachi weather",
+    "region": "PK",
+    "started_at_unix": 1780431600,
+    "ended_at_unix": 1780449000,
+    "search_volume": 5000,
+    "score": 300,
+    "related_queries": [
+      "karachi weather",
+      "weather karachi"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4609706163,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4625228436,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "karachi weather",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "500",
+    "region": "PK",
+    "started_at_unix": 1780451400,
+    "ended_at_unix": 1780468200,
     "search_volume": 500,
-    "score": 50,
+    "score": 200,
     "related_queries": [
-      "tradingview"
+      "500"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4635601849,
+        "id": 4612878519,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4638748466,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4622350675,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635247109,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640711311,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4638886903,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4627738239,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640247538,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4610685901,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "500",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "haris rauf",
+    "region": "PK",
+    "started_at_unix": 1780401000,
+    "ended_at_unix": 1780430400,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "haris rauf"
+    ],
+    "category_ids": [
+      17,
+      4
+    ],
+    "entities": [
+      {
+        "id": 4640698430,
         "language": "en",
         "region": "PK"
       },
       {
-        "id": 4628210756,
+        "id": 4631779887,
         "language": "en",
         "region": "PK"
       }
     ],
-    "normalized_keyword": "tradingview",
-    "captured_at": "2026-06-02T07:24:41.489497+00:00"
+    "normalized_keyword": "haris rauf",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
   },
   {
-    "keyword": "psx",
+    "keyword": "abrar ahmed",
     "region": "PK",
-    "started_at_unix": 1780377000,
-    "ended_at_unix": 1780384200,
+    "started_at_unix": 1780402800,
+    "ended_at_unix": 1780430400,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "abrar ahmed"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4633005995,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631779887,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "abrar ahmed",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "weather hyderabad",
+    "region": "PK",
+    "started_at_unix": 1780429200,
+    "ended_at_unix": 1780449600,
+    "search_volume": 2000,
+    "score": 800,
+    "related_queries": [
+      "weather hyderabad",
+      "hyderabad weather"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4637824933,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4641386379,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4629124307,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "weather hyderabad",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "sahibzada farhan",
+    "region": "PK",
+    "started_at_unix": 1780415400,
+    "ended_at_unix": 1780426200,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "sahibzada farhan"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4639837604,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4633005995,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631779887,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "sahibzada farhan",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "croatia vs belgium",
+    "region": "PK",
+    "started_at_unix": 1780413600,
+    "ended_at_unix": 1780429200,
+    "search_volume": 2000,
+    "score": 700,
+    "related_queries": [
+      "croatia vs belgium"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4619467736,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "croatia vs belgium",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "muhammad ghazi ghori",
+    "region": "PK",
+    "started_at_unix": 1780417800,
+    "ended_at_unix": 1780422000,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "muhammad ghazi ghori"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631783743,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4639685965,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "muhammad ghazi ghori",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "tamasha",
+    "region": "PK",
+    "started_at_unix": 1780399800,
+    "ended_at_unix": 1780407600,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "tamasha"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4634084293,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637940363,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "tamasha",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "bangladesh vs scotland",
+    "region": "PK",
+    "started_at_unix": 1780402200,
+    "ended_at_unix": 1780417800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "bangladesh vs scotland",
+      "bangladesh vs scotland women"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4634187718,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "bangladesh vs scotland",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "cricket",
+    "region": "PK",
+    "started_at_unix": 1780400400,
+    "ended_at_unix": 1780423200,
+    "search_volume": 2000,
+    "score": 100,
+    "related_queries": [
+      "cricket"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4641015276,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4624840455,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4632257798,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631447139,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4609066979,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4637808245,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4608394311,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4623666252,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4639919407,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4638634328,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631779887,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4641393363,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4625892385,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "cricket",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "gasoline",
+    "region": "PK",
+    "started_at_unix": 1780445400,
+    "ended_at_unix": 1780456800,
     "search_volume": 200,
     "score": 100,
     "related_queries": [
-      "psx",
-      "pakistan stock exchange"
+      "gasoline"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4629151363,
+        "id": 4635545213,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4619733688,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4626504525,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631121855,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4629547282,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4641503207,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4602464471,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4627863567,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4640933341,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4623439835,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4639024975,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4632457667,
         "language": "en",
         "region": "PK"
       }
     ],
-    "normalized_keyword": "psx",
-    "captured_at": "2026-06-02T07:24:41.489497+00:00"
+    "normalized_keyword": "gasoline",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
   },
   {
-    "keyword": "fbr",
+    "keyword": "morocco vs madagascar",
     "region": "PK",
-    "started_at_unix": 1780378200,
-    "ended_at_unix": 1780380000,
-    "search_volume": 100,
-    "score": 75,
+    "started_at_unix": 1780420800,
+    "ended_at_unix": 1780432200,
+    "search_volume": 500,
+    "score": 500,
     "related_queries": [
-      "fbr"
+      "morocco vs madagascar"
     ],
     "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4615310152,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "morocco vs madagascar",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "live match",
+    "region": "PK",
+    "started_at_unix": 1780413600,
+    "ended_at_unix": 1780423800,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "live match"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4640604582,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4602490709,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "live match",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "nawaz sharif",
+    "region": "PK",
+    "started_at_unix": 1780406400,
+    "ended_at_unix": 1780421400,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "nawaz sharif"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4632715126,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "nawaz sharif",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "lauren bell",
+    "region": "PK",
+    "started_at_unix": 1780423800,
+    "ended_at_unix": 1780431000,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "lauren bell"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4632469892,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "lauren bell",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "charlie dean",
+    "region": "PK",
+    "started_at_unix": 1780425600,
+    "ended_at_unix": 1780450800,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "charlie dean"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4632257798,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "charlie dean",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "cricinfo",
+    "region": "PK",
+    "started_at_unix": 1780401600,
+    "ended_at_unix": 1780404600,
+    "search_volume": 2000,
+    "score": 300,
+    "related_queries": [
+      "cricinfo"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631893341,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631779887,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4627241850,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4640069954,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631567911,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4640252935,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "cricinfo",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "harmanpreet kaur",
+    "region": "PK",
+    "started_at_unix": 1780423800,
+    "ended_at_unix": 1780431000,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "harmanpreet kaur"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631447139,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4609066979,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4635612583,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "harmanpreet kaur",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "sports",
+    "region": "PK",
+    "started_at_unix": 1780402800,
+    "ended_at_unix": 1780414200,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "sports"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4640017537,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4641332160,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4641342931,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4633316044,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4641165086,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4617806047,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631131347,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "sports",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "live score",
+    "region": "PK",
+    "started_at_unix": 1780402800,
+    "ended_at_unix": 1780422600,
+    "search_volume": 1000,
+    "score": 300,
+    "related_queries": [
+      "live score"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4636053695,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631779887,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4609066979,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4641102681,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4636674548,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4632201738,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "live score",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "cricket live",
+    "region": "PK",
+    "started_at_unix": 1780404600,
+    "ended_at_unix": 1780419600,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "cricket live"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638474804,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4631779887,
+        "language": "en",
+        "region": "PK"
+      },
+      {
+        "id": 4641102681,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "cricket live",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "bpsc",
+    "region": "PK",
+    "started_at_unix": 1780387200,
+    "ended_at_unix": 1780396800,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "bpsc"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4638292082,
+        "language": "en",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "bpsc",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "آسٹریلیا بمقابلہ پاک",
+    "region": "PK",
+    "started_at_unix": 1780401000,
+    "ended_at_unix": 1780407600,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "آسٹریلیا بمقابلہ پاک"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4615268216,
+        "language": "ur",
+        "region": "PK"
+      }
+    ],
+    "normalized_keyword": "اسٹریلیا بمقابلہ پاک",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "sophia dunkley",
+    "region": "PK",
+    "started_at_unix": 1780429800,
+    "ended_at_unix": 1780431600,
+    "search_volume": 100,
+    "score": 400,
+    "related_queries": [
+      "sophia dunkley"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4639100187,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "sophia dunkley",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
+  },
+  {
+    "keyword": "sukhoi su-30",
+    "region": "PK",
+    "started_at_unix": 1780396200,
+    "ended_at_unix": 1780397400,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "sukhoi su-30"
+    ],
+    "category_ids": [
+      3,
       10
     ],
     "entities": [
       {
-        "id": 4627619603,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4635307583,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4632251469,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4623271152,
-        "language": "en",
-        "region": "PK"
-      },
-      {
-        "id": 4635184516,
+        "id": 4640103664,
         "language": "en",
         "region": "PK"
       }
     ],
-    "normalized_keyword": "fbr",
-    "captured_at": "2026-06-02T07:24:41.489497+00:00"
+    "normalized_keyword": "sukhoi su-30",
+    "captured_at": "2026-06-03T07:35:55.498099+00:00"
   }
 ]
