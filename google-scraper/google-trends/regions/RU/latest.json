@@ -1,566 +1,90 @@
 [
   {
-    "keyword": "газовоз",
+    "keyword": "оператор связи",
     "region": "RU",
-    "started_at_unix": 1780397400,
+    "started_at_unix": 1780478400,
     "ended_at_unix": null,
-    "search_volume": 20000,
+    "search_volume": 50000,
     "score": 1000,
     "related_queries": [
-      "газовоз"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4640428656,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629447070,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4623557516,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639858077,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637005712,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "газовоз",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "новости спб",
-    "region": "RU",
-    "started_at_unix": 1780452000,
-    "ended_at_unix": null,
-    "search_volume": 20000,
-    "score": 1000,
-    "related_queries": [
-      "новости спб",
-      "атака бпла спб",
-      "фонтанка ру",
-      "3 июня",
-      "ленинградская область",
-      "фонтанка",
-      "петербургский нефтяной терминал",
-      "что горит в спб",
-      "санкт петербург",
-      "спб новости",
-      "кронштадт",
-      "пожар спб сегодня",
-      "атака бпла спб сегодня",
-      "кронштадт новости",
-      "бпла спб",
-      "бпла",
-      "что за грохот в спб сейчас",
-      "взрывы в спб",
-      "санкт петербург новости",
-      "беспилотники сегодня",
-      "атака дронов на питер сегодня"
+      "оператор связи"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4631780418,
+        "id": 4643434612,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4592508241,
+        "id": 4640779851,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4638342312,
+        "id": 4639319852,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4631780418,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640449080,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4621190723,
+        "id": 4630086907,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4634600613,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625503929,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639421002,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627160934,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637062256,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4633834464,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632471384,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4608471823,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632721356,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639137191,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627537320,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640440344,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630415764,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631035563,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4624116123,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625757513,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4626221036,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4575828313,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625743021,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4622569188,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4616657779,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637237894,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4624825610,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640939265,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635398542,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4605700659,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641285735,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627624330,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641537687,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4633722470,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641418657,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636976959,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638807699,
+        "id": 4641773834,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "новости спб",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "оператор связи",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "пособие",
+    "keyword": "ускоренное вступление украины в европейский союз",
     "region": "RU",
-    "started_at_unix": 1780444800,
+    "started_at_unix": 1780477200,
     "ended_at_unix": null,
-    "search_volume": 20000,
-    "score": 900,
-    "related_queries": [
-      "пособие"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4629349598,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627777080,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636856380,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625374168,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630433494,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635315376,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629320606,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641370792,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640814004,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635301083,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641370813,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "пособие",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "песков",
-    "region": "RU",
-    "started_at_unix": 1780403400,
-    "ended_at_unix": null,
-    "search_volume": 20000,
+    "search_volume": 100000,
     "score": 1000,
     "related_queries": [
-      "песков"
+      "ускоренное вступление украины в европейский союз",
+      "украина"
     ],
     "category_ids": [
-      11
+      14,
+      10
     ],
     "entities": [
-      {
-        "id": 4610449685,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4611265159,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629934968,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631937876,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637027346,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635848049,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638274588,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "песков",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "москва",
-    "region": "RU",
-    "started_at_unix": 1780464600,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "москва",
-      "енакиево",
-      "автобус москва симферополь"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4630415764,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640440344,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4621190723,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641527404,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641487005,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637774496,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641243747,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630470586,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4633722526,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632505825,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4566202704,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "москва",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "молдова",
-    "region": "RU",
-    "started_at_unix": 1780435800,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "молдова"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4632970838,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637619437,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641504758,
-        "language": "ru",
-        "region": "RU"
-      },
       {
         "id": 4614844156,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4628308109,
+        "id": 4635602464,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4634701542,
+        "id": 4626680942,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4632065319,
+        "id": 4641597875,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4641418630,
+        "id": 4641587433,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4635119989,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "молдова",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "пмэф",
-    "region": "RU",
-    "started_at_unix": 1780408800,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 600,
-    "related_queries": [
-      "пмэф",
-      "пмэф 2026",
-      "новости спб сейчас",
-      "пмэф это",
-      "петербургский международный экономический форум",
-      "пмэф 2026 даты",
-      "пмэф-2026"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4621190723,
+        "id": 4643685705,
         "language": "ru",
         "region": "RU"
       },
@@ -570,32 +94,32 @@
         "region": "RU"
       },
       {
-        "id": 4637237894,
+        "id": 4635848092,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4634140383,
+        "id": 4612207653,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4638204297,
+        "id": 4637425433,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4641463771,
+        "id": 4640410668,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4632471384,
+        "id": 4628544231,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4627160951,
+        "id": 4643713108,
         "language": "ru",
         "region": "RU"
       },
@@ -605,398 +129,66 @@
         "region": "RU"
       },
       {
-        "id": 4637043523,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641199610,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632985368,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4628516482,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629848298,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639651187,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640382651,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637934796,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4623179990,
+        "id": 4640105160,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "пмэф",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "ускоренное вступление украины в европеискии союз",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "ангара",
+    "keyword": "переговоры",
     "region": "RU",
-    "started_at_unix": 1780456800,
+    "started_at_unix": 1780542000,
     "ended_at_unix": null,
-    "search_volume": 2000,
+    "search_volume": 20000,
     "score": 1000,
     "related_queries": [
-      "ангара"
+      "переговоры",
+      "диалог"
     ],
     "category_ids": [
-      15
+      14
     ],
     "entities": [
       {
-        "id": 4641085287,
+        "id": 4635848092,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4635726042,
+        "id": 4628544231,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4631508405,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "ангара",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "отрасль недвижимости",
-    "region": "RU",
-    "started_at_unix": 1780445400,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "отрасль недвижимости"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4640342374,
+        "id": 4634399016,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4639401585,
+        "id": 4608625887,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4636455555,
+        "id": 4624318038,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4633072407,
+        "id": 4641527443,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4623269409,
+        "id": 4624845944,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4637242466,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "отрасль недвижимости",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "дождь",
-    "region": "RU",
-    "started_at_unix": 1780390200,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 900,
-    "related_queries": [
-      "дождь"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4620767230,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635687343,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639669017,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641070317,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640748422,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4626479466,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4606613067,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640456850,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4633803345,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "дождь",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "мошенничество",
-    "region": "RU",
-    "started_at_unix": 1780446000,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "мошенничество"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4639815569,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630969561,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632107375,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641285734,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639323539,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638379224,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639000868,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641473714,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637316558,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "мошенничество",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "суд",
-    "region": "RU",
-    "started_at_unix": 1780399200,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "суд"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4640000968,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639791725,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641478773,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641473643,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627537356,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639791713,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640478131,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632112080,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629992779,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "суд",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "крымский полуостров",
-    "region": "RU",
-    "started_at_unix": 1780432200,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 700,
-    "related_queries": [
-      "крымский полуостров"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4608882476,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625843364,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4608471823,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640244102,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627640274,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "крымскии полуостров",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "иран",
-    "region": "RU",
-    "started_at_unix": 1780461000,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 900,
-    "related_queries": [
-      "иран"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4621361148,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641378205,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640886122,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641318912,
+        "id": 4627838086,
         "language": "ru",
         "region": "RU"
       },
@@ -1006,23 +198,2356 @@
         "region": "RU"
       },
       {
-        "id": 4625512325,
+        "id": 4640138367,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642054351,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640735718,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4623924893,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4632649894,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643713064,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641473690,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4635056386,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639101171,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "иран",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "переговоры",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "пенсионный фонд",
+    "keyword": "пакистан",
     "region": "RU",
-    "started_at_unix": 1780453800,
+    "started_at_unix": 1780474200,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "пакистан"
+    ],
+    "category_ids": [
+      15
+    ],
+    "entities": [
+      {
+        "id": 4634288571,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637480067,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638012993,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4624007091,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637458274,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641459614,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4635067360,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642513549,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "пакистан",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "социальный фонд россии",
+    "region": "RU",
+    "started_at_unix": 1780479000,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "социальный фонд россии"
+    ],
+    "category_ids": [
+      10,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4640865096,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4628788496,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643543804,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4633153991,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629349598,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4624668531,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4626822849,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629733287,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642949184,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637690728,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "социальныи фонд россии",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "андрей белоусов",
+    "region": "RU",
+    "started_at_unix": 1780517400,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "андрей белоусов",
+      "министр обороны российской федерации"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4642178238,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642054302,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642679131,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4616657804,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4632953116,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "андреи белоусов",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "конгресс сша",
+    "region": "RU",
+    "started_at_unix": 1780545000,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "конгресс сша"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4631138705,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642960412,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4621533632,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4624845944,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4634786016,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642272454,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4608625887,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "конгресс сша",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "санкт-петербург",
+    "region": "RU",
+    "started_at_unix": 1780474800,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 900,
+    "related_queries": [
+      "санкт-петербург",
+      "бойкий",
+      "корвет бойкий"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4631780418,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4621190723,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643418011,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643560619,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641822221,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643685771,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4626221036,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640744079,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639198208,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4625503929,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642796349,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4575828313,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "санкт-петербург",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "юрий владимирович жевнов",
+    "region": "RU",
+    "started_at_unix": 1780508400,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "юрий владимирович жевнов"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4642178131,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "юрии владимирович жевнов",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "макс удалили из app store",
+    "region": "RU",
+    "started_at_unix": 1780513200,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "макс удалили из app store",
+      "max удалили из app store",
+      "макс скачать"
+    ],
+    "category_ids": [
+      18
+    ],
+    "entities": [
+      {
+        "id": 4642704956,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "макс удалили из app store",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "эль-ниньо",
+    "region": "RU",
+    "started_at_unix": 1780498200,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 800,
+    "related_queries": [
+      "эль-ниньо"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4621543364,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4636112118,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4615185638,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "эль-ниньо",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "ксения собчак",
+    "region": "RU",
+    "started_at_unix": 1780502400,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "ксения собчак"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4639727884,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641752639,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4621190723,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641929420,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643666829,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "ксения собчак",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "доход",
+    "region": "RU",
+    "started_at_unix": 1780539000,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "доход"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4643690826,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637663378,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4630679015,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643170709,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4635458714,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4633878153,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642011143,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4617571790,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641394633,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641757764,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "доход",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "анталья",
+    "region": "RU",
+    "started_at_unix": 1780522200,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "анталья"
+    ],
+    "category_ids": [
+      19
+    ],
+    "entities": [
+      {
+        "id": 4631937798,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640094389,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641847615,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637002253,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639173264,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4635398533,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641099856,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "анталья",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "бюджетный дефицит",
+    "region": "RU",
+    "started_at_unix": 1780492800,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "бюджетный дефицит"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4640291397,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4628516526,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640078368,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4626976182,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642324956,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "бюджетныи дефицит",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "шестидневка",
+    "region": "RU",
+    "started_at_unix": 1780488600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "шестидневка"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4621553735,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "шестидневка",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "м видео",
+    "region": "RU",
+    "started_at_unix": 1780513800,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 300,
+    "related_queries": [
+      "м видео",
+      "м.видео"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4642469974,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639386890,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643619600,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4627786334,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4628650932,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4636732047,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "м видео",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "дмитрий губерниев",
+    "region": "RU",
+    "started_at_unix": 1780516800,
     "ended_at_unix": null,
     "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "пенсионный фонд"
+      "дмитрий губерниев"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4626018425,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629050736,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4624641113,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638028951,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642407821,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640222591,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643085416,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4630998664,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640000895,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "дмитрии губерниев",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "федерация хоккея россии",
+    "region": "RU",
+    "started_at_unix": 1780510800,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "федерация хоккея россии",
+      "бойкот"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4604635049,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643661667,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643661703,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4616686170,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641747246,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642255974,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642674552,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643294600,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643143630,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640728197,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638841638,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4630738014,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642407821,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "федерация хоккея россии",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "единый государственный экзамен",
+    "region": "RU",
+    "started_at_unix": 1780513200,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "единый государственный экзамен",
+      "егэ русский"
+    ],
+    "category_ids": [
+      9
+    ],
+    "entities": [
+      {
+        "id": 4632161947,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643508216,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4618563765,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639436782,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "единыи государственныи экзамен",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "ландыши",
+    "region": "RU",
+    "started_at_unix": 1780507800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 900,
+    "related_queries": [
+      "ландыши"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4642310101,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640336455,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "ландыши",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "президент российской федерации",
+    "region": "RU",
+    "started_at_unix": 1780512600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "президент российской федерации"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4637253283,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4621190723,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640138367,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4631937876,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4627684799,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4633172404,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638250419,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643520555,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "президент россиискои федерации",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "авиация",
+    "region": "RU",
+    "started_at_unix": 1780543800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "авиация"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4638180346,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4636663244,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637340752,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641473690,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4616657804,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4598128851,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641836070,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642171662,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "авиация",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "4 июня",
+    "region": "RU",
+    "started_at_unix": 1780530600,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "4 июня",
+      "солнце"
+    ],
+    "category_ids": [
+      15
+    ],
+    "entities": [
+      {
+        "id": 4641262526,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638164661,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4612813314,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4634992312,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643100244,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643504300,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640187270,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639140091,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629664068,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639198208,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4636582421,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4622256269,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641418657,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4632161947,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "4 июня",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "маркус фронмайер",
+    "region": "RU",
+    "started_at_unix": 1780546200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "маркус фронмайер"
+    ],
+    "category_ids": [
+      1,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4643370910,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642116450,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4632985368,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "маркус фронмаиер",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "северный поток",
+    "region": "RU",
+    "started_at_unix": 1780549800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "северный поток",
+      "альтернатива для германии"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4642116450,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4632985368,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4628525491,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4626036144,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "северныи поток",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "battlefield 6",
+    "region": "RU",
+    "started_at_unix": 1780493400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 700,
+    "related_queries": [
+      "battlefield 6"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4642047713,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4634565068,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4622904034,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4609672606,
+        "language": "en",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "battlefield 6",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "спёрс – никс",
+    "region": "RU",
+    "started_at_unix": 1780533000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "спёрс – никс"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4635547943,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "сперс – никс",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "импорт",
+    "region": "RU",
+    "started_at_unix": 1780542600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 700,
+    "related_queries": [
+      "импорт"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4628697553,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4634519205,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637140888,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4633077456,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4608882430,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4634755455,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640105015,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639124772,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4630610748,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "импорт",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "смартфон",
+    "region": "RU",
+    "started_at_unix": 1780502400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 500,
+    "related_queries": [
+      "смартфон"
+    ],
+    "category_ids": [
+      18
+    ],
+    "entities": [
+      {
+        "id": 4615658965,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4615600936,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643340432,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4627814189,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4627664094,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642704931,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4623549600,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643454062,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641908118,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4630224658,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641718492,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4623810866,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4633029404,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4610690242,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4620533403,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641674565,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "смартфон",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "диана шнайдер",
+    "region": "RU",
+    "started_at_unix": 1780492800,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "диана шнайдер",
+      "арина сергеевна соболенко",
+      "диана максимовна шнайдер",
+      "соболенко шнайдер",
+      "открытый чемпионат франции по теннису 2026",
+      "соболенко",
+      "арина соболенко",
+      "шнайдер диана",
+      "ролан гаррос",
+      "ролан гаррос 2026",
+      "шнайдер"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4642407821,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4617998840,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639996655,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643727891,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4633578342,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642704892,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4630305626,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641486972,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637215552,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642325090,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640115288,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4635067395,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4601783225,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4623059789,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642466366,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4619399646,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "диана шнаидер",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "китайский гороскоп",
+    "region": "RU",
+    "started_at_unix": 1780474800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "китайский гороскоп"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4638164661,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4636844368,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4609460439,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642881496,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638807699,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "китаискии гороскоп",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "74",
+    "region": "RU",
+    "started_at_unix": 1780543200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "74"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4641565387,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4643594820,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4639828677,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4643508216,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4643606817,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4621843220,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4643127591,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4641933912,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4641344641,
+        "language": "en",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "74",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "геомагнитная буря",
+    "region": "RU",
+    "started_at_unix": 1780554000,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "геомагнитная буря"
+    ],
+    "category_ids": [
+      15
+    ],
+    "entities": [
+      {
+        "id": 4612813314,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641262526,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4636534581,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "геомагнитная буря",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "вклад",
+    "region": "RU",
+    "started_at_unix": 1780507800,
+    "ended_at_unix": 1780552800,
+    "search_volume": 10000,
+    "score": 900,
+    "related_queries": [
+      "вклад"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4635458714,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629215539,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643516314,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643301035,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629733268,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629420080,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641394633,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642335525,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642368331,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638320524,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629260960,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "вклад",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "бензин",
+    "region": "RU",
+    "started_at_unix": 1780545600,
+    "ended_at_unix": 1780556400,
+    "search_volume": 5000,
+    "score": 900,
+    "related_queries": [
+      "бензин"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4608471823,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643265973,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641959472,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643624015,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "бензин",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "выходные",
+    "region": "RU",
+    "started_at_unix": 1780505400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 900,
+    "related_queries": [
+      "выходные"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4625277995,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4621553735,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4634331015,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641829378,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4626419398,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639646304,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641309869,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4631719623,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "выходные",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "шпаргалка",
+    "region": "RU",
+    "started_at_unix": 1780537200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 700,
+    "related_queries": [
+      "шпаргалка"
+    ],
+    "category_ids": [
+      9
+    ],
+    "entities": [
+      {
+        "id": 4641179221,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4617444747,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638967373,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4608170105,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4625605917,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642981535,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4635520792,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "шпаргалка",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "социальная пенсия",
+    "region": "RU",
+    "started_at_unix": 1780549800,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "социальная пенсия"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4636040480,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4608917455,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643212546,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "социальная пенсия",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "татьяна ким",
+    "region": "RU",
+    "started_at_unix": 1780502400,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 300,
+    "related_queries": [
+      "татьяна ким"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4641642473,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643027737,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4633303963,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4621190723,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639480074,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641847603,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "татьяна ким",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "цифровой рубль",
+    "region": "RU",
+    "started_at_unix": 1780551600,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 700,
+    "related_queries": [
+      "цифровой рубль"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4628106661,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642214565,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642687060,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "цифровои рубль",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "платье",
+    "region": "RU",
+    "started_at_unix": 1780554000,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "платье"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4615962052,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641657311,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4622396832,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638003632,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4622662292,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640540107,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4632643702,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640138379,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639081050,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "платье",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "4 июня праздник",
+    "region": "RU",
+    "started_at_unix": 1780534200,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "4 июня праздник"
+    ],
+    "category_ids": [
+      8
+    ],
+    "entities": [
+      {
+        "id": 4640187270,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "4 июня праздник",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "хоккеист",
+    "region": "RU",
+    "started_at_unix": 1780488600,
+    "ended_at_unix": 1780555800,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "хоккеист"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4643661667,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4604635049,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640728197,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638028951,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639272495,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4634574801,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4614580647,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641478854,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638003612,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643381005,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4625853211,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4631039117,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4626095990,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "хоккеист",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "денис мантуров",
+    "region": "RU",
+    "started_at_unix": 1780481400,
+    "ended_at_unix": 1780546200,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "денис мантуров"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4640218078,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4630048579,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642691110,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4627965888,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4611059519,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643166261,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4633167662,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4628169899,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "денис мантуров",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "гран-при монако",
+    "region": "RU",
+    "started_at_unix": 1780545600,
+    "ended_at_unix": 1780557000,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "гран-при монако"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4641742003,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4624124984,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4631151739,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642988311,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642093316,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642557287,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640865115,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "гран-при монако",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "ани лорак",
+    "region": "RU",
+    "started_at_unix": 1780489800,
+    "ended_at_unix": 1780549800,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "ани лорак"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4623500193,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "ани лорак",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "чанчжэн",
+    "region": "RU",
+    "started_at_unix": 1780491000,
+    "ended_at_unix": 1780549200,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "чанчжэн"
+    ],
+    "category_ids": [
+      15,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4626785212,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "чанчжэн",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "вэб.рф",
+    "region": "RU",
+    "started_at_unix": 1780487400,
+    "ended_at_unix": 1780553400,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "вэб.рф",
+      "негосударственный пенсионный фонд"
     ],
     "category_ids": [
       3
@@ -1034,959 +2559,43 @@
         "region": "RU"
       },
       {
-        "id": 4621738076,
+        "id": 4639635565,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4635913437,
+        "id": 4643487398,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4636439563,
+        "id": 4632672393,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4640398097,
+        "id": 4640636481,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4634156094,
+        "id": 4642568511,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "пенсионныи фонд",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "вэб.рф",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "миг-35",
+    "keyword": "танзания",
     "region": "RU",
-    "started_at_unix": 1780454400,
-    "ended_at_unix": null,
+    "started_at_unix": 1780489800,
+    "ended_at_unix": 1780540200,
     "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "миг-35"
-    ],
-    "category_ids": [
-      10,
-      3
-    ],
-    "entities": [
-      {
-        "id": 4622886196,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639343858,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "миг-35",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "nexperia",
-    "region": "RU",
-    "started_at_unix": 1780420800,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 500,
-    "related_queries": [
-      "nexperia"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4640848902,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4623699479,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4619070076,
-        "language": "en",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "nexperia",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "мичуринск",
-    "region": "RU",
-    "started_at_unix": 1780453200,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 800,
-    "related_queries": [
-      "мичуринск"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4640939265,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "мичуринск",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "god of war laufey",
-    "region": "RU",
-    "started_at_unix": 1780438800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 600,
-    "related_queries": [
-      "god of war laufey",
-      "state of play",
-      "state of play 2026",
-      "god of war"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4637263185,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4640817500,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4528555952,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4633108635,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4640798241,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4640786931,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4639834306,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4601946844,
-        "language": "en",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "god of war laufey",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "литва",
-    "region": "RU",
-    "started_at_unix": 1780413000,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 300,
-    "related_queries": [
-      "литва"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4639720792,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638042899,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639360132,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4633238619,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630834603,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632098384,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625832451,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630569404,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641238356,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637253241,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4597396533,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "литва",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "даниил исаев",
-    "region": "RU",
-    "started_at_unix": 1780455600,
-    "ended_at_unix": null,
-    "search_volume": 1000,
     "score": 900,
     "related_queries": [
-      "даниил исаев"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4639436794,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638028951,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "даниил исаев",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "56orb",
-    "region": "RU",
-    "started_at_unix": 1780455600,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 500,
-    "related_queries": [
-      "56orb",
-      "банк втб"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4641504770,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4641262479,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4641497856,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4639590474,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4637242532,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4638397937,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4637287478,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4641340891,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4641504770,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641394633,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641318907,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4616852018,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639614465,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640651946,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639590474,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628275432,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631056176,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4623986457,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "56orb",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "финал нба",
-    "region": "RU",
-    "started_at_unix": 1780462800,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "финал нба"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635547943,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631760219,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641423316,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4605614032,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640606542,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "финал нба",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "эндрю тейт",
-    "region": "RU",
-    "started_at_unix": 1780404000,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 200,
-    "related_queries": [
-      "эндрю тейт"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4639521355,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "эндрю теит",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "пулково табло",
-    "region": "RU",
-    "started_at_unix": 1780452600,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 500,
-    "related_queries": [
-      "пулково табло",
-      "пулково",
-      "спб"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4639421002,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4624116123,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631780418,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638342312,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637237894,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640478217,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "пулково табло",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "ставрополь",
-    "region": "RU",
-    "started_at_unix": 1780457400,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 300,
-    "related_queries": [
-      "ставрополь"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4630404758,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640500829,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639421002,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637653609,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4622598164,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641352327,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4623644371,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641253602,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4628323420,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "ставрополь",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "илья забарный",
-    "region": "RU",
-    "started_at_unix": 1780462800,
-    "ended_at_unix": 1780471800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "илья забарный"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4635926585,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638331628,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4605044770,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640712975,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641148358,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635177604,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "илья забарныи",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "локомотив москва",
-    "region": "RU",
-    "started_at_unix": 1780467600,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "локомотив москва"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4628878574,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641504762,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640072080,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637993569,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4628480449,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625053140,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "локомотив москва",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "синоптика",
-    "region": "RU",
-    "started_at_unix": 1780465800,
-    "ended_at_unix": 1780470600,
-    "search_volume": 5000,
-    "score": 500,
-    "related_queries": [
-      "синоптика"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4638898630,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637764105,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637681115,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4634992312,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631399268,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638566288,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4626785208,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640944756,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4620965454,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "синоптика",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "control resonant",
-    "region": "RU",
-    "started_at_unix": 1780466400,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "control resonant"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4634949254,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "control resonant",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "алина загитова",
-    "region": "RU",
-    "started_at_unix": 1780399800,
-    "ended_at_unix": 1780463400,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "алина загитова"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4631635986,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4601172826,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "алина загитова",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "кредит",
-    "region": "RU",
-    "started_at_unix": 1780471200,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "кредит"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4641394633,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640651946,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639000850,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638245174,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635540542,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636691197,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639501888,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4626300317,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629436541,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637885332,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636651548,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629231820,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637856735,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632638054,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641329568,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640254379,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627766664,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639822564,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "кредит",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "нива",
-    "region": "RU",
-    "started_at_unix": 1780452600,
-    "ended_at_unix": 1780465800,
-    "search_volume": 2000,
-    "score": 800,
-    "related_queries": [
-      "нива"
-    ],
-    "category_ids": [
-      1
-    ],
-    "entities": [
-      {
-        "id": 4639309993,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4634376963,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641510673,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636018574,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629379880,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638120552,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636950650,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639284523,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4622139567,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "нива",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "герхард шрёдер",
-    "region": "RU",
-    "started_at_unix": 1780423800,
-    "ended_at_unix": 1780470600,
-    "search_volume": 2000,
-    "score": 200,
-    "related_queries": [
-      "герхард шрёдер"
+      "танзания"
     ],
     "category_ids": [
       14,
@@ -1994,80 +2603,310 @@
     ],
     "entities": [
       {
-        "id": 4632911020,
+        "id": 4640138367,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "герхард шредер",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "танзания",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "томат",
+    "keyword": "люксембург – италия",
     "region": "RU",
-    "started_at_unix": 1780390200,
-    "ended_at_unix": 1780428600,
-    "search_volume": 10000,
-    "score": 1000,
+    "started_at_unix": 1780509000,
+    "ended_at_unix": 1780546800,
+    "search_volume": 2000,
+    "score": 800,
     "related_queries": [
-      "томат"
+      "люксембург – италия"
     ],
     "category_ids": [
-      3,
-      5
+      17
     ],
     "entities": [
       {
-        "id": 4625223284,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636547719,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637206558,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4613540315,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639803437,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640878873,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625130396,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4618017654,
+        "id": 4630509791,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "томат",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "люксембург – италия",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "рынок труда",
+    "region": "RU",
+    "started_at_unix": 1780477200,
+    "ended_at_unix": 1780552800,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "рынок труда"
+    ],
+    "category_ids": [
+      9
+    ],
+    "entities": [
+      {
+        "id": 4643248263,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642005293,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4633429642,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640031887,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641108063,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637292287,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640786937,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642796380,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641344645,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638217892,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641858664,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641408495,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4636836978,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641829393,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641817443,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "рынок труда",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "киану ривз",
+    "region": "RU",
+    "started_at_unix": 1780485600,
+    "ended_at_unix": 1780554000,
+    "search_volume": 2000,
+    "score": 300,
+    "related_queries": [
+      "киану ривз"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4634430212,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629853353,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639137240,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "киану ривз",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "т—ж",
+    "region": "RU",
+    "started_at_unix": 1780516800,
+    "ended_at_unix": 1780554000,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "т—ж"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4643413977,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641632909,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4639431388,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640006245,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642144561,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642247226,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640232478,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637227187,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "т—ж",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "россия",
+    "region": "RU",
+    "started_at_unix": 1780495800,
+    "ended_at_unix": 1780543200,
+    "search_volume": 5000,
+    "score": 200,
+    "related_queries": [
+      "россия"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4643754929,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640138367,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4635848092,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642768961,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643536627,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4626976156,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641587433,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629405097,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "россия",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "джон бланш",
+    "region": "RU",
+    "started_at_unix": 1780507800,
+    "ended_at_unix": 1780557000,
+    "search_volume": 1000,
+    "score": 300,
+    "related_queries": [
+      "джон бланш"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4642272596,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "джон бланш",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
     "keyword": "международная федерация фехтования",
     "region": "RU",
-    "started_at_unix": 1780420800,
-    "ended_at_unix": 1780468800,
-    "search_volume": 2000,
-    "score": 200,
+    "started_at_unix": 1780551000,
+    "ended_at_unix": 1780555800,
+    "search_volume": 500,
+    "score": 100,
     "related_queries": [
       "международная федерация фехтования"
     ],
@@ -2082,1506 +2921,1461 @@
       }
     ],
     "normalized_keyword": "международная федерация фехтования",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "эдуард сперцян",
+    "keyword": "егэ русский 2026",
     "region": "RU",
-    "started_at_unix": 1780410600,
-    "ended_at_unix": 1780460400,
-    "search_volume": 5000,
-    "score": 700,
+    "started_at_unix": 1780542600,
+    "ended_at_unix": 1780554000,
+    "search_volume": 500,
+    "score": 200,
     "related_queries": [
-      "эдуард сперцян"
+      "егэ русский 2026"
     ],
     "category_ids": [
-      17
+      9
     ],
     "entities": [
       {
-        "id": 4624641113,
+        "id": 4611662127,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4632161947,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "эдуард сперцян",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "егэ русскии 2026",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "мэр москвы",
+    "keyword": "гребенюк",
     "region": "RU",
-    "started_at_unix": 1780461000,
-    "ended_at_unix": 1780468200,
-    "search_volume": 2000,
-    "score": 600,
+    "started_at_unix": 1780503600,
+    "ended_at_unix": 1780554000,
+    "search_volume": 1000,
+    "score": 500,
     "related_queries": [
-      "мэр москвы",
-      "беспилотная опасность московская область",
-      "новости москва",
-      "беспилотная опасность москва сегодня",
-      "беспилотная опасность москва"
+      "гребенюк"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4640440344,
+        "id": 4642513491,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4637328338,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637221200,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631937876,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641119274,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4624449534,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627513221,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630470586,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640440344,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627513221,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640496244,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "мэр москвы",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "танк",
-    "region": "RU",
-    "started_at_unix": 1780408200,
-    "ended_at_unix": 1780465200,
-    "search_volume": 2000,
-    "score": 300,
-    "related_queries": [
-      "танк"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4637272877,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627431560,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639521372,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641394640,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4623466322,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4633540481,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638947284,
+        "id": 4643745700,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "танк",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "гребенюк",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "каролина вегас",
+    "keyword": "жозе моуринью",
     "region": "RU",
-    "started_at_unix": 1780446600,
-    "ended_at_unix": 1780465200,
+    "started_at_unix": 1780517400,
+    "ended_at_unix": 1780549800,
     "search_volume": 1000,
-    "score": 300,
+    "score": 600,
     "related_queries": [
-      "каролина вегас",
-      "каролина вегас прогноз"
+      "жозе моуринью",
+      "флорентино перес"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4634192577,
+        "id": 4643027785,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629938795,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643034421,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4625757493,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641817401,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4631290411,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643027785,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "жозе моуринью",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "енакиево автобус",
+    "region": "RU",
+    "started_at_unix": 1780477200,
+    "ended_at_unix": 1780507200,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "енакиево автобус",
+      "москва симферополь автобус",
+      "автобус",
+      "москва симферополь"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4630415764,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639450352,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643594820,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643690876,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4636883215,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643713020,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "каролина вегас",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "енакиево автобус",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "олег меньшиков",
+    "keyword": "футболист",
     "region": "RU",
-    "started_at_unix": 1780455600,
-    "ended_at_unix": 1780464600,
+    "started_at_unix": 1780554600,
+    "ended_at_unix": 1780556400,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "футболист"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4641940674,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4610773224,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4634376978,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641637064,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4632809137,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4634159078,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641548405,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4634044212,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642513528,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643581569,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4630037870,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641881378,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643233384,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "футболист",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "алина кабаева",
+    "region": "RU",
+    "started_at_unix": 1780489200,
+    "ended_at_unix": 1780516800,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "алина кабаева"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4639840392,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637399761,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4630940530,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "алина кабаева",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "национальная хоккейная лига",
+    "region": "RU",
+    "started_at_unix": 1780484400,
+    "ended_at_unix": 1780507800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "национальная хоккейная лига"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4642730432,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640728197,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4604635049,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4604533034,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "национальная хоккеиная лига",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "lada azimut",
+    "region": "RU",
+    "started_at_unix": 1780493400,
+    "ended_at_unix": 1780543800,
+    "search_volume": 2000,
+    "score": 800,
+    "related_queries": [
+      "lada azimut"
+    ],
+    "category_ids": [
+      1
+    ],
+    "entities": [
+      {
+        "id": 4613673611,
+        "language": "it",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "lada azimut",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "жорж сен-пьер",
+    "region": "RU",
+    "started_at_unix": 1780545000,
+    "ended_at_unix": 1780552200,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "жорж сен-пьер"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4639602327,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641690611,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642047693,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "жорж сен-пьер",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "лента",
+    "region": "RU",
+    "started_at_unix": 1780515600,
+    "ended_at_unix": 1780552200,
+    "search_volume": 1000,
+    "score": 100,
+    "related_queries": [
+      "лента"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4639791808,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "лента",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "роберт левандовский",
+    "region": "RU",
+    "started_at_unix": 1780521000,
+    "ended_at_unix": 1780545600,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "роберт левандовский"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638473980,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4621118012,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640596855,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "роберт левандовскии",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "эдуард латыпов",
+    "region": "RU",
+    "started_at_unix": 1780489800,
+    "ended_at_unix": 1780510200,
+    "search_volume": 1000,
+    "score": 500,
+    "related_queries": [
+      "эдуард латыпов"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4632558545,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "эдуард латыпов",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "елена валерьевна вяльбе",
+    "region": "RU",
+    "started_at_unix": 1780513200,
+    "ended_at_unix": 1780546800,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "елена валерьевна вяльбе"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4628811826,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "елена валерьевна вяльбе",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "валерий карпин",
+    "region": "RU",
+    "started_at_unix": 1780473600,
+    "ended_at_unix": 1780491600,
+    "search_volume": 1000,
+    "score": 700,
+    "related_queries": [
+      "валерий карпин"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4642618992,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637784851,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640664792,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642861168,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629835479,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641329518,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "валерии карпин",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "алексей можин",
+    "region": "RU",
+    "started_at_unix": 1780485000,
+    "ended_at_unix": 1780513800,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "алексей можин"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4641933920,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "алексеи можин",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "зенит – локо-кубань",
+    "region": "RU",
+    "started_at_unix": 1780504200,
+    "ended_at_unix": 1780515600,
     "search_volume": 500,
     "score": 800,
     "related_queries": [
-      "олег меньшиков"
+      "зенит – локо-кубань"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4621292775,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "зенит – локо-кубань",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "нидерланды алжир",
+    "region": "RU",
+    "started_at_unix": 1780516200,
+    "ended_at_unix": 1780524000,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "нидерланды алжир"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4629523524,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "нидерланды алжир",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "польша нигерия",
+    "region": "RU",
+    "started_at_unix": 1780515000,
+    "ended_at_unix": 1780522800,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "польша нигерия",
+      "польша – нигерия"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4629523560,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "польша нигерия",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "ска",
+    "region": "RU",
+    "started_at_unix": 1780498200,
+    "ended_at_unix": 1780507200,
+    "search_volume": 1000,
+    "score": 700,
+    "related_queries": [
+      "ска",
+      "владислав сёмин"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4641663035,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638061750,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643704024,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643721835,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643727941,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4628697622,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639608723,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640728197,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640500808,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637712905,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "ска",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "волгоград",
+    "region": "RU",
+    "started_at_unix": 1780507800,
+    "ended_at_unix": 1780552200,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "волгоград"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4632339372,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4628892992,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4632258257,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641171815,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642310035,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641390638,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642897896,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "волгоград",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "ближний восток",
+    "region": "RU",
+    "started_at_unix": 1780475400,
+    "ended_at_unix": 1780484400,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "ближний восток"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4621361148,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642582658,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4634331015,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4603446322,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "ближнии восток",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "елена панджариди",
+    "region": "RU",
+    "started_at_unix": 1780489200,
+    "ended_at_unix": 1780508400,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "елена панджариди"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4641399567,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637570944,
+        "id": 4641285720,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "олег меньшиков",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "елена панджариди",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "брижит макрон",
+    "keyword": "kick",
     "region": "RU",
-    "started_at_unix": 1780403400,
-    "ended_at_unix": 1780434600,
-    "search_volume": 5000,
-    "score": 400,
-    "related_queries": [
-      "брижит макрон",
-      "бриджит макрон",
-      "кэндис оуэнс",
-      "жена макрона"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4637603593,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636708393,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636483889,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4624449534,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629397347,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4626822849,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "брижит макрон",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "3 июня праздник",
-    "region": "RU",
-    "started_at_unix": 1780464000,
-    "ended_at_unix": 1780470000,
+    "started_at_unix": 1780520400,
+    "ended_at_unix": 1780525200,
     "search_volume": 200,
-    "score": 300,
+    "score": 100,
     "related_queries": [
-      "3 июня праздник"
+      "kick"
     ],
     "category_ids": [
-      8
-    ],
-    "entities": [
-      {
-        "id": 4637791159,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641427892,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641427963,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "3 июня праздник",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "фсб",
-    "region": "RU",
-    "started_at_unix": 1780386000,
-    "ended_at_unix": 1780416000,
-    "search_volume": 5000,
-    "score": 300,
-    "related_queries": [
-      "фсб"
-    ],
-    "category_ids": [
+      14,
       10
     ],
     "entities": [
       {
-        "id": 4639147625,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632107375,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4624049098,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631937876,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640222617,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639305850,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "фсб",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "хорватия – бельгия",
-    "region": "RU",
-    "started_at_unix": 1780413000,
-    "ended_at_unix": 1780430400,
-    "search_volume": 5000,
-    "score": 700,
-    "related_queries": [
-      "хорватия – бельгия",
-      "хорватия бельгия"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4626947709,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "хорватия – бельгия",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "дюмфрис",
-    "region": "RU",
-    "started_at_unix": 1780430400,
-    "ended_at_unix": 1780465200,
-    "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "дюмфрис"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4638638582,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "дюмфрис",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "cyberpunk 2077",
-    "region": "RU",
-    "started_at_unix": 1780464000,
-    "ended_at_unix": 1780468200,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "cyberpunk 2077"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4634949880,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4640414029,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4637525781,
-        "language": "en",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "cyberpunk 2077",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "мирра александровна андреева",
-    "region": "RU",
-    "started_at_unix": 1780392000,
-    "ended_at_unix": 1780404000,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "мирра александровна андреева",
-      "сорана кырстя"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4601783225,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640232452,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "мирра александровна андреева",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "зоя богуславская",
-    "region": "RU",
-    "started_at_unix": 1780408800,
-    "ended_at_unix": 1780466400,
-    "search_volume": 5000,
-    "score": 700,
-    "related_queries": [
-      "зоя богуславская",
-      "андрей вознесенский",
-      "богуславская"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4637570944,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "зоя богуславская",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "гурулев мобилизация",
-    "region": "RU",
-    "started_at_unix": 1780413000,
-    "ended_at_unix": 1780464000,
-    "search_volume": 2000,
-    "score": 200,
-    "related_queries": [
-      "гурулев мобилизация",
-      "андрей гурулев",
-      "гурулев"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4639797436,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "гурулев мобилизация",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "астрология",
-    "region": "RU",
-    "started_at_unix": 1780453800,
-    "ended_at_unix": 1780460400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "астрология"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4641273406,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4626075365,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4633421280,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636221737,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639137260,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638807699,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639332551,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "астрология",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "инженер",
-    "region": "RU",
-    "started_at_unix": 1780396800,
-    "ended_at_unix": 1780422000,
-    "search_volume": 2000,
-    "score": 200,
-    "related_queries": [
-      "инженер"
-    ],
-    "category_ids": [
-      15
-    ],
-    "entities": [
-      {
-        "id": 4628097081,
+        "id": 4642818701,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4629733300,
+        "id": 4632135501,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4636112076,
+        "id": 4636017579,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4639214505,
+        "id": 4634437819,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4639471730,
+        "id": 4642863469,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4623353078,
+        "id": 4638617749,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636042830,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4546123230,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4615178881,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "инженер",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "kick",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "сборная казахстана по футболу",
+    "keyword": "nba",
     "region": "RU",
-    "started_at_unix": 1780412400,
-    "ended_at_unix": 1780460400,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "сборная казахстана по футболу"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4637560672,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629420059,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4616711438,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635540498,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4605925535,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632278420,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "сборная казахстана по футболу",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "грузия – румыния",
-    "region": "RU",
-    "started_at_unix": 1780416600,
-    "ended_at_unix": 1780429800,
-    "search_volume": 2000,
-    "score": 200,
-    "related_queries": [
-      "грузия – румыния",
-      "грузия румыния"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4613950277,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "грузия – румыния",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "ibm",
-    "region": "RU",
-    "started_at_unix": 1780461000,
-    "ended_at_unix": 1780465800,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "ibm"
-    ],
-    "category_ids": [
-      18,
-      15
-    ],
-    "entities": [
-      {
-        "id": 4629241727,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4635010348,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4625315900,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4640322994,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4632309858,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4635827108,
-        "language": "en",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "ibm",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "цска",
-    "region": "RU",
-    "started_at_unix": 1780402200,
-    "ended_at_unix": 1780411200,
-    "search_volume": 5000,
-    "score": 300,
-    "related_queries": [
-      "цска",
-      "игорь акинфеев"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4640000895,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4601783225,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641523518,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635520792,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640648431,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635654475,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640398071,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640071985,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4618427832,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638342288,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "цска",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "россия",
-    "region": "RU",
-    "started_at_unix": 1780411200,
-    "ended_at_unix": 1780421400,
-    "search_volume": 2000,
-    "score": 200,
-    "related_queries": [
-      "россия"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4634755455,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640594046,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629405097,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636075365,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4623744533,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638287524,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631780418,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639720731,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636571866,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641483241,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640218078,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630384584,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629559502,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4628582897,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630493556,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639646319,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631551773,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "россия",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "тони йока",
-    "region": "RU",
-    "started_at_unix": 1780458600,
-    "ended_at_unix": 1780465800,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "тони йока"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4604575249,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "тони иока",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "элина свитолина",
-    "region": "RU",
-    "started_at_unix": 1780396800,
-    "ended_at_unix": 1780408200,
-    "search_volume": 2000,
-    "score": 600,
-    "related_queries": [
-      "элина свитолина"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4617998840,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630111582,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640491841,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "элина свитолина",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "украина",
-    "region": "RU",
-    "started_at_unix": 1780397400,
-    "ended_at_unix": 1780402200,
-    "search_volume": 5000,
-    "score": 400,
-    "related_queries": [
-      "украина"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4592508241,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4614844156,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4610449685,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640402619,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4628544231,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4634968388,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625421090,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625543331,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4600068728,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4626680942,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640336516,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639625004,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635602464,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636075365,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640813946,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625874505,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4634419410,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4623040611,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640594046,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4634023054,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639552057,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640564399,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "украина",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "международный союз конькобежцев",
-    "region": "RU",
-    "started_at_unix": 1780399200,
-    "ended_at_unix": 1780417800,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "международный союз конькобежцев"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4640138423,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632203041,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4624158174,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "международныи союз конькобежцев",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "александр зверев",
-    "region": "RU",
-    "started_at_unix": 1780405200,
-    "ended_at_unix": 1780417800,
-    "search_volume": 2000,
-    "score": 500,
-    "related_queries": [
-      "александр зверев"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4623059789,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637215552,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640601752,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631147135,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640773634,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640232452,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "александр зверев",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "73 онлайн",
-    "region": "RU",
-    "started_at_unix": 1780457400,
-    "ended_at_unix": 1780464000,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "73 онлайн"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4631406545,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4624493991,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641463756,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635608074,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641093476,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629764845,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "73 онлаин",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "арман царукян",
-    "region": "RU",
-    "started_at_unix": 1780414800,
-    "ended_at_unix": 1780427400,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "арман царукян"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4624690079,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629539458,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4624645074,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4604495529,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640187267,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "арман царукян",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "цска – уникс",
-    "region": "RU",
-    "started_at_unix": 1780418400,
-    "ended_at_unix": 1780428000,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "цска – уникс"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4640648431,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "цска – уникс",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "холестерин",
-    "region": "RU",
-    "started_at_unix": 1780395600,
-    "ended_at_unix": 1780420800,
-    "search_volume": 1000,
+    "started_at_unix": 1780534800,
+    "ended_at_unix": 1780539000,
+    "search_volume": 100,
     "score": 100,
     "related_queries": [
-      "холестерин"
+      "nba"
     ],
     "category_ids": [
-      7
+      17
     ],
     "entities": [
       {
-        "id": 4628485575,
-        "language": "ru",
+        "id": 4636042830,
+        "language": "en",
         "region": "RU"
       },
       {
-        "id": 4626650558,
-        "language": "ru",
+        "id": 4627176980,
+        "language": "en",
         "region": "RU"
       },
       {
-        "id": 4624279177,
-        "language": "ru",
+        "id": 4641160191,
+        "language": "en",
         "region": "RU"
       },
       {
-        "id": 4639501927,
-        "language": "ru",
+        "id": 4643489926,
+        "language": "en",
         "region": "RU"
       },
       {
-        "id": 4639259838,
-        "language": "ru",
+        "id": 4625957388,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4631567967,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4635734479,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4643482436,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4628307465,
+        "language": "en",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "холестерин",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "nba",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "мост",
+    "keyword": "accuweather",
     "region": "RU",
-    "started_at_unix": 1780398000,
-    "ended_at_unix": 1780410600,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "мост"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4621621314,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4619379090,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631937876,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640419860,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632268689,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635711759,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4608882476,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640084322,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639475368,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637183730,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4628152324,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639167940,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638919242,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "мост",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "погода томск",
-    "region": "RU",
-    "started_at_unix": 1780446000,
-    "ended_at_unix": 1780452600,
+    "started_at_unix": 1780480800,
+    "ended_at_unix": 1780487400,
     "search_volume": 500,
-    "score": 50,
+    "score": 700,
     "related_queries": [
-      "погода томск"
+      "accuweather"
     ],
     "category_ids": [
       20
     ],
     "entities": [
       {
-        "id": 4640519432,
-        "language": "ru",
+        "id": 4635013924,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4641958249,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4636097160,
+        "language": "en",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "погода томск",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "accuweather",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "русал",
+    "keyword": "дания конго",
     "region": "RU",
-    "started_at_unix": 1780460400,
-    "ended_at_unix": 1780464000,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "русал"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4640272607,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631922495,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632471384,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640277375,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640336491,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637869908,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "русал",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "until dawn 2",
-    "region": "RU",
-    "started_at_unix": 1780438200,
-    "ended_at_unix": 1780444800,
+    "started_at_unix": 1780515600,
+    "ended_at_unix": 1780519200,
     "search_volume": 200,
     "score": 500,
     "related_queries": [
-      "until dawn 2"
+      "дания конго",
+      "дания – др конго"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4621221065,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "дания конго",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "фонтанка.ру",
+    "region": "RU",
+    "started_at_unix": 1780489800,
+    "ended_at_unix": 1780495800,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "фонтанка.ру"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4623040611,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4621190723,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "фонтанка.ру",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "grand theft auto: vice city",
+    "region": "RU",
+    "started_at_unix": 1780524600,
+    "ended_at_unix": 1780541400,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "grand theft auto: vice city"
     ],
     "category_ids": [
       6
     ],
     "entities": [
       {
-        "id": 4640807182,
+        "id": 4642691095,
+        "language": "en",
+        "region": "RU"
+      },
+      {
+        "id": 4625124039,
         "language": "en",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "until dawn 2",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "grand theft auto: vice city",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "джанкой",
+    "keyword": "иосиф кобзон",
     "region": "RU",
-    "started_at_unix": 1780389600,
-    "ended_at_unix": 1780431600,
-    "search_volume": 1000,
-    "score": 200,
+    "started_at_unix": 1780503600,
+    "ended_at_unix": 1780509000,
+    "search_volume": 200,
+    "score": 400,
     "related_queries": [
-      "джанкой"
+      "иосиф кобзон"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4641587431,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639444324,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643335836,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "иосиф кобзон",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "авангард",
+    "region": "RU",
+    "started_at_unix": 1780537200,
+    "ended_at_unix": 1780539600,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "авангард"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4626095990,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642380083,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4632299127,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638061750,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4634086842,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643611700,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642754234,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4625853211,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637268208,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "авангард",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "константин тюкавин",
+    "region": "RU",
+    "started_at_unix": 1780505400,
+    "ended_at_unix": 1780510200,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "константин тюкавин"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4634002335,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4636340274,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641964651,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4632458867,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643721800,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643418011,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4604533034,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "константин тюкавин",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "андрей малахов",
+    "region": "RU",
+    "started_at_unix": 1780491600,
+    "ended_at_unix": 1780503600,
+    "search_volume": 200,
+    "score": 700,
+    "related_queries": [
+      "андрей малахов"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4637277725,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4633355189,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4637570944,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "андреи малахов",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "ливай гарсия",
+    "region": "RU",
+    "started_at_unix": 1780507800,
+    "ended_at_unix": 1780510800,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "ливай гарсия"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4642557343,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "ливаи гарсия",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "петр рыков",
+    "region": "RU",
+    "started_at_unix": 1780485600,
+    "ended_at_unix": 1780489200,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "петр рыков"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4635656983,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "петр рыков",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "max",
+    "region": "RU",
+    "started_at_unix": 1780514400,
+    "ended_at_unix": 1780516800,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "max"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4636419242,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641351421,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634471561,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641845600,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643583697,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643004121,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643147499,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642130793,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4627817496,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640878057,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4629245093,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637725519,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643702518,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643683478,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4630059362,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643130423,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643173250,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634467803,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642909116,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642883766,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641939019,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4590447029,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "max",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "магнитное поле",
+    "region": "RU",
+    "started_at_unix": 1780477800,
+    "ended_at_unix": 1780481400,
+    "search_volume": 200,
+    "score": 900,
+    "related_queries": [
+      "магнитное поле"
+    ],
+    "category_ids": [
+      15
+    ],
+    "entities": [
+      {
+        "id": 4639544953,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4612813314,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "магнитное поле",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "абдулрашид садулаев",
+    "region": "RU",
+    "started_at_unix": 1780476600,
+    "ended_at_unix": 1780480200,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "абдулрашид садулаев"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4635720302,
+        "language": "ru",
+        "region": "RU"
+      }
+    ],
+    "normalized_keyword": "абдулрашид садулаев",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
+  },
+  {
+    "keyword": "ростовская область",
+    "region": "RU",
+    "started_at_unix": 1780479600,
+    "ended_at_unix": 1780482600,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "ростовская область"
     ],
     "category_ids": [
       11
@@ -3591,1363 +4385,216 @@
         "id": 4639198208,
         "language": "ru",
         "region": "RU"
-      }
-    ],
-    "normalized_keyword": "джанкои",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "михаил лощинин",
-    "region": "RU",
-    "started_at_unix": 1780414200,
-    "ended_at_unix": 1780424400,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "михаил лощинин"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
+      },
       {
-        "id": 4639646319,
+        "id": 4637753747,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642552323,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638174569,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642183494,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642078345,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4629935004,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4625442090,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4640244102,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "михаил лощинин",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "ростовская область",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "roblox",
+    "keyword": "голос",
     "region": "RU",
-    "started_at_unix": 1780440000,
-    "ended_at_unix": 1780446000,
-    "search_volume": 500,
-    "score": 100,
+    "started_at_unix": 1780512600,
+    "ended_at_unix": 1780515000,
+    "search_volume": 100,
+    "score": 500,
     "related_queries": [
-      "roblox"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4586846722,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640443028,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627638966,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629878754,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638270660,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639085178,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634935127,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635996075,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4601784444,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4564155594,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636461911,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "roblox",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "антон макарский",
-    "region": "RU",
-    "started_at_unix": 1780435800,
-    "ended_at_unix": 1780444200,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "антон макарский"
+      "голос"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4637302349,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "антон макарскии",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "образование",
-    "region": "RU",
-    "started_at_unix": 1780398000,
-    "ended_at_unix": 1780408800,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "образование"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4639177999,
+        "id": 4642475701,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4601693204,
+        "id": 4642687050,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4627684745,
+        "id": 4622950246,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4632212088,
+        "id": 4637096158,
         "language": "ru",
         "region": "RU"
       },
-      {
-        "id": 4627965808,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635804939,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629897027,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627684799,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640254360,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639904680,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "образование",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "laufey",
-    "region": "RU",
-    "started_at_unix": 1780438200,
-    "ended_at_unix": 1780443000,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "laufey"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4640817500,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "laufey",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "доллар",
-    "region": "RU",
-    "started_at_unix": 1780398600,
-    "ended_at_unix": 1780410000,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "доллар"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4626985176,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4628013336,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641156628,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629027035,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639828677,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640748372,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4641199649,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4634729165,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630224635,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4616283055,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "доллар",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "дева",
-    "region": "RU",
-    "started_at_unix": 1780455600,
-    "ended_at_unix": 1780458600,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "дева"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4638807699,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4609460439,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638164661,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636221737,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4635198774,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631862327,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "дева",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "ульяновский автомобильный завод",
-    "region": "RU",
-    "started_at_unix": 1780401000,
-    "ended_at_unix": 1780405800,
-    "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "ульяновский автомобильный завод"
-    ],
-    "category_ids": [
-      1
-    ],
-    "entities": [
-      {
-        "id": 4640855154,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634140398,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "ульяновскии автомобильныи завод",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "claude",
-    "region": "RU",
-    "started_at_unix": 1780386000,
-    "ended_at_unix": 1780392600,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "claude"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4636930214,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636840333,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639782674,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4632777893,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640899239,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4623025918,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4606497946,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4630790968,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635627946,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636795783,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4600633330,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "claude",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "бразилия",
-    "region": "RU",
-    "started_at_unix": 1780387800,
-    "ended_at_unix": 1780396800,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "бразилия"
-    ],
-    "category_ids": [
-      13,
-      8
-    ],
-    "entities": [
-      {
-        "id": 4640072092,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4626877118,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4628702098,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4628028357,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4633771113,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4620712246,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627129658,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631031741,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640382709,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640897049,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639124772,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "бразилия",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "математика",
-    "region": "RU",
-    "started_at_unix": 1780399800,
-    "ended_at_unix": 1780407600,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "математика"
-    ],
-    "category_ids": [
-      9
-    ],
-    "entities": [
       {
         "id": 4637135301,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4641119294,
+        "id": 4639457375,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4639467233,
+        "id": 4640786870,
         "language": "ru",
         "region": "RU"
       },
       {
-        "id": 4635458714,
+        "id": 4641006196,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "математика",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "голос",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "summer game fest 2026",
+    "keyword": "змеи",
     "region": "RU",
-    "started_at_unix": 1780438200,
-    "ended_at_unix": 1780443000,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "summer game fest 2026"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4640065893,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4637043553,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4630855291,
-        "language": "en",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "summer game fest 2026",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "сборная узбекистана по футболу",
-    "region": "RU",
-    "started_at_unix": 1780416600,
-    "ended_at_unix": 1780422600,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "сборная узбекистана по футболу"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4631234326,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640897046,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640222591,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "сборная узбекистана по футболу",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "маша распутина",
-    "region": "RU",
-    "started_at_unix": 1780420800,
-    "ended_at_unix": 1780426200,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "маша распутина"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4627419911,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "маша распутина",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "совкомбанк",
-    "region": "RU",
-    "started_at_unix": 1780416000,
-    "ended_at_unix": 1780419000,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "совкомбанк"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4629518485,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637532569,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629532267,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4630209963,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4622480725,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638088480,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637663379,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4621855225,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4633291325,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "совкомбанк",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "мосрег бпла",
-    "region": "RU",
-    "started_at_unix": 1780422600,
-    "ended_at_unix": 1780426800,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "мосрег бпла",
-      "объявлена беспилотная опасность"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4627513221,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640440344,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4631035563,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636976959,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4632241731,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4629302978,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "мосрег бпла",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "дмитрий юрьевич бивол",
-    "region": "RU",
-    "started_at_unix": 1780390800,
-    "ended_at_unix": 1780405800,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "дмитрий юрьевич бивол"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4601172826,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4587187497,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "дмитрии юрьевич бивол",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "hltv",
-    "region": "RU",
-    "started_at_unix": 1780402200,
-    "ended_at_unix": 1780414800,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "hltv"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4630764226,
-        "language": "en",
-        "region": "RU"
-      },
-      {
-        "id": 4616393838,
-        "language": "en",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "hltv",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "прогноз погоды",
-    "region": "RU",
-    "started_at_unix": 1780446600,
-    "ended_at_unix": 1780449600,
+    "started_at_unix": 1780505400,
+    "ended_at_unix": 1780507800,
     "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "прогноз погоды"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4637764105,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4606613067,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4625503929,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4622269055,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640519432,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639315431,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638397937,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640971316,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4633803345,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4626479466,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4634992312,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4620767230,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636947987,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627115230,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639405379,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640456850,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "прогноз погоды",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "облигации федерального займа",
-    "region": "RU",
-    "started_at_unix": 1780388400,
-    "ended_at_unix": 1780393200,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "облигации федерального займа"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4602322815,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4616466159,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "облигации федерального заима",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "гриб",
-    "region": "RU",
-    "started_at_unix": 1780389000,
-    "ended_at_unix": 1780392600,
-    "search_volume": 500,
-    "score": 600,
-    "related_queries": [
-      "гриб"
-    ],
-    "category_ids": [
-      5
-    ],
-    "entities": [
-      {
-        "id": 4639276545,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4616261830,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4607427911,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4634140383,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637399770,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4621769773,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "гриб",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "алена яковлева",
-    "region": "RU",
-    "started_at_unix": 1780399200,
-    "ended_at_unix": 1780402800,
-    "search_volume": 500,
     "score": 300,
     "related_queries": [
-      "алена яковлева"
+      "змеи"
     ],
     "category_ids": [
-      4
+      7
     ],
     "entities": [
       {
-        "id": 4635756327,
+        "id": 4641817423,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4638386625,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643548557,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643395093,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4643395119,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642054322,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4639350571,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4641674487,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "алена яковлева",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "змеи",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "youtube.com",
+    "keyword": "андрей вознесенский",
     "region": "RU",
-    "started_at_unix": 1780447200,
-    "ended_at_unix": 1780450200,
-    "search_volume": 100,
-    "score": 100,
+    "started_at_unix": 1780491000,
+    "ended_at_unix": 1780492800,
+    "search_volume": 200,
+    "score": 500,
     "related_queries": [
-      "youtube.com"
+      "андрей вознесенский"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4612675092,
-        "language": "en",
-        "region": "US"
+        "id": 4637570944,
+        "language": "ru",
+        "region": "RU"
       }
     ],
-    "normalized_keyword": "youtube.com",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "андреи вознесенскии",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   },
   {
-    "keyword": "якуб меншик",
+    "keyword": "майя хвалиньская",
     "region": "RU",
-    "started_at_unix": 1780435200,
-    "ended_at_unix": 1780438200,
-    "search_volume": 100,
-    "score": 100,
+    "started_at_unix": 1780485600,
+    "ended_at_unix": 1780488000,
+    "search_volume": 200,
+    "score": 500,
     "related_queries": [
-      "якуб меншик"
+      "майя хвалиньская"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4637215552,
+        "id": 4635067395,
+        "language": "ru",
+        "region": "RU"
+      },
+      {
+        "id": 4642407821,
         "language": "ru",
         "region": "RU"
       }
     ],
-    "normalized_keyword": "якуб меншик",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "алексей шпилевский",
-    "region": "RU",
-    "started_at_unix": 1780397400,
-    "ended_at_unix": 1780401600,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "алексей шпилевский"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4632283606,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "алексеи шпилевскии",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "марокко – мадагаскар",
-    "region": "RU",
-    "started_at_unix": 1780422600,
-    "ended_at_unix": 1780425600,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "марокко – мадагаскар"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4623801477,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "марокко – мадагаскар",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "реактивные бпла",
-    "region": "RU",
-    "started_at_unix": 1780436400,
-    "ended_at_unix": 1780438200,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "реактивные бпла"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4623919826,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636075365,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "реактивные бпла",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "выход на пенсию",
-    "region": "RU",
-    "started_at_unix": 1780387800,
-    "ended_at_unix": 1780390800,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "выход на пенсию"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4610635777,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636856380,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4627706075,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4640222572,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4626797337,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639410264,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637232394,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "выход на пенсию",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "военно-промышленный комплекс украины",
-    "region": "RU",
-    "started_at_unix": 1780386600,
-    "ended_at_unix": 1780389600,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "военно-промышленный комплекс украины"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4640594046,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "военно-промышленныи комплекс украины",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "санкции евросоюза",
-    "region": "RU",
-    "started_at_unix": 1780392000,
-    "ended_at_unix": 1780394400,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "санкции евросоюза"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4635792530,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "санкции евросоюза",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "phantom blade zero",
-    "region": "RU",
-    "started_at_unix": 1780438200,
-    "ended_at_unix": 1780439400,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "phantom blade zero"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4640778984,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "phantom blade zero",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "downdetector",
-    "region": "RU",
-    "started_at_unix": 1780411800,
-    "ended_at_unix": 1780413000,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "downdetector"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4631467178,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636840333,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "downdetector",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "спиридон",
-    "region": "RU",
-    "started_at_unix": 1780390800,
-    "ended_at_unix": 1780392000,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "спиридон"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4627431560,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "спиридон",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
-  },
-  {
-    "keyword": "иркутская область",
-    "region": "RU",
-    "started_at_unix": 1780390200,
-    "ended_at_unix": 1780391400,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "иркутская область"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4634032415,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4638394106,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4618199274,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639962871,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4620550474,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637057866,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639081044,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4639410203,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4636749467,
-        "language": "ru",
-        "region": "RU"
-      },
-      {
-        "id": 4637179017,
-        "language": "ru",
-        "region": "RU"
-      }
-    ],
-    "normalized_keyword": "иркутская область",
-    "captured_at": "2026-06-03T07:38:59.608247+00:00"
+    "normalized_keyword": "маия хвалиньская",
+    "captured_at": "2026-06-04T07:28:11.006393+00:00"
   }
 ]

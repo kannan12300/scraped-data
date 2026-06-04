@@ -1,62 +1,240 @@
 [
   {
-    "keyword": "india vs england",
+    "keyword": "sri lanka vs west indies",
     "region": "SA",
-    "started_at_unix": 1780420800,
+    "started_at_unix": 1780495800,
     "ended_at_unix": null,
     "search_volume": 20000,
     "score": 1000,
     "related_queries": [
-      "india vs england",
-      "india women's national cricket team vs england women's national cricket team match scorecard",
-      "indw vs en-w",
-      "alice capsey",
-      "yastika bhatia",
-      "en-w vs indw"
+      "sri lanka vs west indies",
+      "sl vs wi",
+      "sri lanka national cricket team vs west indies cricket team match scorecard",
+      "wi vs sl",
+      "kamindu mendis",
+      "kusal mendis",
+      "pathum nissanka",
+      "justin greaves",
+      "jayden seales",
+      "alzarri joseph",
+      "shai hope"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4609066979,
+        "id": 4602490709,
         "language": "en",
         "region": "SA"
       },
       {
-        "id": 4624741176,
+        "id": 4643043382,
         "language": "en",
         "region": "SA"
       },
       {
-        "id": 4631447139,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4640252935,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4609066979,
+        "id": 4602490709,
         "language": "en",
         "region": "US"
+      },
+      {
+        "id": 4638186734,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4641256692,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4628977872,
+        "language": "en",
+        "region": "SA"
       }
     ],
-    "normalized_keyword": "india vs england",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "sri lanka vs west indies",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "الكويت",
+    "keyword": "البحرين",
     "region": "SA",
-    "started_at_unix": 1780396200,
+    "started_at_unix": 1780479600,
     "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 900,
+    "search_volume": 5000,
+    "score": 1000,
     "related_queries": [
-      "الكويت",
-      "إيران"
+      "البحرين"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4636345988,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4616012764,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4640886848,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642148763,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4643590927,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4634276033,
+        "language": "ar",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "البحرين",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "pakistan vs west indies",
+    "region": "SA",
+    "started_at_unix": 1780498800,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "pakistan vs west indies"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4643303219,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4602490709,
+        "language": "en",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "pakistan vs west indies",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "panama vs dominican republic",
+    "region": "SA",
+    "started_at_unix": 1780533000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "panama vs dominican republic"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4619704846,
+        "language": "en",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "panama vs dominican republic",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "هولندا ضد الجزائر",
+    "region": "SA",
+    "started_at_unix": 1780510200,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "هولندا ضد الجزائر",
+      "منتخب الجزائر",
+      "رياض محرز",
+      "الجزائر وهولندا",
+      "الجزائر"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4641863436,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4638243442,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4614967544,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4637890106,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642026182,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4620654976,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4626317338,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4636963356,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642691133,
+        "language": "ar",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "هولندا ضد الجزاير",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "ضرب مطار الكويت",
+    "region": "SA",
+    "started_at_unix": 1780503600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "ضرب مطار الكويت",
+      "مطار الكويت الدولي",
+      "مطار الكويت",
+      "قشم"
     ],
     "category_ids": [
       10
@@ -68,12 +246,22 @@
         "region": "SA"
       },
       {
-        "id": 4635346881,
+        "id": 4636242421,
         "language": "ar",
         "region": "SA"
       },
       {
-        "id": 4635921287,
+        "id": 4642626861,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642698861,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4631267238,
         "language": "ar",
         "region": "SA"
       },
@@ -83,256 +271,442 @@
         "region": "SA"
       },
       {
-        "id": 4640428762,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4638129016,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4640748478,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4640908764,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4640886848,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4628981699,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4612857179,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4620247803,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4637651980,
+        "id": 4641381409,
         "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "الكويت",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "ضرب مطار الكويت",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "ساعات العمل المرنة",
+    "keyword": "spurs vs knicks",
     "region": "SA",
-    "started_at_unix": 1780433400,
+    "started_at_unix": 1780531200,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "spurs vs knicks",
+      "1",
+      "nba finals",
+      "nba",
+      "knicks vs spurs",
+      "nba schedule"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4636042830,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643482436,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643375134,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4639018477,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636860115,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4618952294,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643558807,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643374775,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640734091,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4540393161,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4551604587,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4540126224,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4542126482,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636042830,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4639075751,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4643482436,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4638134534,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4627176980,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4641160191,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4635734479,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4631567967,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4633560693,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4643375134,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4625957388,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4643489926,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4640088564,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4643452893,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4642181947,
+        "language": "en",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "spurs vs knicks",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "وزارة",
+    "region": "SA",
+    "started_at_unix": 1780543200,
     "ended_at_unix": null,
     "search_volume": 1000,
-    "score": 500,
+    "score": 1000,
     "related_queries": [
-      "ساعات العمل المرنة"
+      "وزارة"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4637890132,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4627012520,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642192987,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642386399,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4640848652,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4630060909,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4643016832,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4638638223,
+        "language": "ar",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "وزارة",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "مايان السيد",
+    "region": "SA",
+    "started_at_unix": 1780509600,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "مايان السيد"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4640197119,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4628491115,
+        "language": "ar",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "مايان السيد",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "ريتشارد هيوز",
+    "region": "SA",
+    "started_at_unix": 1780521600,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "ريتشارد هيوز"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4622851108,
+        "language": "ar",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "ريتشارد هيوز",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "netherlands vs algeria",
+    "region": "SA",
+    "started_at_unix": 1780512000,
+    "ended_at_unix": 1780556400,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "netherlands vs algeria"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4634437819,
+        "language": "en",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "netherlands vs algeria",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "عيد الغدير",
+    "region": "SA",
+    "started_at_unix": 1780483200,
+    "ended_at_unix": 1780558200,
+    "search_volume": 2000,
+    "score": 200,
+    "related_queries": [
+      "عيد الغدير"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4640495752,
+        "id": 4640691682,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4620818976,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642104349,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4643016742,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4643603775,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4622612280,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4643094094,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4623773571,
         "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "ساعات العمل المرنة",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "عيد الغدير",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "دومفريس",
+    "keyword": "nepal vs bhutan",
     "region": "SA",
-    "started_at_unix": 1780429800,
-    "ended_at_unix": null,
+    "started_at_unix": 1780538400,
+    "ended_at_unix": 1780555200,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "nepal vs bhutan"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4641102541,
+        "language": "en",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "nepal vs bhutan",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "صبري نخنوخ",
+    "region": "SA",
+    "started_at_unix": 1780530000,
+    "ended_at_unix": 1780556400,
     "search_volume": 1000,
-    "score": 500,
+    "score": 600,
     "related_queries": [
-      "دومفريس"
+      "صبري نخنوخ"
     ],
     "category_ids": [
-      17
+      11
     ],
     "entities": [
       {
-        "id": 4628029876,
+        "id": 4640296695,
         "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "دومفريس",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "صبري نخنوخ",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "المغرب ضد مدغشقر",
+    "keyword": "بولندا ضد نيجيريا",
     "region": "SA",
-    "started_at_unix": 1780419600,
-    "ended_at_unix": 1780471800,
-    "search_volume": 10000,
+    "started_at_unix": 1780511400,
+    "ended_at_unix": 1780549800,
+    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "المغرب ضد مدغشقر"
+      "بولندا ضد نيجيريا"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4625032984,
+        "id": 4624949447,
         "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "المغرب ضد مدغشقر",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "australia vs pakistan",
-    "region": "SA",
-    "started_at_unix": 1780399200,
-    "ended_at_unix": 1780420200,
-    "search_volume": 50000,
-    "score": 1000,
-    "related_queries": [
-      "australia vs pakistan",
-      "aus vs pak",
-      "australia national cricket team vs pakistan national cricket team match scorecard",
-      "shadab khan",
-      "nathan ellis",
-      "cameron green",
-      "matt renshaw",
-      "pak vs australia",
-      "babar azam",
-      "pakistan national cricket team vs australia national cricket team match scorecard",
-      "josh inglis",
-      "matthew kuhnemann"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4631779887,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4614433811,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4641351187,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4633005995,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4568556969,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4631779887,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4606351550,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4640434956,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4640792765,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4638634328,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4641322197,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4640839559,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4638634328,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640434956,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "australia vs pakistan",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "god of war laufey",
-    "region": "SA",
-    "started_at_unix": 1780449600,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "god of war laufey"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4640817500,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4633108635,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "god of war laufey",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "بولندا ضد نيجيريا",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
     "keyword": "noor",
     "region": "SA",
-    "started_at_unix": 1780460400,
+    "started_at_unix": 1780549200,
     "ended_at_unix": null,
-    "search_volume": 200,
+    "search_volume": 100,
     "score": 100,
     "related_queries": [
       "noor"
@@ -342,12 +716,27 @@
     ],
     "entities": [
       {
-        "id": 4638553757,
+        "id": 4643627263,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4635286842,
+        "id": 4642234164,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4638696282,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642454807,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4638553757,
         "language": "en",
         "region": "US"
       },
@@ -358,1358 +747,984 @@
       }
     ],
     "normalized_keyword": "noor",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "kick",
+    "keyword": "poland vs nigeria",
     "region": "SA",
-    "started_at_unix": 1780424400,
-    "ended_at_unix": 1780458000,
-    "search_volume": 5000,
-    "score": 200,
-    "related_queries": [
-      "kick"
-    ],
-    "category_ids": [
-      18,
-      15
-    ],
-    "entities": [
-      {
-        "id": 4622100713,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4631822424,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4636017579,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4640911490,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4641061891,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4631978430,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4620427160,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4640873170,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4627683388,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "kick",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "morocco vs madagascar",
-    "region": "SA",
-    "started_at_unix": 1780419000,
-    "ended_at_unix": 1780461000,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "morocco vs madagascar"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4615310152,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "morocco vs madagascar",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "بيب غوارديولا",
-    "region": "SA",
-    "started_at_unix": 1780393200,
-    "ended_at_unix": 1780459200,
-    "search_volume": 2000,
-    "score": 400,
-    "related_queries": [
-      "بيب غوارديولا"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4636727197,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4633919822,
-        "language": "ar",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "بيب غوارديولا",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "قطار",
-    "region": "SA",
-    "started_at_unix": 1780407600,
-    "ended_at_unix": 1780471200,
-    "search_volume": 2000,
-    "score": 200,
-    "related_queries": [
-      "قطار"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4612573808,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4630879545,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4636515912,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4639255041,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4639989886,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4639802486,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4632904572,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4637964167,
-        "language": "ar",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "قطار",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "croatia vs belgium",
-    "region": "SA",
-    "started_at_unix": 1780413600,
-    "ended_at_unix": 1780441800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "croatia vs belgium"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4619467736,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "croatia vs belgium",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "bangladesh vs scotland",
-    "region": "SA",
-    "started_at_unix": 1780402200,
-    "ended_at_unix": 1780426800,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "bangladesh vs scotland",
-      "bangladesh women's national cricket team vs scotland women's national cricket team match scorecard",
-      "bangladesh vs scotland women",
-      "nigar sultana"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4634187718,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4636056075,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4639119283,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4634187718,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "bangladesh vs scotland",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "pakistan vs australia",
-    "region": "SA",
-    "started_at_unix": 1780397400,
-    "ended_at_unix": 1780432200,
-    "search_volume": 2000,
-    "score": 800,
-    "related_queries": [
-      "pakistan vs australia"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4606351550,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4631779887,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4638634328,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "pakistan vs australia",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "مصرف",
-    "region": "SA",
-    "started_at_unix": 1780437000,
-    "ended_at_unix": 1780461000,
+    "started_at_unix": 1780511400,
+    "ended_at_unix": 1780549800,
     "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "مصرف"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4640365522,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4637397109,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4638961844,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4635921285,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4637300799,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4640848586,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4631512846,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4635997434,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4640628205,
-        "language": "ar",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "مصرف",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "jee advanced",
-    "region": "SA",
-    "started_at_unix": 1780393800,
-    "ended_at_unix": 1780438200,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "jee advanced"
-    ],
-    "category_ids": [
-      9
-    ],
-    "entities": [
-      {
-        "id": 4625116309,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641282730,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641351620,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "jee advanced",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "كرواتيا ضد بلجيكا",
-    "region": "SA",
-    "started_at_unix": 1780413600,
-    "ended_at_unix": 1780434600,
-    "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "كرواتيا ضد بلجيكا"
+      "poland vs nigeria"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4636675604,
-        "language": "ar",
+        "id": 4629707223,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4632523774,
+        "language": "en",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "كرواتيا ضد بلجيكا",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "poland vs nigeria",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "സൗദി അറേബ്യ",
+    "keyword": "محكمة",
     "region": "SA",
-    "started_at_unix": 1780408800,
-    "ended_at_unix": 1780462200,
-    "search_volume": 1000,
-    "score": 600,
+    "started_at_unix": 1780508400,
+    "ended_at_unix": 1780527600,
+    "search_volume": 2000,
+    "score": 1000,
     "related_queries": [
-      "സൗദി അറേബ്യ"
+      "محكمة"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4637830196,
-        "language": "ml",
+        "id": 4641970104,
+        "language": "ar",
         "region": "SA"
       },
       {
-        "id": 4637830231,
-        "language": "ml",
+        "id": 4640310498,
+        "language": "ar",
         "region": "SA"
       },
       {
-        "id": 4637081629,
-        "language": "ml",
+        "id": 4643136699,
+        "language": "ar",
         "region": "SA"
       },
       {
-        "id": 4640120741,
-        "language": "ml",
+        "id": 4643174452,
+        "language": "ar",
         "region": "SA"
       },
       {
-        "id": 4621135245,
-        "language": "ml",
+        "id": 4642683279,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4624343643,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642743946,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4635997403,
+        "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "സൗദി അറേബയ",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "محكمة",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "maaz sadaqat",
+    "keyword": "luxembourg vs italy",
     "region": "SA",
-    "started_at_unix": 1780404600,
-    "ended_at_unix": 1780420800,
-    "search_volume": 2000,
-    "score": 800,
-    "related_queries": [
-      "maaz sadaqat"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4638634328,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4633005995,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "maaz sadaqat",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "مشاجرة",
-    "region": "SA",
-    "started_at_unix": 1780386600,
-    "ended_at_unix": 1780431000,
+    "started_at_unix": 1780510800,
+    "ended_at_unix": 1780542000,
     "search_volume": 1000,
-    "score": 100,
+    "score": 1000,
     "related_queries": [
-      "مشاجرة"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4639505976,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4640296695,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4638294357,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4640606462,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4639365948,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4636148933,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4634349559,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4625557213,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4638837762,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4632031294,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4638446738,
-        "language": "ar",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "مشاجرة",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "الحرس الوطني",
-    "region": "SA",
-    "started_at_unix": 1780466400,
-    "ended_at_unix": 1780469400,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "الحرس الوطني"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4635363859,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4637397043,
-        "language": "ar",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "الحرس الوطني",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "سلمان الفرج",
-    "region": "SA",
-    "started_at_unix": 1780419600,
-    "ended_at_unix": 1780455000,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "سلمان الفرج"
+      "luxembourg vs italy"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4621516041,
-        "language": "ar",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "سلمان الفرج",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "wales vs ghana",
-    "region": "SA",
-    "started_at_unix": 1780423800,
-    "ended_at_unix": 1780438200,
-    "search_volume": 1000,
-    "score": 900,
-    "related_queries": [
-      "wales vs ghana"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4638831154,
+        "id": 4628312125,
         "language": "en",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "wales vs ghana",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "luxembourg vs italy",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "friendlies",
+    "keyword": "أنطونيو كونتي",
     "region": "SA",
-    "started_at_unix": 1780419600,
-    "ended_at_unix": 1780431600,
-    "search_volume": 1000,
-    "score": 300,
-    "related_queries": [
-      "friendlies"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4617360056,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4639806735,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4638644164,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4619467736,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4615310152,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4638831154,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "friendlies",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "maroc – madagascar",
-    "region": "SA",
-    "started_at_unix": 1780420800,
-    "ended_at_unix": 1780431600,
+    "started_at_unix": 1780519200,
+    "ended_at_unix": 1780544400,
     "search_volume": 500,
     "score": 600,
     "related_queries": [
-      "maroc – madagascar"
+      "أنطونيو كونتي"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4625893577,
-        "language": "fr",
+        "id": 4640896982,
+        "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "maroc – madagascar",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "انطونيو كونتي",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "الحرس الثوري الإيراني",
+    "keyword": "جورجوس دونيس",
     "region": "SA",
-    "started_at_unix": 1780398000,
-    "ended_at_unix": 1780431000,
+    "started_at_unix": 1780506000,
+    "ended_at_unix": 1780532400,
     "search_volume": 500,
-    "score": 200,
+    "score": 600,
     "related_queries": [
-      "الحرس الثوري الإيراني"
+      "جورجوس دونيس"
     ],
     "category_ids": [
-      10
+      17
     ],
     "entities": [
       {
-        "id": 4625011621,
+        "id": 4638369058,
         "language": "ar",
         "region": "SA"
       },
       {
-        "id": 4616012764,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4637768176,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4626262994,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4640439959,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4621670717,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4635921359,
+        "id": 4592439588,
         "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "الحرس الثوري الايراني",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "جورجوس دونيس",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "فضاء",
+    "keyword": "scotland vs netherlands",
     "region": "SA",
-    "started_at_unix": 1780431000,
-    "ended_at_unix": 1780461000,
-    "search_volume": 200,
-    "score": 300,
+    "started_at_unix": 1780488000,
+    "ended_at_unix": 1780508400,
+    "search_volume": 1000,
+    "score": 1000,
     "related_queries": [
-      "فضاء"
+      "scotland vs netherlands"
     ],
     "category_ids": [
-      4,
-      15
+      17
     ],
     "entities": [
       {
-        "id": 4639053910,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4634360441,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4635715856,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4626889845,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4630275994,
-        "language": "ar",
+        "id": 4615257822,
+        "language": "en",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "فضاء",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "scotland vs netherlands",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "صبري نخنوخ",
+    "keyword": "كوريا الجنوبية ضد السلفادور",
     "region": "SA",
-    "started_at_unix": 1780419600,
-    "ended_at_unix": 1780428600,
-    "search_volume": 500,
+    "started_at_unix": 1780542000,
+    "ended_at_unix": 1780551000,
+    "search_volume": 100,
     "score": 500,
     "related_queries": [
-      "صبري نخنوخ"
+      "كوريا الجنوبية ضد السلفادور"
     ],
     "category_ids": [
-      10
+      17
     ],
     "entities": [
       {
-        "id": 4640296695,
+        "id": 4625347823,
         "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "صبري نخنوخ",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "كوريا الجنوبية ضد السلفادور",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "oliver peake",
+    "keyword": "south korea vs el salvador",
     "region": "SA",
-    "started_at_unix": 1780410000,
-    "ended_at_unix": 1780417200,
-    "search_volume": 500,
-    "score": 600,
+    "started_at_unix": 1780540200,
+    "ended_at_unix": 1780548600,
+    "search_volume": 200,
+    "score": 500,
     "related_queries": [
-      "oliver peake",
-      "haris rauf"
+      "south korea vs el salvador"
     ],
     "category_ids": [
-      17,
+      17
+    ],
+    "entities": [
+      {
+        "id": 4621136331,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "south korea vs el salvador",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "ذا فويس كيدز",
+    "region": "SA",
+    "started_at_unix": 1780525800,
+    "ended_at_unix": 1780540200,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "ذا فويس كيدز"
+    ],
+    "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4640698430,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4631779887,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "oliver peake",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "منتخب صربيا لكرة القدم",
-    "region": "SA",
-    "started_at_unix": 1780390800,
-    "ended_at_unix": 1780412400,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "منتخب صربيا لكرة القدم"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4633960537,
+        "id": 4632826351,
         "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "منتخب صربيا لكرة القدم",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "ذا فويس كيدز",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "dumfries",
+    "keyword": "لوكسمبورغ ضد إيطاليا",
     "region": "SA",
-    "started_at_unix": 1780436400,
-    "ended_at_unix": 1780443000,
+    "started_at_unix": 1780513800,
+    "ended_at_unix": 1780527600,
     "search_volume": 200,
-    "score": 400,
+    "score": 800,
     "related_queries": [
-      "dumfries"
+      "لوكسمبورغ ضد إيطاليا"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4638693200,
-        "language": "en",
+        "id": 4624759455,
+        "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "dumfries",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "لوكسمبورغ ضد ايطاليا",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "adam zampa",
+    "keyword": "denmark vs dr congo",
     "region": "SA",
-    "started_at_unix": 1780413600,
-    "ended_at_unix": 1780424400,
+    "started_at_unix": 1780508400,
+    "ended_at_unix": 1780520400,
     "search_volume": 500,
-    "score": 100,
+    "score": 1000,
     "related_queries": [
-      "adam zampa",
-      "sahibzada farhan"
+      "denmark vs dr congo"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4639837604,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4633005995,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4631779887,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4638634328,
+        "id": 4619578824,
         "language": "en",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "adam zampa",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "denmark vs dr congo",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "كوناتي",
+    "keyword": "kuwait",
     "region": "SA",
-    "started_at_unix": 1780410600,
-    "ended_at_unix": 1780456200,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "كوناتي"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4626343250,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4620655016,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4628029876,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4633204281,
-        "language": "ar",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "كوناتي",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "alexandra eala",
-    "region": "SA",
-    "started_at_unix": 1780395000,
-    "ended_at_unix": 1780402800,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "alexandra eala"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4632102599,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "alexandra eala",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "alex carey",
-    "region": "SA",
-    "started_at_unix": 1780400400,
-    "ended_at_unix": 1780406400,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "alex carey",
-      "shaheen afridi"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4640434956,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4631779887,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "alex carey",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "claude ai",
-    "region": "SA",
-    "started_at_unix": 1780386600,
-    "ended_at_unix": 1780399800,
+    "started_at_unix": 1780477800,
+    "ended_at_unix": 1780510200,
     "search_volume": 1000,
-    "score": 75,
+    "score": 300,
     "related_queries": [
-      "claude ai"
+      "kuwait",
+      "kuwait airport",
+      "kuwait airways",
+      "kuwait international airport"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4636930214,
+        "id": 4641416651,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4636840333,
+        "id": 4641985460,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4623025918,
+        "id": 4641416651,
         "language": "en",
-        "region": "US"
+        "region": "SA"
       },
       {
-        "id": 4639782674,
+        "id": 4624675895,
         "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625849854,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4630790968,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4578021112,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622371395,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4602455790,
-        "language": "en",
-        "region": "US"
+        "region": "SA"
       }
     ],
-    "normalized_keyword": "claude ai",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "kuwait",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "اتحاد الجزائر ضد بلوزداد",
+    "keyword": "ginebra vs tnt katropa",
     "region": "SA",
-    "started_at_unix": 1780431000,
-    "ended_at_unix": 1780435800,
-    "search_volume": 200,
-    "score": 400,
+    "started_at_unix": 1780487400,
+    "ended_at_unix": 1780499400,
+    "search_volume": 500,
+    "score": 1000,
     "related_queries": [
-      "اتحاد الجزائر ضد بلوزداد"
+      "ginebra vs tnt katropa"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4634453982,
+        "id": 4637515931,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4599644638,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "ginebra vs tnt katropa",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "إدوارد سبيرتسيان",
+    "region": "SA",
+    "started_at_unix": 1780488000,
+    "ended_at_unix": 1780499400,
+    "search_volume": 200,
+    "score": 900,
+    "related_queries": [
+      "إدوارد سبيرتسيان"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631363733,
         "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "اتحاد الجزاير ضد بلوزداد",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "ادوارد سبيرتسيان",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "harmanpreet kaur",
+    "keyword": "pays-bas – algérie",
     "region": "SA",
-    "started_at_unix": 1780425600,
-    "ended_at_unix": 1780431000,
-    "search_volume": 100,
-    "score": 600,
+    "started_at_unix": 1780513800,
+    "ended_at_unix": 1780521600,
+    "search_volume": 200,
+    "score": 700,
     "related_queries": [
-      "harmanpreet kaur"
+      "pays-bas – algérie"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4631447139,
+        "id": 4635368211,
+        "language": "fr",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "pays-bas – algerie",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "دنيا سامي",
+    "region": "SA",
+    "started_at_unix": 1780504200,
+    "ended_at_unix": 1780513800,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "دنيا سامي"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4639551775,
+        "language": "ar",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "دنيا سامي",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "kick",
+    "region": "SA",
+    "started_at_unix": 1780512000,
+    "ended_at_unix": 1780515600,
+    "search_volume": 1000,
+    "score": 100,
+    "related_queries": [
+      "kick"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4642818701,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636017579,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634437819,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642863469,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4638617749,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4546123230,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4615178881,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4627821353,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4615639002,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "kick",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "درجة الحرارة الرياض",
+    "region": "SA",
+    "started_at_unix": 1780482000,
+    "ended_at_unix": 1780495800,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "درجة الحرارة الرياض",
+      "جريدة المدينة",
+      "غبار"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4634953228,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4637596080,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641564433,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641767636,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4624475029,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643149541,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642308688,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643005200,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634953228,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4629409185,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4632423940,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4624586737,
+        "language": "ar",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "درجة الحرارة الرياض",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "ريال سعودي",
+    "region": "SA",
+    "started_at_unix": 1780504800,
+    "ended_at_unix": 1780508400,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "ريال سعودي"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4636700470,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4641394167,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4624486921,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4641381362,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4640659715,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642791221,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4627580928,
+        "language": "ar",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "ريال سعودي",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "إثيوبيا",
+    "region": "SA",
+    "started_at_unix": 1780498200,
+    "ended_at_unix": 1780510800,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "إثيوبيا"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4629697408,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4630879595,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4635585231,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642386361,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642456483,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642026171,
+        "language": "ar",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "اثيوبيا",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "قوى الامن",
+    "region": "SA",
+    "started_at_unix": 1780495200,
+    "ended_at_unix": 1780503600,
+    "search_volume": 500,
+    "score": 50,
+    "related_queries": [
+      "قوى الامن"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4642492045,
+        "language": "ar",
+        "region": "SA"
+      },
+      {
+        "id": 4642927693,
+        "language": "ar",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "قوى الامن",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "aryna sabalenka",
+    "region": "SA",
+    "started_at_unix": 1780494000,
+    "ended_at_unix": 1780498800,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "aryna sabalenka",
+      "diana shnaider"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638557360,
         "language": "en",
         "region": "SA"
       },
       {
-        "id": 4609066979,
+        "id": 4638023358,
         "language": "en",
         "region": "SA"
       },
       {
-        "id": 4635612583,
+        "id": 4635095097,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4620211866,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4639868002,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4631805009,
         "language": "en",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "harmanpreet kaur",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "aryna sabalenka",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "icc",
+    "keyword": "singapore vs hong kong",
     "region": "SA",
-    "started_at_unix": 1780401000,
-    "ended_at_unix": 1780431000,
+    "started_at_unix": 1780476000,
+    "ended_at_unix": 1780482600,
     "search_volume": 200,
-    "score": 300,
+    "score": 700,
     "related_queries": [
-      "icc"
+      "singapore vs hong kong"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4638080727,
+        "id": 4639960109,
         "language": "en",
         "region": "SA"
       },
       {
-        "id": 4638149230,
+        "id": 4620372657,
         "language": "en",
         "region": "SA"
       },
       {
-        "id": 4624840455,
+        "id": 4639919407,
         "language": "en",
         "region": "SA"
-      },
-      {
-        "id": 4631447139,
-        "language": "en",
-        "region": "SA"
-      },
-      {
-        "id": 4639633629,
-        "language": "en",
-        "region": "SA"
-      },
+      }
+    ],
+    "normalized_keyword": "singapore vs hong kong",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "fatima sana",
+    "region": "SA",
+    "started_at_unix": 1780508400,
+    "ended_at_unix": 1780513800,
+    "search_volume": 100,
+    "score": 500,
+    "related_queries": [
+      "fatima sana"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
       {
         "id": 4596730768,
         "language": "en",
         "region": "SA"
       },
       {
-        "id": 4640174246,
+        "id": 4608533774,
         "language": "en",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "icc",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "fatima sana",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "قوات الأمن الخاصة السعودية",
+    "keyword": "تحالف السودان التأسيسي",
     "region": "SA",
-    "started_at_unix": 1780402200,
-    "ended_at_unix": 1780410600,
-    "search_volume": 200,
-    "score": 100,
+    "started_at_unix": 1780507800,
+    "ended_at_unix": 1780515000,
+    "search_volume": 100,
+    "score": 400,
     "related_queries": [
-      "قوات الأمن الخاصة السعودية"
+      "تحالف السودان التأسيسي"
     ],
     "category_ids": [
+      14,
       10
     ],
     "entities": [
       {
-        "id": 4635363873,
-        "language": "ar",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "قوات الامن الخاصة السعودية",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "قوى الامن",
-    "region": "SA",
-    "started_at_unix": 1780409400,
-    "ended_at_unix": 1780413000,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "قوى الامن"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4639784934,
+        "id": 4628914785,
         "language": "ar",
         "region": "SA"
       },
       {
-        "id": 4639961885,
+        "id": 4620645299,
         "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "قوى الامن",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "تحالف السودان التاسيسي",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "state of play",
+    "keyword": "محمد القاسم",
     "region": "SA",
-    "started_at_unix": 1780434600,
-    "ended_at_unix": 1780438200,
+    "started_at_unix": 1780502400,
+    "ended_at_unix": 1780506600,
+    "search_volume": 100,
+    "score": 500,
+    "related_queries": [
+      "محمد القاسم"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4640310498,
+        "language": "ar",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "محمد القاسم",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "കുവൈറ്റ്",
+    "region": "SA",
+    "started_at_unix": 1780497000,
+    "ended_at_unix": 1780502400,
+    "search_volume": 100,
+    "score": 500,
+    "related_queries": [
+      "കുവൈറ്റ്"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4629772961,
+        "language": "ml",
+        "region": "SA"
+      },
+      {
+        "id": 4612643796,
+        "language": "ml",
+        "region": "SA"
+      },
+      {
+        "id": 4629872759,
+        "language": "ml",
+        "region": "SA"
+      },
+      {
+        "id": 4642798076,
+        "language": "ml",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "കവൈററ",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "world cup 2026",
+    "region": "SA",
+    "started_at_unix": 1780506600,
+    "ended_at_unix": 1780508400,
+    "search_volume": 200,
+    "score": 75,
+    "related_queries": [
+      "world cup 2026"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4630417402,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4616258357,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4634506979,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4630231606,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4640923477,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4640137064,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4638695963,
+        "language": "en",
+        "region": "SA"
+      },
+      {
+        "id": 4626377955,
+        "language": "en",
+        "region": "SA"
+      }
+    ],
+    "normalized_keyword": "world cup 2026",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
+  },
+  {
+    "keyword": "ناقلة نفط",
+    "region": "SA",
+    "started_at_unix": 1780489800,
+    "ended_at_unix": 1780492800,
     "search_volume": 100,
     "score": 200,
     "related_queries": [
-      "state of play"
-    ],
-    "category_ids": [
-      6,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4633108635,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640817500,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641002590,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641335983,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636167793,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4633071709,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4601946844,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "state of play",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "كأس العالم fifa 2026™",
-    "region": "SA",
-    "started_at_unix": 1780417800,
-    "ended_at_unix": 1780443000,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "كأس العالم fifa 2026™"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4641340811,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4620654976,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4638722410,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4635680189,
-        "language": "ar",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "كاس العالم fifa 2026™",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "marnus labuschagne",
-    "region": "SA",
-    "started_at_unix": 1780403400,
-    "ended_at_unix": 1780407000,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "marnus labuschagne"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4639849740,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "marnus labuschagne",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "سفينة",
-    "region": "SA",
-    "started_at_unix": 1780410600,
-    "ended_at_unix": 1780420200,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "سفينة"
+      "ناقلة نفط"
     ],
     "category_ids": [
       10
@@ -1721,232 +1736,40 @@
         "region": "SA"
       },
       {
-        "id": 4637768176,
+        "id": 4637281780,
         "language": "ar",
         "region": "SA"
       },
       {
-        "id": 4622438262,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4616012764,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4634504801,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4621423677,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4638065573,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4621670717,
+        "id": 4625011621,
         "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "سفينة",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "ناقلة نفط",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   },
   {
-    "keyword": "cloud ai",
+    "keyword": "السعودية للطاقة",
     "region": "SA",
-    "started_at_unix": 1780389000,
-    "ended_at_unix": 1780393800,
-    "search_volume": 200,
-    "score": 75,
-    "related_queries": [
-      "cloud ai"
-    ],
-    "category_ids": [
-      18
-    ],
-    "entities": [
-      {
-        "id": 4630790968,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640004381,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635601849,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622100713,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4637904112,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636601110,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636777660,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629331504,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636940898,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631379070,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640578581,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640464016,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4541514034,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4610712053,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4584472222,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "cloud ai",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "georgia vs romania",
-    "region": "SA",
-    "started_at_unix": 1780420800,
-    "ended_at_unix": 1780424400,
+    "started_at_unix": 1780483800,
+    "ended_at_unix": 1780485600,
     "search_volume": 100,
-    "score": 100,
+    "score": 200,
     "related_queries": [
-      "georgia vs romania"
+      "السعودية للطاقة"
     ],
     "category_ids": [
-      17
+      3
     ],
     "entities": [
       {
-        "id": 4633755286,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "georgia vs romania",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "रियलमी",
-    "region": "SA",
-    "started_at_unix": 1780417800,
-    "ended_at_unix": 1780422000,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "रियलमी"
-    ],
-    "category_ids": [
-      18
-    ],
-    "entities": [
-      {
-        "id": 4625922495,
-        "language": "hi",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "रियलमी",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "lauren bell",
-    "region": "SA",
-    "started_at_unix": 1780426200,
-    "ended_at_unix": 1780428600,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "lauren bell"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4632469892,
-        "language": "en",
-        "region": "SA"
-      }
-    ],
-    "normalized_keyword": "lauren bell",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
-  },
-  {
-    "keyword": "جيفري إبستين",
-    "region": "SA",
-    "started_at_unix": 1780419600,
-    "ended_at_unix": 1780421400,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "جيفري إبستين"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4622731347,
-        "language": "ar",
-        "region": "SA"
-      },
-      {
-        "id": 4641171945,
+        "id": 4639221651,
         "language": "ar",
         "region": "SA"
       }
     ],
-    "normalized_keyword": "جيفري ابستين",
-    "captured_at": "2026-06-03T07:39:46.491836+00:00"
+    "normalized_keyword": "السعودية للطاقة",
+    "captured_at": "2026-06-04T07:28:54.951238+00:00"
   }
 ]
