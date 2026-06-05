@@ -1,693 +1,98 @@
 [
   {
-    "keyword": "luis suarez",
+    "keyword": "enflasyon",
     "region": "TR",
-    "started_at_unix": 1780504200,
-    "ended_at_unix": null,
-    "search_volume": 50000,
-    "score": 1000,
-    "related_queries": [
-      "luis suarez",
-      "luis suarez sporting",
-      "suarez",
-      "luis suárez sporting",
-      "luiz suarez",
-      "luıs suarez",
-      "sporting",
-      "luis suárez",
-      "luís suárez",
-      "sporting luis suarez"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4636682409,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4643127809,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4642589982,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4606109472,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4632662356,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4636682409,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4634822468,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4636682409,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4617935445,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4642542714,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4642680864,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4643730034,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4632443004,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4619990406,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4640699866,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4624270625,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4631110340,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4643127809,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4626383028,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4585292659,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "luis suarez",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "can polat",
-    "region": "TR",
-    "started_at_unix": 1780485600,
-    "ended_at_unix": null,
-    "search_volume": 50000,
-    "score": 1000,
-    "related_queries": [
-      "can polat",
-      "dilan polat",
-      "can polat kimdir",
-      "dilan polat can polat",
-      "can polat öldü mü",
-      "daltonlar dilan polat",
-      "engin polat",
-      "dilan polat son dakika",
-      "dilan polat koruması",
-      "daltonlar son dakika",
-      "dilan polat koruması vuruldu",
-      "can polat vurulma anı"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4641939841,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4641939841,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "can polat",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "fenerium",
-    "region": "TR",
-    "started_at_unix": 1780489800,
+    "started_at_unix": 1780642200,
     "ended_at_unix": null,
     "search_volume": 20000,
     "score": 1000,
     "related_queries": [
-      "fenerium",
-      "fenerbahçe forma"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4638205993,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4638205993,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "fenerium",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "şebnem ferah",
-    "region": "TR",
-    "started_at_unix": 1780508400,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 800,
-    "related_queries": [
-      "şebnem ferah",
-      "şebnem ferah konseri"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4639798148,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "sebnem ferah",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "ösym takvim",
-    "region": "TR",
-    "started_at_unix": 1780501800,
-    "ended_at_unix": null,
-    "search_volume": 20000,
-    "score": 1000,
-    "related_queries": [
-      "ösym takvim",
-      "sınav"
-    ],
-    "category_ids": [
-      9,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4613353875,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4629923873,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4611175824,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4629923905,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4642608950,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4611561634,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "osym takvim",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "feridun geçgel",
-    "region": "TR",
-    "started_at_unix": 1780495200,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "feridun geçgel",
-      "feridun geçgel kimdir"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4637840388,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "feridun gecgel",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "daltonlar",
-    "region": "TR",
-    "started_at_unix": 1780516800,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 900,
-    "related_queries": [
-      "daltonlar",
-      "daltonlar çetesi"
+      "enflasyon",
+      "tüik",
+      "memurlar net",
+      "tuik",
+      "mayıs ayı enflasyon 2026",
+      "enflasyon mayıs 2026",
+      "mayıs ayı enflasyon",
+      "5 aylık enflasyon 2026",
+      "memur zammı",
+      "enflasyon ne zaman açıklanacak",
+      "memurlar",
+      "tüik enflasyon",
+      "enflasyon oranı",
+      "mayıs enflasyon",
+      "enflasyon oranları",
+      "tüfe",
+      "dünya",
+      "mayis ayi enflasyon",
+      "2026 mayıs ayı enflasyon"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4643749459,
+        "id": 4598345008,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4641939841,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "daltonlar",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "mahmut orhan",
-    "region": "TR",
-    "started_at_unix": 1780516800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 800,
-    "related_queries": [
-      "mahmut orhan"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4639984129,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "mahmut orhan",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "bloomberg ht",
-    "region": "TR",
-    "started_at_unix": 1780501800,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 800,
-    "related_queries": [
-      "bloomberg ht"
-    ],
-    "category_ids": [
-      3,
-      1
-    ],
-    "entities": [
-      {
-        "id": 4631068963,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4631613418,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4631777079,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4637153067,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4639240751,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4642246730,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4638425833,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4640322622,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "bloomberg ht",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "spurs - knicks",
-    "region": "TR",
-    "started_at_unix": 1780533000,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "spurs - knicks",
-      "nba",
-      "jalen brunson",
-      "spurs",
-      "san antonio spurs",
-      "spurs vs knicks",
-      "spurs knicks",
-      "nba finals"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4636042830,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4640908482,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4641828930,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4642887902,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4643478083,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4631613431,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4643452893,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4643482436,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4642181947,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4627176980,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4641160191,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4625957388,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4631567967,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4635734479,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4633560693,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4626339524,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4643181144,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4643375134,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4640088564,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4643433408,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "spurs - knicks",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "hurda teşviki",
-    "region": "TR",
-    "started_at_unix": 1780542600,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "hurda teşviki"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4621930205,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "hurda tesviki",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "tel aviv",
-    "region": "TR",
-    "started_at_unix": 1780507200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 800,
-    "related_queries": [
-      "tel aviv"
-    ],
-    "category_ids": [
-      19
-    ],
-    "entities": [
-      {
-        "id": 4637729898,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640646649,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641351240,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639582281,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634720608,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635628230,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635446153,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "tel aviv",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "kültür ve turizm bakanlığı personel alımı",
-    "region": "TR",
-    "started_at_unix": 1780549200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "kültür ve turizm bakanlığı personel alımı",
-      "kültür ve turizm bakanlığı"
-    ],
-    "category_ids": [
-      10,
-      9
-    ],
-    "entities": [
-      {
-        "id": 4642923398,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "kultur ve turizm bakanlıgı personel alımı",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "metehan mimaroğlu",
-    "region": "TR",
-    "started_at_unix": 1780502400,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "metehan mimaroğlu"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4642109855,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "metehan mimaroglu",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "ekonomi",
-    "region": "TR",
-    "started_at_unix": 1780519800,
-    "ended_at_unix": 1780555200,
-    "search_volume": 20000,
-    "score": 1000,
-    "related_queries": [
-      "ekonomi"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4643654334,
+        "id": 4627358245,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4642516668,
+        "id": 4635737970,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4643097248,
+        "id": 4644241467,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4643690999,
+        "id": 4635265053,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4639709606,
+        "id": 4645676935,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4645312216,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4634796657,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644446300,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4642126595,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4621880605,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4625732981,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4635909853,
         "language": "tr",
         "region": "TR"
       },
@@ -697,712 +102,616 @@
         "region": "TR"
       },
       {
-        "id": 4598345008,
+        "id": 4643841498,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4634389806,
+        "id": 4641929142,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4641477953,
+        "id": 4643876306,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4629054778,
+        "id": 4636844198,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4635694171,
+        "id": 4632271049,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643573359,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643830226,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4642330218,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "ekonomi",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "enflasyon",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "onur akın",
+    "keyword": "emir sarıgül",
     "region": "TR",
-    "started_at_unix": 1780509000,
+    "started_at_unix": 1780577400,
     "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 800,
+    "search_volume": 20000,
+    "score": 1000,
     "related_queries": [
-      "onur akın"
-    ],
-    "category_ids": [
-      14,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4634541624,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "onur akın",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "istifa",
-    "region": "TR",
-    "started_at_unix": 1780548000,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 900,
-    "related_queries": [
-      "istifa"
-    ],
-    "category_ids": [
-      10,
-      14
-    ],
-    "entities": [
-      {
-        "id": 4624571903,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4641617051,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4642092776,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4625826396,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4636964330,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4639272328,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "istifa",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "eşref rüya 46 bölüm full izle",
-    "region": "TR",
-    "started_at_unix": 1780520400,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 700,
-    "related_queries": [
-      "eşref rüya 46 bölüm full izle",
-      "eşref rüya 46 bölüm izle",
-      "eşref rüya 46",
-      "eşref rüya oyuncuları",
-      "eşref rüya son bölüm full izle",
-      "kanal d yayın akışı"
+      "emir sarıgül"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4629547675,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4635343234,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4640518655,
+        "id": 4639310088,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "esref ruya 46 bolum full izle",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "emir sarıgul",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "alkol",
+    "keyword": "türk lirası",
     "region": "TR",
-    "started_at_unix": 1780513800,
+    "started_at_unix": 1780570200,
     "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 700,
-    "related_queries": [
-      "alkol"
-    ],
-    "category_ids": [
-      5
-    ],
-    "entities": [
-      {
-        "id": 4637403034,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4643466396,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4639327534,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4635694171,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4639821884,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4637233104,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "alkol",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "fenerbahçe - anadolu efes",
-    "region": "TR",
-    "started_at_unix": 1780504800,
-    "ended_at_unix": 1780553400,
     "search_volume": 20000,
     "score": 1000,
     "related_queries": [
-      "fenerbahçe - anadolu efes",
-      "anadolu efes",
-      "fenerbahçe beko - anadolu efes"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4623714772,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4637215386,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4634482260,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4638629110,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "fenerbahce - anadolu efes",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "ferdi kadıoğlu",
-    "region": "TR",
-    "started_at_unix": 1780495800,
-    "ended_at_unix": 1780550400,
-    "search_volume": 20000,
-    "score": 1000,
-    "related_queries": [
-      "ferdi kadıoğlu"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4636550771,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "ferdi kadıoglu",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "kahramanmaraş",
-    "region": "TR",
-    "started_at_unix": 1780502400,
-    "ended_at_unix": 1780554600,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "kahramanmaraş",
-      "kahramanmaraş deprem",
-      "maraş deprem"
+      "türk lirası"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4639323856,
+        "id": 4643749464,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4643721703,
+        "id": 4628613915,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4640126897,
+        "id": 4645157715,
         "language": "tr",
         "region": "TR"
       },
+      {
+        "id": 4642796151,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4627358245,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4640143513,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4639798138,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4641996405,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "turk lirası",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "çay",
+    "region": "TR",
+    "started_at_unix": 1780567800,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "çay"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
       {
         "id": 4639201976,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4640181478,
+        "id": 4635249672,
         "language": "tr",
         "region": "TR"
-      }
-    ],
-    "normalized_keyword": "kahramanmaras",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "12. yargı paketi son dakika af",
-    "region": "TR",
-    "started_at_unix": 1780518000,
-    "ended_at_unix": 1780552800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "12. yargı paketi son dakika af"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
+      },
       {
-        "id": 4641536803,
+        "id": 4643856421,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4637015627,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4637015712,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "12. yargı paketi son dakika af",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "cay",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "noah saviolo",
+    "keyword": "vincenzo italiano",
     "region": "TR",
-    "started_at_unix": 1780473600,
-    "ended_at_unix": 1780556400,
+    "started_at_unix": 1780593000,
+    "ended_at_unix": null,
     "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "noah saviolo"
+      "vincenzo italiano"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4629586608,
+        "id": 4643047639,
+        "language": "it",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "vincenzo italiano",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "toki açık satış",
+    "region": "TR",
+    "started_at_unix": 1780565400,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "toki açık satış",
+      "toki 20 bin konut",
+      "toki başvuru",
+      "talep toki açık satış",
+      "64 ilde 20 bin konut",
+      "toki 64 ilde konut satışı"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4621880605,
         "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4621880605,
+        "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "noah saviolo",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "toki acık satıs",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "fenerbahçe transfer",
+    "keyword": "ibrahim tatlıses",
     "region": "TR",
-    "started_at_unix": 1780495200,
-    "ended_at_unix": 1780556400,
+    "started_at_unix": 1780636200,
+    "ended_at_unix": null,
     "search_volume": 5000,
-    "score": 700,
-    "related_queries": [
-      "fenerbahçe transfer"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4631028510,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4622226953,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4628779486,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4636682409,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4637178878,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4642020324,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4629155688,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4631720299,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4632871059,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "fenerbahce transfer",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "ali babacan",
-    "region": "TR",
-    "started_at_unix": 1780491600,
-    "ended_at_unix": 1780543800,
-    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "ali babacan"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4642948838,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "ali babacan",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "survivor kim elendi",
-    "region": "TR",
-    "started_at_unix": 1780541400,
-    "ended_at_unix": 1780552800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "survivor kim elendi",
-      "survivor sude"
+      "ibrahim tatlıses"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4630289154,
+        "id": 4645780450,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4636926034,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643980415,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4632769764,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "survivor kim elendi",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "ibrahim tatlıses",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "serkan reçber",
+    "keyword": "fransa",
     "region": "TR",
-    "started_at_unix": 1780494600,
-    "ended_at_unix": 1780552800,
-    "search_volume": 5000,
+    "started_at_unix": 1780599600,
+    "ended_at_unix": null,
+    "search_volume": 20000,
     "score": 1000,
     "related_queries": [
-      "serkan reçber"
+      "fransa",
+      "fransa millî futbol takımı",
+      "fransa milli",
+      "fransa fildişi",
+      "fransa maçı",
+      "fildişi sahili millî futbol takımı",
+      "fransa fildişi sahili maçı hangi kanalda",
+      "fildişi sahili"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4627473735,
+        "id": 4642330252,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4642773349,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4631777139,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4631049085,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643078297,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643240696,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4636903508,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643317120,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643704374,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4637215361,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4611922696,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4635369512,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644064766,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4637544764,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4626437855,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4642455708,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644050915,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643867159,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4642713581,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "serkan recber",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "fransa",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "milli piyango",
+    "keyword": "merih demiral",
     "region": "TR",
-    "started_at_unix": 1780543200,
-    "ended_at_unix": 1780553400,
-    "search_volume": 2000,
-    "score": 100,
+    "started_at_unix": 1780595400,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 700,
     "related_queries": [
-      "milli piyango",
-      "sayısal loto",
-      "sayısal loto sonuçları"
+      "merih demiral"
     ],
     "category_ids": [
-      6
+      17
     ],
     "entities": [
       {
-        "id": 4638371046,
-        "language": "tr",
+        "id": 4636682409,
+        "language": "en",
         "region": "TR"
       },
       {
-        "id": 4625128336,
-        "language": "tr",
+        "id": 4632871059,
+        "language": "en",
         "region": "TR"
       },
       {
-        "id": 4643704411,
-        "language": "tr",
+        "id": 4644870054,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4643969617,
+        "language": "en",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "milli piyango",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "merih demiral",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "taşıt sigortası",
+    "keyword": "ales sonuçları",
     "region": "TR",
-    "started_at_unix": 1780485600,
-    "ended_at_unix": 1780553400,
-    "search_volume": 2000,
-    "score": 800,
-    "related_queries": [
-      "taşıt sigortası"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4640243934,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4624141330,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "tasıt sigortası",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "vergi",
-    "region": "TR",
-    "started_at_unix": 1780548000,
-    "ended_at_unix": 1780554000,
-    "search_volume": 1000,
+    "started_at_unix": 1780607400,
+    "ended_at_unix": null,
+    "search_volume": 5000,
     "score": 400,
     "related_queries": [
-      "vergi"
+      "ales sonuçları",
+      "ösym",
+      "ales açıklandı mı",
+      "ösym ais"
+    ],
+    "category_ids": [
+      9
+    ],
+    "entities": [
+      {
+        "id": 4642061004,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4613353875,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4611175824,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4639350338,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4631914305,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4642796148,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "ales sonucları",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "serdar dursun",
+    "region": "TR",
+    "started_at_unix": 1780590600,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "serdar dursun"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4629035448,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "serdar dursun",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "togg haziran 2026 kampanya",
+    "region": "TR",
+    "started_at_unix": 1780587600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 900,
+    "related_queries": [
+      "togg haziran 2026 kampanya"
+    ],
+    "category_ids": [
+      1
+    ],
+    "entities": [
+      {
+        "id": 4634389809,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "togg haziran 2026 kampanya",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "fabian drzyzga",
+    "region": "TR",
+    "started_at_unix": 1780590000,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "fabian drzyzga"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4637939180,
+        "language": "pl",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "fabian drzyzga",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "irem helvacıoğlu",
+    "region": "TR",
+    "started_at_unix": 1780605600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 700,
+    "related_queries": [
+      "irem helvacıoğlu"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4625492390,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "irem helvacıoglu",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "mebbis",
+    "region": "TR",
+    "started_at_unix": 1780637400,
+    "ended_at_unix": 1780642800,
+    "search_volume": 20000,
+    "score": 200,
+    "related_queries": [
+      "mebbis"
+    ],
+    "category_ids": [
+      9,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4640601797,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4629923873,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "mebbis",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "haziran kira artış oranı 2026",
+    "region": "TR",
+    "started_at_unix": 1780642800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "haziran kira artış oranı 2026",
+      "kira artış oranı",
+      "kira artış oranı haziran 2026",
+      "haziran 2026 kira artış oranı"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4633314381,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4639144278,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4642923371,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4625843559,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4633314320,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4638425818,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "vergi",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "jorge jesus",
-    "region": "TR",
-    "started_at_unix": 1780512000,
-    "ended_at_unix": 1780548000,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "jorge jesus"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4627532648,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4622920064,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4635972355,
-        "language": "pt",
-        "region": "TR"
-      },
-      {
-        "id": 4616241102,
-        "language": "pt",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "jorge jesus",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "erken emeklilik",
-    "region": "TR",
-    "started_at_unix": 1780545000,
-    "ended_at_unix": 1780551000,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "erken emeklilik",
-      "emeklilik sistemi",
-      "prim"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4623025476,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4623726278,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4627111739,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4634918480,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4632746389,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4623025476,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4627111739,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4634918480,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4624141330,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4641252931,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4636903467,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4625747683,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4633314320,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4641510118,
+        "id": 4635737970,
         "language": "tr",
         "region": "TR"
       },
@@ -1410,122 +719,28 @@
         "id": 4598345008,
         "language": "tr",
         "region": "TR"
-      },
-      {
-        "id": 4635014587,
-        "language": "tr",
-        "region": "TR"
       }
     ],
-    "normalized_keyword": "erken emeklilik",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "haziran kira artıs oranı 2026",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "paul onuachu",
+    "keyword": "ilkin aydın",
     "region": "TR",
-    "started_at_unix": 1780520400,
-    "ended_at_unix": 1780551600,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "paul onuachu"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4629707223,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4629586608,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4628024246,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4632523774,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "paul onuachu",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "lgs sınav yerleri",
-    "region": "TR",
-    "started_at_unix": 1780471800,
-    "ended_at_unix": 1780512600,
-    "search_volume": 10000,
-    "score": 900,
-    "related_queries": [
-      "lgs sınav yerleri",
-      "lgs giriş yerleri",
-      "lgs",
-      "lgs sınav yeri sorgulama 2026",
-      "e-okul",
-      "e okul meb"
-    ],
-    "category_ids": [
-      9
-    ],
-    "entities": [
-      {
-        "id": 4629923873,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4641477941,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4629891388,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4640296878,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4637544698,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "lgs sınav yerleri",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "voleybol maçı hangi kanalda",
-    "region": "TR",
-    "started_at_unix": 1780500600,
-    "ended_at_unix": 1780512600,
+    "started_at_unix": 1780636800,
+    "ended_at_unix": null,
     "search_volume": 10000,
     "score": 1000,
     "related_queries": [
+      "ilkin aydın",
+      "türkiye hollanda voleybol maçı",
+      "türkiye hollanda maçı",
+      "hollanda kadın millî voleybol takımı",
+      "türkiye hollanda voleybol maçı hangi kanalda",
       "voleybol maçı hangi kanalda",
-      "türkiye dominik voleybol maçı",
-      "türkiye dominik voleybol maçı hangi kanalda",
-      "türkiye voleybol maçı",
       "voleybol maçı",
-      "filenin sultanları",
-      "s sport canlı izle",
-      "dominik türkiye voleybol maçı",
-      "vnl",
-      "filenin sultanları maç",
-      "türkiye dominik voleybol maçı izle",
-      "türkiye voleybol maçı hangi kanalda"
+      "voleybol",
+      "vnl"
     ],
     "category_ids": [
       17
@@ -1537,12 +752,12 @@
         "region": "TR"
       },
       {
-        "id": 4636903508,
-        "language": "en",
+        "id": 4642455732,
+        "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4624199176,
+        "id": 4636903508,
         "language": "en",
         "region": "TR"
       },
@@ -1557,67 +772,47 @@
         "region": "TR"
       },
       {
-        "id": 4643539917,
+        "id": 4630930716,
         "language": "en",
         "region": "TR"
       },
       {
-        "id": 4627863914,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4638915973,
+        "id": 4637939180,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4602345995,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4633269030,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4643539917,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4633014101,
+        "id": 4641520548,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "voleybol macı hangi kanalda",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "ilkin aydın",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "ankara",
+    "keyword": "ösym giriş",
     "region": "TR",
-    "started_at_unix": 1780533600,
-    "ended_at_unix": 1780551600,
-    "search_volume": 1000,
-    "score": 300,
+    "started_at_unix": 1780642800,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 100,
     "related_queries": [
-      "ankara",
-      "nato zirvesi ne zaman"
+      "ösym giriş",
+      "yks yerleri açıklandı mı",
+      "yks sınav yerleri"
     ],
     "category_ids": [
-      14,
-      10
+      9
     ],
     "entities": [
       {
-        "id": 4634796657,
+        "id": 4611175824,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4636028244,
+        "id": 4642061004,
         "language": "tr",
         "region": "TR"
       },
@@ -1627,308 +822,314 @@
         "region": "TR"
       },
       {
-        "id": 4627412604,
+        "id": 4643771345,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4641547534,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4635093310,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4627435191,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4626985330,
+        "id": 4639350338,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "ankara",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "osym giris",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "halka açık şirket",
+    "keyword": "bank of america",
     "region": "TR",
-    "started_at_unix": 1780548000,
-    "ended_at_unix": 1780556400,
-    "search_volume": 500,
-    "score": 300,
+    "started_at_unix": 1780633800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 700,
     "related_queries": [
-      "halka açık şirket"
+      "bank of america"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4640310833,
-        "language": "tr",
-        "region": "TR"
+        "id": 4614119188,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4645338471,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4624555844,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4616273431,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4633411729,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4645100274,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644685355,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643066510,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642839925,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642125053,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4586064904,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4627025707,
+        "language": "en",
+        "region": "US"
       }
     ],
-    "normalized_keyword": "halka acık sirket",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "bank of america",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "livanur aydın",
+    "keyword": "e okul giriş",
     "region": "TR",
-    "started_at_unix": 1780476600,
-    "ended_at_unix": 1780557600,
+    "started_at_unix": 1780638600,
+    "ended_at_unix": null,
     "search_volume": 2000,
-    "score": 900,
+    "score": 100,
     "related_queries": [
-      "livanur aydın"
+      "e okul giriş",
+      "liselere geçiş sistemi",
+      "12 haziran"
     ],
     "category_ids": [
-      4
+      9
     ],
     "entities": [
       {
-        "id": 4640977988,
+        "id": 4629923873,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4637002043,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4623907350,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644034697,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "livanur aydın",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "e okul giris",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "teşvik",
+    "keyword": "rahmi koç",
     "region": "TR",
-    "started_at_unix": 1780523400,
-    "ended_at_unix": 1780552200,
-    "search_volume": 1000,
-    "score": 500,
+    "started_at_unix": 1780605600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 800,
     "related_queries": [
-      "teşvik"
+      "rahmi koç"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4624846202,
+        "id": 4644785811,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4643317145,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4621930205,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4636474012,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4637763929,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4633314381,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4637871246,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4641811035,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4546628401,
+        "id": 4642347364,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "tesvik",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "rahmi koc",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "kazeem olaigbe",
+    "keyword": "sevdiğim sensin 15 bölüm izle",
     "region": "TR",
-    "started_at_unix": 1780498200,
-    "ended_at_unix": 1780519800,
+    "started_at_unix": 1780607400,
+    "ended_at_unix": null,
     "search_volume": 2000,
-    "score": 800,
+    "score": 500,
     "related_queries": [
-      "kazeem olaigbe"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4636575171,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4640084082,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "kazeem olaigbe",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "taksit",
-    "region": "TR",
-    "started_at_unix": 1780494000,
-    "ended_at_unix": 1780546800,
-    "search_volume": 2000,
-    "score": 600,
-    "related_queries": [
-      "taksit"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4633314320,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4633314381,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4634033292,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "taksit",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "ürün",
-    "region": "TR",
-    "started_at_unix": 1780476600,
-    "ended_at_unix": 1780494600,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "ürün"
-    ],
-    "category_ids": [
-      5,
-      3
-    ],
-    "entities": [
-      {
-        "id": 4641437029,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4639692990,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4631531413,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4641828909,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4637707553,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4642759278,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "urun",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "son akşam yemeği filmi",
-    "region": "TR",
-    "started_at_unix": 1780506600,
-    "ended_at_unix": 1780518600,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "son akşam yemeği filmi"
+      "sevdiğim sensin 15 bölüm izle",
+      "sevdiğim sensin nerede çekildi",
+      "aytaç şaşmaz"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4628800143,
+        "id": 4630605889,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "son aksam yemegi filmi",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "sevdigim sensin 15 bolum izle",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "sivas hava durumu",
+    "keyword": "prisoners",
     "region": "TR",
-    "started_at_unix": 1780545000,
-    "ended_at_unix": 1780550400,
+    "started_at_unix": 1780638000,
+    "ended_at_unix": null,
     "search_volume": 500,
-    "score": 75,
+    "score": 500,
     "related_queries": [
-      "sivas hava durumu"
+      "prisoners"
     ],
     "category_ids": [
-      20
+      10
     ],
     "entities": [
       {
-        "id": 4631069003,
+        "id": 4642630046,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644534412,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642645668,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644663647,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644433722,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4616828163,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628297055,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644806717,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4625753583,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4623155640,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "prisoners",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "reha muhtar çocukları",
+    "region": "TR",
+    "started_at_unix": 1780591200,
+    "ended_at_unix": 1780642800,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "reha muhtar çocukları",
+      "uğur dündar"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4632769764,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "sivas hava durumu",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "reha muhtar cocukları",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "adalet bakanlığı personel alımı 2026",
+    "keyword": "volkan demirel",
     "region": "TR",
-    "started_at_unix": 1780483800,
-    "ended_at_unix": 1780500600,
-    "search_volume": 2000,
-    "score": 1000,
+    "started_at_unix": 1780633200,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 300,
     "related_queries": [
-      "adalet bakanlığı personel alımı 2026"
+      "volkan demirel"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4638278602,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "volkan demirel",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "adalet bakanlığı",
+    "region": "TR",
+    "started_at_unix": 1780608600,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 300,
+    "related_queries": [
+      "adalet bakanlığı"
     ],
     "category_ids": [
       10
@@ -1938,51 +1139,113 @@
         "id": 4635438311,
         "language": "tr",
         "region": "TR"
-      }
-    ],
-    "normalized_keyword": "adalet bakanlıgı personel alımı 2026",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "trt spor",
-    "region": "TR",
-    "started_at_unix": 1780503600,
-    "ended_at_unix": 1780508400,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "trt spor",
-      "trt spor canlı izle",
-      "trt spor yıldız",
-      "trt spor yıldız canlı"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
+      },
       {
-        "id": 4640491221,
+        "id": 4642347354,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4640491221,
-        "language": "en",
-        "region": "US"
+        "id": 4641996395,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4639885472,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4641536803,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4625653591,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4629607176,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4631967020,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644013774,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4642626618,
+        "language": "tr",
+        "region": "TR"
       }
     ],
-    "normalized_keyword": "trt spor",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "adalet bakanlıgı",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "millî istihbarat teşkilatı",
+    "keyword": "bim aktüel 5 haziran 2026",
     "region": "TR",
-    "started_at_unix": 1780506000,
-    "ended_at_unix": 1780554600,
-    "search_volume": 500,
-    "score": 300,
+    "started_at_unix": 1780640400,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 500,
     "related_queries": [
-      "millî istihbarat teşkilatı"
+      "bim aktüel 5 haziran 2026"
+    ],
+    "category_ids": [
+      16
+    ],
+    "entities": [
+      {
+        "id": 4631531413,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "bim aktuel 5 haziran 2026",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "vida kurdu sineği",
+    "region": "TR",
+    "started_at_unix": 1780576200,
+    "ended_at_unix": 1780637400,
+    "search_volume": 5000,
+    "score": 700,
+    "related_queries": [
+      "vida kurdu sineği"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4643193115,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "vida kurdu sinegi",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "nato zirvesi",
+    "region": "TR",
+    "started_at_unix": 1780597200,
+    "ended_at_unix": 1780639800,
+    "search_volume": 2000,
+    "score": 200,
+    "related_queries": [
+      "nato zirvesi",
+      "nato",
+      "amerika birleşik devletleri dışişleri bakanı"
     ],
     "category_ids": [
       10,
@@ -1990,395 +1253,120 @@
     ],
     "entities": [
       {
-        "id": 4641636762,
+        "id": 4634796657,
         "language": "en",
-        "region": "US"
+        "region": "TR"
       },
       {
-        "id": 4637718422,
+        "id": 4640072193,
         "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "milli istihbarat teskilatı",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "enrique riquelme",
-    "region": "TR",
-    "started_at_unix": 1780523400,
-    "ended_at_unix": 1780532400,
-    "search_volume": 500,
-    "score": 800,
-    "related_queries": [
-      "enrique riquelme"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
+        "region": "TR"
+      },
       {
-        "id": 4641672136,
+        "id": 4635369512,
         "language": "en",
-        "region": "US"
+        "region": "TR"
+      },
+      {
+        "id": 4634796657,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4628062884,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4645350483,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4621708382,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644100955,
+        "language": "tr",
+        "region": "TR"
       }
     ],
-    "normalized_keyword": "enrique riquelme",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "nato zirvesi",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "vatandaşlık",
+    "keyword": "türk silahlı kuvvetleri",
     "region": "TR",
-    "started_at_unix": 1780500600,
-    "ended_at_unix": 1780548600,
-    "search_volume": 1000,
+    "started_at_unix": 1780594800,
+    "ended_at_unix": 1780639800,
+    "search_volume": 2000,
     "score": 500,
     "related_queries": [
-      "vatandaşlık"
+      "türk silahlı kuvvetleri"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4635591962,
+        "id": 4643939055,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4639626047,
+        "id": 4636903451,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643841495,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4593168957,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644568985,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "vatandaslık",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "turk silahlı kuvvetleri",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "edirne hava durumu",
+    "keyword": "antalya hava durumu",
     "region": "TR",
-    "started_at_unix": 1780549200,
-    "ended_at_unix": 1780551600,
-    "search_volume": 200,
-    "score": 200,
+    "started_at_unix": 1780633800,
+    "ended_at_unix": 1780639200,
+    "search_volume": 2000,
+    "score": 100,
     "related_queries": [
-      "edirne hava durumu"
+      "antalya hava durumu"
     ],
     "category_ids": [
       20
     ],
     "entities": [
       {
-        "id": 4640567878,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "edirne hava durumu",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "biricik suden",
-    "region": "TR",
-    "started_at_unix": 1780516200,
-    "ended_at_unix": 1780530600,
-    "search_volume": 500,
-    "score": 600,
-    "related_queries": [
-      "biricik suden"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4642963737,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4642738866,
+        "id": 4636809878,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "biricik suden",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "ipek erdem",
-    "region": "TR",
-    "started_at_unix": 1780488000,
-    "ended_at_unix": 1780504200,
-    "search_volume": 1000,
-    "score": 500,
-    "related_queries": [
-      "ipek erdem"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4641828847,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "ipek erdem",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "zubkov",
-    "region": "TR",
-    "started_at_unix": 1780492200,
-    "ended_at_unix": 1780503600,
-    "search_volume": 2000,
-    "score": 500,
-    "related_queries": [
-      "zubkov"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4639276256,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "zubkov",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "mazhar alanson",
-    "region": "TR",
-    "started_at_unix": 1780519200,
-    "ended_at_unix": 1780557600,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "mazhar alanson"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4642738866,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "mazhar alanson",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "trilyon",
-    "region": "TR",
-    "started_at_unix": 1780495200,
-    "ended_at_unix": 1780510200,
-    "search_volume": 1000,
-    "score": 600,
-    "related_queries": [
-      "trilyon"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4629054778,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4638611049,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4639798138,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4625732981,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4618686950,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4640322622,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4619267015,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4632586587,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4642246652,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4634389806,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "trilyon",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "bls",
-    "region": "TR",
-    "started_at_unix": 1780479000,
-    "ended_at_unix": 1780493400,
-    "search_volume": 2000,
-    "score": 900,
-    "related_queries": [
-      "bls"
-    ],
-    "category_ids": [
-      10,
-      14
-    ],
-    "entities": [
-      {
-        "id": 4643396902,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4635601849,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4642218167,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "bls",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "yakup tv",
-    "region": "TR",
-    "started_at_unix": 1780489200,
-    "ended_at_unix": 1780508400,
-    "search_volume": 1000,
-    "score": 500,
-    "related_queries": [
-      "yakup tv"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4642047532,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "yakup tv",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "kosova millî futbol takımı",
-    "region": "TR",
-    "started_at_unix": 1780510800,
-    "ended_at_unix": 1780549200,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "kosova millî futbol takımı"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4633014101,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "kosova milli futbol takımı",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "zehra hanzade gürkanlar",
-    "region": "TR",
-    "started_at_unix": 1780499400,
-    "ended_at_unix": 1780545000,
-    "search_volume": 1000,
-    "score": 700,
-    "related_queries": [
-      "zehra hanzade gürkanlar",
-      "özgür deniz cellat"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4642347353,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "zehra hanzade gurkanlar",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "namaz vakti",
-    "region": "TR",
-    "started_at_unix": 1780539000,
-    "ended_at_unix": 1780542000,
-    "search_volume": 1000,
-    "score": 75,
-    "related_queries": [
-      "namaz vakti"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4629487996,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4642164672,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "namaz vakti",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "antalya hava durumu",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
     "keyword": "saibari",
     "region": "TR",
-    "started_at_unix": 1780483200,
-    "ended_at_unix": 1780492800,
+    "started_at_unix": 1780600200,
+    "ended_at_unix": 1780624800,
     "search_volume": 2000,
     "score": 1000,
     "related_queries": [
@@ -2395,138 +1383,710 @@
       }
     ],
     "normalized_keyword": "saibari",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "fiyat",
+    "keyword": "beşiktaş - bahçeşehir koleji",
     "region": "TR",
-    "started_at_unix": 1780506600,
-    "ended_at_unix": 1780520400,
-    "search_volume": 1000,
+    "started_at_unix": 1780592400,
+    "ended_at_unix": 1780603800,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "beşiktaş - bahçeşehir koleji",
+      "beşiktaş gain",
+      "beşiktaş basketbol"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4629098440,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643047639,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4642475017,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "besiktas - bahcesehir koleji",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "ispanya millî futbol takımı",
+    "region": "TR",
+    "started_at_unix": 1780600800,
+    "ended_at_unix": 1780639200,
+    "search_volume": 2000,
     "score": 700,
     "related_queries": [
-      "fiyat"
+      "ispanya millî futbol takımı",
+      "ispanya ırak"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4643317120,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644455996,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4624960575,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4636339000,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "ispanya milli futbol takımı",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "konami",
+    "region": "TR",
+    "started_at_unix": 1780593000,
+    "ended_at_unix": 1780639200,
+    "search_volume": 2000,
+    "score": 500,
+    "related_queries": [
+      "konami"
+    ],
+    "category_ids": [
+      6,
+      18
+    ],
+    "entities": [
+      {
+        "id": 4636017579,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4617662565,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4624437266,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4633071709,
+        "language": "en",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "konami",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "ahmetcan kaplan",
+    "region": "TR",
+    "started_at_unix": 1780582200,
+    "ended_at_unix": 1780612200,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "ahmetcan kaplan"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4624749873,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4643193117,
+        "language": "en",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "ahmetcan kaplan",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "balıkesir hava durumu",
+    "region": "TR",
+    "started_at_unix": 1780632000,
+    "ended_at_unix": 1780639800,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "balıkesir hava durumu"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4617579681,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "balıkesir hava durumu",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "trilyon",
+    "region": "TR",
+    "started_at_unix": 1780587000,
+    "ended_at_unix": 1780610400,
+    "search_volume": 2000,
+    "score": 200,
+    "related_queries": [
+      "trilyon"
+    ],
+    "category_ids": [
+      18
+    ],
+    "entities": [
+      {
+        "id": 4644188896,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4638611049,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4639798138,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4645372006,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4630441173,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4618686950,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4626437855,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "trilyon",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "guela doue",
+    "region": "TR",
+    "started_at_unix": 1780608600,
+    "ended_at_unix": 1780641600,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "guela doue",
+      "guéla doué",
+      "france vs ivory coast"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4621185896,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4642773349,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4645052804,
+        "language": "en",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "guela doue",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "marjane satrapi",
+    "region": "TR",
+    "started_at_unix": 1780573200,
+    "ended_at_unix": 1780640400,
+    "search_volume": 2000,
+    "score": 700,
+    "related_queries": [
+      "marjane satrapi"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4643856404,
+        "language": "fr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "marjane satrapi",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "otokar",
+    "region": "TR",
+    "started_at_unix": 1780564800,
+    "ended_at_unix": 1780596000,
+    "search_volume": 2000,
+    "score": 900,
+    "related_queries": [
+      "otokar"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4642516668,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4643721704,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4642188233,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4639327504,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4623740417,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4624141330,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4634389809,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4640720754,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4640491184,
+        "id": 4640636203,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "fiyat",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "otokar",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "eğitim",
+    "keyword": "avrupa birliği",
     "region": "TR",
-    "started_at_unix": 1780503600,
-    "ended_at_unix": 1780515000,
-    "search_volume": 500,
-    "score": 700,
+    "started_at_unix": 1780581600,
+    "ended_at_unix": 1780602600,
+    "search_volume": 2000,
+    "score": 800,
     "related_queries": [
-      "eğitim"
+      "avrupa birliği"
     ],
     "category_ids": [
-      1
+      10,
+      14
     ],
     "entities": [
       {
-        "id": 4643611824,
+        "id": 4644100922,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4624242637,
+        "id": 4639821930,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4638481208,
+        "id": 4644686717,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4637939228,
+        "id": 4612103470,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4638425833,
+        "id": 4607354922,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4639338928,
+        "id": 4623690012,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4643216921,
+        "id": 4637634288,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4640296878,
+        "id": 4644090344,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "egitim",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "avrupa birligi",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "petrol",
+    "keyword": "mehmet şimşek",
     "region": "TR",
-    "started_at_unix": 1780489800,
-    "ended_at_unix": 1780494000,
+    "started_at_unix": 1780567800,
+    "ended_at_unix": 1780597800,
     "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "petrol"
+      "mehmet şimşek"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4644620151,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4625732981,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "mehmet simsek",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "kylian mbappé",
+    "region": "TR",
+    "started_at_unix": 1780608000,
+    "ended_at_unix": 1780638000,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "kylian mbappé"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4630796068,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4627074702,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4641300027,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4617484271,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4621185896,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4643099291,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4639861486,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4639747872,
+        "language": "en",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "kylian mbappe",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "ios 18",
+    "region": "TR",
+    "started_at_unix": 1780598400,
+    "ended_at_unix": 1780612800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "ios 18"
+    ],
+    "category_ids": [
+      18
+    ],
+    "entities": [
+      {
+        "id": 4615004378,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4631551093,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4642469273,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4618012270,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4640983498,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4603738493,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4600563866,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4575826368,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4562930459,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4545762501,
+        "language": "en",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "ios 18",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "ilk evim konut kredisi",
+    "region": "TR",
+    "started_at_unix": 1780581000,
+    "ended_at_unix": 1780600800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "ilk evim konut kredisi"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4643398572,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "ilk evim konut kredisi",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "süresiz nafaka",
+    "region": "TR",
+    "started_at_unix": 1780561800,
+    "ended_at_unix": 1780577400,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "süresiz nafaka",
+      "süresiz nafaka son dakika",
+      "nafaka"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4625653591,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "suresiz nafaka",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "cumhuriyet halk partisi 38. olağan kurultayı",
+    "region": "TR",
+    "started_at_unix": 1780573800,
+    "ended_at_unix": 1780591200,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "cumhuriyet halk partisi 38. olağan kurultayı"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4638462103,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4635857867,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4635622889,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4636028244,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4592251692,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "cumhuriyet halk partisi 38. olagan kurultayı",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "trt spor",
+    "region": "TR",
+    "started_at_unix": 1780601400,
+    "ended_at_unix": 1780606200,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "trt spor"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4640491221,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4636903508,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4628680310,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "trt spor",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "shell",
+    "region": "TR",
+    "started_at_unix": 1780613400,
+    "ended_at_unix": 1780623600,
+    "search_volume": 500,
+    "score": 900,
+    "related_queries": [
+      "shell"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4641339849,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641839349,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4645759511,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644788132,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642399972,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4639413019,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628247540,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643265161,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "shell",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "fuel stations",
+    "region": "TR",
+    "started_at_unix": 1780613400,
+    "ended_at_unix": 1780623600,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "fuel stations"
     ],
     "category_ids": [
       3,
@@ -2534,47 +2094,22 @@
     ],
     "entities": [
       {
-        "id": 4637730008,
+        "id": 4642308551,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4632320168,
+        "id": 4640976923,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4639718384,
+        "id": 4642384322,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4639483557,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4621034389,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634759696,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4643354463,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634265096,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627863567,
+        "id": 4630796466,
         "language": "en",
         "region": "US"
       },
@@ -2584,369 +2119,364 @@
         "region": "US"
       },
       {
-        "id": 4604442228,
+        "id": 4632494291,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4589772231,
+        "id": 4644784426,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4558891635,
+        "id": 4644109096,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4621607343,
+        "id": 4630168908,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4592795627,
+        "id": 4640300563,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4605607811,
+        "id": 4630268280,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "petrol",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "fuel stations",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "zidane",
+    "keyword": "wilfried singo",
     "region": "TR",
-    "started_at_unix": 1780520400,
-    "ended_at_unix": 1780525800,
+    "started_at_unix": 1780607400,
+    "ended_at_unix": 1780637400,
     "search_volume": 500,
-    "score": 700,
+    "score": 500,
     "related_queries": [
-      "zidane"
+      "wilfried singo"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4643047639,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4619813632,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4640254011,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4639869454,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4615741700,
+        "id": 4627135894,
         "language": "en",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "zidane",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "wilfried singo",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "samsun hava durumu",
+    "keyword": "petrol stations",
     "region": "TR",
-    "started_at_unix": 1780479600,
-    "ended_at_unix": 1780484400,
-    "search_volume": 2000,
-    "score": 200,
+    "started_at_unix": 1780613400,
+    "ended_at_unix": 1780623000,
+    "search_volume": 500,
+    "score": 700,
     "related_queries": [
-      "samsun hava durumu"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4627435121,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "samsun hava durumu",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "btc usd",
-    "region": "TR",
-    "started_at_unix": 1780541400,
-    "ended_at_unix": 1780548600,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "btc usd"
+      "petrol stations"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4630747814,
+        "id": 4635545213,
         "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644784426,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4632494291,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642308551,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640976923,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634265096,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4630796466,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644109096,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4630168908,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "petrol stations",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "ispanya",
+    "region": "TR",
+    "started_at_unix": 1780601400,
+    "ended_at_unix": 1780611000,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "ispanya"
+    ],
+    "category_ids": [
+      3,
+      19
+    ],
+    "entities": [
+      {
+        "id": 4637412107,
+        "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4640737912,
-        "language": "en",
+        "id": 4632769793,
+        "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4643597483,
-        "language": "en",
+        "id": 4643830226,
+        "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4610542353,
-        "language": "en",
+        "id": 4643555130,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4626773750,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4639682112,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644116838,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4624960575,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644363357,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644594573,
+        "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "btc usd",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "ispanya",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "s sport",
+    "keyword": "andoni iraola",
     "region": "TR",
-    "started_at_unix": 1780503000,
-    "ended_at_unix": 1780506600,
+    "started_at_unix": 1780598400,
+    "ended_at_unix": 1780613400,
     "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "s sport"
+      "andoni iraola",
+      "iraola"
     ],
     "category_ids": [
-      18
+      17
     ],
     "entities": [
       {
-        "id": 4602345995,
-        "language": "tr",
+        "id": 4623329972,
+        "language": "es",
         "region": "TR"
       },
       {
-        "id": 4636903508,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4638915973,
-        "language": "tr",
+        "id": 4622065248,
+        "language": "es",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "s sport",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "andoni iraola",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "kayserispor",
+    "keyword": "joao neves",
     "region": "TR",
-    "started_at_unix": 1780500600,
-    "ended_at_unix": 1780508400,
+    "started_at_unix": 1780610400,
+    "ended_at_unix": 1780619400,
     "search_volume": 500,
-    "score": 400,
+    "score": 700,
     "related_queries": [
-      "kayserispor"
+      "joao neves"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4641986454,
-        "language": "tr",
+        "id": 4639819651,
+        "language": "en",
         "region": "TR"
       },
       {
-        "id": 4635879877,
-        "language": "tr",
+        "id": 4631871475,
+        "language": "en",
         "region": "TR"
       },
       {
-        "id": 4629831138,
-        "language": "tr",
+        "id": 4644694651,
+        "language": "en",
         "region": "TR"
       },
       {
-        "id": 4639984124,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "kayserispor",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "gülcan yazıcı",
-    "region": "TR",
-    "started_at_unix": 1780487400,
-    "ended_at_unix": 1780494000,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "gülcan yazıcı"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4641996395,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "gulcan yazıcı",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "defne başyolcu",
-    "region": "TR",
-    "started_at_unix": 1780506600,
-    "ended_at_unix": 1780514400,
-    "search_volume": 500,
-    "score": 600,
-    "related_queries": [
-      "defne başyolcu"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4642455728,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4636903508,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "defne basyolcu",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "rodri",
-    "region": "TR",
-    "started_at_unix": 1780524600,
-    "ended_at_unix": 1780529400,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "rodri"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4638761724,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4640072181,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4643249316,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4633326289,
-        "language": "es",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "rodri",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "barış alper yılmaz",
-    "region": "TR",
-    "started_at_unix": 1780501200,
-    "ended_at_unix": 1780507800,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "barış alper yılmaz"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4632429622,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4633550228,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4629155688,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "barıs alper yılmaz",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "amazon prime",
-    "region": "TR",
-    "started_at_unix": 1780533000,
-    "ended_at_unix": 1780537200,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "amazon prime"
-    ],
-    "category_ids": [
-      6,
-      18
-    ],
-    "entities": [
-      {
-        "id": 4632199511,
+        "id": 4568656098,
         "language": "en",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "amazon prime",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "joao neves",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "veli ağbaba",
+    "keyword": "robin givens",
     "region": "TR",
-    "started_at_unix": 1780515600,
-    "ended_at_unix": 1780519200,
-    "search_volume": 500,
+    "started_at_unix": 1780571400,
+    "ended_at_unix": 1780584600,
+    "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "veli ağbaba"
+      "robin givens"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4643599509,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4628413178,
+        "language": "en",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "robin givens",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "ismael saibari",
+    "region": "TR",
+    "started_at_unix": 1780601400,
+    "ended_at_unix": 1780608600,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "ismael saibari"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4639313272,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4644491336,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4644735727,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4639256170,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4644229463,
+        "language": "en",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "ismael saibari",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "çöl sıcakları",
+    "region": "TR",
+    "started_at_unix": 1780585800,
+    "ended_at_unix": 1780596600,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "çöl sıcakları"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4637544756,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "col sıcakları",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "ferdi zeyrek",
+    "region": "TR",
+    "started_at_unix": 1780560600,
+    "ended_at_unix": 1780571400,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "ferdi zeyrek"
     ],
     "category_ids": [
       14
@@ -2958,37 +2488,387 @@
         "region": "TR"
       }
     ],
-    "normalized_keyword": "veli agbaba",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "ferdi zeyrek",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "malatya hava durumu",
+    "keyword": "yargı",
     "region": "TR",
-    "started_at_unix": 1780492200,
-    "ended_at_unix": 1780495200,
+    "started_at_unix": 1780590600,
+    "ended_at_unix": 1780596600,
     "search_volume": 1000,
     "score": 900,
     "related_queries": [
-      "malatya hava durumu"
+      "yargı",
+      "12. yargı paketi infaz düzenlemesi"
     ],
     "category_ids": [
-      20
+      11
     ],
     "entities": [
       {
-        "id": 4621565002,
+        "id": 4641536803,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4636631046,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4635343268,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4640126847,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "malatya hava durumu",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "yargı",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "nefes kredisi",
+    "region": "TR",
+    "started_at_unix": 1780581600,
+    "ended_at_unix": 1780591200,
+    "search_volume": 1000,
+    "score": 700,
+    "related_queries": [
+      "nefes kredisi"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4642796151,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "nefes kredisi",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "vlahovic",
+    "region": "TR",
+    "started_at_unix": 1780608600,
+    "ended_at_unix": 1780616400,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "vlahovic"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631028510,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4644374796,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4618211272,
+        "language": "en",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "vlahovic",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "gaziantep",
+    "region": "TR",
+    "started_at_unix": 1780585200,
+    "ended_at_unix": 1780593600,
+    "search_volume": 1000,
+    "score": 300,
+    "related_queries": [
+      "gaziantep"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4641880722,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644546651,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4642516605,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4639984125,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4639323856,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4639744267,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4645780472,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4635276334,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4645067298,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643586054,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4639297197,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4643980357,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "gaziantep",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "spain vs iraq",
+    "region": "TR",
+    "started_at_unix": 1780599000,
+    "ended_at_unix": 1780605600,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "spain vs iraq"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4621156889,
+        "language": "en",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "spain vs iraq",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "maja chwalińska",
+    "region": "TR",
+    "started_at_unix": 1780590600,
+    "ended_at_unix": 1780597800,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "maja chwalińska"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4609628270,
+        "language": "pl",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "maja chwalinska",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "sadettin saran",
+    "region": "TR",
+    "started_at_unix": 1780569000,
+    "ended_at_unix": 1780572000,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "sadettin saran",
+      "saadettin saran"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4644050911,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4628779486,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644034743,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4638205993,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "sadettin saran",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "helin kandemir",
+    "region": "TR",
+    "started_at_unix": 1780604400,
+    "ended_at_unix": 1780608600,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "helin kandemir"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4640790021,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "helin kandemir",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "buse varol",
+    "region": "TR",
+    "started_at_unix": 1780587600,
+    "ended_at_unix": 1780597800,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "buse varol"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4644161214,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4636324404,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "buse varol",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "nijer",
+    "region": "TR",
+    "started_at_unix": 1780572600,
+    "ended_at_unix": 1780591800,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "nijer"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4640513059,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4638470259,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641236842,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643027256,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644710414,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643845089,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4627775476,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642883667,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4633186732,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "nijer",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
     "keyword": "kısmetse olur 4. sezon",
     "region": "TR",
-    "started_at_unix": 1780522800,
-    "ended_at_unix": 1780530000,
+    "started_at_unix": 1780608600,
+    "ended_at_unix": 1780612800,
     "search_volume": 500,
     "score": 200,
     "related_queries": [
@@ -3000,834 +2880,746 @@
     "entities": [
       {
         "id": 4637998908,
-        "language": "tr",
-        "region": "TR"
+        "language": "en",
+        "region": "US"
       }
     ],
     "normalized_keyword": "kısmetse olur 4. sezon",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "mhrs",
+    "keyword": "tzolis",
     "region": "TR",
-    "started_at_unix": 1780471800,
-    "ended_at_unix": 1780474800,
-    "search_volume": 5000,
-    "score": 75,
-    "related_queries": [
-      "mhrs"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4612440796,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "mhrs",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "cristiano ronaldo",
-    "region": "TR",
-    "started_at_unix": 1780494000,
-    "ended_at_unix": 1780498200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "cristiano ronaldo"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4633370780,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4643235347,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4630941854,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4642287548,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4641339606,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4641929142,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4642834942,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "cristiano ronaldo",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "bitcoin",
-    "region": "TR",
-    "started_at_unix": 1780539600,
-    "ended_at_unix": 1780543200,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "bitcoin"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4640322622,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4641007922,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4638557408,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4643436635,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4627947584,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "bitcoin",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "memurlar net",
-    "region": "TR",
-    "started_at_unix": 1780471800,
-    "ended_at_unix": 1780474800,
-    "search_volume": 2000,
-    "score": 200,
-    "related_queries": [
-      "memurlar net"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4641673929,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4635857867,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4640322622,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "memurlar net",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "prime video",
-    "region": "TR",
-    "started_at_unix": 1780533600,
-    "ended_at_unix": 1780537200,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "prime video"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4641327310,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4642947213,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638270619,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628132404,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4637085064,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4617621458,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4643188728,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640796984,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4634445827,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4642485432,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622227907,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4630578551,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641327766,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4642839806,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "prime video",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "banka",
-    "region": "TR",
-    "started_at_unix": 1780516200,
-    "ended_at_unix": 1780519200,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "banka"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4635171729,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4639869419,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4638611049,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4643023447,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4625265710,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4640977937,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4639310037,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4635857867,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4635014587,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "banka",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "iran, son dakika",
-    "region": "TR",
-    "started_at_unix": 1780478400,
-    "ended_at_unix": 1780483200,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "iran, son dakika"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4634082395,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4621708382,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "iran, son dakika",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "bircan yıldırım",
-    "region": "TR",
-    "started_at_unix": 1780494600,
-    "ended_at_unix": 1780498200,
-    "search_volume": 500,
+    "started_at_unix": 1780572000,
+    "ended_at_unix": 1780578600,
+    "search_volume": 1000,
     "score": 900,
     "related_queries": [
-      "bircan yıldırım"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4642188234,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "bircan yıldırım",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "şans topu",
-    "region": "TR",
-    "started_at_unix": 1780543800,
-    "ended_at_unix": 1780545600,
-    "search_volume": 100,
-    "score": 50,
-    "related_queries": [
-      "şans topu"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4625128336,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "sans topu",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "aylin uysalcan",
-    "region": "TR",
-    "started_at_unix": 1780506600,
-    "ended_at_unix": 1780509600,
-    "search_volume": 200,
-    "score": 600,
-    "related_queries": [
-      "aylin uysalcan"
+      "tzolis"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4642412204,
-        "language": "tr",
+        "id": 4644064707,
+        "language": "en",
         "region": "TR"
       },
       {
-        "id": 4636903508,
-        "language": "tr",
+        "id": 4638882588,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4596866420,
+        "language": "en",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "aylin uysalcan",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "tzolis",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "deneme bonusu veren bahis siteleri",
+    "keyword": "ava yaman",
     "region": "TR",
-    "started_at_unix": 1780534800,
-    "ended_at_unix": 1780537800,
-    "search_volume": 100,
+    "started_at_unix": 1780590000,
+    "ended_at_unix": 1780595400,
+    "search_volume": 1000,
     "score": 200,
     "related_queries": [
-      "deneme bonusu veren bahis siteleri"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4639181512,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4621708449,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "deneme bonusu veren bahis siteleri",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "diana shnaider",
-    "region": "TR",
-    "started_at_unix": 1780494600,
-    "ended_at_unix": 1780498200,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "diana shnaider",
-      "sabalenka"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4638557360,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4638736273,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4625644126,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4639868002,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4631805009,
-        "language": "en",
-        "region": "TR"
-      },
-      {
-        "id": 4635095097,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "diana shnaider",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "e okul veli",
-    "region": "TR",
-    "started_at_unix": 1780477200,
-    "ended_at_unix": 1780481400,
-    "search_volume": 500,
-    "score": 800,
-    "related_queries": [
-      "e okul veli",
-      "eokul meb"
-    ],
-    "category_ids": [
-      9
-    ],
-    "entities": [
-      {
-        "id": 4641477941,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4629923873,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "e okul veli",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "amazon prime video",
-    "region": "TR",
-    "started_at_unix": 1780534800,
-    "ended_at_unix": 1780537200,
-    "search_volume": 100,
-    "score": 75,
-    "related_queries": [
-      "amazon prime video"
+      "ava yaman"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4640796984,
-        "language": "en",
-        "region": "US"
+        "id": 4645576339,
+        "language": "tr",
+        "region": "TR"
       },
       {
-        "id": 4641327310,
-        "language": "en",
-        "region": "US"
+        "id": 4641016542,
+        "language": "tr",
+        "region": "TR"
       },
       {
-        "id": 4638969411,
+        "id": 4630654388,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "ava yaman",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "defne başyolcu",
+    "region": "TR",
+    "started_at_unix": 1780602600,
+    "ended_at_unix": 1780606200,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "defne başyolcu"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4642455728,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "defne basyolcu",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "vitinha",
+    "region": "TR",
+    "started_at_unix": 1780612200,
+    "ended_at_unix": 1780616400,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "vitinha"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4635401636,
         "language": "en",
-        "region": "US"
+        "region": "TR"
       },
       {
-        "id": 4614534259,
+        "id": 4631871475,
         "language": "en",
-        "region": "US"
+        "region": "TR"
       },
       {
-        "id": 4625241517,
+        "id": 4630901589,
         "language": "en",
-        "region": "US"
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "vitinha",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "can dalton",
+    "region": "TR",
+    "started_at_unix": 1780614600,
+    "ended_at_unix": 1780619400,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "can dalton"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4641939841,
+        "language": "tr",
+        "region": "TR"
       },
       {
-        "id": 4643188728,
-        "language": "en",
-        "region": "US"
-      },
+        "id": 4644257309,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "can dalton",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "فرنسا ضد ساحل العاج",
+    "region": "TR",
+    "started_at_unix": 1780599000,
+    "ended_at_unix": 1780606800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "فرنسا ضد ساحل العاج"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
       {
-        "id": 4642947213,
-        "language": "en",
-        "region": "US"
-      },
+        "id": 4639254996,
+        "language": "ar",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "فرنسا ضد ساحل العاج",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "kayseri hava durumu",
+    "region": "TR",
+    "started_at_unix": 1780581600,
+    "ended_at_unix": 1780584000,
+    "search_volume": 2000,
+    "score": 500,
+    "related_queries": [
+      "kayseri hava durumu"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
       {
-        "id": 4634445827,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4642839806,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639180491,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4622227907,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4617621458,
+        "id": 4633826072,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "amazon prime video",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "kayseri hava durumu",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "gıda",
+    "keyword": "astor",
     "region": "TR",
-    "started_at_unix": 1780476000,
-    "ended_at_unix": 1780512000,
-    "search_volume": 200,
-    "score": 900,
+    "started_at_unix": 1780590000,
+    "ended_at_unix": 1780594200,
+    "search_volume": 500,
+    "score": 200,
     "related_queries": [
-      "gıda"
+      "astor"
     ],
     "category_ids": [
-      3,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4637840388,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4640296909,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4632429665,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4642309132,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "astor",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "esra erol",
+    "region": "TR",
+    "started_at_unix": 1780599000,
+    "ended_at_unix": 1780602600,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "esra erol"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4644374785,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4645676926,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "esra erol",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "barış atay",
+    "region": "TR",
+    "started_at_unix": 1780587600,
+    "ended_at_unix": 1780591800,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "barış atay"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4639256247,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "barıs atay",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "gonçalo inacio",
+    "region": "TR",
+    "started_at_unix": 1780584000,
+    "ended_at_unix": 1780588200,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "gonçalo inacio"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4645506514,
+        "language": "pt",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "goncalo inacio",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "chwalinska",
+    "region": "TR",
+    "started_at_unix": 1780593000,
+    "ended_at_unix": 1780596000,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "chwalinska",
+      "diana shnaider"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4634831405,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4635167063,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4638557360,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4620211866,
+        "language": "en",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "chwalinska",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "aksaray",
+    "region": "TR",
+    "started_at_unix": 1780605600,
+    "ended_at_unix": 1780608000,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "aksaray"
+    ],
+    "category_ids": [
       5
     ],
     "entities": [
       {
-        "id": 4631008113,
+        "id": 4642126628,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4639201976,
+        "id": 4640143504,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4635919752,
+        "id": 4640055485,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4631103524,
+        "id": 4644664799,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4639034032,
+        "id": 4640213085,
         "language": "tr",
         "region": "TR"
       },
       {
-        "id": 4643266043,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4641575036,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4633986355,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4641437029,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4639857635,
+        "id": 4638502360,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "gıda",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "aksaray",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "haziran ayı enflasyon",
+    "keyword": "greenwood",
     "region": "TR",
-    "started_at_unix": 1780472400,
-    "ended_at_unix": 1780474800,
+    "started_at_unix": 1780607400,
+    "ended_at_unix": 1780608600,
     "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "haziran ayı enflasyon",
-      "2026 mayıs ayı enflasyon",
-      "tüfe"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4598345008,
-        "language": "tr",
-        "region": "TR"
-      },
-      {
-        "id": 4635737970,
-        "language": "tr",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "haziran ayı enflasyon",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "alex arce",
-    "region": "TR",
-    "started_at_unix": 1780480800,
-    "ended_at_unix": 1780483200,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "alex arce"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4633269014,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4642538910,
-        "language": "es",
-        "region": "TR"
-      },
-      {
-        "id": 4616404853,
-        "language": "es",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "alex arce",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "sinclair armstrong",
-    "region": "TR",
-    "started_at_unix": 1780514400,
-    "ended_at_unix": 1780515600,
-    "search_volume": 200,
     "score": 400,
     "related_queries": [
-      "sinclair armstrong"
+      "greenwood"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4640855204,
+        "id": 4632871059,
         "language": "en",
         "region": "TR"
       },
       {
-        "id": 4640722453,
-        "language": "en",
-        "region": "TR"
-      }
-    ],
-    "normalized_keyword": "sinclair armstrong",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
-  },
-  {
-    "keyword": "trtspor",
-    "region": "TR",
-    "started_at_unix": 1780505400,
-    "ended_at_unix": 1780506600,
-    "search_volume": 100,
-    "score": 700,
-    "related_queries": [
-      "trtspor"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4616424608,
+        "id": 4642621453,
         "language": "en",
         "region": "TR"
       },
       {
-        "id": 4640491221,
+        "id": 4637178878,
+        "language": "en",
+        "region": "TR"
+      },
+      {
+        "id": 4642308159,
         "language": "en",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "trtspor",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "greenwood",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "reha muhtar hayatını kaybetti",
+    "keyword": "tenerife - real madrid",
     "region": "TR",
-    "started_at_unix": 1780474200,
-    "ended_at_unix": 1780475400,
+    "started_at_unix": 1780601400,
+    "ended_at_unix": 1780603200,
     "search_volume": 200,
     "score": 700,
     "related_queries": [
-      "reha muhtar hayatını kaybetti"
+      "tenerife - real madrid"
     ],
     "category_ids": [
-      11
+      17
     ],
     "entities": [
+      {
+        "id": 4616410527,
+        "language": "es",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "tenerife - real madrid",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "babalar günü",
+    "region": "TR",
+    "started_at_unix": 1780579800,
+    "ended_at_unix": 1780582200,
+    "search_volume": 500,
+    "score": 100,
+    "related_queries": [
+      "babalar günü"
+    ],
+    "category_ids": [
+      8
+    ],
+    "entities": [
+      {
+        "id": 4625792964,
+        "language": "tr",
+        "region": "TR"
+      },
+      {
+        "id": 4644291401,
+        "language": "tr",
+        "region": "TR"
+      },
       {
         "id": 4632769764,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "reha muhtar hayatını kaybetti",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "babalar gunu",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   },
   {
-    "keyword": "marmaray",
+    "keyword": "inacio",
     "region": "TR",
-    "started_at_unix": 1780503000,
-    "ended_at_unix": 1780504200,
-    "search_volume": 100,
+    "started_at_unix": 1780584600,
+    "ended_at_unix": 1780587600,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "inacio"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4644568202,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628312125,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "inacio",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "seat",
+    "region": "TR",
+    "started_at_unix": 1780608600,
+    "ended_at_unix": 1780610400,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "seat"
+    ],
+    "category_ids": [
+      1
+    ],
+    "entities": [
+      {
+        "id": 4638810578,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642187119,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4645353540,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643839996,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4632283037,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644087987,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4630099109,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4626552050,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635036860,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631261719,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4627044352,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4573520663,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4613133447,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "seat",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "para politikası",
+    "region": "TR",
+    "started_at_unix": 1780603800,
+    "ended_at_unix": 1780605000,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "para politikası"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4610774764,
+        "language": "es",
+        "region": "TR"
+      },
+      {
+        "id": 4644050982,
+        "language": "es",
+        "region": "TR"
+      },
+      {
+        "id": 4641953949,
+        "language": "es",
+        "region": "TR"
+      },
+      {
+        "id": 4629691545,
+        "language": "es",
+        "region": "TR"
+      },
+      {
+        "id": 4641929147,
+        "language": "es",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "para politikası",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "muratpaşa belediye başkanı",
+    "region": "TR",
+    "started_at_unix": 1780593600,
+    "ended_at_unix": 1780595400,
+    "search_volume": 200,
+    "score": 700,
+    "related_queries": [
+      "muratpaşa belediye başkanı"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4642536520,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "muratpasa belediye baskanı",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "isak vural",
+    "region": "TR",
+    "started_at_unix": 1780568400,
+    "ended_at_unix": 1780570200,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "isak vural"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4630305875,
+        "language": "tr",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "isak vural",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "burhan akdag",
+    "region": "TR",
+    "started_at_unix": 1780591800,
+    "ended_at_unix": 1780593600,
+    "search_volume": 200,
     "score": 500,
     "related_queries": [
-      "marmaray"
+      "burhan akdag"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4642475008,
+        "id": 4643586096,
         "language": "tr",
         "region": "TR"
       }
     ],
-    "normalized_keyword": "marmaray",
-    "captured_at": "2026-06-04T07:32:09.479513+00:00"
+    "normalized_keyword": "burhan akdag",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
+  },
+  {
+    "keyword": "kenan haroun",
+    "region": "TR",
+    "started_at_unix": 1780576800,
+    "ended_at_unix": 1780578600,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "kenan haroun"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4643193117,
+        "language": "en",
+        "region": "TR"
+      }
+    ],
+    "normalized_keyword": "kenan haroun",
+    "captured_at": "2026-06-05T07:18:45.614705+00:00"
   }
 ]
