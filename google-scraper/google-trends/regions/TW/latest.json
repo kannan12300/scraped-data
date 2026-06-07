@@ -1,193 +1,790 @@
 [
   {
-    "keyword": "台 指 期 大 跌",
+    "keyword": "香蕉",
     "region": "TW",
-    "started_at_unix": 1780711200,
+    "started_at_unix": 1780738200,
     "ended_at_unix": null,
-    "search_volume": 50000,
+    "search_volume": 20000,
     "score": 1000,
     "related_queries": [
-      "台 指 期 大 跌",
-      "台 指 期 跌停",
-      "台指期",
-      "台 指 期 夜 盤 大 跌",
-      "台 股 崩盤",
-      "四貸同堂",
-      "台指期夜盤",
-      "台股夜盤",
-      "夜盤",
-      "台指",
-      "台指期夜盤大跌",
-      "台指夜盤",
-      "夜盤大跌",
-      "夜 盤",
-      "股市",
-      "台股大跌",
-      "台股夜盤是什麼",
-      "台指期盤後",
-      "台股夜盤指數",
-      "台期指夜盤",
-      "台指期貨夜盤",
-      "期貨夜盤",
-      "台指期夜盤指數"
+      "香蕉",
+      "芒果"
+    ],
+    "category_ids": [
+      3,
+      5
+    ],
+    "entities": [
+      {
+        "id": 4639053972,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4638729096,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4639332224,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4629208250,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4647521575,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "香蕉",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "家樂福 改名",
+    "region": "TW",
+    "started_at_unix": 1780733400,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "家樂福 改名"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4637116451,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "家樂福 改名",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "陳明真",
+    "region": "TW",
+    "started_at_unix": 1780736400,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "陳明真"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4647852079,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4634387394,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "陳明真",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "薑黃",
+    "region": "TW",
+    "started_at_unix": 1780800000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "薑黃"
+    ],
+    "category_ids": [
+      7
+    ],
+    "entities": [
+      {
+        "id": 4638729064,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "薑黃",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "67",
+    "region": "TW",
+    "started_at_unix": 1780761600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 100,
+    "related_queries": [
+      "67"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4645274273,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643901074,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642567394,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4648595261,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4647771529,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4639725118,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4604101393,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612989929,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4556086135,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "67",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "徐若熙",
+    "region": "TW",
+    "started_at_unix": 1780808400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 800,
+    "related_queries": [
+      "徐若熙",
+      "日本職棒",
+      "徐若熙先發"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4648889658,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4649146553,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648914535,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4646535579,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648889658,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4598136604,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "徐若熙",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "晶 圓 代 工",
+    "region": "TW",
+    "started_at_unix": 1780800600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "晶 圓 代 工",
+      "晶圓代工"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4629379706,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4647521608,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4631794836,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4640909291,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4645968890,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4629379706,
+        "id": 4643033606,
         "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4629379706,
+        "id": 4639833883,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4648553709,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4647351093,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4629189636,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "晶 圓 代 工",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "資金",
+    "region": "TW",
+    "started_at_unix": 1780761600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "資金"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4636800350,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642176383,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4639037568,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4641417831,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4648889617,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4632181726,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636879747,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4645747429,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "資金",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "羅子惟",
+    "region": "TW",
+    "started_at_unix": 1780756200,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "羅子惟"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4647351053,
         "language": "zh",
         "region": "TW"
       },
       {
-        "id": 4647362948,
+        "id": 4643442014,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4639018176,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4647795920,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "羅子惟",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "星冰樂",
+    "region": "TW",
+    "started_at_unix": 1780784400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "星冰樂",
+      "第二杯"
+    ],
+    "category_ids": [
+      5
+    ],
+    "entities": [
+      {
+        "id": 4627114460,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4627114436,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "星冰樂",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "mamamoo 演唱會",
+    "region": "TW",
+    "started_at_unix": 1780753800,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 500,
+    "related_queries": [
+      "mamamoo 演唱會",
+      "kktix mamamoo",
+      "mamamoo kktix",
+      "高雄巨蛋"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4631855927,
         "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4629219297,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4647362948,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4647521594,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4642176383,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4647521608,
+        "id": 4635517392,
         "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4614619839,
+        "id": 4641947457,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "mamamoo 演唱會",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "金宣虎",
+    "region": "TW",
+    "started_at_unix": 1780792800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "金宣虎"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4646041090,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "金宣虎",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "蘇霈",
+    "region": "TW",
+    "started_at_unix": 1780763400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 500,
+    "related_queries": [
+      "蘇霈",
+      "蘇 霈"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4647589166,
         "language": "ja",
         "region": "TW"
-      },
+      }
+    ],
+    "normalized_keyword": "蘇霈",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "油價",
+    "region": "TW",
+    "started_at_unix": 1780737000,
+    "ended_at_unix": 1780800000,
+    "search_volume": 50000,
+    "score": 300,
+    "related_queries": [
+      "油價"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
       {
-        "id": 4647622023,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4627793470,
+        "id": 4634951313,
         "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4606968544,
+        "id": 4629497260,
         "language": "zh-TW",
         "region": "TW"
       },
       {
         "id": 4644594426,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4635528078,
         "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4646235101,
+        "id": 4635836438,
         "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4647745853,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4641886717,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4614619839,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4647362948,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4647521608,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4629219297,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4647622023,
+        "id": 4639037568,
         "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4629219297,
+        "id": 4635862311,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4646398341,
         "language": "zh-TW",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "台 指 期 大 跌",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "油價",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "鐵拳教育",
+    "keyword": "費城半導體指數",
     "region": "TW",
-    "started_at_unix": 1780654800,
+    "started_at_unix": 1780813800,
     "ended_at_unix": null,
-    "search_volume": 10000,
+    "search_volume": 1000,
+    "score": 800,
+    "related_queries": [
+      "費城半導體指數"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4647362948,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "費城半導體指數",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "緯 創 資 通",
+    "region": "TW",
+    "started_at_unix": 1780810200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "鐵拳教育"
+      "緯 創 資 通"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4613000803,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4614696696,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "緯 創 資 通",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "除息 日",
+    "region": "TW",
+    "started_at_unix": 1780810800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "除息 日",
+      "除息日"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4636835832,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4646255539,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4630603666,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4646064082,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "除息 日",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "曾品洋",
+    "region": "TW",
+    "started_at_unix": 1780800600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 700,
+    "related_queries": [
+      "曾品洋",
+      "中信兄弟"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4647891268,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4647891268,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4643327878,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4648303288,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4646312451,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4648976505,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4615752265,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "曾品洋",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "npb",
+    "region": "TW",
+    "started_at_unix": 1780810200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 200,
+    "related_queries": [
+      "npb"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4646237013,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4646371517,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4649200287,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4632619508,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648828472,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648034240,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "npb",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "美 廉 社",
+    "region": "TW",
+    "started_at_unix": 1780767600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "美 廉 社",
+      "美廉社"
+    ],
+    "category_ids": [
+      5
+    ],
+    "entities": [
+      {
+        "id": 4627691540,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "美 廉 社",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "黃立成",
+    "region": "TW",
+    "started_at_unix": 1780811400,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "黃立成"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4638883238,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "黃立成",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "金武烈",
+    "region": "TW",
+    "started_at_unix": 1780765800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 300,
+    "related_queries": [
+      "金武烈",
+      "金南佶"
     ],
     "category_ids": [
       4
@@ -195,784 +792,309 @@
     "entities": [
       {
         "id": 4633812864,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "鐵拳教育",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "黃山料",
-    "region": "TW",
-    "started_at_unix": 1780655400,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "黃山料"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
+        "language": "zh-TW",
+        "region": "TW"
+      },
       {
-        "id": 4646480556,
+        "id": 4636950026,
         "language": "zh-TW",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "黃山料",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "金武烈",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "美股大跌",
+    "keyword": "全家 咖啡",
     "region": "TW",
-    "started_at_unix": 1780669200,
+    "started_at_unix": 1780811400,
     "ended_at_unix": null,
-    "search_volume": 50000,
+    "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "美股大跌",
-      "費 半 大 跌",
-      "美股 大 跌",
-      "美股",
-      "費半",
-      "台積電夜盤",
-      "費城半導體指數",
-      "費城半導體",
-      "費半指數",
-      "美股新聞",
-      "非農",
-      "美股大跌原因",
-      "費 半",
-      "台積電adr",
-      "美股指數",
-      "美股盤後",
-      "美股夜盤",
-      "鉅亨網",
-      "道瓊",
-      "升息",
-      "大跌",
-      "那斯達克指數",
-      "美股收盤",
-      "納斯達克100指數",
-      "adr",
-      "美債殖利率"
+      "全家 咖啡"
+    ],
+    "category_ids": [
+      5
+    ],
+    "entities": [
+      {
+        "id": 4627114436,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "全家 咖啡",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "大雨特報",
+    "region": "TW",
+    "started_at_unix": 1780815600,
+    "ended_at_unix": null,
+    "search_volume": 100000,
+    "score": 900,
+    "related_queries": [
+      "大雨特報",
+      "天氣",
+      "明天的天氣",
+      "滯留鋒"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4639655340,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4639655340,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4639576832,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4640606351,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4618030285,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4639655340,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4639576832,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "大雨特報",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "黄立成",
+    "region": "TW",
+    "started_at_unix": 1780812600,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "黄立成"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4647362948,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4629379706,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4629219297,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4635528078,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4634899414,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4627176074,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4646432155,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4641472930,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4647324283,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4628673016,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4643004909,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4646235101,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4643796956,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4647362948,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4640885741,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4644594426,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4640564011,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4641472930,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4643166113,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4644594426,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4629379706,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4639037568,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4643166113,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4647351103,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4647362948,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4629219297,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4644594426,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4647362948,
+        "id": 4638889525,
         "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4627100017,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4629219297,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4635528078,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4646235101,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4629219297,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4639037568,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4644594426,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4645220141,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4647111771,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4627426580,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4644029190,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4642087271,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4614619839,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4646202459,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4629379706,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4614619839,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4635528078,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4647324283,
-        "language": "ja",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "美股大跌",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "黄立成",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "洪水",
+    "keyword": "蔣萬安",
     "region": "TW",
-    "started_at_unix": 1780650600,
+    "started_at_unix": 1780813200,
     "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
+    "search_volume": 200,
+    "score": 700,
     "related_queries": [
-      "洪水"
+      "蔣萬安"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4628512303,
-        "language": "zh",
+        "id": 4634290643,
+        "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4645940287,
-        "language": "zh",
+        "id": 4631378110,
+        "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4646324213,
-        "language": "zh",
+        "id": 4614505558,
+        "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4615788539,
-        "language": "zh",
+        "id": 4629459002,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4643653710,
+        "language": "zh-TW",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "洪水",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "蔣萬安",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "金澤",
+    "keyword": "謝富旭",
     "region": "TW",
-    "started_at_unix": 1780715400,
+    "started_at_unix": 1780814400,
     "ended_at_unix": null,
-    "search_volume": 2000,
+    "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "金澤"
+      "謝富旭"
     ],
     "category_ids": [
-      8,
-      16
+      3
     ],
     "entities": [
       {
-        "id": 4647654512,
+        "id": 4627236398,
         "language": "ja",
         "region": "TW"
       },
       {
-        "id": 4623577435,
+        "id": 4648220284,
         "language": "ja",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "金澤",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "謝富旭",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "飯店",
+    "keyword": "台達電子",
     "region": "TW",
-    "started_at_unix": 1780666800,
+    "started_at_unix": 1780806000,
     "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
+    "search_volume": 500,
+    "score": 900,
     "related_queries": [
-      "飯店",
-      "股東大會"
+      "台達電子"
     ],
     "category_ids": [
-      11
+      3
     ],
     "entities": [
       {
-        "id": 4614696696,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625209218,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4646637058,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4646787806,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641828495,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647536079,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647040608,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639249210,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4614696696,
-        "language": "zh-TW",
+        "id": 4644017816,
+        "language": "ja",
         "region": "TW"
       },
       {
-        "id": 4634127280,
-        "language": "zh-TW",
+        "id": 4642347135,
+        "language": "ja",
         "region": "TW"
       },
       {
-        "id": 4643340061,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4646381683,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4646419148,
-        "language": "zh-TW",
+        "id": 4629379706,
+        "language": "ja",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "飯店",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "台達電子",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "鋼",
+    "keyword": "防彈少年團",
     "region": "TW",
-    "started_at_unix": 1780698600,
+    "started_at_unix": 1780815600,
     "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "鋼"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4647621990,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4614619839,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4642931489,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638502155,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636891667,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647521637,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647254673,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "鋼",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "nba",
-    "region": "TW",
-    "started_at_unix": 1780708200,
-    "ended_at_unix": 1780720200,
-    "search_volume": 50000,
-    "score": 200,
-    "related_queries": [
-      "nba",
-      "nba直播",
-      "spurs vs knicks",
-      "nba 直播",
-      "nba live",
-      "knicks",
-      "knicks vs spurs"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4636042830,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4639075751,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4647585684,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4627176980,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4634700952,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4638613796,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4640999661,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4640088564,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4645185102,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4643482436,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4633560693,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4629186681,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4645170670,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4638531577,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4630054461,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4636042830,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "nba",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "李雅英",
-    "region": "TW",
-    "started_at_unix": 1780691400,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "李雅英"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4639619965,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4623393852,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4634387355,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "李雅英",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "王俐人",
-    "region": "TW",
-    "started_at_unix": 1780653000,
-    "ended_at_unix": null,
-    "search_volume": 5000,
+    "search_volume": 100,
     "score": 800,
     "related_queries": [
-      "王俐人",
-      "王俐人老公"
+      "防彈少年團"
     ],
     "category_ids": [
-      11
+      4
     ],
     "entities": [
       {
-        "id": 4645898636,
+        "id": 4636835813,
         "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4635698445,
+        "id": 4643958874,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4647456083,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4647877663,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4645888398,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4636145676,
         "language": "zh-TW",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "王俐人",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "防彈少年團",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "馬刺 對 尼克",
+    "keyword": "dazn",
     "region": "TW",
-    "started_at_unix": 1780704600,
-    "ended_at_unix": 1780722600,
-    "search_volume": 20000,
+    "started_at_unix": 1780807800,
+    "ended_at_unix": 1780815600,
+    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "馬刺 對 尼克",
-      "馬刺尼克",
-      "尼克馬刺",
-      "尼克",
-      "馬刺對尼克",
-      "nba 線上 看",
-      "馬刺",
-      "馬刺尼克直播",
-      "nba 線上看",
-      "馬刺 尼克",
-      "米契爾·羅賓森",
-      "尼克對馬刺",
-      "紐約尼克",
-      "緯來體育台"
+      "dazn"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4636394682,
-        "language": "zh-TW",
-        "region": "TW"
+        "id": 4628210563,
+        "language": "en",
+        "region": "US"
       },
       {
-        "id": 4635641068,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4636394682,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4636394682,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4636761024,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4629276776,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4647324233,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4635641068,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4643418229,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4647340418,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4631550251,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4627793501,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4643351856,
-        "language": "zh-TW",
-        "region": "TW"
+        "id": 4648948890,
+        "language": "en",
+        "region": "US"
       }
     ],
-    "normalized_keyword": "馬刺 對 尼克",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "dazn",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "蘇巧慧",
+    "keyword": "尹啟銘",
     "region": "TW",
-    "started_at_unix": 1780647600,
-    "ended_at_unix": null,
-    "search_volume": 5000,
+    "started_at_unix": 1780743600,
+    "ended_at_unix": 1780803600,
+    "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "蘇巧慧"
+      "尹啟銘"
     ],
     "category_ids": [
       14,
@@ -980,67 +1102,435 @@
     ],
     "entities": [
       {
+        "id": 4640336120,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "尹啟銘",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "群創光電",
+    "region": "TW",
+    "started_at_unix": 1780790400,
+    "ended_at_unix": 1780801800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "群創光電"
+    ],
+    "category_ids": [
+      10,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4645565096,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4634728030,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4641323668,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "群創光電",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "新北國王",
+    "region": "TW",
+    "started_at_unix": 1780745400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 500,
+    "related_queries": [
+      "新北國王",
+      "夢想家",
+      "韓國福",
+      "簡浩",
+      "tpbl冠軍賽"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4648762920,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4644142290,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648762920,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "新北國王",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "阿根廷 對 宏都拉斯",
+    "region": "TW",
+    "started_at_unix": 1780789200,
+    "ended_at_unix": 1780807800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "阿根廷 對 宏都拉斯",
+      "argentina vs honduras"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4628459254,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4629313856,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "阿根廷 對 宏都拉斯",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "張士綸",
+    "region": "TW",
+    "started_at_unix": 1780744200,
+    "ended_at_unix": 1780803600,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "張士綸"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4648303288,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4646312451,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "張士綸",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "山本由伸",
+    "region": "TW",
+    "started_at_unix": 1780805400,
+    "ended_at_unix": 1780812600,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "山本由伸",
+      "道奇 對 天使"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4636591188,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4649053976,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4636591188,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4649146507,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4640861624,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4649053976,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "山本由伸",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "經濟",
+    "region": "TW",
+    "started_at_unix": 1780793400,
+    "ended_at_unix": 1780807200,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "經濟"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4643136413,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4648515653,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4648303252,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4647016054,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4609684479,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4638743009,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4636690718,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4623469456,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4634951313,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "經濟",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "張博雅",
+    "region": "TW",
+    "started_at_unix": 1780738200,
+    "ended_at_unix": 1780815000,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "張博雅"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4645736134,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "張博雅",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "美光 科技",
+    "region": "TW",
+    "started_at_unix": 1780737000,
+    "ended_at_unix": 1780798800,
+    "search_volume": 2000,
+    "score": 900,
+    "related_queries": [
+      "美光 科技"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4644029190,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4648680358,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4640350947,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4633791854,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4641261570,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "美光 科技",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "吳崢",
+    "region": "TW",
+    "started_at_unix": 1780760400,
+    "ended_at_unix": 1780801800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "吳崢",
+      "賴瑞隆"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4637918007,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4637052013,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
         "id": 4647228411,
         "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4643327828,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4647589191,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4647487651,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4636052278,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4618812898,
+        "id": 4639018135,
         "language": "zh-TW",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "蘇巧慧",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "吳崢",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "川 普",
+    "keyword": "歌手",
     "region": "TW",
-    "started_at_unix": 1780722000,
-    "ended_at_unix": null,
+    "started_at_unix": 1780746000,
+    "ended_at_unix": 1780798200,
     "search_volume": 1000,
-    "score": 1000,
+    "score": 500,
     "related_queries": [
-      "川 普",
-      "川普"
+      "歌手"
     ],
     "category_ids": [
-      10,
-      14
+      4
     ],
     "entities": [
       {
-        "id": 4639205498,
-        "language": "ja",
+        "id": 4647891209,
+        "language": "zh",
         "region": "TW"
       },
       {
-        "id": 4636394682,
-        "language": "ja",
+        "id": 4647852079,
+        "language": "zh",
         "region": "TW"
       },
       {
-        "id": 4639037568,
+        "id": 4647547838,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4635005596,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4632735069,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4648186464,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4646447264,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4648985687,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "歌手",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "股災",
+    "region": "TW",
+    "started_at_unix": 1780734000,
+    "ended_at_unix": 1780794600,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "股災",
+      "股票市場"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4629379706,
         "language": "ja",
         "region": "TW"
       },
@@ -1050,12 +1540,66 @@
         "region": "TW"
       },
       {
-        "id": 4635528078,
+        "id": 4643087958,
         "language": "ja",
         "region": "TW"
       },
       {
-        "id": 4636751660,
+        "id": 4635943049,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4642596181,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4641616788,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4645066038,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4621405740,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648889617,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "股災",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "第一島鏈",
+    "region": "TW",
+    "started_at_unix": 1780788600,
+    "ended_at_unix": 1780806600,
+    "search_volume": 500,
+    "score": 900,
+    "related_queries": [
+      "第一島鏈"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4649267620,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4609684479,
         "language": "ja",
         "region": "TW"
       },
@@ -1063,564 +1607,565 @@
         "id": 4609091620,
         "language": "ja",
         "region": "TW"
-      },
-      {
-        "id": 4638154664,
-        "language": "ja",
-        "region": "TW"
       }
     ],
-    "normalized_keyword": "川 普",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "第一島鏈",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "dram",
+    "keyword": "米拉·安德烈耶娃",
     "region": "TW",
-    "started_at_unix": 1780648200,
-    "ended_at_unix": null,
-    "search_volume": 5000,
+    "started_at_unix": 1780752000,
+    "ended_at_unix": 1780791600,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "米拉·安德烈耶娃"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4637778749,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4622850127,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "米拉·安德烈耶娃",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "貓",
+    "region": "TW",
+    "started_at_unix": 1780746600,
+    "ended_at_unix": 1780793400,
+    "search_volume": 2000,
     "score": 800,
     "related_queries": [
-      "dram"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4645847201,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631988654,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647039937,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641979903,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4645852071,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4646305798,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4637972292,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4645069684,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "dram",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "醫院",
-    "region": "TW",
-    "started_at_unix": 1780719000,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "醫院"
-    ],
-    "category_ids": [
-      7
-    ],
-    "entities": [
-      {
-        "id": 4647434174,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4646787815,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4635836437,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4620121631,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4642087312,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4641008806,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4645968895,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4645747380,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4646151490,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "醫院",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "國泰證券投資信託",
-    "region": "TW",
-    "started_at_unix": 1780680600,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "國泰證券投資信託"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4641370485,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4646514675,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "國泰證券投資信託",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "印刷 電路 板",
-    "region": "TW",
-    "started_at_unix": 1780723200,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "印刷 電路 板"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4641151454,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4628735437,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4639597063,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4642860534,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4644479607,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4641292738,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4644492066,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "印刷 電路 板",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "佐佐木朗希",
-    "region": "TW",
-    "started_at_unix": 1780697400,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "佐佐木朗希",
-      "道奇"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4640861624,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4636394682,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4645721721,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4636891721,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4643282273,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4647188991,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4640861624,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "佐佐木朗希",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "林維恩",
-    "region": "TW",
-    "started_at_unix": 1780698000,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "林維恩"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4636891661,
-        "language": "zh",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "林維恩",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "姚人多",
-    "region": "TW",
-    "started_at_unix": 1780672200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 700,
-    "related_queries": [
-      "姚人多"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4637052013,
-        "language": "zh",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "姚人多",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "金融 危機",
-    "region": "TW",
-    "started_at_unix": 1780719000,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "金融 危機",
-      "花旗 集團",
-      "花旗集團"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4646235101,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4644924236,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4645066042,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4635528078,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4621984162,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4643282288,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4646235101,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4642987864,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4627176074,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "金融 危機",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "黃金",
-    "region": "TW",
-    "started_at_unix": 1780725000,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 100,
-    "related_queries": [
-      "黃金",
-      "黃金價格"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4641472930,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4636791754,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4635528078,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4637762439,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4644515238,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4642192837,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "黃金",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "甜品",
-    "region": "TW",
-    "started_at_unix": 1780695000,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 900,
-    "related_queries": [
-      "甜品"
-    ],
-    "category_ids": [
-      5
-    ],
-    "entities": [
-      {
-        "id": 4645721733,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "甜品",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "王世堅",
-    "region": "TW",
-    "started_at_unix": 1780704600,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "王世堅"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4641547430,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "王世堅",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "vix",
-    "region": "TW",
-    "started_at_unix": 1780669800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 300,
-    "related_queries": [
-      "vix",
-      "nasdaq"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4645167261,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4634117775,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4647396792,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4647142213,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4631126458,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4645404336,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4646960381,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "vix",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "金澤演員",
-    "region": "TW",
-    "started_at_unix": 1780722000,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "金澤演員"
+      "貓"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4647598801,
+        "id": 4648496903,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4628237084,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4648937893,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4646192435,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4648876680,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4646140349,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "貓",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "美國 對 德國",
+    "region": "TW",
+    "started_at_unix": 1780768800,
+    "ended_at_unix": 1780797000,
+    "search_volume": 1000,
+    "score": 800,
+    "related_queries": [
+      "美國 對 德國",
+      "友誼賽",
+      "國際友誼賽"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4647867302,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4644992975,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4649032133,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4637457927,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4637746042,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4633971366,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4648354010,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4634083252,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "美國 對 德國",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "劉在錫",
+    "region": "TW",
+    "started_at_unix": 1780734000,
+    "ended_at_unix": 1780794000,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "劉在錫"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4627884865,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4642246838,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4645458050,
         "language": "ja",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "金澤演員",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "劉在錫",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "海鯤級潛艦",
+    "keyword": "請世界吃桌",
     "region": "TW",
-    "started_at_unix": 1780715400,
-    "ended_at_unix": null,
+    "started_at_unix": 1780744200,
+    "ended_at_unix": 1780792800,
+    "search_volume": 2000,
+    "score": 700,
+    "related_queries": [
+      "請世界吃桌",
+      "世界辦桌"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4645404972,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "請世界吃桌",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "葡萄牙 對 智利",
+    "region": "TW",
+    "started_at_unix": 1780765200,
+    "ended_at_unix": 1780792200,
+    "search_volume": 1000,
+    "score": 800,
+    "related_queries": [
+      "葡萄牙 對 智利"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4648700504,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "葡萄牙 對 智利",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "mirra andreeva",
+    "region": "TW",
+    "started_at_unix": 1780753800,
+    "ended_at_unix": 1780798200,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "mirra andreeva",
+      "andreeva",
+      "chwalinska"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4633692614,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4634831405,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4648797426,
+        "language": "en",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "mirra andreeva",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "飛彈",
+    "region": "TW",
+    "started_at_unix": 1780786800,
+    "ended_at_unix": 1780800600,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "飛彈"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4643812370,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4639037568,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4649075600,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4643073495,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4642213617,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4609557709,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "飛彈",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "企鵝",
+    "region": "TW",
+    "started_at_unix": 1780810200,
+    "ended_at_unix": 1780813200,
     "search_volume": 500,
     "score": 800,
     "related_queries": [
-      "海鯤級潛艦"
+      "企鵝",
+      "動物園"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4643483140,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4643483140,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4627525522,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4647982526,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4643698837,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4646694564,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4643735670,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4647619482,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4643814762,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4579560250,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "企鵝",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "畢業",
+    "region": "TW",
+    "started_at_unix": 1780776600,
+    "ended_at_unix": 1780806600,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "畢業"
+    ],
+    "category_ids": [
+      9
+    ],
+    "entities": [
+      {
+        "id": 4647907376,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4642246838,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648029314,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4647580656,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4647745816,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648945218,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4633827107,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4647935350,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4647867373,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648914490,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4643166079,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "畢業",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "愛莉 莎莎 男友",
+    "region": "TW",
+    "started_at_unix": 1780747200,
+    "ended_at_unix": 1780786800,
+    "search_volume": 2000,
+    "score": 600,
+    "related_queries": [
+      "愛莉 莎莎 男友",
+      "愛莉莎莎男友",
+      "愛莉 莎莎"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4639803185,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "愛莉 莎莎 男友",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "英格蘭 對 紐西蘭",
+    "region": "TW",
+    "started_at_unix": 1780775400,
+    "ended_at_unix": 1780791600,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "英格蘭 對 紐西蘭"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4640252935,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "英格蘭 對 紐西蘭",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "軍公教",
+    "region": "TW",
+    "started_at_unix": 1780785000,
+    "ended_at_unix": 1780795800,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "軍公教"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4639167598,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4634264316,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "軍公教",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "股票市场",
+    "region": "TW",
+    "started_at_unix": 1780747800,
+    "ended_at_unix": 1780785600,
+    "search_volume": 1000,
+    "score": 500,
+    "related_queries": [
+      "股票市场"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4634525170,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4629799750,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "股票市场",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "海 鯤 級 潛 艦",
+    "region": "TW",
+    "started_at_unix": 1780730400,
+    "ended_at_unix": 1780753200,
+    "search_volume": 1000,
+    "score": 800,
+    "related_queries": [
+      "海 鯤 級 潛 艦"
     ],
     "category_ids": [
       10
@@ -1637,3365 +2182,971 @@
         "region": "TW"
       }
     ],
-    "normalized_keyword": "海鯤級潛艦",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "海 鯤 級 潛 艦",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "福爾摩沙夢想家",
+    "keyword": "weather",
     "region": "TW",
-    "started_at_unix": 1780710600,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "福爾摩沙夢想家"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4638743002,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4644142290,
-        "language": "zh",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "福爾摩沙夢想家",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "小貓熊",
-    "region": "TW",
-    "started_at_unix": 1780711200,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 300,
-    "related_queries": [
-      "小貓熊"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4643483140,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "小貓熊",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "山邊媽祖",
-    "region": "TW",
-    "started_at_unix": 1780722000,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "山邊媽祖"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4641230178,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "山邊媽祖",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "king gnu 演唱會",
-    "region": "TW",
-    "started_at_unix": 1780680000,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "king gnu 演唱會"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4641323757,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "king gnu 演唱會",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "monster hunter wilds ascendance",
-    "region": "TW",
-    "started_at_unix": 1780724400,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "monster hunter wilds ascendance",
-      "ascendance"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4647289142,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "monster hunter wilds ascendance",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "kktix",
-    "region": "TW",
-    "started_at_unix": 1780675200,
-    "ended_at_unix": 1780723200,
-    "search_volume": 5000,
-    "score": 700,
-    "related_queries": [
-      "kktix"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4631855927,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "kktix",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "陳 零 九",
-    "region": "TW",
-    "started_at_unix": 1780671000,
-    "ended_at_unix": 1780726800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "陳 零 九",
-      "陳零九"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4645284719,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "陳 零 九",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "老化",
-    "region": "TW",
-    "started_at_unix": 1780701600,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "老化"
-    ],
-    "category_ids": [
-      7
-    ],
-    "entities": [
-      {
-        "id": 4635436845,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4645260827,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4647407302,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4632534237,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4647255281,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4640731293,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4646667864,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4610539890,
-        "language": "zh",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "老化",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "冬山熱氣球",
-    "region": "TW",
-    "started_at_unix": 1780722600,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "冬山熱氣球"
-    ],
-    "category_ids": [
-      8,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4633636078,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "冬山熱氣球",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "浪 姐 7",
-    "region": "TW",
-    "started_at_unix": 1780726200,
-    "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "浪 姐 7"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4632239970,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4620930890,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "浪 姐 7",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "教師",
-    "region": "TW",
-    "started_at_unix": 1780726800,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "教師"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4643548500,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4639029610,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4640005798,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "教師",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "李炳輝",
-    "region": "TW",
-    "started_at_unix": 1780667400,
-    "ended_at_unix": 1780725000,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "李炳輝"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4645684587,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "李炳輝",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "輝達",
-    "region": "TW",
-    "started_at_unix": 1780693200,
-    "ended_at_unix": 1780710000,
-    "search_volume": 10000,
-    "score": 900,
-    "related_queries": [
-      "輝達",
-      "faker"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4627884865,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4644029190,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4641447184,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4638273786,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4646244814,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4644110866,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4644099754,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4630110002,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4623254106,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4627884865,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "輝達",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "許念慈",
-    "region": "TW",
-    "started_at_unix": 1780653600,
-    "ended_at_unix": 1780726200,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "許念慈"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4646170578,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4625330688,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "許念慈",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "gundam rogue orbit",
-    "region": "TW",
-    "started_at_unix": 1780711800,
-    "ended_at_unix": 1780727400,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "gundam rogue orbit"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4647240758,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "gundam rogue orbit",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "劍 星 血 雨",
-    "region": "TW",
-    "started_at_unix": 1780719000,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "劍 星 血 雨"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4647324279,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4627589563,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "劍 星 血 雨",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "八三夭演唱會",
-    "region": "TW",
-    "started_at_unix": 1780716000,
-    "ended_at_unix": 1780724400,
-    "search_volume": 1000,
-    "score": 900,
-    "related_queries": [
-      "八三夭演唱會",
-      "八三夭"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4633721477,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4608418610,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4647351122,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "八三夭演唱會",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "張介宗",
-    "region": "TW",
-    "started_at_unix": 1780647600,
-    "ended_at_unix": 1780714800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "張介宗"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4642690985,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "張介宗",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "卡爾-安東尼·唐斯",
-    "region": "TW",
-    "started_at_unix": 1780710600,
-    "ended_at_unix": 1780724400,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "卡爾-安東尼·唐斯"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4643423085,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4636761024,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4636394682,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4647663969,
-        "language": "zh",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "卡爾-安東尼·唐斯",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "杰倫·布朗森",
-    "region": "TW",
-    "started_at_unix": 1780711200,
-    "ended_at_unix": 1780722000,
-    "search_volume": 1000,
-    "score": 700,
-    "related_queries": [
-      "杰倫·布朗森"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4645500025,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4636394682,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4643371024,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "杰倫·布朗森",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "公務員",
-    "region": "TW",
-    "started_at_unix": 1780695600,
-    "ended_at_unix": 1780717800,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "公務員"
-    ],
-    "category_ids": [
-      10,
-      9
-    ],
-    "entities": [
-      {
-        "id": 4646119288,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4639167598,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4646010965,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4645322682,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4637407135,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4602041411,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4633801749,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4643698815,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "公務員",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "非農就業指數",
-    "region": "TW",
-    "started_at_unix": 1780662600,
-    "ended_at_unix": 1780713600,
-    "search_volume": 2000,
-    "score": 600,
-    "related_queries": [
-      "非農就業指數",
-      "非農數據",
-      "美股即時"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4635528078,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4634525170,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4631879433,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4629219297,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4628379235,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4635528078,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4635528078,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4647362948,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4643004909,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4626336676,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "非農就業指數",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "中華職棒明星賽",
-    "region": "TW",
-    "started_at_unix": 1780713000,
-    "ended_at_unix": 1780720800,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "中華職棒明星賽",
-      "中華 職 棒 明星 賽"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4643327878,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "中華職棒明星賽",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "豆腐 媽媽",
-    "region": "TW",
-    "started_at_unix": 1780678800,
-    "ended_at_unix": 1780723800,
-    "search_volume": 1000,
-    "score": 500,
-    "related_queries": [
-      "豆腐 媽媽"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4639018176,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4643442014,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4647351053,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4644110928,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4641336968,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "豆腐 媽媽",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "og·阿努諾比",
-    "region": "TW",
-    "started_at_unix": 1780711200,
-    "ended_at_unix": 1780721400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "og·阿努諾比"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4640201391,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4646807738,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "og·阿努諾比",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "李乾龍",
-    "region": "TW",
-    "started_at_unix": 1780673400,
-    "ended_at_unix": 1780713600,
-    "search_volume": 1000,
-    "score": 700,
-    "related_queries": [
-      "李乾龍"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4645848556,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "李乾龍",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "resident evil veronica",
-    "region": "TW",
-    "started_at_unix": 1780708200,
-    "ended_at_unix": 1780726800,
-    "search_volume": 500,
-    "score": 600,
-    "related_queries": [
-      "resident evil veronica"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4628529773,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "resident evil veronica",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "6月6日",
-    "region": "TW",
-    "started_at_unix": 1780717200,
-    "ended_at_unix": 1780723800,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "6月6日"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4645311305,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4640715991,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4642596120,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4609643898,
-        "language": "zh",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "6月6日",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "009816",
-    "region": "TW",
-    "started_at_unix": 1780713600,
-    "ended_at_unix": 1780718400,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "009816"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4640243676,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4645779240,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4639884991,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "009816",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "nba score",
-    "region": "TW",
-    "started_at_unix": 1780711200,
-    "ended_at_unix": 1780719000,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "nba score"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4643452893,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4636042830,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4642934242,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4639770291,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4645124877,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4642867860,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4623621512,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4597768738,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4625753898,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4598220544,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "nba score",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "輝 達 記憶 體",
-    "region": "TW",
-    "started_at_unix": 1780659000,
-    "ended_at_unix": 1780704600,
-    "search_volume": 1000,
-    "score": 800,
-    "related_queries": [
-      "輝 達 記憶 體"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4644029190,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4627884865,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "輝 達 記憶 體",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "iphone 17",
-    "region": "TW",
-    "started_at_unix": 1780666200,
-    "ended_at_unix": 1780707600,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "iphone 17"
-    ],
-    "category_ids": [
-      18
-    ],
-    "entities": [
-      {
-        "id": 4631551093,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647320847,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4644238551,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641374023,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639127754,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625299916,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4644022050,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4646391760,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4564009708,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4616871508,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4535849365,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4571280126,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4600569341,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4574864241,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "iphone 17",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "麵食",
-    "region": "TW",
-    "started_at_unix": 1780700400,
-    "ended_at_unix": 1780716600,
-    "search_volume": 500,
-    "score": 600,
-    "related_queries": [
-      "麵食"
-    ],
-    "category_ids": [
-      5,
-      7
-    ],
-    "entities": [
-      {
-        "id": 4643182005,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4641337001,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "麵食",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "indonesia vs oman",
-    "region": "TW",
-    "started_at_unix": 1780662000,
-    "ended_at_unix": 1780699800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "indonesia vs oman"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4640142530,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "indonesia vs oman",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "馬泰奧·阿納爾迪",
-    "region": "TW",
-    "started_at_unix": 1780675200,
-    "ended_at_unix": 1780705200,
-    "search_volume": 1000,
-    "score": 500,
-    "related_queries": [
-      "馬泰奧·阿納爾迪"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4646846616,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4642424871,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635253529,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "馬泰奧·阿納爾迪",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "ai",
-    "region": "TW",
-    "started_at_unix": 1780670400,
-    "ended_at_unix": 1780704600,
-    "search_volume": 2000,
-    "score": 100,
-    "related_queries": [
-      "ai"
-    ],
-    "category_ids": [
-      15,
-      18
-    ],
-    "entities": [
-      {
-        "id": 4634670860,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619075664,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4606497946,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4645163513,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631322967,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4646112275,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4626317457,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4626863192,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636298290,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640584176,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4645036755,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647019980,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4645167261,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629518124,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "ai",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "淹水一級警戒",
-    "region": "TW",
-    "started_at_unix": 1780654800,
-    "ended_at_unix": 1780660200,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "淹水一級警戒"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4644535130,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639655340,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "淹水一級警戒",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "亞歷山大·茲維列夫",
-    "region": "TW",
-    "started_at_unix": 1780663200,
-    "ended_at_unix": 1780678200,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "亞歷山大·茲維列夫"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4630716004,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4621463577,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "亞歷山大·茲維列夫",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "寇紹恩",
-    "region": "TW",
-    "started_at_unix": 1780665000,
-    "ended_at_unix": 1780705800,
-    "search_volume": 1000,
-    "score": 700,
-    "related_queries": [
-      "寇紹恩"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4631542608,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "寇紹恩",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "南韓選舉",
-    "region": "TW",
-    "started_at_unix": 1780671600,
-    "ended_at_unix": 1780704600,
-    "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "南韓選舉",
-      "韓國投票",
-      "李在明"
-    ],
-    "category_ids": [
-      14,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4614505558,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4641313016,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4646030770,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4640049587,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4614505558,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "南韓選舉",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "糖",
-    "region": "TW",
-    "started_at_unix": 1780681200,
-    "ended_at_unix": 1780708800,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "糖"
-    ],
-    "category_ids": [
-      5
-    ],
-    "entities": [
-      {
-        "id": 4639845335,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4637762397,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4609867190,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4647511301,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4635231209,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4645684542,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "糖",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "539",
-    "region": "TW",
-    "started_at_unix": 1780663800,
-    "ended_at_unix": 1780667400,
-    "search_volume": 10000,
-    "score": 75,
-    "related_queries": [
-      "539",
-      "大樂透開獎號碼",
-      "大樂透加碼",
-      "大樂透",
-      "今彩539"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4640154691,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4644029166,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4625432172,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4640154691,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4640154691,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4644029166,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4647389904,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "539",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "中坜文创夜市",
-    "region": "TW",
-    "started_at_unix": 1780689000,
-    "ended_at_unix": 1780707600,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "中坜文创夜市",
-      "中壢文創夜市"
-    ],
-    "category_ids": [
-      5,
-      3,
-      16
-    ],
-    "entities": [
-      {
-        "id": 4641230133,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4641230133,
-        "language": "zh",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "中坜文创夜市",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "傅崐萁",
-    "region": "TW",
-    "started_at_unix": 1780681200,
-    "ended_at_unix": 1780711200,
-    "search_volume": 500,
-    "score": 300,
-    "related_queries": [
-      "傅崐萁"
-    ],
-    "category_ids": [
-      10,
-      14
-    ],
-    "entities": [
-      {
-        "id": 4645873855,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4641214588,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4609684479,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4638863121,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "傅崐萁",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "plg",
-    "region": "TW",
-    "started_at_unix": 1780660200,
-    "ended_at_unix": 1780681800,
-    "search_volume": 1000,
-    "score": 800,
-    "related_queries": [
-      "plg"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4642266121,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4647621990,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4644464863,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4633873853,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4643441972,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "plg",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "寶馬 ix3",
-    "region": "TW",
-    "started_at_unix": 1780646400,
-    "ended_at_unix": 1780668600,
-    "search_volume": 1000,
-    "score": 900,
-    "related_queries": [
-      "寶馬 ix3"
-    ],
-    "category_ids": [
-      1
-    ],
-    "entities": [
-      {
-        "id": 4631550267,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "寶馬 ix3",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "新竹 會考 落 點",
-    "region": "TW",
-    "started_at_unix": 1780641600,
-    "ended_at_unix": 1780662000,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "新竹 會考 落 點",
-      "國中 會考 成績",
-      "數學"
-    ],
-    "category_ids": [
-      9
-    ],
-    "entities": [
-      {
-        "id": 4639029610,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4644440356,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "新竹 會考 落 點",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "jalen brunson",
-    "region": "TW",
-    "started_at_unix": 1780716600,
-    "ended_at_unix": 1780720200,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "jalen brunson"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4647571021,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4636042830,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4642887902,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4640451016,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4640381097,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "jalen brunson",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "tupac",
-    "region": "TW",
-    "started_at_unix": 1780708200,
-    "ended_at_unix": 1780714200,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "tupac"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4638029838,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4590015867,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625186216,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4608117636,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "tupac",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "古裝 劇",
-    "region": "TW",
-    "started_at_unix": 1780695000,
-    "ended_at_unix": 1780708800,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "古裝 劇"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4623822558,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4622026629,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4634247481,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4641730085,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "古裝 劇",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "淹 水",
-    "region": "TW",
-    "started_at_unix": 1780656600,
-    "ended_at_unix": 1780704600,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "淹 水"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4647721804,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4639655340,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4644535130,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "淹 水",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "新光銀行",
-    "region": "TW",
-    "started_at_unix": 1780693800,
-    "ended_at_unix": 1780707000,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "新光銀行"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4639490183,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "新光銀行",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "力積電",
-    "region": "TW",
-    "started_at_unix": 1780670400,
-    "ended_at_unix": 1780701000,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "力積電"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4643033606,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4634728030,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4630303564,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4647456074,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4634083258,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "力積電",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "比特幣",
-    "region": "TW",
-    "started_at_unix": 1780683600,
-    "ended_at_unix": 1780708200,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "比特幣"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4626336676,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4629379706,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4647310716,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4643721363,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4645747432,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4634525170,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "比特幣",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "梁恩碩",
-    "region": "TW",
-    "started_at_unix": 1780668600,
-    "ended_at_unix": 1780677000,
-    "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "梁恩碩",
-      "青山修子"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4638502155,
-        "language": "zh",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "梁恩碩",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "林威助",
-    "region": "TW",
-    "started_at_unix": 1780693800,
-    "ended_at_unix": 1780708800,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "林威助"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4639249212,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "林威助",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "6月",
-    "region": "TW",
-    "started_at_unix": 1780651800,
-    "ended_at_unix": 1780663200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "6月"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4641828450,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4640715991,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4628676369,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4629219297,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4639167598,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4641170913,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4640909291,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4630883183,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4634127210,
-        "language": "zh",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "6月",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "航空公司",
-    "region": "TW",
-    "started_at_unix": 1780700400,
-    "ended_at_unix": 1780709400,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "航空公司"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4644865425,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4633893669,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4646778207,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4635405640,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4632119525,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4639774709,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4638927736,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4643269839,
-        "language": "zh",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "航空公司",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "亞倫·賈吉",
-    "region": "TW",
-    "started_at_unix": 1780657200,
-    "ended_at_unix": 1780704000,
-    "search_volume": 200,
-    "score": 600,
-    "related_queries": [
-      "亞倫·賈吉"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4640768144,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4641247371,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4641247332,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "亞倫·賈吉",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "朴乾旭",
-    "region": "TW",
-    "started_at_unix": 1780653600,
-    "ended_at_unix": 1780694400,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "朴乾旭"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4645260819,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "朴乾旭",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "lpga",
-    "region": "TW",
-    "started_at_unix": 1780701000,
-    "ended_at_unix": 1780710600,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "lpga"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4610942078,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4647544187,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4645468677,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4646855550,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4645178049,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4635616092,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "lpga",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "報酬率",
-    "region": "TW",
-    "started_at_unix": 1780657200,
-    "ended_at_unix": 1780674000,
-    "search_volume": 1000,
-    "score": 700,
-    "related_queries": [
-      "報酬率",
-      "報酬 率"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4639884991,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4646524731,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4639538230,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4634264316,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4633791854,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4628888271,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4627793470,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4625239326,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "報酬率",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "科技執法",
-    "region": "TW",
-    "started_at_unix": 1780654200,
-    "ended_at_unix": 1780705200,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "科技執法"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4645702192,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4642544863,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4629984173,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4639426099,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4640336048,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "科技執法",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "恐慌指數",
-    "region": "TW",
-    "started_at_unix": 1780680600,
-    "ended_at_unix": 1780707600,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "恐慌指數"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4641046115,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4609259407,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "恐慌指數",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "投資人",
-    "region": "TW",
-    "started_at_unix": 1780658400,
-    "ended_at_unix": 1780667400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "投資人"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4646202459,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4634525170,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4641247318,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4629219297,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4646514616,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4646952178,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "投資人",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "zverev",
-    "region": "TW",
-    "started_at_unix": 1780667400,
-    "ended_at_unix": 1780678200,
-    "search_volume": 500,
-    "score": 600,
-    "related_queries": [
-      "zverev"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4640863959,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4622914693,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4646846616,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4647057482,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4646808270,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4633383084,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "zverev",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "股東 大會",
-    "region": "TW",
-    "started_at_unix": 1780645800,
-    "ended_at_unix": 1780659000,
-    "search_volume": 500,
-    "score": 800,
-    "related_queries": [
-      "股東 大會"
-    ],
-    "category_ids": [
-      16,
-      8
-    ],
-    "entities": [
-      {
-        "id": 4634127280,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4643340061,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4637196896,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4646381683,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4646419148,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "股東 大會",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "狄莺",
-    "region": "TW",
-    "started_at_unix": 1780652400,
-    "ended_at_unix": 1780661400,
-    "search_volume": 500,
-    "score": 900,
-    "related_queries": [
-      "狄莺",
-      "狄 鶯"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4642213648,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4635836355,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4642213648,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635836355,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "狄莺",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "拓元 bts",
-    "region": "TW",
-    "started_at_unix": 1780669800,
-    "ended_at_unix": 1780677600,
-    "search_volume": 500,
-    "score": 600,
-    "related_queries": [
-      "拓元 bts"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4636835813,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "拓元 bts",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "tsm",
-    "region": "TW",
-    "started_at_unix": 1780695600,
-    "ended_at_unix": 1780699200,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "tsm",
-      "tsm stock"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4644078960,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4643340061,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4638743067,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4642410629,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4641799068,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4634006475,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4628151377,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4636387170,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4646014727,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "tsm",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "聖女密碼",
-    "region": "TW",
-    "started_at_unix": 1780716000,
-    "ended_at_unix": 1780718400,
-    "search_volume": 100,
-    "score": 600,
-    "related_queries": [
-      "聖女密碼"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4647589257,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "聖女密碼",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "陳統恩",
-    "region": "TW",
-    "started_at_unix": 1780695600,
-    "ended_at_unix": 1780702800,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "陳統恩"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4642144139,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "陳統恩",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "班主任",
-    "region": "TW",
-    "started_at_unix": 1780699200,
-    "ended_at_unix": 1780705800,
-    "search_volume": 100,
-    "score": 200,
-    "related_queries": [
-      "班主任"
-    ],
-    "category_ids": [
-      9
-    ],
-    "entities": [
-      {
-        "id": 4645486255,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "班主任",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "summer game fest",
-    "region": "TW",
-    "started_at_unix": 1780693200,
-    "ended_at_unix": 1780701000,
-    "search_volume": 100,
-    "score": 400,
-    "related_queries": [
-      "summer game fest",
-      "summer game fest 2026"
-    ],
-    "category_ids": [
-      6,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4626817234,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647480645,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647224696,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647307161,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638969670,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4621800101,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4635328162,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638422731,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628529773,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4615374281,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4586860880,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4626817234,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4647480645,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4638973251,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4647224696,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4586860880,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "summer game fest",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "外資買賣超",
-    "region": "TW",
-    "started_at_unix": 1780650000,
-    "ended_at_unix": 1780656600,
+    "started_at_unix": 1780786200,
+    "ended_at_unix": 1780792200,
     "search_volume": 1000,
     "score": 75,
     "related_queries": [
-      "外資買賣超"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4647040619,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4641886717,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "外資買賣超",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "淹水一級警報",
-    "region": "TW",
-    "started_at_unix": 1780653600,
-    "ended_at_unix": 1780658400,
-    "search_volume": 500,
-    "score": 800,
-    "related_queries": [
-      "淹水一級警報",
-      "臺北的天氣"
+      "weather"
     ],
     "category_ids": [
       20
     ],
     "entities": [
       {
-        "id": 4639655340,
+        "id": 4636886311,
         "language": "en",
-        "region": "US"
+        "region": "TW"
+      },
+      {
+        "id": 4649232745,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4648806913,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4641005468,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4637437713,
+        "language": "en",
+        "region": "TW"
       }
     ],
-    "normalized_keyword": "淹水一級警報",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "weather",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "亞歷山德拉·克魯尼奇",
+    "keyword": "謝宜君",
     "region": "TW",
-    "started_at_unix": 1780669200,
-    "ended_at_unix": 1780675200,
-    "search_volume": 200,
-    "score": 600,
+    "started_at_unix": 1780730400,
+    "ended_at_unix": 1780800000,
+    "search_volume": 500,
+    "score": 700,
     "related_queries": [
-      "亞歷山德拉·克魯尼奇"
+      "謝宜君"
+    ],
+    "category_ids": [
+      7
+    ],
+    "entities": [
+      {
+        "id": 4647310764,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "謝宜君",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "瑪雅·赫瓦林斯卡",
+    "region": "TW",
+    "started_at_unix": 1780753200,
+    "ended_at_unix": 1780760400,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "瑪雅·赫瓦林斯卡"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4638073309,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "亞歷山德拉·克魯尼奇",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "古裝劇",
-    "region": "TW",
-    "started_at_unix": 1780666200,
-    "ended_at_unix": 1780672800,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "古裝劇"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4622026629,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4634247481,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4623822558,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "古裝劇",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "詹姆斯漢迪",
-    "region": "TW",
-    "started_at_unix": 1780703400,
-    "ended_at_unix": 1780707600,
-    "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "詹姆斯漢迪"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4645371840,
+        "id": 4622850127,
         "language": "zh",
         "region": "TW"
       },
       {
-        "id": 4645508853,
+        "id": 4643721577,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4637778749,
         "language": "zh",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "詹姆斯漢迪",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "瑪雅·赫瓦林斯卡",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "00919",
+    "keyword": "德基水庫",
     "region": "TW",
-    "started_at_unix": 1780667400,
-    "ended_at_unix": 1780669800,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "00919"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4614619839,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4628752875,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4629379706,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4647299592,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4627793470,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4592502425,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "00919",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "平野惠一",
-    "region": "TW",
-    "started_at_unix": 1780704600,
-    "ended_at_unix": 1780707000,
+    "started_at_unix": 1780782000,
+    "ended_at_unix": 1780795800,
     "search_volume": 200,
     "score": 400,
     "related_queries": [
-      "平野惠一",
-      "cba"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4647434168,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4642144139,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4618824867,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4640154746,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4646312451,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4647434168,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4643572001,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4646792100,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "平野惠一",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "張育成",
-    "region": "TW",
-    "started_at_unix": 1780695600,
-    "ended_at_unix": 1780704600,
-    "search_volume": 100,
-    "score": 300,
-    "related_queries": [
-      "張育成"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4643351856,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4632534202,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "張育成",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "崔政勳",
-    "region": "TW",
-    "started_at_unix": 1780655400,
-    "ended_at_unix": 1780662000,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "崔政勳"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4644208498,
-        "language": "zh",
-        "region": "TW"
-      },
-      {
-        "id": 4643568205,
-        "language": "zh",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "崔政勳",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "陳玉珍",
-    "region": "TW",
-    "started_at_unix": 1780657800,
-    "ended_at_unix": 1780661400,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "陳玉珍"
-    ],
-    "category_ids": [
-      14,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4633801749,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4644176285,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4609091620,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4641261542,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "陳玉珍",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "資產",
-    "region": "TW",
-    "started_at_unix": 1780659000,
-    "ended_at_unix": 1780662600,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "資產"
+      "德基水庫"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4642596181,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4629948738,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4639037568,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4645968890,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4645322682,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4640500585,
-        "language": "ja",
-        "region": "TW"
-      },
-      {
-        "id": 4643405415,
-        "language": "ja",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "資產",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "台股指數",
-    "region": "TW",
-    "started_at_unix": 1780701600,
-    "ended_at_unix": 1780703400,
-    "search_volume": 100,
-    "score": 300,
-    "related_queries": [
-      "台股指數"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4641773316,
-        "language": "zh-TW",
-        "region": "TW"
-      },
-      {
-        "id": 4641886717,
+        "id": 4623469456,
         "language": "zh-TW",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "台股指數",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "德基水庫",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "紀培慧",
+    "keyword": "駕駛",
     "region": "TW",
-    "started_at_unix": 1780666800,
-    "ended_at_unix": 1780671000,
-    "search_volume": 100,
-    "score": 500,
+    "started_at_unix": 1780782000,
+    "ended_at_unix": 1780788000,
+    "search_volume": 500,
+    "score": 200,
     "related_queries": [
-      "紀培慧"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4646268928,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "紀培慧",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "鄧愷威 先 發",
-    "region": "TW",
-    "started_at_unix": 1780645800,
-    "ended_at_unix": 1780649400,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "鄧愷威 先 發"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4645160229,
-        "language": "zh-TW",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "鄧愷威 先 發",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "ryu",
-    "region": "TW",
-    "started_at_unix": 1780672200,
-    "ended_at_unix": 1780675200,
-    "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "ryu"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4645931571,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4637747132,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "ryu",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "voo",
-    "region": "TW",
-    "started_at_unix": 1780702800,
-    "ended_at_unix": 1780704600,
-    "search_volume": 100,
-    "score": 75,
-    "related_queries": [
-      "voo"
+      "駕駛"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4644930553,
-        "language": "pt",
+        "id": 4648220269,
+        "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4647624782,
-        "language": "pt",
+        "id": 4648876635,
+        "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4636171189,
-        "language": "pt",
+        "id": 4649096231,
+        "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4619452846,
-        "language": "pt",
+        "id": 4649053917,
+        "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4634252432,
-        "language": "pt",
+        "id": 4647487629,
+        "language": "zh-TW",
         "region": "TW"
       },
       {
-        "id": 4614795605,
-        "language": "pt",
+        "id": 4630185189,
+        "language": "zh-TW",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "voo",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "駕駛",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "安心亞",
+    "region": "TW",
+    "started_at_unix": 1780755600,
+    "ended_at_unix": 1780767600,
+    "search_volume": 1000,
+    "score": 900,
+    "related_queries": [
+      "安心亞"
+    ],
+    "category_ids": [
+      17,
+      8,
+      1,
+      16
+    ],
+    "entities": [
+      {
+        "id": 4620668829,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "安心亞",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "0052",
+    "region": "TW",
+    "started_at_unix": 1780784400,
+    "ended_at_unix": 1780794000,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "0052"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4635943049,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4647400727,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4614619839,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4643340061,
+        "language": "en",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "0052",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "1666 阿姆斯特丹",
+    "region": "TW",
+    "started_at_unix": 1780804200,
+    "ended_at_unix": 1780807200,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "1666 阿姆斯特丹"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4647283240,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "1666 阿姆斯特丹",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "期貨",
+    "region": "TW",
+    "started_at_unix": 1780803000,
+    "ended_at_unix": 1780805400,
+    "search_volume": 200,
+    "score": 700,
+    "related_queries": [
+      "期貨"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4641472930,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4629379706,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4621540019,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4647362948,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4635528078,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4643099719,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4647745853,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4642176432,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "期貨",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "夜市",
+    "region": "TW",
+    "started_at_unix": 1780742400,
+    "ended_at_unix": 1780794000,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "夜市"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4622432180,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4627884865,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4645275049,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4645065970,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4632575784,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4639133588,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4632007380,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4641230133,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "夜市",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "c羅",
+    "region": "TW",
+    "started_at_unix": 1780776000,
+    "ended_at_unix": 1780793400,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "c羅"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4636703269,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4632653845,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4643823159,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "c羅",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "สภาพอากาศ",
+    "region": "TW",
+    "started_at_unix": 1780786200,
+    "ended_at_unix": 1780791600,
+    "search_volume": 500,
+    "score": 75,
+    "related_queries": [
+      "สภาพอากาศ"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4642704517,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "สภาพอากาศ",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "聯華電子",
+    "region": "TW",
+    "started_at_unix": 1780783200,
+    "ended_at_unix": 1780789200,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "聯華電子"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4628752875,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4643033655,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "聯華電子",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "伊波拉病毒",
+    "region": "TW",
+    "started_at_unix": 1780795200,
+    "ended_at_unix": 1780799400,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "伊波拉病毒",
+      "伊波拉"
+    ],
+    "category_ids": [
+      10,
+      7
+    ],
+    "entities": [
+      {
+        "id": 4646885302,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4648316501,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4646702936,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "伊波拉病毒",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "臺中捷運",
+    "region": "TW",
+    "started_at_unix": 1780739400,
+    "ended_at_unix": 1780750200,
+    "search_volume": 500,
+    "score": 900,
+    "related_queries": [
+      "臺中捷運"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4643413512,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4640948733,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "臺中捷運",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "weather tomorrow",
+    "region": "TW",
+    "started_at_unix": 1780749600,
+    "ended_at_unix": 1780755000,
+    "search_volume": 1000,
+    "score": 100,
+    "related_queries": [
+      "weather tomorrow"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4645892010,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631522001,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635940523,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "weather tomorrow",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "f1 摩納哥",
+    "region": "TW",
+    "started_at_unix": 1780752600,
+    "ended_at_unix": 1780762800,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "f1 摩納哥"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4632295149,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4636843345,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4643294166,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4647735054,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "f1 摩納哥",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "遺產",
+    "region": "TW",
+    "started_at_unix": 1780795200,
+    "ended_at_unix": 1780801200,
+    "search_volume": 100,
+    "score": 800,
+    "related_queries": [
+      "遺產"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4632205349,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4637596773,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4647580727,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4645065971,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "遺產",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "539開獎",
+    "region": "TW",
+    "started_at_unix": 1780749600,
+    "ended_at_unix": 1780753800,
+    "search_volume": 2000,
+    "score": 100,
+    "related_queries": [
+      "539開獎"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4644029166,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "539開獎",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "摩納哥",
+    "region": "TW",
+    "started_at_unix": 1780755600,
+    "ended_at_unix": 1780762800,
+    "search_volume": 500,
+    "score": 900,
+    "related_queries": [
+      "摩納哥",
+      "f1 排位賽"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4636843345,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4632295149,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4648999178,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4635776841,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4648399535,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4643294166,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "摩納哥",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "張政禹",
+    "region": "TW",
+    "started_at_unix": 1780748400,
+    "ended_at_unix": 1780755600,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "張政禹"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4647921476,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648303288,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4645736134,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "張政禹",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "佐佐木 朗 希",
+    "region": "TW",
+    "started_at_unix": 1780730400,
+    "ended_at_unix": 1780740000,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "佐佐木 朗 希"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4640861624,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "佐佐木 朗 希",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "台灣大哥大",
+    "region": "TW",
+    "started_at_unix": 1780779000,
+    "ended_at_unix": 1780784400,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "台灣大哥大"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4647891291,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "台灣大哥大",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "半导体",
+    "region": "TW",
+    "started_at_unix": 1780734000,
+    "ended_at_unix": 1780743600,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "半导体"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4638910280,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4644699894,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4643923484,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4617116076,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4645970063,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4628854088,
+        "language": "zh",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "半导体",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "cuaca besok",
+    "region": "TW",
+    "started_at_unix": 1780750200,
+    "ended_at_unix": 1780754400,
+    "search_volume": 1000,
+    "score": 75,
+    "related_queries": [
+      "cuaca besok"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4639019152,
+        "language": "id",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "cuaca besok",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "張雪機車",
+    "region": "TW",
+    "started_at_unix": 1780740000,
+    "ended_at_unix": 1780749600,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "張雪機車"
+    ],
+    "category_ids": [
+      1
+    ],
+    "entities": [
+      {
+        "id": 4622005113,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4596084693,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4616320489,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4616795289,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "張雪機車",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "f1直播",
+    "region": "TW",
+    "started_at_unix": 1780754400,
+    "ended_at_unix": 1780759200,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "f1直播"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4618791139,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "f1直播",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "kimi antonelli",
+    "region": "TW",
+    "started_at_unix": 1780758600,
+    "ended_at_unix": 1780762800,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "kimi antonelli"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4648450269,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4646407387,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4647501913,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4638602695,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4635077817,
+        "language": "en",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "kimi antonelli",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
     "keyword": "thời tiết ngày mai",
     "region": "TW",
-    "started_at_unix": 1780664400,
-    "ended_at_unix": 1780666200,
+    "started_at_unix": 1780750200,
+    "ended_at_unix": 1780753800,
     "search_volume": 500,
-    "score": 50,
+    "score": 100,
     "related_queries": [
       "thời tiết ngày mai"
     ],
@@ -5010,195 +3161,390 @@
       }
     ],
     "normalized_keyword": "thoi tiet ngay mai",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "ไทย พบ คูเวต",
+    "keyword": "陈妍希",
     "region": "TW",
-    "started_at_unix": 1780665000,
-    "ended_at_unix": 1780667400,
+    "started_at_unix": 1780738800,
+    "ended_at_unix": 1780747200,
     "search_volume": 200,
     "score": 600,
     "related_queries": [
-      "ไทย พบ คูเวต"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4629809310,
-        "language": "th",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "ไทย พบ คเวต",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "vt",
-    "region": "TW",
-    "started_at_unix": 1780697400,
-    "ended_at_unix": 1780704000,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "vt"
+      "陈妍希"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4647646659,
-        "language": "en",
+        "id": 4644122533,
+        "language": "zh",
         "region": "TW"
       },
       {
-        "id": 4647050850,
-        "language": "en",
+        "id": 4636765912,
+        "language": "zh",
         "region": "TW"
       },
       {
-        "id": 4635467507,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4616887597,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4638595057,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4626327988,
-        "language": "en",
+        "id": 4648361004,
+        "language": "zh",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "vt",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "陈妍希",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "2025",
+    "keyword": "印刷電路板",
     "region": "TW",
-    "started_at_unix": 1780641600,
-    "ended_at_unix": 1780644600,
-    "search_volume": 200,
-    "score": 900,
+    "started_at_unix": 1780786200,
+    "ended_at_unix": 1780789200,
+    "search_volume": 100,
+    "score": 200,
     "related_queries": [
-      "2025"
+      "印刷電路板"
     ],
     "category_ids": [
-      4,
-      8
+      3
     ],
     "entities": [
       {
-        "id": 4616669801,
-        "language": "en",
+        "id": 4649011862,
+        "language": "ja",
         "region": "TW"
       },
       {
-        "id": 4634920199,
-        "language": "en",
+        "id": 4648680313,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4628735437,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4644479607,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4641151454,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4639597063,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4644492066,
+        "language": "ja",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "2025",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "印刷電路板",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "2451",
+    "keyword": "竹北停電",
     "region": "TW",
-    "started_at_unix": 1780641600,
-    "ended_at_unix": 1780644600,
+    "started_at_unix": 1780754400,
+    "ended_at_unix": 1780758000,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "竹北停電"
+    ],
+    "category_ids": [
+      3,
+      20
+    ],
+    "entities": [
+      {
+        "id": 4648945252,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "竹北停電",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "賴清德",
+    "region": "TW",
+    "started_at_unix": 1780782000,
+    "ended_at_unix": 1780785000,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "賴清德"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4639205498,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4645667445,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4644464850,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4647444266,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4647589191,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4642608833,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4636690718,
+        "language": "zh-TW",
+        "region": "TW"
+      },
+      {
+        "id": 4632534184,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "賴清德",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "鈴木landy",
+    "region": "TW",
+    "started_at_unix": 1780761000,
+    "ended_at_unix": 1780765200,
+    "search_volume": 100,
+    "score": 500,
+    "related_queries": [
+      "鈴木landy"
+    ],
+    "category_ids": [
+      1
+    ],
+    "entities": [
+      {
+        "id": 4636837447,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "鈴木landy",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "dcg",
+    "region": "TW",
+    "started_at_unix": 1780750800,
+    "ended_at_unix": 1780755000,
     "search_volume": 200,
     "score": 700,
     "related_queries": [
-      "2451"
+      "dcg"
     ],
     "category_ids": [
-      3
+      6
     ],
     "entities": [
       {
-        "id": 4639815191,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4603683031,
+        "id": 4648480613,
         "language": "en",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "2451",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "dcg",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   },
   {
-    "keyword": "2882",
+    "keyword": "帛琉",
     "region": "TW",
-    "started_at_unix": 1780641600,
-    "ended_at_unix": 1780644600,
+    "started_at_unix": 1780745400,
+    "ended_at_unix": 1780749600,
     "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "2882"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4646064100,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4643969191,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4592502425,
-        "language": "en",
-        "region": "TW"
-      },
-      {
-        "id": 4640114700,
-        "language": "en",
-        "region": "TW"
-      }
-    ],
-    "normalized_keyword": "2882",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
-  },
-  {
-    "keyword": "戴伯丞",
-    "region": "TW",
-    "started_at_unix": 1780658400,
-    "ended_at_unix": 1780660200,
-    "search_volume": 100,
     "score": 600,
     "related_queries": [
-      "戴伯丞"
+      "帛琉"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4636690718,
+        "language": "zh-TW",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "帛琉",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "印尼羽球公開賽",
+    "region": "TW",
+    "started_at_unix": 1780735200,
+    "ended_at_unix": 1780738800,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "印尼羽球公開賽"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4646244836,
+        "id": 4639239565,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4641616796,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "印尼羽球公開賽",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "王浩原",
+    "region": "TW",
+    "started_at_unix": 1780739400,
+    "ended_at_unix": 1780743000,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "王浩原"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4637315500,
+        "language": "zh",
+        "region": "TW"
+      },
+      {
+        "id": 4644160496,
         "language": "zh",
         "region": "TW"
       }
     ],
-    "normalized_keyword": "戴伯丞",
-    "captured_at": "2026-06-06T06:38:38.842493+00:00"
+    "normalized_keyword": "王浩原",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "lpl",
+    "region": "TW",
+    "started_at_unix": 1780751400,
+    "ended_at_unix": 1780754400,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "lpl"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4648234203,
+        "language": "en",
+        "region": "TW"
+      },
+      {
+        "id": 4648237202,
+        "language": "en",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "lpl",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "頑童演唱會",
+    "region": "TW",
+    "started_at_unix": 1780741200,
+    "ended_at_unix": 1780742400,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "頑童演唱會"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4641947457,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648082272,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4627246311,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "頑童演唱會",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
+  },
+  {
+    "keyword": "吳俊偉",
+    "region": "TW",
+    "started_at_unix": 1780734000,
+    "ended_at_unix": 1780735200,
+    "search_volume": 100,
+    "score": 800,
+    "related_queries": [
+      "吳俊偉"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4647499600,
+        "language": "ja",
+        "region": "TW"
+      },
+      {
+        "id": 4648195714,
+        "language": "ja",
+        "region": "TW"
+      }
+    ],
+    "normalized_keyword": "吳俊偉",
+    "captured_at": "2026-06-07T07:18:35.860920+00:00"
   }
 ]
