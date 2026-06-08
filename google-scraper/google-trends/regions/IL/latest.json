@@ -1,17 +1,1592 @@
 [
   {
-    "keyword": "ישי לוי",
+    "keyword": "ynet",
     "region": "IL",
-    "started_at_unix": 1780773600,
+    "started_at_unix": 1780819800,
     "ended_at_unix": null,
-    "search_volume": 50000,
+    "search_volume": 200000,
+    "score": 200,
+    "related_queries": [
+      "ynet",
+      "פיקוד העורף",
+      "חדשות",
+      "הנחיות פיקוד העורף",
+      "איראן",
+      "פיקוד העורף הנחיות",
+      "פטרוכימי",
+      "וינט",
+      "אזעקות",
+      "מאקו",
+      "מפעל פטרוכימי",
+      "ערוץ 7",
+      "טמקא",
+      "אמס",
+      "הארץ",
+      "ישראל היום",
+      "מלחמה",
+      "ערוץ 11 שידור חי",
+      "הנחיות פיקוד העורף היום",
+      "אשדוד נט",
+      "לימודים מחר",
+      "לימודים",
+      "ויינט",
+      "משרד החינוך",
+      "jdn",
+      "דובר צהל",
+      "שיגורים מאיראן",
+      "חדשות ynet",
+      "11",
+      "הנחיות פיקוד העורף לימודים"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4650613167,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4648597633,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649313736,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4645801718,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4650563932,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4649353916,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4599902093,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4648597633,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649313736,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634969568,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644717306,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640629425,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4631859864,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650750358,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649507604,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4634969626,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4648148922,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650061881,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650750317,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649176275,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4636888089,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649278731,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4642437973,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4646845028,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649313732,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4647766329,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650196083,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4643349107,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4613871027,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640946092,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4606277186,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4643705436,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650563967,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4616386966,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649507617,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4645044828,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650613211,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650134049,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650061816,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650481749,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650613175,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650001289,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4643919314,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650061862,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4635824938,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650710257,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4626783263,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649851791,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649278700,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4644494186,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650750334,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4643672998,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649909091,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650613194,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4648785964,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4645511360,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4599902093,
+        "language": "en",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "ynet",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "n12",
+    "region": "IL",
+    "started_at_unix": 1780819800,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 500,
+    "related_queries": [
+      "n12",
+      "טראמפ",
+      "n12 live",
+      "וואלה חדשות"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4646845028,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4633020240,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4635824938,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649909026,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4630881571,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4643672998,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650662690,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649851747,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4646845028,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649004576,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4648597711,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649507546,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649313736,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4646459653,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649586042,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4646845028,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4649803903,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4640946092,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4640686241,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4636255825,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4649313736,
+        "language": "en",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "n12",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "אבולה",
+    "region": "IL",
+    "started_at_unix": 1780847400,
+    "ended_at_unix": null,
+    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "ישי לוי",
-      "ממה נפטר ישי לוי",
-      "ישי לוי מאושפז",
-      "ישי לוי נפטר",
-      "הזמר ישי לוי"
+      "אבולה"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4647186258,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649586009,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4647425277,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "אבולה",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "חדשות 12",
+    "region": "IL",
+    "started_at_unix": 1780819800,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 600,
+    "related_queries": [
+      "חדשות 12"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4643574330,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4635824938,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4637678397,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650001262,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4619328286,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649803903,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "חדשות 12",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "ערוץ 12",
+    "region": "IL",
+    "started_at_unix": 1780820400,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 700,
+    "related_queries": [
+      "ערוץ 12"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4646522517,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4648785964,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4635824864,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4641554770,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "ערוץ 12",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "שולי רנד",
+    "region": "IL",
+    "started_at_unix": 1780831800,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "שולי רנד"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4645642304,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "שולי רנד",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "ערוץ 14",
+    "region": "IL",
+    "started_at_unix": 1780858800,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 300,
+    "related_queries": [
+      "ערוץ 14",
+      "בועז גולן"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4649851727,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649245593,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4648597676,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4635634177,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650196125,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "ערוץ 14",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "נתבג",
+    "region": "IL",
+    "started_at_unix": 1780859400,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "נתבג",
+      "טיסות",
+      "12+",
+      "n 12"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4635824938,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4646845028,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4649313736,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4649803903,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4644263396,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4635824938,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4641410707,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4641681628,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649313778,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4647355115,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649141725,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "נתבג",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "רג פ טאיפ ארדואן",
+    "region": "IL",
+    "started_at_unix": 1780819800,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "רג פ טאיפ ארדואן"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4648663756,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4636415206,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649803910,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "רג פ טאיפ ארדואן",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "שער הדולר",
+    "region": "IL",
+    "started_at_unix": 1780890600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 100,
+    "related_queries": [
+      "שער הדולר",
+      "שער הדולר שקל",
+      "שער דולר"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4649209539,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4643349107,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649353907,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "שער הדולר",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "12",
+    "region": "IL",
+    "started_at_unix": 1780821000,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 400,
+    "related_queries": [
+      "12"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4650756951,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4635824938,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4650061862,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4650613211,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4650595407,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4642994608,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4649153164,
+        "language": "en",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "12",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "ערוץ 13",
+    "region": "IL",
+    "started_at_unix": 1780859400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 200,
+    "related_queries": [
+      "ערוץ 13"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4648730708,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4645856321,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4641554770,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "ערוץ 13",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "cnn",
+    "region": "IL",
+    "started_at_unix": 1780859400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 900,
+    "related_queries": [
+      "cnn"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4626612173,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4645028542,
+        "language": "en",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "cnn",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "כאן 11",
+    "region": "IL",
+    "started_at_unix": 1780858800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 400,
+    "related_queries": [
+      "כאן 11"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4649851762,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649760404,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "כאן 11",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "חדשות 14",
+    "region": "IL",
+    "started_at_unix": 1780858800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 300,
+    "related_queries": [
+      "חדשות 14"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4637300377,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4643574330,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4646421291,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "חדשות 14",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "תעשיית הסרטים",
+    "region": "IL",
+    "started_at_unix": 1780855800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "תעשיית הסרטים"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4625719968,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "תעשיית הסרטים",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "חדשות 13",
+    "region": "IL",
+    "started_at_unix": 1780821600,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "חדשות 13"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4650061831,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4635339322,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4642149924,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4618905883,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4645856321,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649909061,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "חדשות 13",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "иран",
+    "region": "IL",
+    "started_at_unix": 1780884000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 700,
+    "related_queries": [
+      "иран",
+      "новости израиля",
+      "новости израиль"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4647953756,
+        "language": "ru",
+        "region": "IL"
+      },
+      {
+        "id": 4649786243,
+        "language": "ru",
+        "region": "IL"
+      },
+      {
+        "id": 4650766532,
+        "language": "ru",
+        "region": "IL"
+      },
+      {
+        "id": 4650717264,
+        "language": "ru",
+        "region": "IL"
+      },
+      {
+        "id": 4641297006,
+        "language": "ru",
+        "region": "IL"
+      },
+      {
+        "id": 4641119274,
+        "language": "ru",
+        "region": "IL"
+      },
+      {
+        "id": 4640105015,
+        "language": "ru",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "иран",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "יואב גלנט",
+    "region": "IL",
+    "started_at_unix": 1780836000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "יואב גלנט"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4649278700,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "יואב גלנט",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "14",
+    "region": "IL",
+    "started_at_unix": 1780858800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 200,
+    "related_queries": [
+      "14"
+    ],
+    "category_ids": [
+      7,
+      4
+    ],
+    "entities": [
+      {
+        "id": 4650765355,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4648398644,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649096838,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4647015525,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628110711,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649542987,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4647634289,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643642889,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "14",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "יאיר לפיד",
+    "region": "IL",
+    "started_at_unix": 1780831200,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "יאיר לפיד"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4649313729,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649803923,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4619328286,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4637678397,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4635026284,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "יאיר לפיד",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "פיקוד העורף התרעות",
+    "region": "IL",
+    "started_at_unix": 1780859400,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "פיקוד העורף התרעות",
+      "התרעות פיקוד העורף",
+      "התרעות",
+      "אזעקה"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4650061862,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649313736,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4650061822,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4650061862,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650196083,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "פיקוד העורף התרעות",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "רעידת אדמה בפיליפינים",
+    "region": "IL",
+    "started_at_unix": 1780895400,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "רעידת אדמה בפיליפינים"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4650272359,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "רעידת אדמה בפיליפינים",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "ערוץ 14 שידור חי",
+    "region": "IL",
+    "started_at_unix": 1780859400,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "ערוץ 14 שידור חי"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4650196125,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "ערוץ 14 שידור חי",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "ווינט",
+    "region": "IL",
+    "started_at_unix": 1780821000,
+    "ended_at_unix": 1780902000,
+    "search_volume": 20000,
+    "score": 300,
+    "related_queries": [
+      "ווינט",
+      "כוכב יאיר",
+      "פיגוע",
+      "צור יצחק",
+      "צור נתן",
+      "חיים קלומיטי",
+      "טייבה",
+      "סלעית",
+      "כןכב יאיר",
+      "פיגוע בשרון",
+      "פיגוע כוכב יאיר",
+      "פיגוע בכוכב יאיר"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4649313736,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "ווינט",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "משרד האוצר",
+    "region": "IL",
+    "started_at_unix": 1780894200,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 700,
+    "related_queries": [
+      "משרד האוצר"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4639723175,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4630125800,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649396562,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4636888089,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4647865335,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "משרד האוצר",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "12 live",
+    "region": "IL",
+    "started_at_unix": 1780859400,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 800,
+    "related_queries": [
+      "12 live"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4643330706,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4587816374,
+        "language": "en",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "12 live",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "ביטוח",
+    "region": "IL",
+    "started_at_unix": 1780859400,
+    "ended_at_unix": 1780898400,
+    "search_volume": 2000,
+    "score": 900,
+    "related_queries": [
+      "ביטוח"
+    ],
+    "category_ids": [
+      3,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4650613246,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4648148989,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649043481,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4641470205,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4637678340,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640573227,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4645044853,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650389878,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4635339336,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "ביטוח",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "מס",
+    "region": "IL",
+    "started_at_unix": 1780830000,
+    "ended_at_unix": 1780901400,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "מס"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4642038265,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650389963,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4635668052,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649396562,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4639182888,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "מס",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "זמר",
+    "region": "IL",
+    "started_at_unix": 1780822800,
+    "ended_at_unix": 1780866600,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "זמר"
     ],
     "category_ids": [
       4
@@ -23,47 +1598,342 @@
         "region": "IL"
       }
     ],
-    "normalized_keyword": "ישי לוי",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "זמר",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "חיל האוויר הישראלי",
+    "keyword": "מטוס קרב",
     "region": "IL",
-    "started_at_unix": 1780774200,
+    "started_at_unix": 1780897200,
     "ended_at_unix": null,
-    "search_volume": 5000,
+    "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "חיל האוויר הישראלי"
+      "מטוס קרב"
+    ],
+    "category_ids": [
+      10,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4645230845,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650750291,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4635339318,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "מטוס קרב",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "הפועל ת״א נגד הפועל ירושלים",
+    "region": "IL",
+    "started_at_unix": 1780854000,
+    "ended_at_unix": 1780891800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "הפועל ת״א נגד הפועל ירושלים",
+      "הפועל תל אביב כדורסל"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631005113,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4638494980,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650001247,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649586027,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "הפועל ת״א נגד הפועל ירושלים",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "israel",
+    "region": "IL",
+    "started_at_unix": 1780860000,
+    "ended_at_unix": 1780895400,
+    "search_volume": 5000,
+    "score": 500,
+    "related_queries": [
+      "israel",
+      "iran",
+      "israel news",
+      "ben gurion airport",
+      "news",
+      "trump",
+      "7"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4641282007,
+        "id": 4634124113,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4642663395,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4645028542,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4648332081,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4627176980,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4634009687,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4638816929,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4634124113,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4647501898,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4650437979,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4648915167,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4650267956,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4633532159,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635824938,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4641514505,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4646755014,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4616180761,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4648146388,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4650637562,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4623204308,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4641061689,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649301105,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628601201,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4645028542,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649619588,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4595852147,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4602786245,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4604906752,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643968311,
+        "language": "en",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "israel",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "магазин беспошлинной торговли",
+    "region": "IL",
+    "started_at_unix": 1780855200,
+    "ended_at_unix": 1780896600,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "магазин беспошлинной торговли"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4649561953,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635356389,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "חיל האוויר הישראלי",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "магазин беспошлиннои торговли",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "אושר ביטון",
+    "keyword": "וואלה",
     "region": "IL",
-    "started_at_unix": 1780811400,
-    "ended_at_unix": null,
-    "search_volume": 10000,
+    "started_at_unix": 1780860000,
+    "ended_at_unix": 1780891800,
+    "search_volume": 5000,
+    "score": 100,
+    "related_queries": [
+      "וואלה",
+      "walla"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4650613234,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4646845028,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4650613234,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4646845028,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4630881571,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "וואלה",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "אושר ביטון זכה בלוטו",
+    "region": "IL",
+    "started_at_unix": 1780818000,
+    "ended_at_unix": 1780852800,
+    "search_volume": 5000,
     "score": 1000,
     "related_queries": [
-      "אושר ביטון",
-      "זוכה בלוטו",
-      "לוטו",
-      "הגרלת הלוטו",
-      "מפעל הפיס",
-      "הגרלת לוטו",
-      "לוטו הגרלה"
+      "אושר ביטון זכה בלוטו"
     ],
     "category_ids": [
       11
@@ -73,223 +1943,120 @@
         "id": 4639182888,
         "language": "iw",
         "region": "IL"
-      },
-      {
-        "id": 4639677764,
-        "language": "iw",
-        "region": "IL"
       }
     ],
-    "normalized_keyword": "אושר ביטון",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "אושר ביטון זכה בלוטו",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "וול סטריט",
+    "keyword": "דולר שקל",
     "region": "IL",
-    "started_at_unix": 1780747800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
+    "started_at_unix": 1780891200,
+    "ended_at_unix": 1780902600,
+    "search_volume": 500,
+    "score": 100,
     "related_queries": [
-      "וול סטריט"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4644971469,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "וול סטריט",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "צרפת",
-    "region": "IL",
-    "started_at_unix": 1780798800,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "צרפת",
-      "מעריב"
+      "דולר שקל"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4648597697,
+        "id": 4643349107,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4634969626,
+        "id": 4649209539,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4636472237,
+        "id": 4649353907,
         "language": "iw",
         "region": "IL"
-      },
-      {
-        "id": 4607002825,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4640883487,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4648597697,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641681628,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641282007,
-        "language": "en",
-        "region": "US"
       }
     ],
-    "normalized_keyword": "צרפת",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "דולר שקל",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "הצבעה",
+    "keyword": "מותג",
     "region": "IL",
-    "started_at_unix": 1780794000,
-    "ended_at_unix": null,
+    "started_at_unix": 1780825200,
+    "ended_at_unix": 1780896600,
     "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "הצבעה"
+      "מותג"
     ],
     "category_ids": [
-      14,
-      10
+      16
     ],
     "entities": [
       {
-        "id": 4626733353,
+        "id": 4648730648,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4627152648,
+        "id": 4647022250,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650563914,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649507567,
         "language": "iw",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "הצבעה",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "מותג",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "עבירת תנועה",
+    "keyword": "fox news",
     "region": "IL",
-    "started_at_unix": 1780773000,
-    "ended_at_unix": null,
+    "started_at_unix": 1780860000,
+    "ended_at_unix": 1780896000,
+    "search_volume": 1000,
+    "score": 800,
+    "related_queries": [
+      "fox news"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4642663395,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4649454788,
+        "language": "en",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "fox news",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "קרלו אנצ'לוטי",
+    "region": "IL",
+    "started_at_unix": 1780893600,
+    "ended_at_unix": 1780902600,
     "search_volume": 1000,
     "score": 700,
     "related_queries": [
-      "עבירת תנועה"
-    ],
-    "category_ids": [
-      10,
-      1
-    ],
-    "entities": [
-      {
-        "id": 4643820021,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4644155938,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "עבירת תנועה",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "лотерея",
-    "region": "IL",
-    "started_at_unix": 1780811400,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "лотерея"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4643599369,
-        "language": "ru",
-        "region": "IL"
-      },
-      {
-        "id": 4649087214,
-        "language": "ru",
-        "region": "IL"
-      },
-      {
-        "id": 4641394632,
-        "language": "ru",
-        "region": "IL"
-      },
-      {
-        "id": 4634697067,
-        "language": "ru",
-        "region": "IL"
-      },
-      {
-        "id": 4635848112,
-        "language": "ru",
-        "region": "IL"
-      },
-      {
-        "id": 4648852262,
-        "language": "ru",
-        "region": "IL"
-      },
-      {
-        "id": 4647747172,
-        "language": "ru",
-        "region": "IL"
-      },
-      {
-        "id": 4635588752,
-        "language": "ru",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "лотерея",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "ברזיל נגד מצרים",
-    "region": "IL",
-    "started_at_unix": 1780780800,
-    "ended_at_unix": 1780815000,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "ברזיל נגד מצרים"
+      "קרלו אנצ'לוטי",
+      "מונדיאל 2026"
     ],
     "category_ids": [
       17
@@ -299,889 +2066,754 @@
         "id": 4648372731,
         "language": "iw",
         "region": "IL"
-      }
-    ],
-    "normalized_keyword": "ברזיל נגד מצרים",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "צחי הלוי",
-    "region": "IL",
-    "started_at_unix": 1780734000,
-    "ended_at_unix": 1780810200,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "צחי הלוי",
-      "רוקדים עם כוכבים"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
+      },
       {
-        "id": 4635824864,
+        "id": 4630206565,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4639534773,
+        "id": 4607002825,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4643705421,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "צחי הלוי",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "אהבה חדשה",
-    "region": "IL",
-    "started_at_unix": 1780758600,
-    "ended_at_unix": 1780811400,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "אהבה חדשה"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4647122232,
+        "id": 4646930052,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4637371796,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "אהבה חדשה",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "משה סיני",
-    "region": "IL",
-    "started_at_unix": 1780815000,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "משה סיני"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4649176283,
+        "id": 4650272371,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4647546391,
+        "id": 4644263397,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4647766347,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4643037906,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4647710073,
         "language": "iw",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "משה סיני",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "קרלו אנצ'לוטי",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "טורקיה",
+    "keyword": "bbc",
     "region": "IL",
-    "started_at_unix": 1780738200,
-    "ended_at_unix": 1780777800,
-    "search_volume": 5000,
+    "started_at_unix": 1780860000,
+    "ended_at_unix": 1780896000,
+    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "טורקיה"
+      "bbc"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4647865319,
-        "language": "iw",
+        "id": 4647107041,
+        "language": "en",
         "region": "IL"
       },
       {
-        "id": 4639286123,
-        "language": "iw",
+        "id": 4649915623,
+        "language": "en",
         "region": "IL"
       },
       {
-        "id": 4636415206,
-        "language": "iw",
+        "id": 4649915863,
+        "language": "en",
         "region": "IL"
       },
       {
-        "id": 4648663756,
-        "language": "iw",
+        "id": 4639161322,
+        "language": "en",
         "region": "IL"
       },
       {
-        "id": 4625985393,
-        "language": "iw",
+        "id": 4648373840,
+        "language": "en",
         "region": "IL"
       },
       {
-        "id": 4642623533,
-        "language": "iw",
+        "id": 4643670725,
+        "language": "en",
         "region": "IL"
       },
       {
-        "id": 4648304704,
-        "language": "iw",
+        "id": 4625607299,
+        "language": "en",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "טורקיה",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "bbc",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "מייקל אוליסה",
+    "keyword": "כיכר השבת",
     "region": "IL",
-    "started_at_unix": 1780751400,
-    "ended_at_unix": 1780810200,
+    "started_at_unix": 1780860000,
+    "ended_at_unix": 1780891800,
     "search_volume": 2000,
-    "score": 900,
+    "score": 100,
     "related_queries": [
-      "מייקל אוליסה"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4648597712,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4635824873,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4640883487,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "מייקל אוליסה",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "הפנטגון",
-    "region": "IL",
-    "started_at_unix": 1780750200,
-    "ended_at_unix": 1780805400,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "הפנטגון",
-      "ריגול"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4647662149,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "הפנטגון",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "brazil vs egypt",
-    "region": "IL",
-    "started_at_unix": 1780782000,
-    "ended_at_unix": 1780810200,
-    "search_volume": 500,
-    "score": 900,
-    "related_queries": [
-      "brazil vs egypt"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4625502766,
-        "language": "en",
-        "region": "IL"
-      },
-      {
-        "id": 4647240745,
-        "language": "en",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "brazil vs egypt",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "argentina vs honduras",
-    "region": "IL",
-    "started_at_unix": 1780795800,
-    "ended_at_unix": 1780810200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "argentina vs honduras"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4628459254,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629313856,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "argentina vs honduras",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "נטור",
-    "region": "IL",
-    "started_at_unix": 1780771200,
-    "ended_at_unix": 1780807200,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "נטור",
-      "שחר גמלא",
-      "אהד יערי"
+      "כיכר השבת"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4648597633,
+        "id": 4635448266,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4606277186,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4635507222,
         "language": "iw",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "נטור",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "כיכר השבת",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "פורטוגל נגד צ'ילה",
+    "keyword": "13",
     "region": "IL",
-    "started_at_unix": 1780765200,
-    "ended_at_unix": 1780781400,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "פורטוגל נגד צ'ילה"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4648785877,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "פורטוגל נגד צ'ילה",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "הפועל תל אביב",
-    "region": "IL",
-    "started_at_unix": 1780734600,
-    "ended_at_unix": 1780762800,
-    "search_volume": 2000,
-    "score": 500,
-    "related_queries": [
-      "הפועל תל אביב"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4646709843,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4632419032,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4632027195,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4627846646,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4631005113,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4644263451,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4647546391,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4649176283,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4639586606,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4639182816,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4585813010,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "הפועל תל אביב",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "עזה",
-    "region": "IL",
-    "started_at_unix": 1780766400,
-    "ended_at_unix": 1780778400,
+    "started_at_unix": 1780859400,
+    "ended_at_unix": 1780896600,
     "search_volume": 1000,
-    "score": 1000,
+    "score": 100,
     "related_queries": [
-      "עזה"
+      "13",
+      "רשת 13"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4646645235,
+        "id": 4645856321,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4641074589,
+        "id": 4649710873,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4648437789,
+        "id": 4648663702,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4642623509,
+        "id": 4649666227,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4648531333,
+        "id": 4648730708,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4628949011,
+        "id": 4641554770,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4639586676,
+        "id": 4642111872,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4636066091,
-        "language": "iw",
+        "id": 4645856321,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4645586771,
+        "language": "en",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "עזה",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "13",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "נבחרת ארגנטינה בכדורגל",
+    "keyword": "המחדש",
     "region": "IL",
-    "started_at_unix": 1780777800,
-    "ended_at_unix": 1780803000,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "נבחרת ארגנטינה בכדורגל"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4649090075,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4648961974,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4607002825,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4647766398,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4647620014,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "נבחרת ארגנטינה בכדורגל",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "כריסטיאנו רונאלדו",
-    "region": "IL",
-    "started_at_unix": 1780775400,
-    "ended_at_unix": 1780807200,
+    "started_at_unix": 1780860600,
+    "ended_at_unix": 1780890000,
     "search_volume": 500,
-    "score": 800,
+    "score": 200,
     "related_queries": [
-      "כריסטיאנו רונאלדו"
+      "המחדש"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4649625998,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4631859864,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4646845028,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649586086,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "המחדש",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "polymarket",
+    "region": "IL",
+    "started_at_unix": 1780858800,
+    "ended_at_unix": 1780875600,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "polymarket"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4646045911,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4638379817,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4628954523,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4614698202,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4640734227,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4628386033,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4625589564,
+        "language": "en",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "polymarket",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "יאניס אדטוקומבו",
+    "region": "IL",
+    "started_at_unix": 1780833000,
+    "ended_at_unix": 1780893000,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "יאניס אדטוקומבו"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4647620014,
-        "language": "iw",
-        "region": "IL"
+        "id": 4613188378,
+        "language": "en",
+        "region": "US"
       },
       {
-        "id": 4648850704,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4648785877,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4649090022,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4607002825,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4647865321,
-        "language": "iw",
-        "region": "IL"
+        "id": 4648597628,
+        "language": "en",
+        "region": "US"
       }
     ],
-    "normalized_keyword": "כריסטיאנו רונאלדו",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "יאניס אדטוקומבו",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "البرازيل ضد مصر",
+    "keyword": "אריקסן",
     "region": "IL",
-    "started_at_unix": 1780785000,
-    "ended_at_unix": 1780803600,
-    "search_volume": 200,
-    "score": 500,
+    "started_at_unix": 1780856400,
+    "ended_at_unix": 1780863600,
+    "search_volume": 1000,
+    "score": 1000,
     "related_queries": [
-      "البرازيل ضد مصر"
+      "אריקסן",
+      "כריסטיאן אריקסן"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4634987562,
-        "language": "ar",
-        "region": "IL"
-      },
-      {
-        "id": 4648908600,
-        "language": "ar",
-        "region": "IL"
-      },
-      {
-        "id": 4645473457,
-        "language": "ar",
+        "id": 4649962770,
+        "language": "iw",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "البرازيل ضد مصر",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "אריקסן",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "ליאם חרמש",
+    "keyword": "roland garros",
     "region": "IL",
-    "started_at_unix": 1780801200,
-    "ended_at_unix": 1780808400,
+    "started_at_unix": 1780845600,
+    "ended_at_unix": 1780857000,
+    "search_volume": 1000,
+    "score": 200,
+    "related_queries": [
+      "roland garros"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4640309730,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4631597989,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4646118982,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4648312853,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4650749573,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4650758734,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4638473436,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4636313148,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4645354259,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4624738745,
+        "language": "fr",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "roland garros",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "דאחייה",
+    "region": "IL",
+    "started_at_unix": 1780834800,
+    "ended_at_unix": 1780865400,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "דאחייה",
+      "ביירות"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4650001289,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4637331491,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4648437734,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4606277186,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "דאחייה",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "נדב לפיד",
+    "region": "IL",
+    "started_at_unix": 1780889400,
+    "ended_at_unix": 1780894200,
     "search_volume": 100,
-    "score": 300,
+    "score": 500,
     "related_queries": [
-      "ליאם חרמש"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4641831203,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "ליאם חרמש",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "portugal vs chile",
-    "region": "IL",
-    "started_at_unix": 1780765800,
-    "ended_at_unix": 1780777200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "portugal vs chile"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4629224989,
-        "language": "es",
-        "region": "IL"
-      },
-      {
-        "id": 4640036577,
-        "language": "es",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "portugal vs chile",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "אנגליה נגד ניו זילנד",
-    "region": "IL",
-    "started_at_unix": 1780774200,
-    "ended_at_unix": 1780781400,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "אנגליה נגד ניו זילנד",
-      "england vs new zealand"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4642025177,
-        "language": "en",
-        "region": "IL"
-      },
-      {
-        "id": 4640252935,
-        "language": "en",
-        "region": "IL"
-      },
-      {
-        "id": 4648486314,
-        "language": "en",
-        "region": "IL"
-      },
-      {
-        "id": 4646508564,
-        "language": "en",
-        "region": "IL"
-      },
-      {
-        "id": 4623666252,
-        "language": "en",
-        "region": "IL"
-      },
-      {
-        "id": 4647047017,
-        "language": "en",
-        "region": "IL"
-      },
-      {
-        "id": 4642025177,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "אנגליה נגד ניו זילנד",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "בחירות",
-    "region": "IL",
-    "started_at_unix": 1780749600,
-    "ended_at_unix": 1780760400,
-    "search_volume": 1000,
-    "score": 300,
-    "related_queries": [
-      "בחירות"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4619328286,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4642527660,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4626733348,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4648531298,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4648663763,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4635824873,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4640946071,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4642579918,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "בחירות",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "שי לי שינדלר",
-    "region": "IL",
-    "started_at_unix": 1780774800,
-    "ended_at_unix": 1780780200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "שי לי שינדלר"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4646315450,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4644934361,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "שי לי שינדלר",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "פרידה",
-    "region": "IL",
-    "started_at_unix": 1780775400,
-    "ended_at_unix": 1780780800,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "פרידה"
-    ],
-    "category_ids": [
-      5
-    ],
-    "entities": [
-      {
-        "id": 4648730640,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "פרידה",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "mirra andreeva",
-    "region": "IL",
-    "started_at_unix": 1780753200,
-    "ended_at_unix": 1780762800,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "mirra andreeva"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4633692614,
-        "language": "en",
-        "region": "IL"
-      },
-      {
-        "id": 4648615378,
-        "language": "en",
-        "region": "IL"
-      },
-      {
-        "id": 4648797426,
-        "language": "en",
-        "region": "IL"
-      },
-      {
-        "id": 4634831405,
-        "language": "en",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "mirra andreeva",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "פרידה עוזיאל",
-    "region": "IL",
-    "started_at_unix": 1780775400,
-    "ended_at_unix": 1780780200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "פרידה עוזיאל"
+      "נדב לפיד"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4644221827,
+        "id": 4649586042,
         "language": "iw",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "פרידה עוזיאל",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "נדב לפיד",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "usa vs germany",
+    "keyword": "банк израиля",
     "region": "IL",
-    "started_at_unix": 1780770000,
-    "ended_at_unix": 1780775400,
+    "started_at_unix": 1780835400,
+    "ended_at_unix": 1780887600,
     "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "usa vs germany"
+      "банк израиля"
     ],
     "category_ids": [
-      17
+      3
     ],
     "entities": [
       {
-        "id": 4629084830,
-        "language": "en",
+        "id": 4649512085,
+        "language": "ru",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "usa vs germany",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "банк израиля",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "קיליאן אמבפה",
+    "keyword": "מבזקי חדשות",
     "region": "IL",
-    "started_at_unix": 1780764000,
-    "ended_at_unix": 1780773600,
-    "search_volume": 500,
-    "score": 600,
+    "started_at_unix": 1780881600,
+    "ended_at_unix": 1780891200,
+    "search_volume": 100,
+    "score": 200,
     "related_queries": [
-      "קיליאן אמבפה"
+      "מבזקי חדשות"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4650564001,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4647909075,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4650272359,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4650061814,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640219472,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4650061825,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4650001245,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4646845028,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644494167,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "מבזקי חדשות",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "רכבת קלה",
+    "region": "IL",
+    "started_at_unix": 1780888200,
+    "ended_at_unix": 1780893600,
+    "search_volume": 100,
+    "score": 200,
+    "related_queries": [
+      "רכבת קלה"
+    ],
+    "category_ids": [
+      19
+    ],
+    "entities": [
+      {
+        "id": 4650134049,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "רכבת קלה",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "hapoel tel aviv vs hapoel j-m",
+    "region": "IL",
+    "started_at_unix": 1780854600,
+    "ended_at_unix": 1780864800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "hapoel tel aviv vs hapoel j-m"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4628621247,
+        "id": 4650057877,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "hapoel tel aviv vs hapoel j-m",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "כריסטיאן מרטינס",
+    "region": "IL",
+    "started_at_unix": 1780819800,
+    "ended_at_unix": 1780833000,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "כריסטיאן מרטינס"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4649141787,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4646845025,
+        "id": 4646178679,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "כריסטיאן מרטינס",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "שומרון",
+    "region": "IL",
+    "started_at_unix": 1780860600,
+    "ended_at_unix": 1780864800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "שומרון"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4646076769,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4647909118,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "שומרון",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "дания – украина",
+    "region": "IL",
+    "started_at_unix": 1780848600,
+    "ended_at_unix": 1780855800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "дания – украина"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4649986083,
+        "language": "ru",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "дания – украина",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "מלחמה עם איראן",
+    "region": "IL",
+    "started_at_unix": 1780860600,
+    "ended_at_unix": 1780890000,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "מלחמה עם איראן"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4643645995,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "מלחמה עם איראן",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "מונדיאל",
+    "region": "IL",
+    "started_at_unix": 1780861800,
+    "ended_at_unix": 1780866600,
+    "search_volume": 500,
+    "score": 100,
+    "related_queries": [
+      "מונדיאל"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4647766347,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650613173,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4642911903,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640686241,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4644263397,
         "language": "iw",
         "region": "IL"
       },
@@ -1191,272 +2823,169 @@
         "region": "IL"
       },
       {
-        "id": 4640883487,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "קיליאן אמבפה",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "לוסי אהריש",
-    "region": "IL",
-    "started_at_unix": 1780776600,
-    "ended_at_unix": 1780780800,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "לוסי אהריש"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4643705421,
+        "id": 4647022256,
         "language": "iw",
         "region": "IL"
       },
       {
-        "id": 4645707744,
+        "id": 4649313755,
         "language": "iw",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "לוסי אהריש",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "מונדיאל",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "ערן זהבי",
+    "keyword": "zverev",
     "region": "IL",
-    "started_at_unix": 1780734000,
-    "ended_at_unix": 1780746600,
+    "started_at_unix": 1780854000,
+    "ended_at_unix": 1780858800,
     "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "ערן זהבי"
+      "zverev",
+      "alexander zverev"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4646371829,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4646132020,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4632954754,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "ערן זהבי",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "ירושלים",
-    "region": "IL",
-    "started_at_unix": 1780767000,
-    "ended_at_unix": 1780773000,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "ירושלים"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4642184639,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4648663756,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4648372743,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4636198379,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4632027180,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4649209592,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4645856333,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4642623533,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "ירושלים",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "צומת אפרת",
-    "region": "IL",
-    "started_at_unix": 1780779600,
-    "ended_at_unix": 1780783200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "צומת אפרת"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4636349398,
+        "id": 4640863959,
         "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "צומת אפרת",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "מקסים הרקין",
-    "region": "IL",
-    "started_at_unix": 1780780200,
-    "ended_at_unix": 1780783800,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "מקסים הרקין"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
+        "region": "IL"
+      },
       {
-        "id": 4647122209,
-        "language": "iw",
+        "id": 4635912577,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4640516977,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4633704387,
+        "language": "en",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "מקסים הרקין",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "zverev",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "יאיר לפיד",
+    "keyword": "אלכסנדר זברב",
     "region": "IL",
-    "started_at_unix": 1780774800,
-    "ended_at_unix": 1780778400,
-    "search_volume": 200,
+    "started_at_unix": 1780840800,
+    "ended_at_unix": 1780858200,
+    "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "יאיר לפיד"
+      "אלכסנדר זברב",
+      "זברב"
     ],
     "category_ids": [
-      10,
-      14
+      17
     ],
     "entities": [
       {
-        "id": 4627152648,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4637678397,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4644155933,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4636198379,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4619328286,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4635026284,
+        "id": 4636639299,
         "language": "iw",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "יאיר לפיד",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "אלכסנדר זברב",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "מירה אנדרייבה",
+    "keyword": "יהודה אבידן",
     "region": "IL",
-    "started_at_unix": 1780756800,
-    "ended_at_unix": 1780761600,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "מירה אנדרייבה"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4645112519,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "מירה אנדרייבה",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "ראשון לציון",
-    "region": "IL",
-    "started_at_unix": 1780746000,
-    "ended_at_unix": 1780751400,
-    "search_volume": 200,
+    "started_at_unix": 1780832400,
+    "ended_at_unix": 1780843800,
+    "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "ראשון לציון"
+      "יהודה אבידן"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4634583101,
+        "id": 4649507588,
         "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "יהודה אבידן",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "f1",
+    "region": "IL",
+    "started_at_unix": 1780844400,
+    "ended_at_unix": 1780851000,
+    "search_volume": 500,
+    "score": 300,
+    "related_queries": [
+      "f1"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4648450269,
+        "language": "en",
         "region": "IL"
       },
       {
-        "id": 4637715471,
+        "id": 4632910237,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4646407387,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4610051934,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4642406135,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4623185288,
+        "language": "en",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "f1",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "חדשות לייב",
+    "region": "IL",
+    "started_at_unix": 1780860600,
+    "ended_at_unix": 1780888800,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "חדשות לייב"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4649507546,
         "language": "iw",
         "region": "IL"
       },
@@ -1466,152 +2995,452 @@
         "region": "IL"
       },
       {
-        "id": 4645477469,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4642579892,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4645586840,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4644910833,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4640162073,
-        "language": "iw",
-        "region": "IL"
-      },
-      {
-        "id": 4645801669,
+        "id": 4639286137,
         "language": "iw",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "ראשון לציון",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "חדשות לייב",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "البرتغال ضد تشيلي",
+    "keyword": "christian eriksen",
     "region": "IL",
-    "started_at_unix": 1780767000,
-    "ended_at_unix": 1780770600,
+    "started_at_unix": 1780857600,
+    "ended_at_unix": 1780861200,
     "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "البرتغال ضد تشيلي"
+      "christian eriksen",
+      "eriksen"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4644194176,
+        "id": 4649986899,
+        "language": "en",
+        "region": "IL"
+      },
+      {
+        "id": 4601422583,
+        "language": "en",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "christian eriksen",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "נטפליקס",
+    "region": "IL",
+    "started_at_unix": 1780865400,
+    "ended_at_unix": 1780869000,
+    "search_volume": 200,
+    "score": 75,
+    "related_queries": [
+      "נטפליקס"
+    ],
+    "category_ids": [
+      17,
+      6
+    ],
+    "entities": [
+      {
+        "id": 4647022256,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4645477481,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4630013311,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649710904,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649313790,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4648597640,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "נטפליקס",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "כאן",
+    "region": "IL",
+    "started_at_unix": 1780860600,
+    "ended_at_unix": 1780864200,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "כאן"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4649760404,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "כאן",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "i24",
+    "region": "IL",
+    "started_at_unix": 1780860600,
+    "ended_at_unix": 1780864200,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "i24"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4620070574,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4647123197,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4650307014,
+        "language": "fr",
+        "region": "IL"
+      },
+      {
+        "id": 4650597056,
+        "language": "fr",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "i24",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "אייר בלטיק",
+    "region": "IL",
+    "started_at_unix": 1780829400,
+    "ended_at_unix": 1780834200,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "אייר בלטיק"
+    ],
+    "category_ids": [
+      19,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4641410707,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "אייר בלטיק",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "פולימרקט",
+    "region": "IL",
+    "started_at_unix": 1780861200,
+    "ended_at_unix": 1780864200,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "פולימרקט"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4643820013,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649803965,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "פולימרקט",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "المغرب ضد النرويج",
+    "region": "IL",
+    "started_at_unix": 1780860600,
+    "ended_at_unix": 1780863600,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "المغرب ضد النرويج"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4650064559,
         "language": "ar",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "البرتغال ضد تشيلي",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "المغرب ضد النرويج",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "גיא הוכמן",
+    "keyword": "ז'וזה מוריניו",
     "region": "IL",
-    "started_at_unix": 1780773600,
-    "ended_at_unix": 1780776600,
+    "started_at_unix": 1780860600,
+    "ended_at_unix": 1780863600,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "ז'וזה מוריניו"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4635824873,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "ז'וזה מוריניו",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "אלון מזרחי",
+    "region": "IL",
+    "started_at_unix": 1780834800,
+    "ended_at_unix": 1780838400,
     "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "גיא הוכמן"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4645801658,
-        "language": "iw",
-        "region": "IL"
-      }
-    ],
-    "normalized_keyword": "גיא הוכמן",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "maja chwalińska",
-    "region": "IL",
-    "started_at_unix": 1780753800,
-    "ended_at_unix": 1780758000,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "maja chwalińska"
+      "אלון מזרחי"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4609628270,
-        "language": "pl",
+        "id": 4649666239,
+        "language": "iw",
         "region": "IL"
-      }
-    ],
-    "normalized_keyword": "maja chwalinska",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
-  },
-  {
-    "keyword": "מרג'אן סטראפי",
-    "region": "IL",
-    "started_at_unix": 1780762200,
-    "ended_at_unix": 1780765200,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "מרג'אן סטראפי"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
+      },
       {
-        "id": 4643919320,
+        "id": 4649666242,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4599902093,
         "language": "iw",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "מרג'אן סטראפי",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "אלון מזרחי",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   },
   {
-    "keyword": "גל אראל",
+    "keyword": "אירן",
     "region": "IL",
-    "started_at_unix": 1780761600,
-    "ended_at_unix": 1780764600,
+    "started_at_unix": 1780860600,
+    "ended_at_unix": 1780863000,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "אירן"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4650662633,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4640219472,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650001292,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4650323528,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "אירן",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "כוכב יאיר צור יגאל",
+    "region": "IL",
+    "started_at_unix": 1780821000,
+    "ended_at_unix": 1780824000,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "כוכב יאיר צור יגאל"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4649141725,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649313736,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "כוכב יאיר צור יגאל",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "home front command",
+    "region": "IL",
+    "started_at_unix": 1780862400,
+    "ended_at_unix": 1780863600,
     "search_volume": 100,
-    "score": 600,
+    "score": 1000,
     "related_queries": [
-      "גל אראל"
+      "home front command"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4648146388,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4634124113,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "home front command",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "דוד ברנע",
+    "region": "IL",
+    "started_at_unix": 1780817400,
+    "ended_at_unix": 1780819800,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "דוד ברנע"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4625591102,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649278681,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4645707744,
+        "language": "iw",
+        "region": "IL"
+      }
+    ],
+    "normalized_keyword": "דוד ברנע",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
+  },
+  {
+    "keyword": "מכבי נתניה",
+    "region": "IL",
+    "started_at_unix": 1780838400,
+    "ended_at_unix": 1780839600,
+    "search_volume": 100,
+    "score": 700,
+    "related_queries": [
+      "מכבי נתניה"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4648017593,
+        "id": 4650001266,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4599902093,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4634713610,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649396575,
+        "language": "iw",
+        "region": "IL"
+      },
+      {
+        "id": 4649803979,
         "language": "iw",
         "region": "IL"
       }
     ],
-    "normalized_keyword": "גל אראל",
-    "captured_at": "2026-06-07T07:00:20.589508+00:00"
+    "normalized_keyword": "מכבי נתניה",
+    "captured_at": "2026-06-08T07:20:38.402329+00:00"
   }
 ]
