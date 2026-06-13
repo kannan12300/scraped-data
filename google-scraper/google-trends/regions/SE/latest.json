@@ -1,62 +1,422 @@
 [
   {
-    "keyword": "mexiko sydafrika",
+    "keyword": "göteborgs-posten",
     "region": "SE",
-    "started_at_unix": 1781183400,
+    "started_at_unix": 1781277600,
     "ended_at_unix": null,
-    "search_volume": 20000,
+    "search_volume": 5000,
     "score": 1000,
     "related_queries": [
-      "mexiko sydafrika",
-      "mexico sydafrika",
-      "vm idag",
-      "fotbolls-vm matcher",
-      "vm resultat",
-      "vm fotboll",
-      "sydafrika mexiko",
-      "john guidetti",
-      "sydafrika",
-      "vart sänds vm 2026",
-      "resultat vm",
-      "fotbolls-vm",
-      "sportbladet",
-      "vm match",
-      "tvmatchen",
-      "sydafrika fotboll",
-      "vart kan man se vm"
+      "göteborgs-posten"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4661625567,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4661642556,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "goteborgs-posten",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "ekonomi",
+    "region": "SE",
+    "started_at_unix": 1781307000,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "ekonomi"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4659888492,
+        "language": "tr",
+        "region": "SE"
+      },
+      {
+        "id": 4655721477,
+        "language": "tr",
+        "region": "SE"
+      },
+      {
+        "id": 4645780518,
+        "language": "tr",
+        "region": "SE"
+      },
+      {
+        "id": 4655313048,
+        "language": "tr",
+        "region": "SE"
+      },
+      {
+        "id": 4657126866,
+        "language": "tr",
+        "region": "SE"
+      },
+      {
+        "id": 4636672158,
+        "language": "tr",
+        "region": "SE"
+      },
+      {
+        "id": 4654731960,
+        "language": "tr",
+        "region": "SE"
+      },
+      {
+        "id": 4647554753,
+        "language": "tr",
+        "region": "SE"
+      },
+      {
+        "id": 4615738530,
+        "language": "tr",
+        "region": "SE"
+      },
+      {
+        "id": 4655659686,
+        "language": "tr",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "ekonomi",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "usa paraguay",
+    "region": "SE",
+    "started_at_unix": 1781298600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "usa paraguay",
+      "folarin balogun",
+      "usa vs paraguay",
+      "balogun",
+      "fifa",
+      "opta data",
+      "sofi stadium",
+      "flashscore",
+      "fifa ranking"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4659053262,
+        "id": 4639925296,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4652303369,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661760403,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4641328725,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661697262,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4639925296,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4652303369,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4646519161,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4659967381,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4645185185,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4646523715,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4633415334,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4649012997,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4589723954,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661297196,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644229721,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4574295813,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4656183467,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628247540,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642228972,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4650606203,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649475171,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4655364648,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4647601343,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4624126687,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4654792372,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661686815,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640923477,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4653203086,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4654195928,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4651480693,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4660615242,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644655120,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4652121019,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4659227778,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4651856170,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "usa paraguay",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "expressen nöje",
+    "region": "SE",
+    "started_at_unix": 1781266800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "expressen nöje"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4656882044,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4651114836,
+        "id": 4657227262,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4630604273,
+        "id": 4661658854,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4654016760,
+        "id": 4654974443,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4659595170,
+        "id": 4661464268,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4659638031,
+        "id": 4642763603,
         "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4648418676,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660645036,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660783375,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "expressen noje",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "david hockney",
+    "region": "SE",
+    "started_at_unix": 1781257200,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "david hockney"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4636395568,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "david hockney",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "kanada bosnien",
+    "region": "SE",
+    "started_at_unix": 1781286600,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "kanada bosnien",
+      "bosnien kanada",
+      "bosnien och hercegovinas herrlandslag i fotboll",
+      "bosnien vm",
+      "bosnien hercegovina",
+      "kanada vs bosnien",
+      "sergej barbarez",
+      "canada bosnien"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4655839295,
+        "language": "en",
         "region": "SE"
       },
       {
@@ -65,532 +425,119 @@
         "region": "SE"
       },
       {
-        "id": 4659521379,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4648601988,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655995290,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4644373824,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659675481,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658917717,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658829942,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659638082,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4648403522,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658996925,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4643990672,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659053262,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4659053262,
+        "id": 4660393059,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4648601988,
+        "id": 4631368009,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4655365526,
+        "id": 4659468981,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4657351909,
-        "language": "en",
+        "id": 4655839295,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4658103523,
-        "language": "en",
+        "id": 4661397547,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4657847418,
-        "language": "en",
+        "id": 4661491165,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4648278370,
-        "language": "en",
+        "id": 4661722328,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4655184775,
+        "id": 4660984584,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4641328725,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4644984302,
+        "id": 4661397547,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4643990672,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4645904288,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4617682125,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655365526,
+        "id": 4660961959,
         "language": "sv",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "mexiko sydafrika",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "kanada bosnien",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "kraftigt regn",
+    "keyword": "foo fighters stockholm",
     "region": "SE",
-    "started_at_unix": 1781191200,
+    "started_at_unix": 1781262000,
     "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 1000,
+    "search_volume": 2000,
+    "score": 400,
     "related_queries": [
-      "kraftigt regn"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4641745899,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4650271877,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4657720028,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655979503,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4652832763,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "kraftigt regn",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "tv4",
-    "region": "SE",
-    "started_at_unix": 1781194200,
-    "ended_at_unix": null,
-    "search_volume": 10000,
-    "score": 500,
-    "related_queries": [
-      "tv4",
-      "tv 4",
-      "tv4 sport",
-      "vm invigning",
-      "invigning vm"
+      "foo fighters stockholm",
+      "strawberry arena"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4658996925,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655995290,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659053262,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4656445656,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658996925,
+        "id": 4653299354,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4656882044,
+        "id": 4657610991,
         "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657806253,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657946013,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659053262,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4656333871,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657806253,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655503883,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4648715310,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4652414990,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4649568439,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4656882044,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4632359627,
-        "language": "sv",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "tv4",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "foo fighters stockholm",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "sydkorea tjeckien",
+    "keyword": "elon musk net worth",
     "region": "SE",
-    "started_at_unix": 1781212800,
+    "started_at_unix": 1781276400,
     "ended_at_unix": null,
-    "search_volume": 2000,
+    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "sydkorea tjeckien",
-      "sydkorea"
+      "elon musk net worth",
+      "space x",
+      "spcx",
+      "space x stock",
+      "elon musk",
+      "spcx stock",
+      "nasdaq",
+      "spacex stock price",
+      "yahoo finance",
+      "space x ipo"
     ],
     "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4630604273,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659675462,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4651449227,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4654016760,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "sydkorea tjeckien",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "daniel nannskog",
-    "region": "SE",
-    "started_at_unix": 1781193600,
-    "ended_at_unix": null,
-    "search_volume": 5000,
-    "score": 600,
-    "related_queries": [
-      "daniel nannskog",
-      "nannskog"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4655405917,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655405917,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "daniel nannskog",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "shakira",
-    "region": "SE",
-    "started_at_unix": 1781200200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 900,
-    "related_queries": [
-      "shakira",
-      "estadio azteca"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4623061422,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4626255038,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4627202378,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4659280415,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4658698659,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4658877852,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4659158678,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4659025051,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4642312237,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4644702058,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4647157631,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4659053262,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4658996925,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4658323215,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4657086698,
-        "language": "es",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "shakira",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "polischef",
-    "region": "SE",
-    "started_at_unix": 1781194800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "polischef"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4655760065,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655821394,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "polischef",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "spacex ipo",
-    "region": "SE",
-    "started_at_unix": 1781239200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 200,
-    "related_queries": [
-      "spacex ipo",
-      "spacex stock",
-      "spacex"
-    ],
-    "category_ids": [
-      3
+      3,
+      15
     ],
     "entities": [
       {
         "id": 4656724744,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4654775608,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659265285,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659595759,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4650547786,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4653854931,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4654263743,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4653616819,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4640554558,
         "language": "en",
         "region": "SE"
       },
@@ -600,127 +547,696 @@
         "region": "SE"
       },
       {
-        "id": 4650538974,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659031711,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "spacex ipo",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "matilda björk",
-    "region": "SE",
-    "started_at_unix": 1781238000,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "matilda björk"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4659545269,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4656565427,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "matilda bjork",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "space x aktie",
-    "region": "SE",
-    "started_at_unix": 1781237400,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "space x aktie"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
         "id": 4657411092,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4647077942,
+        "id": 4661188893,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661053033,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661301344,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4628678337,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 3579160812,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4621646293,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660068752,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660251918,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656732903,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4654970382,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4642806352,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4640499292,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658941365,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661243028,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659265285,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4639844035,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4644549234,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4645167261,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660778858,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4654892934,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4652583767,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4654888138,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4657010242,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659668446,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4622394879,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660904842,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4649606489,
         "language": "en",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "space x aktie",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "elon musk net worth",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "vm fotboll 2026",
+    "keyword": "linda sembrant",
     "region": "SE",
-    "started_at_unix": 1781194200,
-    "ended_at_unix": 1781248800,
-    "search_volume": 5000,
-    "score": 100,
+    "started_at_unix": 1781284800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 1000,
     "related_queries": [
-      "vm fotboll 2026",
-      "streama fotbolls vm"
+      "linda sembrant"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4617682125,
+        "id": 4660808474,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "linda sembrant",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "canada bosnia",
+    "region": "SE",
+    "started_at_unix": 1781290200,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "canada bosnia",
+      "bosnia vs canada",
+      "jonathan david",
+      "kolasinac",
+      "canada",
+      "toronto",
+      "sead kolašinac",
+      "canada vs bosnia and herzegovina",
+      "cyle larin",
+      "bosnia canada",
+      "bosnia",
+      "canada vs bosnia",
+      "toronto stadium",
+      "derek cornelius",
+      "toronto väder",
+      "jovo lukić",
+      "canada vs bosnia and herzegovina world cup 2026",
+      "fifa world cup",
+      "bih"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660691615,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4639925296,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4652303369,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4643605927,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659167293,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661391580,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4655364648,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660159597,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4653090781,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4655839295,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661002071,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4651660329,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661150212,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660803146,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661519523,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661139381,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4649654651,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661002489,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4577739050,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661375028,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4657264869,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4580754978,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4648508170,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660997662,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661150541,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4632117397,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4646565068,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4654301792,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4647145520,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4657955229,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661828736,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4635632014,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658460851,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4658852443,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4653090781,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644534264,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4656434775,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661297196,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4652729635,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4655885180,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4657955229,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4659143985,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643323308,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628332831,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "canada bosnia",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "vera wang",
+    "region": "SE",
+    "started_at_unix": 1781263200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "vera wang"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4638266944,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659416378,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659303053,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660944187,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "vera wang",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "drottning silvia",
+    "region": "SE",
+    "started_at_unix": 1781323800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "drottning silvia"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4645736015,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4643990672,
+        "id": 4629964162,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4655995290,
+        "id": 4652927386,
         "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4658057584,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4659712201,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4643511445,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "drottning silvia",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "bromma hus",
+    "region": "SE",
+    "started_at_unix": 1781327400,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "bromma hus"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4661658918,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "bromma hus",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "2026",
+    "region": "SE",
+    "started_at_unix": 1781280000,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "2026"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4656077081,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4619647369,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4643570839,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4646278977,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4660683303,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4648799441,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "2026",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "norrbottens stora pris",
+    "region": "SE",
+    "started_at_unix": 1781286600,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "norrbottens stora pris",
+      "bet365"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4656782599,
+        "language": "en",
         "region": "SE"
       },
       {
         "id": 4659053262,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656782599,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "norrbottens stora pris",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "ishowspeed",
+    "region": "SE",
+    "started_at_unix": 1781325600,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "ishowspeed"
+    ],
+    "category_ids": [
+      17,
+      4
+    ],
+    "entities": [
+      {
+        "id": 4661623778,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4656022820,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4658234328,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "ishowspeed",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "socialdemokraterna",
+    "region": "SE",
+    "started_at_unix": 1781278200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 700,
+    "related_queries": [
+      "socialdemokraterna",
+      "regering"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4656640252,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4630604273,
+        "id": 4656445659,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4653458474,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659521379,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4657818574,
+        "id": 4661658825,
         "language": "sv",
         "region": "SE"
       },
@@ -730,21 +1246,1412 @@
         "region": "SE"
       },
       {
-        "id": 4655760058,
+        "id": 4646140257,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4619634441,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4656640252,
+        "language": "nl",
+        "region": "SE"
+      },
+      {
+        "id": 4636737951,
+        "language": "nl",
+        "region": "SE"
+      },
+      {
+        "id": 4652927386,
+        "language": "nl",
+        "region": "SE"
+      },
+      {
+        "id": 4642047131,
+        "language": "nl",
+        "region": "SE"
+      },
+      {
+        "id": 4657971603,
+        "language": "nl",
+        "region": "SE"
+      },
+      {
+        "id": 4659771058,
+        "language": "nl",
+        "region": "SE"
+      },
+      {
+        "id": 4644876419,
+        "language": "nl",
+        "region": "SE"
+      },
+      {
+        "id": 4624657264,
+        "language": "nl",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "socialdemokraterna",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "ny teknik",
+    "region": "SE",
+    "started_at_unix": 1781280000,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "ny teknik"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4660256850,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4652381107,
         "language": "sv",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "vm fotboll 2026",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "ny teknik",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "golf",
+    "region": "SE",
+    "started_at_unix": 1781327400,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "golf"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4658639549,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635935163,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4658639506,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661048761,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4654185278,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4658240402,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4646906213,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661833796,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661784609,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4657630877,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661787818,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4655310480,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4619503979,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4653892202,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "golf",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "damtidning",
+    "region": "SE",
+    "started_at_unix": 1781328000,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "damtidning"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4660880424,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4651429709,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658234142,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4629964162,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4654351406,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4657309442,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4655184722,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4657610419,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4655272324,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "damtidning",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "usa mot paraguay",
+    "region": "SE",
+    "started_at_unix": 1781314800,
+    "ended_at_unix": null,
+    "search_volume": 2000,
+    "score": 700,
+    "related_queries": [
+      "usa mot paraguay",
+      "svt",
+      "paraguay",
+      "usa vm"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4641328725,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4654016760,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661845067,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661572805,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661625495,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660347378,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4641328725,
+        "language": "es",
+        "region": "SE"
+      },
+      {
+        "id": 4660961959,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4655029246,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656665867,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4655029233,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4653269505,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661606921,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661708107,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4657268484,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661789848,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658568314,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4642176242,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4615973021,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "usa mot paraguay",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "viktor gyökeres",
+    "region": "SE",
+    "started_at_unix": 1781289000,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "viktor gyökeres",
+      "gyökeres"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4661744585,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656720655,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661213153,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659638042,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4646721726,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661744585,
+        "language": "pt",
+        "region": "SE"
+      },
+      {
+        "id": 4656720655,
+        "language": "pt",
+        "region": "SE"
+      },
+      {
+        "id": 4655328491,
+        "language": "pt",
+        "region": "SE"
+      },
+      {
+        "id": 4661213153,
+        "language": "pt",
+        "region": "SE"
+      },
+      {
+        "id": 4659638042,
+        "language": "pt",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "viktor gyokeres",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "hockeysverige",
+    "region": "SE",
+    "started_at_unix": 1781283600,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "hockeysverige"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4657594441,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660237303,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "hockeysverige",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "stevie nicks",
+    "region": "SE",
+    "started_at_unix": 1781325600,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "stevie nicks"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4661625505,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4644543902,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4581271270,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4581782169,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4540664811,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "stevie nicks",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "e4",
+    "region": "SE",
+    "started_at_unix": 1781263200,
+    "ended_at_unix": 1781328600,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "e4"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4661198374,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4482157069,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656984730,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4654863126,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4649656326,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660002791,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4657333956,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "e4",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "vita huset",
+    "region": "SE",
+    "started_at_unix": 1781330400,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "vita huset"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4646020975,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4656882044,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4658899408,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4659917907,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4659397293,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4646324001,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "vita huset",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "nyhet",
+    "region": "SE",
+    "started_at_unix": 1781332200,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 800,
+    "related_queries": [
+      "nyhet"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4626261535,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660416495,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4653674658,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4649621134,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661772351,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4655066290,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "nyhet",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "kreml",
+    "region": "SE",
+    "started_at_unix": 1781330400,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 900,
+    "related_queries": [
+      "kreml"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4659771070,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660257388,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4656928843,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4652081356,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4651528218,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4642405265,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4651203714,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4623822938,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4638566729,
+        "language": "de",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "kreml",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "katy perry",
+    "region": "SE",
+    "started_at_unix": 1781315400,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "katy perry"
+    ],
+    "category_ids": [
+      4,
+      17
+    ],
+    "entities": [
+      {
+        "id": 4661297196,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4642162720,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4645560800,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4589723954,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4540664811,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 3993699922,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "katy perry",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "misshandel",
+    "region": "SE",
+    "started_at_unix": 1781256000,
+    "ended_at_unix": 1781331600,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "misshandel"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 3891940762,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4643405325,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4661772318,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4661071799,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4658103541,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660216605,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4658932104,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4648147587,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4661587729,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660568317,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "misshandel",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "varg",
+    "region": "SE",
+    "started_at_unix": 1781300400,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "varg"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4653833058,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4655807725,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4659555865,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "varg",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "politik",
+    "region": "SE",
+    "started_at_unix": 1781275200,
+    "ended_at_unix": 1781330400,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "politik"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4658014603,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4637356430,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4656086539,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4656195812,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4658614981,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4658380774,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660713690,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4661692890,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4657774776,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4624986317,
+        "language": "de",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "politik",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "stöld",
+    "region": "SE",
+    "started_at_unix": 1781271600,
+    "ended_at_unix": 1781333400,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "stöld"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4661464268,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4651980257,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4652789514,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4657564343,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4644917428,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4661356756,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4659652020,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4655328414,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660194297,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "stold",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "facebook",
+    "region": "SE",
+    "started_at_unix": 1781271600,
+    "ended_at_unix": 1781280600,
+    "search_volume": 20000,
+    "score": 500,
+    "related_queries": [
+      "facebook",
+      "facebook down",
+      "instagram",
+      "downdetector",
+      "messenger",
+      "messenger down",
+      "facebook problem",
+      "is facebook down",
+      "facebook downdetector",
+      "is messenger down",
+      "instagram down",
+      "facebook login",
+      "downdetector facebook",
+      "facebook down?",
+      "messenger downdetector",
+      "meta down",
+      "facebook status",
+      "facebook messenger",
+      "is instagram down",
+      "facebook messenger down"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4657450507,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4640688480,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4657450507,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4615461705,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656535208,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4656356520,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628706094,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4640236226,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4621206311,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636631187,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4651555173,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4656028802,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4650893903,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644588419,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4644908231,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4588053425,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4635217371,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4612123891,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4611039432,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4617837678,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "facebook",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "haakon av norge",
+    "region": "SE",
+    "started_at_unix": 1781265000,
+    "ended_at_unix": 1781298600,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "haakon av norge"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4659953578,
+        "language": "no",
+        "region": "SE"
+      },
+      {
+        "id": 4626261535,
+        "language": "no",
+        "region": "SE"
+      },
+      {
+        "id": 4661716264,
+        "language": "no",
+        "region": "SE"
+      },
+      {
+        "id": 4653068374,
+        "language": "no",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "haakon av norge",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "bojan djordjic",
+    "region": "SE",
+    "started_at_unix": 1781289000,
+    "ended_at_unix": 1781302800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "bojan djordjic",
+      "bojan"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4660002740,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "bojan djordjic",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "ryan reynolds",
+    "region": "SE",
+    "started_at_unix": 1781293800,
+    "ended_at_unix": 1781301000,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "ryan reynolds",
+      "mike myers"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4653090781,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656093260,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658036029,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4644055821,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660762139,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4632819367,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "ryan reynolds",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "inbrott",
+    "region": "SE",
+    "started_at_unix": 1781331600,
+    "ended_at_unix": 1781334000,
+    "search_volume": 100,
+    "score": 900,
+    "related_queries": [
+      "inbrott"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 3728380379,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660857817,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4651980257,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4654369031,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4650912324,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4657931827,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4661606946,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4646662828,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4657774789,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "inbrott",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "isabella löwengrip",
+    "region": "SE",
+    "started_at_unix": 1781251800,
+    "ended_at_unix": 1781296800,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "isabella löwengrip"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4651418159,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660604148,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4566687528,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "isabella lowengrip",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "christian pulisic",
+    "region": "SE",
+    "started_at_unix": 1781332200,
+    "ended_at_unix": 1781333400,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "christian pulisic"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4661547421,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4639925296,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660701083,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660997943,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661346648,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660150554,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658739886,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4649240856,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4641328725,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "christian pulisic",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
     "keyword": "tv4 play",
     "region": "SE",
-    "started_at_unix": 1781196600,
-    "ended_at_unix": 1781240400,
-    "search_volume": 10000,
-    "score": 300,
+    "started_at_unix": 1781311800,
+    "ended_at_unix": 1781319000,
+    "search_volume": 500,
+    "score": 400,
     "related_queries": [
       "tv4 play",
       "tv4play"
@@ -769,6 +2676,11 @@
         "region": "SE"
       },
       {
+        "id": 4630604273,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
         "id": 4644510880,
         "language": "sv",
         "region": "SE"
@@ -780,798 +2692,122 @@
       }
     ],
     "normalized_keyword": "tv4 play",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "mexico vs south africa",
+    "keyword": "bosnien",
     "region": "SE",
-    "started_at_unix": 1781199600,
-    "ended_at_unix": 1781245800,
-    "search_volume": 10000,
+    "started_at_unix": 1781289600,
+    "ended_at_unix": 1781303400,
+    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "mexico vs south africa",
-      "mexico",
-      "fifa",
-      "mexico south africa",
-      "azteca stadium",
-      "flashscore",
-      "livescore",
-      "rsa",
-      "infantino",
-      "hugo broos",
-      "ronwen williams",
-      "south africa",
-      "bafana bafana",
-      "mexico city stadium capacity"
+      "bosnien"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4642228972,
-        "language": "en",
+        "id": 4634502323,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4656790168,
-        "language": "en",
+        "id": 4661814252,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4653017641,
-        "language": "en",
+        "id": 4642131536,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4623320417,
-        "language": "en",
+        "id": 4655839295,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4656793971,
-        "language": "en",
+        "id": 4661491165,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4657859691,
-        "language": "en",
+        "id": 4660984584,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4654305813,
-        "language": "en",
+        "id": 4658990003,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4640376401,
-        "language": "en",
+        "id": 4611421710,
+        "language": "de",
         "region": "SE"
-      },
-      {
-        "id": 4642228972,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4658143069,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640923477,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4643063061,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4643983438,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4650606203,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640651153,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4655712603,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641327310,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4630577929,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4643518399,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4657382845,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659690430,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658918498,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658776475,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4597656532,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4645560800,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655525203,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4625707769,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658987492,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658755040,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659794535,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647601343,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4659115768,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4650158979,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4637500141,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4654974443,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4642405636,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4656694553,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4653497133,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4646820928,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4635387406,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4640923477,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4643421835,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4659024797,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625707769,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4656259981,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4643224500,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647621824,
-        "language": "en",
-        "region": "US"
       }
     ],
-    "normalized_keyword": "mexico vs south africa",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "bosnien",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "vätternrundan",
+    "keyword": "vm matcher idag",
     "region": "SE",
-    "started_at_unix": 1781238600,
-    "ended_at_unix": null,
+    "started_at_unix": 1781277000,
+    "ended_at_unix": 1781323200,
     "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "vätternrundan",
-      "vätternrundan 2026"
-    ],
-    "category_ids": [
-      17,
-      8
-    ],
-    "entities": [
-      {
-        "id": 4637018993,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4650531765,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658696602,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658176102,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "vatternrundan",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "ariana grande",
-    "region": "SE",
-    "started_at_unix": 1781239800,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "ariana grande"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4659397293,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659046662,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659598852,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659827521,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4652299151,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655573726,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4628774745,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "ariana grande",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "spacex aktie",
-    "region": "SE",
-    "started_at_unix": 1781240400,
-    "ended_at_unix": null,
-    "search_volume": 200,
     "score": 400,
     "related_queries": [
-      "spacex aktie"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4628739937,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4659230429,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4642626443,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4658305571,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4657411092,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4652555244,
-        "language": "de",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "spacex aktie",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "olof mellberg",
-    "region": "SE",
-    "started_at_unix": 1781245800,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "olof mellberg"
+      "vm matcher idag",
+      "vm match idag",
+      "sverige vm matcher",
+      "sveriges vm matcher",
+      "vm match",
+      "fotbolls-vm 2026 tv-tider"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4653269505,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "olof mellberg",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "arbetslöshet",
-    "region": "SE",
-    "started_at_unix": 1781245800,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "arbetslöshet"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4652449409,
+        "id": 4656665867,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4653599351,
+        "id": 4648601988,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4650461519,
+        "id": 4655365526,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4658031208,
-        "language": "sv",
+        "id": 4656665867,
+        "language": "en",
         "region": "SE"
       },
-      {
-        "id": 4653534011,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4647726583,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "arbetsloshet",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "kärnkraft i ukraina",
-    "region": "SE",
-    "started_at_unix": 1781187000,
-    "ended_at_unix": 1781248800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "kärnkraft i ukraina"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4654564067,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "karnkraft i ukraina",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "tyskland",
-    "region": "SE",
-    "started_at_unix": 1781191800,
-    "ended_at_unix": 1781244600,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "tyskland"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4643158047,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4657142153,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641160210,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4656087870,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639649032,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631822345,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4648889840,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4642187119,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4644979265,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4656476294,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4642114737,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4655247620,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4629084830,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4658963076,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4645639466,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4630564639,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "tyskland",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "casper janebrink",
-    "region": "SE",
-    "started_at_unix": 1781178000,
-    "ended_at_unix": 1781245800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "casper janebrink"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4655184722,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "casper janebrink",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "bränsle",
-    "region": "SE",
-    "started_at_unix": 1781184000,
-    "ended_at_unix": 1781205000,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "bränsle"
-    ],
-    "category_ids": [
-      1
-    ],
-    "entities": [
-      {
-        "id": 4637201781,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4657564330,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655913236,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "bransle",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "mette-marit av norge",
-    "region": "SE",
-    "started_at_unix": 1781170200,
-    "ended_at_unix": 1781195400,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "mette-marit av norge"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4625657384,
-        "language": "no",
-        "region": "SE"
-      },
-      {
-        "id": 4655093260,
-        "language": "no",
-        "region": "SE"
-      },
-      {
-        "id": 4654894779,
-        "language": "no",
-        "region": "SE"
-      },
-      {
-        "id": 4646961119,
-        "language": "no",
-        "region": "SE"
-      },
-      {
-        "id": 4626261535,
-        "language": "no",
-        "region": "SE"
-      },
-      {
-        "id": 4642265435,
-        "language": "no",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "mette-marit av norge",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "lasse granqvist",
-    "region": "SE",
-    "started_at_unix": 1781193600,
-    "ended_at_unix": 1781243400,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "lasse granqvist"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4658249503,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "lasse granqvist",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "anton blomqvist",
-    "region": "SE",
-    "started_at_unix": 1781201400,
-    "ended_at_unix": 1781244000,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "anton blomqvist"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4659608840,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658463697,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "anton blomqvist",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "invigning fotbolls vm 2026",
-    "region": "SE",
-    "started_at_unix": 1781191800,
-    "ended_at_unix": 1781208600,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "invigning fotbolls vm 2026",
-      "vm invigning 2026",
-      "vm invigning 2026 tid",
-      "öppningsceremoni vm 2026",
-      "vm öppningsceremoni",
-      "vm final 2026"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
       {
         "id": 4655995290,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4653458474,
+        "id": 4641328725,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4617682125,
+        "id": 4660857816,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4649105218,
+        "id": 4655365526,
         "language": "en",
         "region": "SE"
       },
@@ -1581,12 +2817,12 @@
         "region": "SE"
       },
       {
-        "id": 4655995290,
-        "language": "sv",
+        "id": 4657818618,
+        "language": "en",
         "region": "SE"
       },
       {
-        "id": 4658996925,
+        "id": 4617682125,
         "language": "sv",
         "region": "SE"
       },
@@ -1596,409 +2832,7 @@
         "region": "SE"
       },
       {
-        "id": 4656445656,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "invigning fotbolls vm 2026",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "phil mickelson",
-    "region": "SE",
-    "started_at_unix": 1781216400,
-    "ended_at_unix": 1781248800,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "phil mickelson"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4658639549,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658941370,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658829942,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "phil mickelson",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "spårvagn",
-    "region": "SE",
-    "started_at_unix": 1781228400,
-    "ended_at_unix": 1781248200,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "spårvagn"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4367737274,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4644563227,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4656060972,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4630963422,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4619122292,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "sparvagn",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "superhjältefilm",
-    "region": "SE",
-    "started_at_unix": 1781173800,
-    "ended_at_unix": 1781239800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "superhjältefilm"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4655272392,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657847409,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "superhjaltefilm",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "inflation",
-    "region": "SE",
-    "started_at_unix": 1781174400,
-    "ended_at_unix": 1781242800,
-    "search_volume": 2000,
-    "score": 600,
-    "related_queries": [
-      "inflation"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4659737249,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4647554753,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657790566,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4653346074,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655861716,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "inflation",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "partiledare",
-    "region": "SE",
-    "started_at_unix": 1781186400,
-    "ended_at_unix": 1781212800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "partiledare"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4657995484,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 3864286949,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658614957,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658137532,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4651814207,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4653049485,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4657285692,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658790676,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "partiledare",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "south korea vs czechia",
-    "region": "SE",
-    "started_at_unix": 1781229600,
-    "ended_at_unix": 1781244600,
-    "search_volume": 2000,
-    "score": 700,
-    "related_queries": [
-      "south korea vs czechia",
-      "bet365"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4650606203,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655364648,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4650606203,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4657864903,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4659818078,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4646959861,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4658063583,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4657945648,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4658270682,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4606226473,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4650792845,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "south korea vs czechia",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "raul jimenez",
-    "region": "SE",
-    "started_at_unix": 1781204400,
-    "ended_at_unix": 1781240400,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "raul jimenez"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4655525203,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "raul jimenez",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "jason statham",
-    "region": "SE",
-    "started_at_unix": 1781191200,
-    "ended_at_unix": 1781241600,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "jason statham"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4643570727,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657664827,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4652451947,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4644809897,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4605378035,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "jason statham",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "irma helin zibanejad",
-    "region": "SE",
-    "started_at_unix": 1781199600,
-    "ended_at_unix": 1781218200,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "irma helin zibanejad",
-      "irma helin"
-    ],
-    "category_ids": [
-      17,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4651591475,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "irma helin zibanejad",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "fotbollsvm",
-    "region": "SE",
-    "started_at_unix": 1781237400,
-    "ended_at_unix": 1781245200,
-    "search_volume": 2000,
-    "score": 200,
-    "related_queries": [
-      "fotbollsvm",
-      "vm tipset",
-      "vart kan man se fotbolls vm 2026",
-      "vm match idag",
-      "fotbolls-vm 2026 tv-tider",
-      "fotbolls vm tv tider",
-      "matcher vm 2026",
-      "vm live",
-      "var kan man se fotbolls vm",
-      "vart kan man se vm 2026"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4643990672,
+        "id": 4641328725,
         "language": "sv",
         "region": "SE"
       },
@@ -2008,345 +2842,30 @@
         "region": "SE"
       },
       {
-        "id": 4659053262,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655995290,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4630604273,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655365526,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658716558,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658917717,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4648685171,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4617682125,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4648601988,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4643990672,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659053262,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "fotbollsvm",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "johan rabaeus",
-    "region": "SE",
-    "started_at_unix": 1781192400,
-    "ended_at_unix": 1781232600,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "johan rabaeus"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4658234142,
+        "id": 4661397547,
         "language": "sv",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "johan rabaeus",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "vm matcher idag",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "mexico city",
+    "keyword": "svtplay",
     "region": "SE",
-    "started_at_unix": 1781202000,
-    "ended_at_unix": 1781215800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "mexico city",
-      "tyla",
-      "salma hayek",
-      "official world cup song 2026",
-      "world cup opening ceremony"
-    ],
-    "category_ids": [
-      17,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4645560800,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4653423997,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658646206,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4589810305,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4645560800,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4659344916,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4644499593,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4645442949,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4642228972,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4657864519,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641660995,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4607882304,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4587615202,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4650864169,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4625707769,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659024797,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4654127701,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4656123587,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4644509468,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657333956,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4642228972,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658852443,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4650606203,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "mexico city",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "helsingborg mot bois",
-    "region": "SE",
-    "started_at_unix": 1781194800,
-    "ended_at_unix": 1781209200,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "helsingborg mot bois",
-      "hif",
-      "hif bois",
-      "hif landskrona"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4637768865,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4637768865,
-        "language": "fr",
-        "region": "SE"
-      },
-      {
-        "id": 4637768865,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659595114,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659035093,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "helsingborg mot bois",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "чемпионат мира по футболу fifa –2026",
-    "region": "SE",
-    "started_at_unix": 1781187600,
-    "ended_at_unix": 1781235000,
+    "started_at_unix": 1781289000,
+    "ended_at_unix": 1781316000,
     "search_volume": 500,
-    "score": 700,
+    "score": 300,
     "related_queries": [
-      "чемпионат мира по футболу fifa –2026"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4644409638,
-        "language": "ru",
-        "region": "SE"
-      },
-      {
-        "id": 4658592082,
-        "language": "ru",
-        "region": "SE"
-      },
-      {
-        "id": 4657967819,
-        "language": "ru",
-        "region": "SE"
-      },
-      {
-        "id": 4658755189,
-        "language": "ru",
-        "region": "SE"
-      },
-      {
-        "id": 4653651898,
-        "language": "ru",
-        "region": "SE"
-      },
-      {
-        "id": 4639532177,
-        "language": "ru",
-        "region": "SE"
-      },
-      {
-        "id": 4646727579,
-        "language": "ru",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "чемпионат мира по футболу fifa –2026",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "svt play",
-    "region": "SE",
-    "started_at_unix": 1781203800,
-    "ended_at_unix": 1781238000,
-    "search_volume": 2000,
-    "score": 75,
-    "related_queries": [
-      "svt play"
+      "svtplay"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4657806257,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4651429725,
+        "id": 4656782504,
         "language": "sv",
         "region": "SE"
       },
@@ -2356,12 +2875,7 @@
         "region": "SE"
       },
       {
-        "id": 4659555792,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4656782504,
+        "id": 4657806257,
         "language": "sv",
         "region": "SE"
       },
@@ -2376,196 +2890,317 @@
         "region": "SE"
       }
     ],
-    "normalized_keyword": "svt play",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "svtplay",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "båt",
+    "keyword": "spanien",
     "region": "SE",
-    "started_at_unix": 1781165400,
-    "ended_at_unix": 1781188800,
-    "search_volume": 2000,
+    "started_at_unix": 1781260200,
+    "ended_at_unix": 1781279400,
+    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "båt"
+      "spanien"
     ],
     "category_ids": [
-      10
+      3
     ],
     "entities": [
       {
-        "id": 4659574005,
-        "language": "en",
+        "id": 4651611789,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4656473386,
-        "language": "en",
+        "id": 4649435632,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4647907587,
-        "language": "en",
+        "id": 4661766135,
+        "language": "de",
         "region": "SE"
       },
       {
-        "id": 4622458171,
-        "language": "en",
+        "id": 4660116152,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660250041,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660645107,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4657161496,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4605132836,
+        "language": "de",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "bat",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "spanien",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "julián quiñones",
+    "keyword": "adam ginning",
     "region": "SE",
-    "started_at_unix": 1781205000,
-    "ended_at_unix": 1781213400,
-    "search_volume": 2000,
+    "started_at_unix": 1781264400,
+    "ended_at_unix": 1781288400,
+    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "julián quiñones",
-      "quinones",
-      "julian quinones",
-      "brian gutiérrez",
-      "roberto alvarado"
+      "adam ginning"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4658877852,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4659158683,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4649413009,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4638764197,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4637097785,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4659498544,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4632138038,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4658461451,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4650540763,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4659158678,
-        "language": "es",
+        "id": 4655593741,
+        "language": "en",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "julian quinones",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "adam ginning",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "förhandling",
+    "keyword": "bank",
     "region": "SE",
-    "started_at_unix": 1781238000,
-    "ended_at_unix": 1781248800,
-    "search_volume": 200,
-    "score": 700,
+    "started_at_unix": 1781257800,
+    "ended_at_unix": 1781279400,
+    "search_volume": 1000,
+    "score": 1000,
     "related_queries": [
-      "förhandling"
+      "bank"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4659675397,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4642047144,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659231019,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4645664250,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "bank",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "benjamin tahirovic",
+    "region": "SE",
+    "started_at_unix": 1781290800,
+    "ended_at_unix": 1781303400,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "benjamin tahirovic",
+      "benjamin tahirović"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4660117356,
+        "language": "nl",
+        "region": "SE"
+      },
+      {
+        "id": 4654369013,
+        "language": "nl",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "benjamin tahirovic",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "gucci",
+    "region": "SE",
+    "started_at_unix": 1781301600,
+    "ended_at_unix": 1781313600,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "gucci"
+    ],
+    "category_ids": [
+      17,
+      4
+    ],
+    "entities": [
+      {
+        "id": 4646931468,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4645560800,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661006663,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4660939428,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4658754312,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4660599385,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4659212588,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4618366183,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4626037640,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4629365387,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4607777614,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "gucci",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "alphonso davies",
+    "region": "SE",
+    "started_at_unix": 1781290800,
+    "ended_at_unix": 1781303400,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "alphonso davies"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4660803146,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658749914,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659591542,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4624772408,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4643043072,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "alphonso davies",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "nato",
+    "region": "SE",
+    "started_at_unix": 1781259000,
+    "ended_at_unix": 1781270400,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "nato",
+      "facebook nere",
+      "blixtnedslag"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4658932093,
+        "id": 4639687467,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4655237861,
+        "id": 4660256892,
         "language": "sv",
         "region": "SE"
-      }
-    ],
-    "normalized_keyword": "forhandling",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "drönarattack",
-    "region": "SE",
-    "started_at_unix": 1781182200,
-    "ended_at_unix": 1781199000,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "drönarattack"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
+      },
       {
-        "id": 4627107894,
-        "language": "en",
+        "id": 4639687467,
+        "language": "it",
         "region": "SE"
       },
       {
-        "id": 4638838631,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "dronarattack",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "svt",
-    "region": "SE",
-    "started_at_unix": 1781203200,
-    "ended_at_unix": 1781233800,
-    "search_volume": 2000,
-    "score": 100,
-    "related_queries": [
-      "svt"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4594598925,
-        "language": "en",
+        "id": 4640688480,
+        "language": "it",
         "region": "SE"
       },
       {
-        "id": 4653122796,
+        "id": 4639687467,
         "language": "en",
         "region": "SE"
       },
@@ -2575,707 +3210,166 @@
         "region": "SE"
       },
       {
-        "id": 4612034540,
+        "id": 4659933445,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4658568314,
+        "id": 4649081327,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4659555792,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659753308,
+        "id": 4646301939,
         "language": "en",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "svt",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "nato",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "ulf kristersson",
+    "keyword": "gudaf tsegay",
     "region": "SE",
-    "started_at_unix": 1781170800,
-    "ended_at_unix": 1781191800,
-    "search_volume": 2000,
-    "score": 200,
-    "related_queries": [
-      "ulf kristersson"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4658614981,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4649150949,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4657252867,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4656640252,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4653049485,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "ulf kristersson",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "bernardo silva",
-    "region": "SE",
-    "started_at_unix": 1781205600,
-    "ended_at_unix": 1781243400,
+    "started_at_unix": 1781277600,
+    "ended_at_unix": 1781297400,
     "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "bernardo silva"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4648139505,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659212587,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4649798769,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655120202,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "bernardo silva",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "gilberto mora",
-    "region": "SE",
-    "started_at_unix": 1781203800,
-    "ended_at_unix": 1781214600,
-    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "gilberto mora"
+      "gudaf tsegay"
     ],
     "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4648653833,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4656421943,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657033010,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "gilberto mora",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "azteka stadion",
-    "region": "SE",
-    "started_at_unix": 1781202600,
-    "ended_at_unix": 1781215200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "azteka stadion"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4654016760,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4655995290,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4629627102,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4659150687,
-        "language": "de",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "azteka stadion",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "curacao",
-    "region": "SE",
-    "started_at_unix": 1781203200,
-    "ended_at_unix": 1781215800,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "curacao"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4652927394,
-        "language": "nl",
-        "region": "SE"
-      },
-      {
-        "id": 4657333956,
-        "language": "nl",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "curacao",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "helsingborg",
-    "region": "SE",
-    "started_at_unix": 1781220000,
-    "ended_at_unix": 1781243400,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "helsingborg"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4655365526,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659035093,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4637768865,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4657790536,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4628804574,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "helsingborg",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "falu-kuriren",
-    "region": "SE",
-    "started_at_unix": 1781199000,
-    "ended_at_unix": 1781244600,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "falu-kuriren"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4657430660,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659464040,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658739450,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4641636516,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659827535,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4624899045,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655593753,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "falu-kuriren",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "tommy myllymäki",
-    "region": "SE",
-    "started_at_unix": 1781240400,
-    "ended_at_unix": 1781244600,
-    "search_volume": 100,
-    "score": 800,
-    "related_queries": [
-      "tommy myllymäki"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4642780553,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659545269,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "tommy myllymaki",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "andrea bocelli",
-    "region": "SE",
-    "started_at_unix": 1781203200,
-    "ended_at_unix": 1781208000,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "andrea bocelli",
-      "bocelli"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4657864519,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625718504,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "andrea bocelli",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "nhl",
-    "region": "SE",
-    "started_at_unix": 1781232000,
-    "ended_at_unix": 1781239200,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "nhl"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4642430552,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4642312818,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659723905,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655781067,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659505322,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4642334273,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4639070074,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658306861,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "nhl",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "mexico city stadium",
-    "region": "SE",
-    "started_at_unix": 1781203800,
-    "ended_at_unix": 1781214000,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "mexico city stadium"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4625707769,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655364648,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4645560800,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658755040,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "mexico city stadium",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "carola häggkvist",
-    "region": "SE",
-    "started_at_unix": 1781187000,
-    "ended_at_unix": 1781203200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "carola häggkvist"
-    ],
-    "category_ids": [
-      4,
+      17,
       7
     ],
     "entities": [
       {
-        "id": 4657457053,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "carola haggkvist",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "pension",
-    "region": "SE",
-    "started_at_unix": 1781234400,
-    "ended_at_unix": 1781239200,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "pension"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4656421879,
+        "id": 4660422828,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4655066301,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659652018,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4648937144,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657577508,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657351926,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657411092,
+        "id": 4660396316,
         "language": "en",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "pension",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "gudaf tsegay",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "sverige vm",
+    "keyword": "therese strömberg",
     "region": "SE",
-    "started_at_unix": 1781205000,
-    "ended_at_unix": 1781240400,
-    "search_volume": 1000,
-    "score": 100,
+    "started_at_unix": 1781291400,
+    "ended_at_unix": 1781303400,
+    "search_volume": 500,
+    "score": 1000,
     "related_queries": [
-      "sverige vm"
+      "therese strömberg"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4659790341,
+        "id": 4659933443,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4654574709,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659053262,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659638031,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4648601988,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4642245886,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655995290,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655365526,
+        "id": 4655839295,
         "language": "sv",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "sverige vm",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "therese stromberg",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "ochoa",
+    "keyword": "kanada",
     "region": "SE",
-    "started_at_unix": 1781203800,
-    "ended_at_unix": 1781210400,
+    "started_at_unix": 1781289600,
+    "ended_at_unix": 1781301600,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "kanada"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4660857816,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4655839295,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661625495,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "kanada",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "silly season",
+    "region": "SE",
+    "started_at_unix": 1781278200,
+    "ended_at_unix": 1781291400,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "silly season"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4653181906,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4658176052,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4657625057,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4637596982,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4643781682,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "silly season",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "pensionsgruppen",
+    "region": "SE",
+    "started_at_unix": 1781261400,
+    "ended_at_unix": 1781274000,
     "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "ochoa",
-      "guillermo ochoa"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4653436340,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4631789863,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4659527279,
-        "language": "es",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "ochoa",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "fifa world cup 2026™",
-    "region": "SE",
-    "started_at_unix": 1781211600,
-    "ended_at_unix": 1781241600,
-    "search_volume": 200,
-    "score": 600,
-    "related_queries": [
-      "fifa world cup 2026™"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4654739872,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639925296,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4659740981,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640923477,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4655189377,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4644613769,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "fifa world cup 2026™",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "bajrakitiyabha",
-    "region": "SE",
-    "started_at_unix": 1781240400,
-    "ended_at_unix": 1781243400,
-    "search_volume": 100,
-    "score": 900,
-    "related_queries": [
-      "bajrakitiyabha"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4657238669,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "bajrakitiyabha",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "försäkringskassan",
-    "region": "SE",
-    "started_at_unix": 1781189400,
-    "ended_at_unix": 1781194200,
-    "search_volume": 5000,
-    "score": 50,
-    "related_queries": [
-      "försäkringskassan"
+      "pensionsgruppen"
     ],
     "category_ids": [
       3,
@@ -3283,1128 +3377,144 @@
     ],
     "entities": [
       {
-        "id": 4640655370,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4649177956,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655066288,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4650827016,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655256223,
-        "language": "sv",
+        "id": 4659904856,
+        "language": "en",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "forsakringskassan",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "pensionsgruppen",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "stridsflygplan",
+    "keyword": "alexi lalas",
     "region": "SE",
-    "started_at_unix": 1781201400,
-    "ended_at_unix": 1781211000,
-    "search_volume": 500,
-    "score": 1000,
+    "started_at_unix": 1781316600,
+    "ended_at_unix": 1781333400,
+    "search_volume": 100,
+    "score": 300,
     "related_queries": [
-      "stridsflygplan"
+      "alexi lalas"
     ],
     "category_ids": [
-      11
+      17,
+      4
     ],
     "entities": [
       {
-        "id": 4648029645,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4651591451,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4653181893,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658830018,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "stridsflygplan",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "guidetti",
-    "region": "SE",
-    "started_at_unix": 1781201400,
-    "ended_at_unix": 1781216400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "guidetti"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4652964528,
-        "language": "it",
-        "region": "SE"
-      },
-      {
-        "id": 4659053262,
-        "language": "it",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "guidetti",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "hockeynews",
-    "region": "SE",
-    "started_at_unix": 1781190600,
-    "ended_at_unix": 1781200200,
-    "search_volume": 1000,
-    "score": 800,
-    "related_queries": [
-      "hockeynews",
-      "emil alba"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4625658759,
+        "id": 4660956884,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4658249471,
+        "id": 4639925296,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4651264539,
+        "id": 4661099575,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4656608401,
+        "id": 4647659153,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4657720027,
+        "id": 4656259981,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4654974419,
+        "id": 4658829949,
         "language": "en",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "hockeynews",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "alexi lalas",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "stina isaksson",
+    "keyword": "ufc",
     "region": "SE",
-    "started_at_unix": 1781180400,
-    "ended_at_unix": 1781191200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "stina isaksson"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4655547351,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4656060972,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4651449227,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4604098884,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "stina isaksson",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "mexiko",
-    "region": "SE",
-    "started_at_unix": 1781205000,
-    "ended_at_unix": 1781214000,
+    "started_at_unix": 1781313600,
+    "ended_at_unix": 1781322000,
     "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "mexiko"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4629627102,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4659026518,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4658193480,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4659053262,
-        "language": "de",
-        "region": "SE"
-      },
-      {
-        "id": 4657169497,
-        "language": "de",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "mexiko",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "svtplay",
-    "region": "SE",
-    "started_at_unix": 1781203200,
-    "ended_at_unix": 1781230200,
-    "search_volume": 500,
     "score": 100,
     "related_queries": [
-      "svtplay"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4659753308,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4648451311,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4657806257,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4654756557,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4651429725,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "svtplay",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "fotbolls-vm 2026 sverige",
-    "region": "SE",
-    "started_at_unix": 1781194800,
-    "ended_at_unix": 1781209200,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "fotbolls-vm 2026 sverige",
-      "var sänds fotbolls vm"
+      "ufc",
+      "ufc white house"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4648601988,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4655995290,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4648601988,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4657610444,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659790341,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4630604273,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655995290,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659053262,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4642245886,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655365526,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4654522286,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "fotbolls-vm 2026 sverige",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "unibet",
-    "region": "SE",
-    "started_at_unix": 1781202000,
-    "ended_at_unix": 1781226000,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "unibet"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4656720692,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4657818625,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "unibet",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "bitcoin",
-    "region": "SE",
-    "started_at_unix": 1781184000,
-    "ended_at_unix": 1781230800,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "bitcoin"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4655617690,
+        "id": 4644037046,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4656325013,
+        "id": 4661821657,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4659573994,
+        "id": 4655137949,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4657625831,
+        "id": 4657338643,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4656380471,
+        "id": 4646020975,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4654347121,
+        "id": 4645262756,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4659370672,
+        "id": 4651212755,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4656934010,
+        "id": 4660619805,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4641041436,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661304093,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660580758,
         "language": "en",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "bitcoin",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "yaya sithole",
-    "region": "SE",
-    "started_at_unix": 1781209200,
-    "ended_at_unix": 1781214600,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "yaya sithole"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4659761848,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4642228972,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "yaya sithole",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "lyle foster",
-    "region": "SE",
-    "started_at_unix": 1781205000,
-    "ended_at_unix": 1781210400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "lyle foster"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4644083072,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659080909,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658776475,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4642228972,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "lyle foster",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "wataru endo",
-    "region": "SE",
-    "started_at_unix": 1781209200,
-    "ended_at_unix": 1781241600,
-    "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "wataru endo"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4655536402,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658614883,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "wataru endo",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "vm låt 2026",
-    "region": "SE",
-    "started_at_unix": 1781203200,
-    "ended_at_unix": 1781207400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "vm låt 2026",
-      "officiella vm låten 2026"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4646214467,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4655995290,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "vm lat 2026",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "graham potter",
-    "region": "SE",
-    "started_at_unix": 1781188200,
-    "ended_at_unix": 1781196600,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "graham potter"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4647627369,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4645904288,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4644984302,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655552205,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659732537,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655120982,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4615028790,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4581635125,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "graham potter",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "när spelar sverige vm",
-    "region": "SE",
-    "started_at_unix": 1781206800,
-    "ended_at_unix": 1781238600,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "när spelar sverige vm"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4643250965,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4655995290,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4643990672,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "nar spelar sverige vm",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "ronaldo",
-    "region": "SE",
-    "started_at_unix": 1781201400,
-    "ended_at_unix": 1781209800,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "ronaldo"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4633370780,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4648201010,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4656891335,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4641672057,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4651670182,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4631958153,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4642228972,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658852285,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "ronaldo",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "maradona",
-    "region": "SE",
-    "started_at_unix": 1781202000,
-    "ended_at_unix": 1781206200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "maradona"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4643651605,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4623061422,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4659323016,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4646930484,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4638496947,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4658900268,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4644423384,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4659202834,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4644566049,
-        "language": "es",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "maradona",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "lamine yamal",
-    "region": "SE",
-    "started_at_unix": 1781208600,
-    "ended_at_unix": 1781212200,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "lamine yamal"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4657626315,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659053262,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4654739872,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4641519873,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4644715463,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655011757,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4648653833,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "lamine yamal",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "canelo",
-    "region": "SE",
-    "started_at_unix": 1781209800,
-    "ended_at_unix": 1781212800,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "canelo"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4654382475,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4658877852,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4623061422,
-        "language": "es",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "canelo",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "sara gille",
-    "region": "SE",
-    "started_at_unix": 1781173800,
-    "ended_at_unix": 1781179200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "sara gille",
-      "slöja"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4657774776,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4657774776,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658380767,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "sara gille",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "nwt",
-    "region": "SE",
-    "started_at_unix": 1781193600,
-    "ended_at_unix": 1781197800,
-    "search_volume": 200,
-    "score": 700,
-    "related_queries": [
-      "nwt"
-    ],
-    "category_ids": [
-      1
-    ],
-    "entities": [
-      {
-        "id": 4659790394,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659753300,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659723906,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658568396,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4648216413,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655256223,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "nwt",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "mexico city weather",
-    "region": "SE",
-    "started_at_unix": 1781206800,
-    "ended_at_unix": 1781209800,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "mexico city weather"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4657324912,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "mexico city weather",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "tallgatan gävle",
-    "region": "SE",
-    "started_at_unix": 1781196000,
-    "ended_at_unix": 1781199600,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "tallgatan gävle"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4658515906,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "tallgatan gavle",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "puyol",
-    "region": "SE",
-    "started_at_unix": 1781208000,
-    "ended_at_unix": 1781210400,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "puyol"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4653568048,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4623061422,
-        "language": "es",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "puyol",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "brand karlstad",
-    "region": "SE",
-    "started_at_unix": 1781194800,
-    "ended_at_unix": 1781197200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "brand karlstad",
-      "brand karlstad idag"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4658568396,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "brand karlstad",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "twitch",
-    "region": "SE",
-    "started_at_unix": 1781220600,
-    "ended_at_unix": 1781224800,
-    "search_volume": 100,
-    "score": 50,
-    "related_queries": [
-      "twitch"
-    ],
-    "category_ids": [
-      4,
-      6
-    ],
-    "entities": [
-      {
-        "id": 4658606337,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4645442765,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658658072,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4656370190,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658553487,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4646485790,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658538254,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658464144,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4616518168,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "twitch",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "gunnar strömmer",
-    "region": "SE",
-    "started_at_unix": 1781206200,
-    "ended_at_unix": 1781208600,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "gunnar strömmer"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4656640252,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "gunnar strommer",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "ufc",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
     "keyword": "erling haaland",
     "region": "SE",
-    "started_at_unix": 1781211600,
-    "ended_at_unix": 1781214000,
-    "search_volume": 100,
-    "score": 500,
+    "started_at_unix": 1781271600,
+    "ended_at_unix": 1781289000,
+    "search_volume": 500,
+    "score": 800,
     "related_queries": [
       "erling haaland"
     ],
@@ -4412,6 +3522,11 @@
       17
     ],
     "entities": [
+      {
+        "id": 4658829949,
+        "language": "en",
+        "region": "SE"
+      },
       {
         "id": 4659413725,
         "language": "en",
@@ -4423,7 +3538,17 @@
         "region": "SE"
       },
       {
-        "id": 4636251499,
+        "id": 4659790403,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658821782,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660256857,
         "language": "en",
         "region": "SE"
       },
@@ -4433,534 +3558,1821 @@
         "region": "SE"
       },
       {
-        "id": 4653457891,
+        "id": 4658074578,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4645219177,
+        "id": 4641672136,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4653366373,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4656012709,
+        "id": 4604153395,
         "language": "en",
         "region": "SE"
       }
     ],
     "normalized_keyword": "erling haaland",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "tshabalala",
+    "keyword": "dzeko",
     "region": "SE",
-    "started_at_unix": 1781206200,
-    "ended_at_unix": 1781208600,
-    "search_volume": 100,
+    "started_at_unix": 1781290800,
+    "ended_at_unix": 1781301000,
+    "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "tshabalala"
+      "dzeko",
+      "edin dzeko"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4658129468,
+        "id": 4659468981,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4653240732,
+        "id": 4655839295,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4642228972,
+        "id": 4656926187,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4653378910,
+        "id": 4595210966,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4659838606,
-        "language": "en",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "tshabalala",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "messi",
-    "region": "SE",
-    "started_at_unix": 1781202000,
-    "ended_at_unix": 1781209200,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "messi"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4656891335,
+        "id": 4660997594,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4655216508,
+        "id": 4631368009,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4657356892,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4631958153,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655867298,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4644655120,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659573981,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659722827,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4658798718,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4657233781,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659690165,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4636773834,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4641989393,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4655285539,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4659001617,
-        "language": "en",
-        "region": "SE"
-      },
-      {
-        "id": 4645887069,
+        "id": 4660393059,
         "language": "en",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "messi",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "dzeko",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "mcdonalds",
+    "keyword": "ryan gosling",
     "region": "SE",
-    "started_at_unix": 1781221800,
-    "ended_at_unix": 1781224800,
-    "search_volume": 100,
-    "score": 75,
-    "related_queries": [
-      "mcdonalds"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4638557451,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4658610001,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4659013041,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4649768464,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4652474720,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4651309498,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4658404873,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4645584046,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4648899849,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636298290,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4656912463,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4648277704,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "mcdonalds",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "roberto carlos",
-    "region": "SE",
-    "started_at_unix": 1781208600,
-    "ended_at_unix": 1781209800,
-    "search_volume": 200,
+    "started_at_unix": 1781293800,
+    "ended_at_unix": 1781300400,
+    "search_volume": 500,
     "score": 1000,
     "related_queries": [
-      "roberto carlos"
+      "ryan gosling"
     ],
     "category_ids": [
-      17,
       4
     ],
     "entities": [
       {
-        "id": 4659402401,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "roberto carlos",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "iqraam rayners",
-    "region": "SE",
-    "started_at_unix": 1781207400,
-    "ended_at_unix": 1781209200,
-    "search_volume": 100,
-    "score": 800,
-    "related_queries": [
-      "iqraam rayners"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4658776475,
+        "id": 4661328479,
         "language": "en",
         "region": "SE"
       },
       {
-        "id": 4642228972,
+        "id": 4645764533,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4600196574,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4563940723,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4621237633,
         "language": "en",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "iqraam rayners",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "ryan gosling",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "borås tidning",
+    "keyword": "gp",
     "region": "SE",
-    "started_at_unix": 1781194800,
-    "ended_at_unix": 1781196600,
-    "search_volume": 200,
-    "score": 700,
+    "started_at_unix": 1781272800,
+    "ended_at_unix": 1781279400,
+    "search_volume": 1000,
+    "score": 300,
     "related_queries": [
-      "borås tidning"
+      "gp"
     ],
     "category_ids": [
-      5
+      2
     ],
     "entities": [
       {
-        "id": 4659595139,
-        "language": "sv",
+        "id": 4661642556,
+        "language": "en",
         "region": "SE"
       },
       {
-        "id": 4659693014,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4659574001,
-        "language": "sv",
-        "region": "SE"
-      },
-      {
-        "id": 4658979942,
-        "language": "sv",
+        "id": 4630604273,
+        "language": "en",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "boras tidning",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "gp",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "césar montes",
+    "keyword": "problem med facebook",
     "region": "SE",
-    "started_at_unix": 1781214000,
-    "ended_at_unix": 1781215200,
-    "search_volume": 100,
-    "score": 900,
-    "related_queries": [
-      "césar montes"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4659335188,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4657138857,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4658877852,
-        "language": "es",
-        "region": "SE"
-      },
-      {
-        "id": 4653129726,
-        "language": "es",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "cesar montes",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "chrippa",
-    "region": "SE",
-    "started_at_unix": 1781169000,
-    "ended_at_unix": 1781171400,
-    "search_volume": 200,
+    "started_at_unix": 1781273400,
+    "ended_at_unix": 1781278200,
+    "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "chrippa"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4657564283,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "chrippa",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "fifa president",
-    "region": "SE",
-    "started_at_unix": 1781208000,
-    "ended_at_unix": 1781209200,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "fifa president"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4637500141,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4646820928,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4659027454,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4652769518,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4656801049,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4651888896,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4655270527,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4574295813,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "fifa president",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "biskopsgården",
-    "region": "SE",
-    "started_at_unix": 1781174400,
-    "ended_at_unix": 1781176800,
-    "search_volume": 100,
-    "score": 900,
-    "related_queries": [
-      "biskopsgården"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4650789156,
-        "language": "sv",
-        "region": "SE"
-      }
-    ],
-    "normalized_keyword": "biskopsgarden",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
-  },
-  {
-    "keyword": "bromma",
-    "region": "SE",
-    "started_at_unix": 1781206200,
-    "ended_at_unix": 1781207400,
-    "search_volume": 100,
-    "score": 700,
-    "related_queries": [
-      "bromma"
+      "problem med facebook",
+      "messenger problem",
+      "messenger ligger nere",
+      "problem facebook",
+      "problem med messenger",
+      "ligger messenger nere"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4657664805,
+        "id": 4640688480,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4659608860,
+        "id": 4645664250,
         "language": "sv",
         "region": "SE"
       },
       {
-        "id": 4658846177,
+        "id": 4640688480,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4639687467,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4657450507,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "problem med facebook",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "djurplågeri",
+    "region": "SE",
+    "started_at_unix": 1781289000,
+    "ended_at_unix": 1781328600,
+    "search_volume": 200,
+    "score": 700,
+    "related_queries": [
+      "djurplågeri"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4660321501,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4654369031,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660619443,
         "language": "sv",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "bromma",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "djurplageri",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   },
   {
-    "keyword": "stureby",
+    "keyword": "formel 1",
     "region": "SE",
-    "started_at_unix": 1781163000,
-    "ended_at_unix": 1781164200,
-    "search_volume": 100,
+    "started_at_unix": 1781253600,
+    "ended_at_unix": 1781265000,
+    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "stureby"
+      "formel 1"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4649864550,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4647330975,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4655405891,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4652893469,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4647656851,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4651059073,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4661445697,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4653029139,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4654906772,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660351344,
+        "language": "de",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "formel 1",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "jordgubbe",
+    "region": "SE",
+    "started_at_unix": 1781275800,
+    "ended_at_unix": 1781294400,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "jordgubbe"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4657351937,
+        "id": 4655525954,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4616432962,
         "language": "sv",
         "region": "SE"
       }
     ],
-    "normalized_keyword": "stureby",
-    "captured_at": "2026-06-12T07:28:57.866750+00:00"
+    "normalized_keyword": "jordgubbe",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "omaha",
+    "region": "SE",
+    "started_at_unix": 1781285400,
+    "ended_at_unix": 1781289600,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "omaha"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4658154250,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659171158,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661410006,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4616324020,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4653760910,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4650872650,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661391503,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658585117,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661608867,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660916010,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4654658597,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4578742103,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4596983165,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4627700899,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "omaha",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "alanis morissette",
+    "region": "SE",
+    "started_at_unix": 1781290800,
+    "ended_at_unix": 1781294400,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "alanis morissette",
+      "michael buble"
+    ],
+    "category_ids": [
+      4,
+      17
+    ],
+    "entities": [
+      {
+        "id": 4661150541,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4655078037,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661297196,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4589723954,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4628883139,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4651560869,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4660983109,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4659656286,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4653913133,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4618844927,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "alanis morissette",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "kongsberg gruppen",
+    "region": "SE",
+    "started_at_unix": 1781277600,
+    "ended_at_unix": 1781326800,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "kongsberg gruppen"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4640885950,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4657594421,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "kongsberg gruppen",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "kriminalthriller",
+    "region": "SE",
+    "started_at_unix": 1781286600,
+    "ended_at_unix": 1781326800,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "kriminalthriller"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4655633507,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4657806257,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "kriminalthriller",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "stockholm",
+    "region": "SE",
+    "started_at_unix": 1781289000,
+    "ended_at_unix": 1781299200,
+    "search_volume": 500,
+    "score": 200,
+    "related_queries": [
+      "stockholm"
+    ],
+    "category_ids": [
+      19
+    ],
+    "entities": [
+      {
+        "id": 4657818614,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4654539537,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4652927386,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4657351937,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660051224,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4656276629,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4659950004,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4659094428,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4647376937,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "stockholm",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "ligger facebook nere",
+    "region": "SE",
+    "started_at_unix": 1781274000,
+    "ended_at_unix": 1781277600,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "ligger facebook nere",
+      "facebook ligger nere"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4647743290,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4640688480,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "ligger facebook nere",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "jesse marsch",
+    "region": "SE",
+    "started_at_unix": 1781295000,
+    "ended_at_unix": 1781301600,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "jesse marsch"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4661572805,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4634502323,
+        "language": "de",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "jesse marsch",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "blake lively",
+    "region": "SE",
+    "started_at_unix": 1781296200,
+    "ended_at_unix": 1781300400,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "blake lively"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4658036029,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4634348948,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4633633033,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4641416562,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "blake lively",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "promise david",
+    "region": "SE",
+    "started_at_unix": 1781295600,
+    "ended_at_unix": 1781299800,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "promise david"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4648508170,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "promise david",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "sandviken",
+    "region": "SE",
+    "started_at_unix": 1781292000,
+    "ended_at_unix": 1781324400,
+    "search_volume": 100,
+    "score": 600,
+    "related_queries": [
+      "sandviken"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4660783375,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "sandviken",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "pilot",
+    "region": "SE",
+    "started_at_unix": 1781268000,
+    "ended_at_unix": 1781280600,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "pilot"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4660194229,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4651790811,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660712599,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660830822,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4642958963,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4651156793,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661304093,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4639789548,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4639930843,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4652429277,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "pilot",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "vitt vin",
+    "region": "SE",
+    "started_at_unix": 1781257800,
+    "ended_at_unix": 1781281800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "vitt vin"
+    ],
+    "category_ids": [
+      5
+    ],
+    "entities": [
+      {
+        "id": 4659771036,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4655143267,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "vitt vin",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "livescore",
+    "region": "SE",
+    "started_at_unix": 1781316000,
+    "ended_at_unix": 1781320800,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "livescore"
+    ],
+    "category_ids": [
+      17,
+      6
+    ],
+    "entities": [
+      {
+        "id": 4656790168,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4606226473,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "livescore",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "olivia rodrigo",
+    "region": "SE",
+    "started_at_unix": 1781284200,
+    "ended_at_unix": 1781328000,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "olivia rodrigo"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4644904978,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4650729414,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661851141,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4646703119,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661355362,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658426720,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "olivia rodrigo",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "meta",
+    "region": "SE",
+    "started_at_unix": 1781272800,
+    "ended_at_unix": 1781277600,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "meta"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4646352426,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4657450507,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4649788680,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4657147410,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4657261017,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661022983,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661372331,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4647023938,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4656153826,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4652233092,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636631187,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4648373548,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4592027297,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "meta",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "ontario",
+    "region": "SE",
+    "started_at_unix": 1781295000,
+    "ended_at_unix": 1781300400,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "ontario"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4660939510,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660508095,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661824764,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661651270,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661010499,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659095135,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660569934,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4653767200,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661017517,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "ontario",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "steffo törnquist",
+    "region": "SE",
+    "started_at_unix": 1781278200,
+    "ended_at_unix": 1781283600,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "steffo törnquist"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4658996925,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660437010,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4655184747,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "steffo tornquist",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "joachim posener",
+    "region": "SE",
+    "started_at_unix": 1781250600,
+    "ended_at_unix": 1781257800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "joachim posener"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4659807223,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "joachim posener",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "jovo lukic",
+    "region": "SE",
+    "started_at_unix": 1781294400,
+    "ended_at_unix": 1781298600,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "jovo lukic"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4657822785,
+        "language": "sr",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "jovo lukic",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "tv nu",
+    "region": "SE",
+    "started_at_unix": 1781286600,
+    "ended_at_unix": 1781298000,
+    "search_volume": 1000,
+    "score": 100,
+    "related_queries": [
+      "tv nu",
+      "tv tablå"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4655995290,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4653719520,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "tv nu",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "wrexham",
+    "region": "SE",
+    "started_at_unix": 1781296200,
+    "ended_at_unix": 1781300400,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "wrexham"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4653117998,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656123491,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659555939,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4649985543,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656913080,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4646995251,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660791546,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661729929,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661729602,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4649025601,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "wrexham",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "thomas partey",
+    "region": "SE",
+    "started_at_unix": 1781286600,
+    "ended_at_unix": 1781292000,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "thomas partey"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4658460851,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661283425,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660857816,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "thomas partey",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "nikola katic",
+    "region": "SE",
+    "started_at_unix": 1781297400,
+    "ended_at_unix": 1781301600,
+    "search_volume": 100,
+    "score": 900,
+    "related_queries": [
+      "nikola katic"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4661612119,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "nikola katic",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "larin",
+    "region": "SE",
+    "started_at_unix": 1781298000,
+    "ended_at_unix": 1781300400,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "larin",
+      "bosna kanada"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4655954983,
+        "language": "tr",
+        "region": "SE"
+      },
+      {
+        "id": 4658089836,
+        "language": "tr",
+        "region": "SE"
+      },
+      {
+        "id": 4655839295,
+        "language": "tr",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "larin",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "hund",
+    "region": "SE",
+    "started_at_unix": 1781274600,
+    "ended_at_unix": 1781298000,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "hund"
+    ],
+    "category_ids": [
+      8,
+      13
+    ],
+    "entities": [
+      {
+        "id": 4659056633,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660528540,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660934244,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660961994,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660710301,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4655328488,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660435931,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4661039447,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660117386,
+        "language": "de",
+        "region": "SE"
+      },
+      {
+        "id": 4660984593,
+        "language": "de",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "hund",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "curacao",
+    "region": "SE",
+    "started_at_unix": 1781298000,
+    "ended_at_unix": 1781300400,
+    "search_volume": 200,
+    "score": 100,
+    "related_queries": [
+      "curacao"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4657333956,
+        "language": "nl",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "curacao",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "thomas ravelli",
+    "region": "SE",
+    "started_at_unix": 1781289000,
+    "ended_at_unix": 1781292600,
+    "search_volume": 200,
+    "score": 600,
+    "related_queries": [
+      "thomas ravelli"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4659771065,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4657790609,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "thomas ravelli",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "usa",
+    "region": "SE",
+    "started_at_unix": 1781317200,
+    "ended_at_unix": 1781318400,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "usa"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4612034540,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656882044,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "usa",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "kristdemokraterna",
+    "region": "SE",
+    "started_at_unix": 1781290800,
+    "ended_at_unix": 1781294400,
+    "search_volume": 100,
+    "score": 600,
+    "related_queries": [
+      "kristdemokraterna"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4646404705,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660587767,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4661789861,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660153607,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4660117393,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4643417658,
+        "language": "sv",
+        "region": "SE"
+      },
+      {
+        "id": 4646616997,
+        "language": "sv",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "kristdemokraterna",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "tom hardy",
+    "region": "SE",
+    "started_at_unix": 1781295000,
+    "ended_at_unix": 1781299200,
+    "search_volume": 100,
+    "score": 700,
+    "related_queries": [
+      "tom hardy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4660880453,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4647471976,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4655770613,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4618578164,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "tom hardy",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "mellberg",
+    "region": "SE",
+    "started_at_unix": 1781296800,
+    "ended_at_unix": 1781298600,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "mellberg"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4653269505,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "mellberg",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "alessia cara",
+    "region": "SE",
+    "started_at_unix": 1781289000,
+    "ended_at_unix": 1781290800,
+    "search_volume": 200,
+    "score": 900,
+    "related_queries": [
+      "alessia cara"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4656729069,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4653886964,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4661150541,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "alessia cara",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "esmir bajraktarević",
+    "region": "SE",
+    "started_at_unix": 1781295000,
+    "ended_at_unix": 1781296200,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "esmir bajraktarević",
+      "bajraktarevic"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4660668716,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659468981,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4631368009,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "esmir bajraktarevic",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "facebook fel",
+    "region": "SE",
+    "started_at_unix": 1781275200,
+    "ended_at_unix": 1781277000,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "facebook fel"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4660984540,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4640688480,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "facebook fel",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "liverpool fc",
+    "region": "SE",
+    "started_at_unix": 1781272800,
+    "ended_at_unix": 1781275200,
+    "search_volume": 100,
+    "score": 900,
+    "related_queries": [
+      "liverpool fc"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4660346884,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4644379606,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656922324,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4648139505,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4648943287,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659766926,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658464096,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4660550859,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4656990146,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "liverpool fc",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
+  },
+  {
+    "keyword": "e18",
+    "region": "SE",
+    "started_at_unix": 1781294400,
+    "ended_at_unix": 1781295600,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "e18"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4654863126,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4658057584,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4657045114,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4655426533,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4659555878,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4636561368,
+        "language": "en",
+        "region": "SE"
+      },
+      {
+        "id": 4389791114,
+        "language": "en",
+        "region": "SE"
+      }
+    ],
+    "normalized_keyword": "e18",
+    "captured_at": "2026-06-13T07:05:57.871700+00:00"
   }
 ]
