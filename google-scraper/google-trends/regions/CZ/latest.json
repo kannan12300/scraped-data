@@ -1,354 +1,460 @@
 [
   {
-    "keyword": "veronika petruchová",
+    "keyword": "bonnie tyler",
     "region": "CZ",
-    "started_at_unix": 1781544000,
+    "started_at_unix": 1781607000,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "bonnie tyler"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4651517760,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 3047215813,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4456298516,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4584962634,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4605971122,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "bonnie tyler",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "tom holland",
+    "region": "CZ",
+    "started_at_unix": 1781632200,
     "ended_at_unix": null,
     "search_volume": 5000,
     "score": 1000,
     "related_queries": [
-      "veronika petruchová"
+      "tom holland"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4665706973,
+        "id": 4657749990,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4660437793,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668167691,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4669315770,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4661605904,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4669258012,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4663272600,
         "language": "en",
         "region": "CZ"
       }
     ],
-    "normalized_keyword": "veronika petruchova",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
+    "normalized_keyword": "tom holland",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
   },
   {
-    "keyword": "jan saudek",
+    "keyword": "jeremy clarkson",
     "region": "CZ",
-    "started_at_unix": 1781550600,
+    "started_at_unix": 1781676600,
     "ended_at_unix": null,
-    "search_volume": 2000,
+    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "jan saudek"
+      "jeremy clarkson"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4649036744,
+        "id": 4669202366,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4646163196,
         "language": "en",
         "region": "CZ"
       }
     ],
-    "normalized_keyword": "jan saudek",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
+    "normalized_keyword": "jeremy clarkson",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
   },
   {
-    "keyword": "karel havlíček",
+    "keyword": "messi",
     "region": "CZ",
-    "started_at_unix": 1781532600,
+    "started_at_unix": 1781659200,
     "ended_at_unix": null,
     "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "karel havlíček"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4654768469,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4658766556,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4665120080,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4665870830,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "karel havlicek",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "jirkov",
-    "region": "CZ",
-    "started_at_unix": 1781533800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "jirkov"
-    ],
-    "category_ids": [
-      9,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4665672740,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666978882,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4665120068,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4660522106,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "jirkov",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "sergej lavrov",
-    "region": "CZ",
-    "started_at_unix": 1781524800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "sergej lavrov"
-    ],
-    "category_ids": [
-      14,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4665290712,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "sergej lavrov",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "luftwaffe",
-    "region": "CZ",
-    "started_at_unix": 1781530800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "luftwaffe"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4659824046,
-        "language": "de",
-        "region": "CZ"
-      },
-      {
-        "id": 4665229603,
-        "language": "de",
-        "region": "CZ"
-      },
-      {
-        "id": 4651663620,
-        "language": "de",
-        "region": "CZ"
-      },
-      {
-        "id": 4646181609,
-        "language": "de",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "luftwaffe",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "průzkum",
-    "region": "CZ",
-    "started_at_unix": 1781589000,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "průzkum"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4648344714,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4647992803,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4663051387,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "pruzkum",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "mfk karviná",
-    "region": "CZ",
-    "started_at_unix": 1781553600,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "mfk karviná",
-      "karvina",
-      "isport"
+      "messi",
+      "lionel messi"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4661853305,
+        "id": 4641103436,
         "language": "en",
         "region": "CZ"
       },
       {
-        "id": 4666285938,
+        "id": 4650963071,
         "language": "en",
         "region": "CZ"
       },
       {
-        "id": 4665290729,
+        "id": 4634347166,
         "language": "en",
         "region": "CZ"
       },
       {
-        "id": 4601545832,
+        "id": 4668735964,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4664660709,
         "language": "en",
         "region": "CZ"
       }
     ],
-    "normalized_keyword": "mfk karvina",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
+    "normalized_keyword": "messi",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
   },
   {
-    "keyword": "plzeň",
+    "keyword": "el niño",
     "region": "CZ",
-    "started_at_unix": 1781544600,
+    "started_at_unix": 1781611200,
+    "ended_at_unix": 1781679600,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "el niño"
+    ],
+    "category_ids": [
+      15
+    ],
+    "entities": [
+      {
+        "id": 4655514959,
+        "language": "es",
+        "region": "CZ"
+      },
+      {
+        "id": 4659290769,
+        "language": "es",
+        "region": "CZ"
+      },
+      {
+        "id": 4668735259,
+        "language": "es",
+        "region": "CZ"
+      },
+      {
+        "id": 4668893652,
+        "language": "es",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "el nino",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "vit holy",
+    "region": "CZ",
+    "started_at_unix": 1781619600,
     "ended_at_unix": null,
     "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "plzeň"
+      "vit holy",
+      "vít holý",
+      "chorvatsko"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4658519271,
+        "id": 4663659650,
+        "language": "cs",
+        "region": "CZ"
+      },
+      {
+        "id": 4663659650,
+        "language": "sv",
+        "region": "CZ"
+      },
+      {
+        "id": 4663659650,
         "language": "en",
         "region": "CZ"
       },
       {
-        "id": 4651619084,
+        "id": 4664660709,
         "language": "en",
         "region": "CZ"
       },
       {
-        "id": 4666537001,
+        "id": 4635517502,
         "language": "en",
         "region": "CZ"
       },
       {
-        "id": 4661793889,
+        "id": 4666384245,
         "language": "en",
         "region": "CZ"
       },
       {
-        "id": 4665594398,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4649443859,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4665672759,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4644040183,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4650755433,
+        "id": 4664574481,
         "language": "en",
         "region": "CZ"
       }
     ],
-    "normalized_keyword": "plzen",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
+    "normalized_keyword": "vit holy",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
   },
   {
-    "keyword": "europol",
+    "keyword": "milionář",
     "region": "CZ",
-    "started_at_unix": 1781548800,
+    "started_at_unix": 1781679000,
     "ended_at_unix": null,
-    "search_volume": 1000,
+    "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "europol"
+      "milionář"
     ],
     "category_ids": [
-      10
+      11
     ],
     "entities": [
       {
-        "id": 4661004534,
+        "id": 4646832173,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4632094916,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4663192558,
         "language": "en",
         "region": "CZ"
       }
     ],
-    "normalized_keyword": "europol",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
+    "normalized_keyword": "milionar",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "argentina",
+    "region": "CZ",
+    "started_at_unix": 1781658600,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "argentina",
+      "argentina vs algeria"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4650963071,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4659143720,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4650963071,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4668735964,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4668077525,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4658899567,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4655867298,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4662974664,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "argentina",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "loď",
+    "region": "CZ",
+    "started_at_unix": 1781665800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 400,
+    "related_queries": [
+      "loď",
+      "válečná loď"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4668102136,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4663659650,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668746462,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4666819940,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4669083900,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4666912404,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4661912381,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4578995391,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4584826336,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668102136,
+        "language": "cs",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "lod",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "královská rodina",
+    "region": "CZ",
+    "started_at_unix": 1781676600,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "královská rodina"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4654601462,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4664859033,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "kralovska rodina",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
   },
   {
     "keyword": "jackpot",
     "region": "CZ",
     "started_at_unix": 1781595600,
-    "ended_at_unix": null,
-    "search_volume": 500,
+    "ended_at_unix": 1781676600,
+    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
       "jackpot"
@@ -363,7 +469,7 @@
         "region": "CZ"
       },
       {
-        "id": 4654640539,
+        "id": 4662589391,
         "language": "en",
         "region": "CZ"
       },
@@ -374,60 +480,1006 @@
       }
     ],
     "normalized_keyword": "jackpot",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
   },
   {
-    "keyword": "pražský okruh",
+    "keyword": "francie – senegal",
     "region": "CZ",
-    "started_at_unix": 1781544000,
-    "ended_at_unix": null,
-    "search_volume": 1000,
+    "started_at_unix": 1781634000,
+    "ended_at_unix": 1781679600,
+    "search_volume": 5000,
     "score": 1000,
     "related_queries": [
-      "pražský okruh"
+      "francie – senegal",
+      "mbappe",
+      "senegal",
+      "francie vs senegal",
+      "francie",
+      "olise"
     ],
     "category_ids": [
-      11
+      17
     ],
     "entities": [
       {
-        "id": 4653670755,
-        "language": "cs",
+        "id": 4634347166,
+        "language": "en",
         "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "prazsky okruh",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "bolatice",
-    "region": "CZ",
-    "started_at_unix": 1781536800,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 600,
-    "related_queries": [
-      "bolatice"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
+      },
       {
-        "id": 4663659650,
+        "id": 4655541816,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4634043331,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4655780170,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4649443836,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4641103436,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4665142525,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4663920135,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4665519862,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668422808,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4655459820,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4646279001,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4655622754,
         "language": "en",
         "region": "CZ"
       }
     ],
-    "normalized_keyword": "bolatice",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
+    "normalized_keyword": "francie – senegal",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "moderátor",
+    "region": "CZ",
+    "started_at_unix": 1781664000,
+    "ended_at_unix": 1781676600,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "moderátor"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4667477755,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4667748144,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4669202366,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4663659655,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4669367383,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4655664835,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4669241841,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668091351,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4661517896,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "moderator",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "moskva",
+    "region": "CZ",
+    "started_at_unix": 1781602800,
+    "ended_at_unix": 1781652600,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "moskva"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4659824046,
+        "language": "ru",
+        "region": "CZ"
+      },
+      {
+        "id": 4659357604,
+        "language": "ru",
+        "region": "CZ"
+      },
+      {
+        "id": 4662225195,
+        "language": "ru",
+        "region": "CZ"
+      },
+      {
+        "id": 4644091559,
+        "language": "ru",
+        "region": "CZ"
+      },
+      {
+        "id": 4642371835,
+        "language": "ru",
+        "region": "CZ"
+      },
+      {
+        "id": 4653517437,
+        "language": "ru",
+        "region": "CZ"
+      },
+      {
+        "id": 4649207990,
+        "language": "ru",
+        "region": "CZ"
+      },
+      {
+        "id": 4667661910,
+        "language": "ru",
+        "region": "CZ"
+      },
+      {
+        "id": 4640440344,
+        "language": "ru",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "moskva",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "argentina fotbal",
+    "region": "CZ",
+    "started_at_unix": 1781667600,
+    "ended_at_unix": 1781680200,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "argentina fotbal"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4666718775,
+        "language": "ro",
+        "region": "CZ"
+      },
+      {
+        "id": 4641103436,
+        "language": "ro",
+        "region": "CZ"
+      },
+      {
+        "id": 4659957128,
+        "language": "ro",
+        "region": "CZ"
+      },
+      {
+        "id": 4666138423,
+        "language": "ro",
+        "region": "CZ"
+      },
+      {
+        "id": 4666821264,
+        "language": "ro",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "argentina fotbal",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "lukáš horníček",
+    "region": "CZ",
+    "started_at_unix": 1781632800,
+    "ended_at_unix": 1781677800,
+    "search_volume": 1000,
+    "score": 900,
+    "related_queries": [
+      "lukáš horníček"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4652315152,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "lukas hornicek",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "google earth flight simulator",
+    "region": "CZ",
+    "started_at_unix": 1781614800,
+    "ended_at_unix": 1781681400,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "google earth flight simulator"
+    ],
+    "category_ids": [
+      6
+    ],
+    "entities": [
+      {
+        "id": 4661522935,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "google earth flight simulator",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "obi",
+    "region": "CZ",
+    "started_at_unix": 1781604000,
+    "ended_at_unix": 1781677800,
+    "search_volume": 2000,
+    "score": 100,
+    "related_queries": [
+      "obi"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4668501216,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4657153023,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4665035836,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4664861762,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4665552993,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4668565392,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4562450205,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4591548378,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "obi",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "ewa farna adhd pop",
+    "region": "CZ",
+    "started_at_unix": 1781608800,
+    "ended_at_unix": 1781673600,
+    "search_volume": 1000,
+    "score": 600,
+    "related_queries": [
+      "ewa farna adhd pop"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4658050498,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "ewa farna adhd pop",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "cena",
+    "region": "CZ",
+    "started_at_unix": 1781665200,
+    "ended_at_unix": 1781675400,
+    "search_volume": 500,
+    "score": 100,
+    "related_queries": [
+      "cena"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4668394297,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4630605461,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4656575031,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4636829662,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4668718007,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4551017383,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4653208774,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4646197099,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "cena",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "catherine princezna z walesu",
+    "region": "CZ",
+    "started_at_unix": 1781632200,
+    "ended_at_unix": 1781677800,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "catherine princezna z walesu"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4662633720,
+        "language": "cs",
+        "region": "CZ"
+      },
+      {
+        "id": 4605455597,
+        "language": "cs",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "catherine princezna z walesu",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "ronaldo",
+    "region": "CZ",
+    "started_at_unix": 1781671800,
+    "ended_at_unix": 1781678400,
+    "search_volume": 200,
+    "score": 300,
+    "related_queries": [
+      "ronaldo"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4669323105,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4666730152,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4650963071,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4669353715,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4666196308,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "ronaldo",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "lední hokej",
+    "region": "CZ",
+    "started_at_unix": 1781632800,
+    "ended_at_unix": 1781677200,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "lední hokej"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4669241817,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4669133948,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4667658600,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4655368739,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4656780446,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4665412732,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4665706964,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "ledni hokej",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "kylian mbappé",
+    "region": "CZ",
+    "started_at_unix": 1781641800,
+    "ended_at_unix": 1781677200,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "kylian mbappé",
+      "france vs senegal world cup 2026"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4655622754,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668422808,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668519445,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668735964,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4634347166,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4641103436,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4662400534,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4655541816,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4660100988,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4643109218,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4660079223,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4634326102,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "kylian mbappe",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "zuzana maděrová",
+    "region": "CZ",
+    "started_at_unix": 1781608200,
+    "ended_at_unix": 1781676000,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "zuzana maděrová"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4667297099,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668042852,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "zuzana maderova",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "france vs senegal",
+    "region": "CZ",
+    "started_at_unix": 1781637600,
+    "ended_at_unix": 1781652000,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "france vs senegal",
+      "france senegal"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4664833635,
+        "language": "fr",
+        "region": "CZ"
+      },
+      {
+        "id": 4643567598,
+        "language": "fr",
+        "region": "CZ"
+      },
+      {
+        "id": 4668567517,
+        "language": "fr",
+        "region": "CZ"
+      },
+      {
+        "id": 4659583191,
+        "language": "fr",
+        "region": "CZ"
+      },
+      {
+        "id": 4629856564,
+        "language": "fr",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "france vs senegal",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "finex.cz",
+    "region": "CZ",
+    "started_at_unix": 1781619600,
+    "ended_at_unix": 1781674200,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "finex.cz"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4665198941,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4667330165,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "finex.cz",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "petr pavel",
+    "region": "CZ",
+    "started_at_unix": 1781644200,
+    "ended_at_unix": 1781677200,
+    "search_volume": 500,
+    "score": 500,
+    "related_queries": [
+      "petr pavel"
+    ],
+    "category_ids": [
+      10,
+      14
+    ],
+    "entities": [
+      {
+        "id": 4667935618,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4664318648,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668993614,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4652439557,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4659893106,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4646577115,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4643447137,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4663062834,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "petr pavel",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "jan železný",
+    "region": "CZ",
+    "started_at_unix": 1781603400,
+    "ended_at_unix": 1781637600,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "jan železný"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4657230810,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4655954886,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "jan zelezny",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "tereza ramba",
+    "region": "CZ",
+    "started_at_unix": 1781669400,
+    "ended_at_unix": 1781673600,
+    "search_volume": 100,
+    "score": 400,
+    "related_queries": [
+      "tereza ramba"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4630072624,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4583501238,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "tereza ramba",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "zlata tretra",
+    "region": "CZ",
+    "started_at_unix": 1781623800,
+    "ended_at_unix": 1781636400,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "zlata tretra",
+      "zlata tretra program",
+      "zlatá tretra 2026 program"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4655954886,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4661751601,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4657230810,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668281901,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4666503011,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "zlata tretra",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "zlata tretra 2026",
+    "region": "CZ",
+    "started_at_unix": 1781619000,
+    "ended_at_unix": 1781637000,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "zlata tretra 2026",
+      "zlatá tretra 2026"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4661751601,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4655954886,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4655345753,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "zlata tretra 2026",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "haaland",
+    "region": "CZ",
+    "started_at_unix": 1781649600,
+    "ended_at_unix": 1781659200,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "haaland"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4668735964,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4657546244,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4641103436,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4650963071,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4630022212,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4664660709,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4650176173,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "haaland",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
   },
   {
     "keyword": "alexandr lukašenko",
     "region": "CZ",
     "started_at_unix": 1781595600,
-    "ended_at_unix": null,
-    "search_volume": 200,
+    "ended_at_unix": 1781608800,
+    "search_volume": 500,
     "score": 1000,
     "related_queries": [
       "alexandr lukašenko"
@@ -443,1537 +1495,301 @@
       }
     ],
     "normalized_keyword": "alexandr lukasenko",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
   },
   {
-    "keyword": "zrušení koncesionářských poplatků",
+    "keyword": "metlife stadium",
     "region": "CZ",
-    "started_at_unix": 1781535600,
-    "ended_at_unix": 1781593800,
-    "search_volume": 2000,
+    "started_at_unix": 1781638200,
+    "ended_at_unix": 1781646000,
+    "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "zrušení koncesionářských poplatků",
-      "koncesionářské poplatky",
-      "poplatek",
-      "koncesionářský poplatek"
+      "metlife stadium"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4630833932,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4655622754,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4660150975,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4663954462,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668634861,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668660761,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668273680,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "metlife stadium",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "harry potter",
+    "region": "CZ",
+    "started_at_unix": 1781605800,
+    "ended_at_unix": 1781622000,
+    "search_volume": 500,
+    "score": 400,
+    "related_queries": [
+      "harry potter"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4666040854,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4663523077,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "harry potter",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "marek soukup",
+    "region": "CZ",
+    "started_at_unix": 1781623200,
+    "ended_at_unix": 1781633400,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "marek soukup"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4667658600,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "marek soukup",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "dotační podvod",
+    "region": "CZ",
+    "started_at_unix": 1781612400,
+    "ended_at_unix": 1781629200,
+    "search_volume": 200,
+    "score": 900,
+    "related_queries": [
+      "dotační podvod"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4655489448,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4665744795,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "dotacni podvod",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "podvod",
+    "region": "CZ",
+    "started_at_unix": 1781606400,
+    "ended_at_unix": 1781615400,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "podvod"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4667352296,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4655489448,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4660140474,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4653465594,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4664795427,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4667229306,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4666730181,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "podvod",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "investice",
+    "region": "CZ",
+    "started_at_unix": 1781623800,
+    "ended_at_unix": 1781633400,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "investice"
     ],
     "category_ids": [
       11
     ],
     "entities": [
+      {
+        "id": 4659189435,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4646060638,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4643391139,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4669202337,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4664193436,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4667635453,
+        "language": "en",
+        "region": "CZ"
+      },
       {
         "id": 4652439557,
         "language": "en",
         "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "zruseni koncesionarskych poplatku",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "televizní noviny",
-    "region": "CZ",
-    "started_at_unix": 1781579400,
-    "ended_at_unix": 1781590200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "televizní noviny"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4662271408,
-        "language": "en",
-        "region": "CZ"
       },
       {
-        "id": 4661380327,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4660714678,
+        "id": 4666912473,
         "language": "en",
         "region": "CZ"
       }
     ],
-    "normalized_keyword": "televizni noviny",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
+    "normalized_keyword": "investice",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
   },
   {
-    "keyword": "krym",
+    "keyword": "reflex",
     "region": "CZ",
-    "started_at_unix": 1781538000,
-    "ended_at_unix": 1781592000,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "krym"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4664008874,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "krym",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "hacker",
-    "region": "CZ",
-    "started_at_unix": 1781583000,
-    "ended_at_unix": 1781596200,
+    "started_at_unix": 1781629200,
+    "ended_at_unix": 1781638200,
     "search_volume": 200,
-    "score": 600,
+    "score": 800,
     "related_queries": [
-      "hacker"
-    ],
-    "category_ids": [
-      18
-    ],
-    "entities": [
-      {
-        "id": 4664280483,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4665666508,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4660965205,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4648287472,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4631434989,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4666772960,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4657010274,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4660912502,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4652669720,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4664481556,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4659076607,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4656535208,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4613242823,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636631187,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "hacker",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "comeback",
-    "region": "CZ",
-    "started_at_unix": 1781530200,
-    "ended_at_unix": 1781593200,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "comeback"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4667028175,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4655044772,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666244286,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666902386,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4660075079,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666886460,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4665077286,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4637355342,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4653731476,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "comeback",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "senior",
-    "region": "CZ",
-    "started_at_unix": 1781523600,
-    "ended_at_unix": 1781554800,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "senior"
+      "reflex"
     ],
     "category_ids": [
       14
     ],
     "entities": [
       {
-        "id": 4647609520,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4648280360,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4662302032,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4660986609,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4658847720,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4655839703,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4665380652,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4665812140,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4656509784,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4666209130,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4665817732,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4665449853,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4664306991,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4666249676,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4666188564,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4661277442,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4659425875,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4643369724,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4656717279,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4665742930,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4666144558,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627334376,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "senior",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "ruská stínová flotila",
-    "region": "CZ",
-    "started_at_unix": 1781550000,
-    "ended_at_unix": 1781595000,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "ruská stínová flotila"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4663249830,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "ruska stinova flotila",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "b52",
-    "region": "CZ",
-    "started_at_unix": 1781560200,
-    "ended_at_unix": 1781594400,
-    "search_volume": 500,
-    "score": 400,
-    "related_queries": [
-      "b52",
-      "b-52"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4666171430,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4666171430,
+        "id": 4667857896,
         "language": "en",
         "region": "CZ"
       },
       {
-        "id": 4666162642,
+        "id": 4643447137,
         "language": "en",
         "region": "CZ"
       },
       {
-        "id": 3959005961,
+        "id": 4664318648,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4669185766,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4659189435,
         "language": "en",
         "region": "CZ"
       }
     ],
-    "normalized_keyword": "b52",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "filipíny",
-    "region": "CZ",
-    "started_at_unix": 1781513400,
-    "ended_at_unix": 1781585400,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "filipíny"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4650307239,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4665440918,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4664771615,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666367332,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4660174220,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "filipiny",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "belgie egypt",
-    "region": "CZ",
-    "started_at_unix": 1781552400,
-    "ended_at_unix": 1781590200,
-    "search_volume": 1000,
-    "score": 800,
-    "related_queries": [
-      "belgie egypt",
-      "belgie – egypt",
-      "de bruyne"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4663192604,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4656196718,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666144253,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4628810538,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666100156,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4653980648,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4599735512,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4652050608,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "belgie egypt",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "španělsko – kapverdy",
-    "region": "CZ",
-    "started_at_unix": 1781538000,
-    "ended_at_unix": 1781590200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "španělsko – kapverdy"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4639376048,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4663192604,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4662149246,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "spanelsko – kapverdy",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "simona babčáková",
-    "region": "CZ",
-    "started_at_unix": 1781541000,
-    "ended_at_unix": 1781595000,
-    "search_volume": 500,
-    "score": 800,
-    "related_queries": [
-      "simona babčáková"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4655981031,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "simona babcakova",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "strategický bombardér",
-    "region": "CZ",
-    "started_at_unix": 1781544000,
-    "ended_at_unix": 1781587200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "strategický bombardér"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4666162642,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4665635561,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4652393389,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "strategicky bombarder",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "lou fanánek hagen",
-    "region": "CZ",
-    "started_at_unix": 1781518200,
-    "ended_at_unix": 1781549400,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "lou fanánek hagen"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4664908311,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "lou fananek hagen",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "vozinha",
-    "region": "CZ",
-    "started_at_unix": 1781544600,
-    "ended_at_unix": 1781592600,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "vozinha"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4655778021,
-        "language": "pt",
-        "region": "CZ"
-      },
-      {
-        "id": 4664503765,
-        "language": "pt",
-        "region": "CZ"
-      },
-      {
-        "id": 4666020003,
-        "language": "pt",
-        "region": "CZ"
-      },
-      {
-        "id": 4662149246,
-        "language": "pt",
-        "region": "CZ"
-      },
-      {
-        "id": 4666195155,
-        "language": "pt",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "vozinha",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "veronika lálová",
-    "region": "CZ",
-    "started_at_unix": 1781519400,
-    "ended_at_unix": 1781548800,
-    "search_volume": 1000,
-    "score": 900,
-    "related_queries": [
-      "veronika lálová"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4664771643,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "veronika lalova",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "lukaku",
-    "region": "CZ",
-    "started_at_unix": 1781555400,
-    "ended_at_unix": 1781562000,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "lukaku",
-      "belgium vs egypt",
-      "romelu lukaku",
-      "belgium vs egypt world cup 2026",
-      "kevin de bruyne",
-      "emam ashour",
-      "mohamed salah",
-      "salah"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4628810538,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4634803659,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666099706,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4663192604,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4663738192,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666990852,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4667011399,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4599295616,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4665289282,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666680215,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666144253,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4656196718,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666412688,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666100156,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4658031522,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666273158,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666241376,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "lukaku",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "nico hülkenberg",
-    "region": "CZ",
-    "started_at_unix": 1781526600,
-    "ended_at_unix": 1781561400,
-    "search_volume": 500,
-    "score": 700,
-    "related_queries": [
-      "nico hülkenberg"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4664058549,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4663852348,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4660712481,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4660644330,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4665807207,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "nico hulkenberg",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "cape verde",
-    "region": "CZ",
-    "started_at_unix": 1781541000,
-    "ended_at_unix": 1781551200,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "cape verde",
-      "cabo verde",
-      "spain vs cabo verde world cup 2026",
-      "spain vs cabo verde",
-      "spain vs cape verde"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4658669103,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4657119742,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4658669103,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4666544063,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4657119742,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4665401730,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4653881316,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4666765384,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4667102287,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4628749700,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4639919511,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4642430098,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4660644330,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "cape verde",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "ekstraklasa",
-    "region": "CZ",
-    "started_at_unix": 1781530800,
-    "ended_at_unix": 1781552400,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "ekstraklasa"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4655441045,
-        "language": "pl",
-        "region": "CZ"
-      },
-      {
-        "id": 4657710928,
-        "language": "pl",
-        "region": "CZ"
-      },
-      {
-        "id": 4656789909,
-        "language": "pl",
-        "region": "CZ"
-      },
-      {
-        "id": 4665473288,
-        "language": "pl",
-        "region": "CZ"
-      },
-      {
-        "id": 4666852999,
-        "language": "pl",
-        "region": "CZ"
-      },
-      {
-        "id": 4666406941,
-        "language": "pl",
-        "region": "CZ"
-      },
-      {
-        "id": 4665857745,
-        "language": "pl",
-        "region": "CZ"
-      },
-      {
-        "id": 4665186066,
-        "language": "pl",
-        "region": "CZ"
-      },
-      {
-        "id": 4651823203,
-        "language": "pl",
-        "region": "CZ"
-      },
-      {
-        "id": 4655717544,
-        "language": "pl",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "ekstraklasa",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "andrea kimi antonelli",
-    "region": "CZ",
-    "started_at_unix": 1781520000,
-    "ended_at_unix": 1781548200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "andrea kimi antonelli"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4664943183,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4663907610,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4651245024,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4650202702,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4653919445,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4635077817,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "andrea kimi antonelli",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "daniel vladař",
-    "region": "CZ",
-    "started_at_unix": 1781589000,
-    "ended_at_unix": 1781591400,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "daniel vladař"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4665412732,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "daniel vladar",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "lamine yamal",
-    "region": "CZ",
-    "started_at_unix": 1781541600,
-    "ended_at_unix": 1781554200,
-    "search_volume": 500,
-    "score": 500,
-    "related_queries": [
-      "lamine yamal",
-      "yamal"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4654739872,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4662149246,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4658669103,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4665563305,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4662743243,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4664871295,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4635182419,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4662483929,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4663150214,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "lamine yamal",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "uruguay",
-    "region": "CZ",
-    "started_at_unix": 1781561400,
-    "ended_at_unix": 1781572200,
-    "search_volume": 200,
-    "score": 600,
-    "related_queries": [
-      "uruguay"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4664354317,
-        "language": "es",
-        "region": "CZ"
-      },
-      {
-        "id": 4663192604,
-        "language": "es",
-        "region": "CZ"
-      },
-      {
-        "id": 4666537013,
-        "language": "es",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "uruguay",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "jeremy clarkson",
-    "region": "CZ",
-    "started_at_unix": 1781526600,
-    "ended_at_unix": 1781544600,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "jeremy clarkson"
-    ],
-    "category_ids": [
-      1
-    ],
-    "entities": [
-      {
-        "id": 4664795482,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4663788309,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4663448145,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4661868227,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4665239711,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4656340073,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4655839939,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "jeremy clarkson",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "španělsko kapverdy",
-    "region": "CZ",
-    "started_at_unix": 1781543400,
-    "ended_at_unix": 1781551200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "španělsko kapverdy",
-      "vysledky ms fotbal 2026"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4662149246,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4652105795,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4639376048,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4663192604,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4634347166,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4656638217,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4659513468,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "spanelsko kapverdy",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "seattle",
-    "region": "CZ",
-    "started_at_unix": 1781553600,
-    "ended_at_unix": 1781560800,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "seattle"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4656476732,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666952794,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4659340630,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666505298,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4645024705,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4628810538,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4667011357,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4666713497,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "seattle",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "1. fc slovácko",
-    "region": "CZ",
-    "started_at_unix": 1781526000,
-    "ended_at_unix": 1781533800,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "1. fc slovácko"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4653946045,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4639755055,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "1. fc slovacko",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "zendaya",
-    "region": "CZ",
-    "started_at_unix": 1781538000,
-    "ended_at_unix": 1781545200,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "zendaya"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4657749990,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4655952221,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "zendaya",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "serena williamsová",
-    "region": "CZ",
-    "started_at_unix": 1781544000,
-    "ended_at_unix": 1781549400,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "serena williamsová"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4658050539,
-        "language": "en",
-        "region": "CZ"
-      },
-      {
-        "id": 4630485197,
-        "language": "en",
-        "region": "CZ"
-      }
-    ],
-    "normalized_keyword": "serena williamsova",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
-  },
-  {
-    "keyword": "iphone",
-    "region": "CZ",
-    "started_at_unix": 1781547600,
-    "ended_at_unix": 1781560200,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "iphone"
-    ],
-    "category_ids": [
-      18
-    ],
-    "entities": [
-      {
-        "id": 4658745581,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4652092217,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4651666251,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4664642442,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4625299916,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4623476723,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4666797454,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4667067794,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4660084244,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4661999856,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4641606749,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4663807867,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4664359334,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4638383049,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4579775505,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "iphone",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
+    "normalized_keyword": "reflex",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
   },
   {
     "keyword": "nova sport",
     "region": "CZ",
-    "started_at_unix": 1781541000,
-    "ended_at_unix": 1781543400,
+    "started_at_unix": 1781638800,
+    "ended_at_unix": 1781659800,
     "search_volume": 100,
-    "score": 800,
+    "score": 1000,
     "related_queries": [
       "nova sport"
     ],
@@ -1987,12 +1803,321 @@
         "region": "CZ"
       },
       {
+        "id": 4641103436,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4634347166,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
         "id": 4662149246,
         "language": "en",
         "region": "CZ"
       }
     ],
     "normalized_keyword": "nova sport",
-    "captured_at": "2026-06-16T07:49:35.297681+00:00"
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "peter serafinowicz",
+    "region": "CZ",
+    "started_at_unix": 1781604000,
+    "ended_at_unix": 1781610600,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "peter serafinowicz"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4665960055,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4666040854,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4592172029,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "peter serafinowicz",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "voják",
+    "region": "CZ",
+    "started_at_unix": 1781607600,
+    "ended_at_unix": 1781614800,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "voják"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4666502992,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4662183228,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4666706226,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4666040870,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4661671351,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4659952446,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4591853711,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "vojak",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "kambodža",
+    "region": "CZ",
+    "started_at_unix": 1781603400,
+    "ended_at_unix": 1781610000,
+    "search_volume": 200,
+    "score": 400,
+    "related_queries": [
+      "kambodža"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4667699594,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4667410147,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "kambodza",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "gabon",
+    "region": "CZ",
+    "started_at_unix": 1781637600,
+    "ended_at_unix": 1781639400,
+    "search_volume": 100,
+    "score": 1000,
+    "related_queries": [
+      "gabon"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4664783852,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "gabon",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "magenta tv",
+    "region": "CZ",
+    "started_at_unix": 1781638800,
+    "ended_at_unix": 1781640600,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "magenta tv"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4656262029,
+        "language": "de",
+        "region": "CZ"
+      },
+      {
+        "id": 4659525351,
+        "language": "de",
+        "region": "CZ"
+      },
+      {
+        "id": 4639169467,
+        "language": "de",
+        "region": "CZ"
+      },
+      {
+        "id": 4652682621,
+        "language": "de",
+        "region": "CZ"
+      },
+      {
+        "id": 4641104409,
+        "language": "de",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "magenta tv",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "colours of ostrava",
+    "region": "CZ",
+    "started_at_unix": 1781598600,
+    "ended_at_unix": 1781602200,
+    "search_volume": 100,
+    "score": 200,
+    "related_queries": [
+      "colours of ostrava"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4658446227,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4667588805,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4646264332,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "colours of ostrava",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "petr fiala",
+    "region": "CZ",
+    "started_at_unix": 1781631600,
+    "ended_at_unix": 1781632800,
+    "search_volume": 100,
+    "score": 600,
+    "related_queries": [
+      "petr fiala"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4667434282,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4664318648,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4668091346,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "petr fiala",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
+  },
+  {
+    "keyword": "polymarket",
+    "region": "CZ",
+    "started_at_unix": 1781608800,
+    "ended_at_unix": 1781610000,
+    "search_volume": 100,
+    "score": 800,
+    "related_queries": [
+      "polymarket"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4666606247,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4667759809,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4628954523,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4614698202,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4643890582,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4628386033,
+        "language": "en",
+        "region": "CZ"
+      },
+      {
+        "id": 4625589564,
+        "language": "en",
+        "region": "CZ"
+      }
+    ],
+    "normalized_keyword": "polymarket",
+    "captured_at": "2026-06-17T07:34:39.838033+00:00"
   }
 ]
