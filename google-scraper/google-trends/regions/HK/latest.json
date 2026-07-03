@@ -1,459 +1,422 @@
 [
   {
-    "keyword": "皇岗口岸",
+    "keyword": "葡萄牙對克羅地亞",
     "region": "HK",
-    "started_at_unix": 1782892800,
+    "started_at_unix": 1783004400,
+    "ended_at_unix": null,
+    "search_volume": 20000,
+    "score": 1000,
+    "related_queries": [
+      "葡萄牙對克羅地亞",
+      "祖達",
+      "葡萄牙 對 克羅埃西亞",
+      "葡萄牙對克羅埃西亞",
+      "葡萄牙",
+      "c羅",
+      "克羅地亞",
+      "摩迪",
+      "葡萄牙足球",
+      "葡萄牙國家足球隊",
+      "世足比賽",
+      "葡萄牙國家足球隊 對 克羅地亞國家足球隊 賽況",
+      "足球直播",
+      "克羅地亞對葡萄牙",
+      "克羅埃西亞國家足球隊",
+      "克羅地亞足球",
+      "葡萄牙國家足球隊 對 克羅地亞國家足球隊",
+      "葡萄牙對克羅地亞直播",
+      "葡萄牙克羅地亞",
+      "克羅地亞世界盃",
+      "葡萄牙世界盃",
+      "即時比分"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4695081003,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4702280888,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4691723742,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4695081003,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4700439400,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4701743315,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4701586901,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4695081003,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4691594733,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4688767494,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4692589649,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4682339326,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4698629799,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4697067659,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4699615479,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4688767494,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4689091424,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4691723742,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "葡萄牙對克羅地亞",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "portugal vs croatia",
+    "region": "HK",
+    "started_at_unix": 1783022400,
+    "ended_at_unix": null,
+    "search_volume": 10000,
+    "score": 1000,
+    "related_queries": [
+      "portugal vs croatia",
+      "portugal",
+      "modric",
+      "portugal world cup",
+      "cristiano ronaldo",
+      "croatia vs portugal",
+      "portugal national football team vs croatia national football team lineups",
+      "croatia"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4691392529,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4701874894,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4672230965,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4700177235,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4691458985,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4685227298,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4702429206,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4693401976,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4702117077,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4694588620,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4702349033,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4701730489,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4633370780,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4672651279,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4702225307,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4691862813,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4701496598,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4687348109,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4691392529,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4700177235,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4702225307,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4673044129,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4672651279,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4646279001,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "portugal vs croatia",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "瑞士對阿爾及利亞",
+    "region": "HK",
+    "started_at_unix": 1783029600,
     "ended_at_unix": null,
     "search_volume": 5000,
     "score": 1000,
     "related_queries": [
-      "皇岗口岸"
+      "瑞士對阿爾及利亞",
+      "瑞士 對 阿爾及利亞",
+      "瑞士",
+      "阿爾及利亞"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4700439400,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4702398184,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4695081003,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "瑞士對阿爾及利亞",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "皇崗口岸",
+    "region": "HK",
+    "started_at_unix": 1783044000,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "皇崗口岸"
     ],
     "category_ids": [
       10
     ],
     "entities": [
       {
-        "id": 4698657902,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4699630228,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
         "id": 4686934055,
-        "language": "zh",
+        "language": "ja",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "皇岗口岸",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
+    "normalized_keyword": "皇崗口岸",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
   },
   {
-    "keyword": "比利時對塞內加爾",
+    "keyword": "switzerland vs algeria",
     "region": "HK",
-    "started_at_unix": 1782918000,
+    "started_at_unix": 1783046400,
     "ended_at_unix": null,
-    "search_volume": 5000,
+    "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "比利時對塞內加爾",
-      "比利時 對 塞內加爾",
-      "比利時",
-      "塞內加爾",
-      "比利時足球",
-      "塞內加爾足球",
-      "比利時對塞內加爾預測",
-      "比利時國家足球隊"
+      "switzerland vs algeria",
+      "world cup",
+      "world cup 2026",
+      "algeria",
+      "switzerland"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4688055385,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4690419048,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4691429089,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4688055385,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4698381903,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4699437692,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4687274748,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "比利時對塞內加爾",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "梁珊",
-    "region": "HK",
-    "started_at_unix": 1782969000,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "梁珊"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4700165116,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4700168648,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "梁珊",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "美國對波斯尼亞",
-    "region": "HK",
-    "started_at_unix": 1782946200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "美國對波斯尼亞",
-      "美國 對 波赫",
-      "美國對波赫",
-      "福拉林·巴洛貢"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4690419048,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4700004426,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "美國對波斯尼亞",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "地震",
-    "region": "HK",
-    "started_at_unix": 1782939600,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 900,
-    "related_queries": [
-      "地震"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4684886561,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4684905076,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4679468763,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "地震",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "財務 自由",
-    "region": "HK",
-    "started_at_unix": 1782967200,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "財務 自由"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4692769932,
+        "id": 4691520347,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4692889430,
+        "id": 4682018280,
         "language": "en",
         "region": "US"
-      }
-    ],
-    "normalized_keyword": "財務 自由",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "富臨漁港 (紅磡店)",
-    "region": "HK",
-    "started_at_unix": 1782942600,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "富臨漁港 (紅磡店)"
-    ],
-    "category_ids": [
-      5
-    ],
-    "entities": [
-      {
-        "id": 4699727839,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "富臨漁港 (紅磡店)",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "日元兌港元",
-    "region": "HK",
-    "started_at_unix": 1782965400,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 100,
-    "related_queries": [
-      "日元兌港元",
-      "日元"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4697484836,
-        "language": "zh",
-        "region": "HK"
       },
       {
-        "id": 4684709174,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4697484836,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "日元兌港元",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "曾志偉",
-    "region": "HK",
-    "started_at_unix": 1782970800,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "曾志偉"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4698831998,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4688657656,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4698843923,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4699194512,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4698776782,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4699049332,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "曾志偉",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "一 號 戒備 信號",
-    "region": "HK",
-    "started_at_unix": 1782888000,
-    "ended_at_unix": 1782963000,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "一 號 戒備 信號",
-      "打風"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4685983795,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4685983795,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "一 號 戒備 信號",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "england vs dr congo",
-    "region": "HK",
-    "started_at_unix": 1782918600,
-    "ended_at_unix": 1782958800,
-    "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "england vs dr congo",
-      "harry kane",
-      "england world cup",
-      "england vs congo",
-      "england",
-      "kane",
-      "congo",
-      "brian cipenga",
-      "bellingham",
-      "djed spence",
-      "congo vs england",
-      "yoane wissa",
-      "bbc football"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4691634872,
+        "id": 4700177235,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4685110382,
+        "id": 4685493802,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4697053439,
+        "id": 4685009908,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4700228529,
+        "id": 4646024528,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4700186233,
+        "id": 4677658038,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4687611759,
+        "id": 4650963071,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4688516898,
+        "id": 4663583585,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4691365349,
+        "id": 4702257725,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4693719274,
+        "id": 4699347002,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4690701330,
+        "id": 4684298478,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4695908378,
+        "id": 4662393964,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4697752328,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699901052,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4646279001,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4698016817,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699108237,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4689753703,
+        "id": 4691520347,
         "language": "en",
         "region": "HK"
       },
@@ -463,62 +426,57 @@
         "region": "HK"
       },
       {
-        "id": 4671459012,
+        "id": 4691392529,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4685401945,
+        "id": 4685493802,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4700130471,
+        "id": 4702257725,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4699435902,
+        "id": 4700177235,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4691940020,
+        "id": 4702218944,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4698635318,
+        "id": 4701874894,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4699289742,
+        "id": 4685773779,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4691799543,
+        "id": 4699045936,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4666016200,
+        "id": 4693719274,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4684026520,
+        "id": 4701730489,
         "language": "en",
         "region": "HK"
       },
       {
-        "id": 4687410796,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4678482782,
+        "id": 4702429206,
         "language": "en",
         "region": "HK"
       },
@@ -526,1766 +484,154 @@
         "id": 4697885744,
         "language": "en",
         "region": "HK"
-      },
+      }
+    ],
+    "normalized_keyword": "switzerland vs algeria",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "百佳超市",
+    "region": "HK",
+    "started_at_unix": 1783042800,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "百佳超市"
+    ],
+    "category_ids": [
+      3,
+      5,
+      16
+    ],
+    "entities": [
       {
-        "id": 4695322327,
-        "language": "en",
+        "id": 4702104789,
+        "language": "zh-TW",
         "region": "HK"
       },
       {
-        "id": 4685285529,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4686118871,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4681523057,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699487984,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699774526,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4700186559,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691295565,
-        "language": "en",
+        "id": 4701411899,
+        "language": "zh-TW",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "england vs dr congo",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
+    "normalized_keyword": "百佳超市",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
   },
   {
-    "keyword": "英格蘭 對 剛果民主共和國",
+    "keyword": "超級 市場",
     "region": "HK",
-    "started_at_unix": 1782918600,
-    "ended_at_unix": 1782957600,
+    "started_at_unix": 1783000200,
+    "ended_at_unix": 1783051800,
     "search_volume": 10000,
     "score": 1000,
     "related_queries": [
-      "英格蘭 對 剛果民主共和國",
-      "英格蘭",
-      "英格蘭對剛果",
-      "英格蘭世界盃",
-      "剛果",
-      "剛果民主共和國國家足球隊",
-      "哈利簡尼",
-      "剛果民主共和國",
-      "英格蘭國家足球隊比賽",
-      "比寧咸",
-      "英格蘭國家足球隊",
-      "雲比沙卡",
-      "哈利·凱恩",
-      "英格蘭對剛果民主共和國預測",
-      "世界盃"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4691429089,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4699255041,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4684630661,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4693466710,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4683549581,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4691429089,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4688055385,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4689091424,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4692673559,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4695081003,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4699959672,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4696238621,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4668623711,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4690419048,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4698124054,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4662628769,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4700081961,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4684630661,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4700257491,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4691634872,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4691429089,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4691429089,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4699949118,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "英格蘭 對 剛果民主共和國",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "維德角國家足球隊",
-    "region": "HK",
-    "started_at_unix": 1782957000,
-    "ended_at_unix": 1782972600,
-    "search_volume": 500,
-    "score": 900,
-    "related_queries": [
-      "維德角國家足球隊"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4696108983,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "維德角國家足球隊",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "usa vs bosnia and herzegovina",
-    "region": "HK",
-    "started_at_unix": 1782949200,
-    "ended_at_unix": 1782961800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "usa vs bosnia and herzegovina",
-      "usa vs bosnia",
-      "波斯尼亞",
-      "folarin balogun",
-      "fifa",
-      "fifa world cup games"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4693719274,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699927420,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4700138658,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4666643585,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4693719274,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4690825977,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4690419048,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4687682455,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4691634872,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691520343,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699930483,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4686118871,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4700130471,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4697885744,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4700069755,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4685285529,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699055159,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4689735399,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691803792,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4690701330,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691365349,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4694731005,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699606044,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4682390698,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699358004,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4694616848,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4697197968,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4697128153,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4693222176,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "usa vs bosnia and herzegovina",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "belgium vs senegal",
-    "region": "HK",
-    "started_at_unix": 1782933600,
-    "ended_at_unix": 1782958200,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "belgium vs senegal",
-      "senegal",
-      "belgium",
-      "world cup live"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4691365349,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699672226,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691634872,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4693719274,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691365349,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4689957198,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4691634872,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4700018277,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4700130471,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4699978228,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4650769442,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4670803144,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619991968,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4689957198,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4697096112,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4693719274,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4700255000,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4668793116,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4692258624,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "belgium vs senegal",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "whatsapp",
-    "region": "HK",
-    "started_at_unix": 1782953400,
-    "ended_at_unix": 1782959400,
-    "search_volume": 5000,
-    "score": 50,
-    "related_queries": [
-      "whatsapp"
-    ],
-    "category_ids": [
-      18
-    ],
-    "entities": [
-      {
-        "id": 4694321455,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4697452562,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4699481317,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4672820231,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4673674601,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4599696137,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4679404720,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4591218190,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4678179768,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "whatsapp",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "windy",
-    "region": "HK",
-    "started_at_unix": 1782949800,
-    "ended_at_unix": 1782963600,
-    "search_volume": 500,
-    "score": 200,
-    "related_queries": [
-      "windy"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4692277156,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4684251799,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4684544250,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "windy",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "郭羨妮",
-    "region": "HK",
-    "started_at_unix": 1782888600,
-    "ended_at_unix": 1782952200,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "郭羨妮"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4697573388,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "郭羨妮",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "世界盃直播線上看",
-    "region": "HK",
-    "started_at_unix": 1782923400,
-    "ended_at_unix": 1782927600,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "世界盃直播線上看",
-      "世足的淘汰賽",
-      "世界盃賽果",
-      "世界盃賽程",
-      "世界盃2026",
-      "world cup 2026 直播",
-      "世界杯賽果",
-      "viutv世界盃直播",
-      "世界盃賽程表"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4668623711,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4668623711,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4690841829,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4690419048,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4690448549,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4662628769,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4668623711,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4662628769,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4688055385,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4698124054,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4691429089,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4690419048,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4662628769,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4697067659,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4691429089,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4684630661,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4688055385,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4696617073,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4684630661,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4690419048,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4688055385,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "世界盃直播線上看",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "美國",
-    "region": "HK",
-    "started_at_unix": 1782953400,
-    "ended_at_unix": 1782961200,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "美國"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4687098393,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4699977646,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4682413778,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4690419048,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4694845057,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4697067679,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4681460435,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4693351167,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4692686914,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4615545966,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "美國",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "霍啟山",
-    "region": "HK",
-    "started_at_unix": 1782946200,
-    "ended_at_unix": 1782955200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "霍啟山"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4694671628,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4692162614,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "霍啟山",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "非份之罪",
-    "region": "HK",
-    "started_at_unix": 1782911400,
-    "ended_at_unix": 1782916200,
-    "search_volume": 2000,
-    "score": 700,
-    "related_queries": [
-      "非份之罪",
-      "貝安琪",
-      "游嘉欣",
-      "非份之罪無臉女屍"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4677612665,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4677612665,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4677213255,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "非份之罪",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "黃錦輝議員",
-    "region": "HK",
-    "started_at_unix": 1782895200,
-    "ended_at_unix": 1782955200,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "黃錦輝議員"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4696494073,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "黃錦輝議員",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "903",
-    "region": "HK",
-    "started_at_unix": 1782957600,
-    "ended_at_unix": 1782961200,
-    "search_volume": 200,
-    "score": 50,
-    "related_queries": [
-      "903"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4690050664,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691966952,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4698168219,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699614566,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4695954100,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "903",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "颱風",
-    "region": "HK",
-    "started_at_unix": 1782945600,
-    "ended_at_unix": 1782953400,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "颱風",
-      "熱帶性低氣壓"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4689825090,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4685983795,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4689825090,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "颱風",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "恆生指數",
-    "region": "HK",
-    "started_at_unix": 1782957000,
-    "ended_at_unix": 1782960000,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "恆生指數"
+      "超級 市場"
     ],
     "category_ids": [
       3
     ],
     "entities": [
       {
-        "id": 4699848818,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4700049959,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4699959680,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4685706780,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4680892485,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4698898914,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "恆生指數",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "sandro mamukelashvili",
-    "region": "HK",
-    "started_at_unix": 1782925200,
-    "ended_at_unix": 1782950400,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "sandro mamukelashvili",
-      "quentin grimes"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4670776255,
+        "id": 4698320862,
         "language": "en",
-        "region": "HK"
+        "region": "US"
       },
       {
-        "id": 4699182962,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4692115283,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699500106,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4689201154,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699614582,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4696652176,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "sandro mamukelashvili",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "lionel mpasi",
-    "region": "HK",
-    "started_at_unix": 1782925800,
-    "ended_at_unix": 1782931200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "lionel mpasi"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4691372617,
-        "language": "fr",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "lionel mpasi",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "杜曹",
-    "region": "HK",
-    "started_at_unix": 1782925800,
-    "ended_at_unix": 1782931200,
-    "search_volume": 200,
-    "score": 1000,
-    "related_queries": [
-      "杜曹"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4697713554,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4691429089,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4693337246,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "杜曹",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "足球直播",
-    "region": "HK",
-    "started_at_unix": 1782923400,
-    "ended_at_unix": 1782925800,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "足球直播"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4684630661,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4698843923,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "足球直播",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "rashford",
-    "region": "HK",
-    "started_at_unix": 1782926400,
-    "ended_at_unix": 1782931800,
-    "search_volume": 100,
-    "score": 800,
-    "related_queries": [
-      "rashford"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4681105328,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699045308,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4700224836,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4697863670,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691634872,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4693010067,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699532871,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4676592584,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "rashford",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "saka",
-    "region": "HK",
-    "started_at_unix": 1782927600,
-    "ended_at_unix": 1782931800,
-    "search_volume": 100,
-    "score": 900,
-    "related_queries": [
-      "saka"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4693578129,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4698200970,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691634872,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4697052758,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "saka",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "hkjc",
-    "region": "HK",
-    "started_at_unix": 1782892800,
-    "ended_at_unix": 1782895800,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "hkjc"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4681119885,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4698574859,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4695386380,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "hkjc",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "2026世界盃",
-    "region": "HK",
-    "started_at_unix": 1782933600,
-    "ended_at_unix": 1782948600,
-    "search_volume": 100,
-    "score": 75,
-    "related_queries": [
-      "2026世界盃"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4695105777,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4695381208,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4668623711,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4688055385,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4691429089,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4690419048,
-        "language": "ja",
-        "region": "HK"
-      },
-      {
-        "id": 4689091424,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "2026世界盃",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "jaylen brown",
-    "region": "HK",
-    "started_at_unix": 1782952800,
-    "ended_at_unix": 1782954000,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "jaylen brown"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4699614582,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "jaylen brown",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "elliot anderson",
-    "region": "HK",
-    "started_at_unix": 1782928200,
-    "ended_at_unix": 1782931800,
-    "search_volume": 100,
-    "score": 800,
-    "related_queries": [
-      "elliot anderson"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4669320954,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4698029385,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4695993855,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4684557029,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691634872,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4625143257,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4621432622,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "elliot anderson",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "無人機表演",
-    "region": "HK",
-    "started_at_unix": 1782907200,
-    "ended_at_unix": 1782914400,
-    "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "無人機表演"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4682939232,
-        "language": "ja",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "無人機表演",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "大家樂冬瓜盅",
-    "region": "HK",
-    "started_at_unix": 1782899400,
-    "ended_at_unix": 1782904200,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "大家樂冬瓜盅"
-    ],
-    "category_ids": [
-      5
-    ],
-    "entities": [
-      {
-        "id": 4681244126,
-        "language": "zh-TW",
-        "region": "HK"
-      },
-      {
-        "id": 4682939232,
-        "language": "zh-TW",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "大家樂冬瓜盅",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "wimbledon",
-    "region": "HK",
-    "started_at_unix": 1782921000,
-    "ended_at_unix": 1782931200,
-    "search_volume": 200,
-    "score": 100,
-    "related_queries": [
-      "wimbledon"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4698866319,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4688741039,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4673326544,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699684798,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4698866130,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4681523057,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699566346,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4682954645,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "wimbledon",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "jude bellingham",
-    "region": "HK",
-    "started_at_unix": 1782927600,
-    "ended_at_unix": 1782931200,
-    "search_volume": 100,
-    "score": 500,
-    "related_queries": [
-      "jude bellingham"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4699164227,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4695396485,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4685401945,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691799543,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4699901052,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4691940020,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "jude bellingham",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "天气",
-    "region": "HK",
-    "started_at_unix": 1782945000,
-    "ended_at_unix": 1782946800,
-    "search_volume": 100,
-    "score": 75,
-    "related_queries": [
-      "天气"
-    ],
-    "category_ids": [
-      20
-    ],
-    "entities": [
-      {
-        "id": 4691930650,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4698733441,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4691930657,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4691193590,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4700033198,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4689623390,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4682826487,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4653561907,
-        "language": "zh",
-        "region": "HK"
-      },
-      {
-        "id": 4698104558,
-        "language": "zh",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "天气",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "msi 2026",
-    "region": "HK",
-    "started_at_unix": 1782902400,
-    "ended_at_unix": 1782905400,
-    "search_volume": 200,
-    "score": 800,
-    "related_queries": [
-      "msi 2026"
-    ],
-    "category_ids": [
-      6
-    ],
-    "entities": [
-      {
-        "id": 4694711679,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4683687681,
-        "language": "en",
-        "region": "HK"
-      },
-      {
-        "id": 4690881109,
-        "language": "en",
-        "region": "HK"
-      }
-    ],
-    "normalized_keyword": "msi 2026",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
-  },
-  {
-    "keyword": "爆旋陀螺",
-    "region": "HK",
-    "started_at_unix": 1782906000,
-    "ended_at_unix": 1782909600,
-    "search_volume": 100,
-    "score": 300,
-    "related_queries": [
-      "爆旋陀螺"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4690984213,
+        "id": 4699408575,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "爆旋陀螺",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
+    "normalized_keyword": "超級 市場",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
   },
   {
-    "keyword": "黃宗澤",
+    "keyword": "馬鞍山信義學校",
     "region": "HK",
-    "started_at_unix": 1782890400,
-    "ended_at_unix": 1782894000,
-    "search_volume": 100,
-    "score": 1000,
+    "started_at_unix": 1783036200,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 600,
     "related_queries": [
-      "黃宗澤"
+      "馬鞍山信義學校"
     ],
     "category_ids": [
-      4
+      9
     ],
     "entities": [
       {
-        "id": 4697691832,
+        "id": 4700297736,
         "language": "ja",
         "region": "HK"
       }
     ],
-    "normalized_keyword": "黃宗澤",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
+    "normalized_keyword": "馬鞍山信義學校",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
   },
   {
-    "keyword": "世界杯",
+    "keyword": "綠表置居計劃",
     "region": "HK",
-    "started_at_unix": 1782927600,
-    "ended_at_unix": 1782928800,
-    "search_volume": 100,
-    "score": 100,
+    "started_at_unix": 1782993000,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 1000,
     "related_queries": [
-      "世界杯"
+      "綠表置居計劃",
+      "綠 表 置 居 計劃"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4690379807,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "綠表置居計劃",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "西班牙對奧地利",
+    "region": "HK",
+    "started_at_unix": 1783003800,
+    "ended_at_unix": 1783057200,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "西班牙對奧地利",
+      "西班牙",
+      "西班牙國家足球隊"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4687818314,
+        "id": 4691723742,
         "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4691433824,
+        "id": 4702166879,
         "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4700004426,
+        "id": 4698629799,
         "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4686636085,
+        "id": 4690654092,
         "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4694834909,
+        "id": 4698802874,
         "language": "zh",
         "region": "HK"
       },
@@ -2295,12 +641,434 @@
         "region": "HK"
       },
       {
-        "id": 4694995744,
+        "id": 4691723742,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4702456183,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4695081003,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "西班牙對奧地利",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "安多尼·伊勞拉",
+    "region": "HK",
+    "started_at_unix": 1783054200,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "安多尼·伊勞拉"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4689620069,
         "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4686725813,
+        "id": 4668100145,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4698915409,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4682402570,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4698758315,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4702340706,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4684545329,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "安多尼·伊勞拉",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "spain vs austria",
+    "region": "HK",
+    "started_at_unix": 1783015200,
+    "ended_at_unix": 1783047600,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "spain vs austria",
+      "spain"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4691803792,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4700177235,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4691392529,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4701730489,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4698261492,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4696244082,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4701608676,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4685390962,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4627737732,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4674464280,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4660678324,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4665385958,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4617359760,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4661686730,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4586509688,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4592867291,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4691803792,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4700177235,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4691392529,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "spain vs austria",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "瑞士足球",
+    "region": "HK",
+    "started_at_unix": 1783050600,
+    "ended_at_unix": 1783058400,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "瑞士足球",
+      "世界杯直播"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4685702415,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4702386229,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4688069518,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4700272847,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4684630661,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4691594733,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "瑞士足球",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "阿斯頓維拉足球俱樂部",
+    "region": "HK",
+    "started_at_unix": 1783003200,
+    "ended_at_unix": 1783044000,
+    "search_volume": 1000,
+    "score": 900,
+    "related_queries": [
+      "阿斯頓維拉足球俱樂部"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4696622239,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4702056581,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4697038266,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4682189414,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4691782027,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4681869320,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4693578361,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4691365349,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4681952345,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4701316895,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "阿斯頓維拉足球俱樂部",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "奶茶",
+    "region": "HK",
+    "started_at_unix": 1783032000,
+    "ended_at_unix": 1783042800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "奶茶"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4699921031,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4696575655,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4697829130,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4700007748,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4695477045,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4701432684,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "奶茶",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "巴 威",
+    "region": "HK",
+    "started_at_unix": 1782978000,
+    "ended_at_unix": 1782999000,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "巴 威"
+    ],
+    "category_ids": [
+      20
+    ],
+    "entities": [
+      {
+        "id": 4689825090,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "巴 威",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "魯本・阿莫林",
+    "region": "HK",
+    "started_at_unix": 1783021800,
+    "ended_at_unix": 1783056000,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "魯本・阿莫林"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4701912561,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4692399196,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4691990237,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4697259789,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "魯本・阿莫林",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "世界杯",
+    "region": "HK",
+    "started_at_unix": 1783027200,
+    "ended_at_unix": 1783043400,
+    "search_volume": 2000,
+    "score": 100,
+    "related_queries": [
+      "世界杯",
+      "克羅地亞世界杯"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4691594733,
         "language": "zh",
         "region": "HK"
       },
@@ -2310,22 +1078,836 @@
         "region": "HK"
       },
       {
-        "id": 4697988174,
+        "id": 4692589649,
         "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4693466710,
+        "id": 4698629799,
         "language": "zh",
         "region": "HK"
       },
       {
-        "id": 4680833975,
+        "id": 4691910095,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4680665523,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4691337914,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4694658736,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4696440153,
         "language": "zh",
         "region": "HK"
       }
     ],
     "normalized_keyword": "世界杯",
-    "captured_at": "2026-07-02T06:24:56.779493+00:00"
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "fifa",
+    "region": "HK",
+    "started_at_unix": 1783027200,
+    "ended_at_unix": 1783043400,
+    "search_volume": 1000,
+    "score": 100,
+    "related_queries": [
+      "fifa"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4702218944,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4691520347,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4691392529,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4690256534,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4697885744,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4697128153,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4698782346,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4657786036,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4697311826,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "fifa",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "優惠券",
+    "region": "HK",
+    "started_at_unix": 1782996600,
+    "ended_at_unix": 1783039200,
+    "search_volume": 500,
+    "score": 700,
+    "related_queries": [
+      "優惠券"
+    ],
+    "category_ids": [
+      16,
+      2
+    ],
+    "entities": [
+      {
+        "id": 4702456275,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4687877089,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4696138900,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4699599282,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4700709634,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4688192707,
+        "language": "ja",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "優惠券",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "葡萄牙對克羅地亞 直播",
+    "region": "HK",
+    "started_at_unix": 1783038000,
+    "ended_at_unix": 1783042800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "葡萄牙對克羅地亞 直播",
+      "viutv 世界盃",
+      "世界盃線上看",
+      "2026世界盃賽程"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4668623711,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4695081003,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4668623711,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4688055385,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4700439400,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4691723742,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4697958059,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4683914545,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4695081003,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4691723742,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4684630661,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4690841829,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4691429089,
+        "language": "ja",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "葡萄牙對克羅地亞 直播",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "富临渔港",
+    "region": "HK",
+    "started_at_unix": 1783035600,
+    "ended_at_unix": 1783042800,
+    "search_volume": 500,
+    "score": 800,
+    "related_queries": [
+      "富临渔港",
+      "富 臨 漁港 紅磡 店"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4699727839,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4701930750,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4699727839,
+        "language": "ja",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "富临渔港",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "足球線上看",
+    "region": "HK",
+    "started_at_unix": 1783021200,
+    "ended_at_unix": 1783042200,
+    "search_volume": 200,
+    "score": 900,
+    "related_queries": [
+      "足球線上看"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4691429089,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4700439400,
+        "language": "ja",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "足球線上看",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "非份之罪",
+    "region": "HK",
+    "started_at_unix": 1782998400,
+    "ended_at_unix": 1783002600,
+    "search_volume": 2000,
+    "score": 1000,
+    "related_queries": [
+      "非份之罪",
+      "非份之罪線上看",
+      "吳啟華"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4677612665,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4700374106,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4702005662,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4677612665,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4677612665,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4677213255,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "非份之罪",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "中 年 好 聲音 4",
+    "region": "HK",
+    "started_at_unix": 1782989400,
+    "ended_at_unix": 1783000200,
+    "search_volume": 500,
+    "score": 600,
+    "related_queries": [
+      "中 年 好 聲音 4"
+    ],
+    "category_ids": [
+      4
+    ],
+    "entities": [
+      {
+        "id": 4700558176,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4685592208,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4700329620,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "中 年 好 聲音 4",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "林榮基",
+    "region": "HK",
+    "started_at_unix": 1782999000,
+    "ended_at_unix": 1783015800,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "林榮基"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4701035386,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4701111205,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "林榮基",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "diogo jota",
+    "region": "HK",
+    "started_at_unix": 1783042800,
+    "ended_at_unix": 1783045200,
+    "search_volume": 100,
+    "score": 800,
+    "related_queries": [
+      "diogo jota"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4672230965,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4698491612,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "diogo jota",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "信興集團",
+    "region": "HK",
+    "started_at_unix": 1783003200,
+    "ended_at_unix": 1783012200,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "信興集團",
+      "信興"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4701194137,
+        "language": "ja",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "信興集團",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "alexandra eala",
+    "region": "HK",
+    "started_at_unix": 1782997800,
+    "ended_at_unix": 1783030200,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "alexandra eala"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4672755445,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4695010059,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4701568194,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4701910401,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4702464974,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4688654961,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4688945343,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "alexandra eala",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "bet365",
+    "region": "HK",
+    "started_at_unix": 1783023600,
+    "ended_at_unix": 1783041600,
+    "search_volume": 200,
+    "score": 200,
+    "related_queries": [
+      "bet365"
+    ],
+    "category_ids": [
+      6,
+      17
+    ],
+    "entities": [
+      {
+        "id": 4702468790,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4691803792,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "bet365",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "portugal fc",
+    "region": "HK",
+    "started_at_unix": 1783039800,
+    "ended_at_unix": 1783042800,
+    "search_volume": 100,
+    "score": 800,
+    "related_queries": [
+      "portugal fc"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4684780865,
+        "language": "pt",
+        "region": "HK"
+      },
+      {
+        "id": 4698702489,
+        "language": "pt",
+        "region": "HK"
+      },
+      {
+        "id": 4666980938,
+        "language": "pt",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "portugal fc",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "lamine yamal",
+    "region": "HK",
+    "started_at_unix": 1783021800,
+    "ended_at_unix": 1783029000,
+    "search_volume": 100,
+    "score": 400,
+    "related_queries": [
+      "lamine yamal",
+      "yamal"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4701730489,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4698261492,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4701968185,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4702218944,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4697812403,
+        "language": "en",
+        "region": "HK"
+      },
+      {
+        "id": 4696795038,
+        "language": "en",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "lamine yamal",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "巴拿馬運河",
+    "region": "HK",
+    "started_at_unix": 1782985800,
+    "ended_at_unix": 1783034400,
+    "search_volume": 100,
+    "score": 500,
+    "related_queries": [
+      "巴拿馬運河"
+    ],
+    "category_ids": [
+      10
+    ],
+    "entities": [
+      {
+        "id": 4699977646,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "巴拿馬運河",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "校園欺凌",
+    "region": "HK",
+    "started_at_unix": 1782993000,
+    "ended_at_unix": 1782997200,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "校園欺凌",
+      "東張西望"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4701252601,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4691637312,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4699023342,
+        "language": "ja",
+        "region": "HK"
+      },
+      {
+        "id": 4690984213,
+        "language": "ja",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "校園欺凌",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "西班牙足球",
+    "region": "HK",
+    "started_at_unix": 1783021200,
+    "ended_at_unix": 1783030200,
+    "search_volume": 100,
+    "score": 300,
+    "related_queries": [
+      "西班牙足球"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4691484647,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4701741875,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4698629799,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4691723742,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "西班牙足球",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "天頌苑",
+    "region": "HK",
+    "started_at_unix": 1782974400,
+    "ended_at_unix": 1782978600,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "天頌苑"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4697918227,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "天頌苑",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "港元 定期",
+    "region": "HK",
+    "started_at_unix": 1782987000,
+    "ended_at_unix": 1782991800,
+    "search_volume": 200,
+    "score": 900,
+    "related_queries": [
+      "港元 定期"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4696891382,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "港元 定期",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "世界杯賽程",
+    "region": "HK",
+    "started_at_unix": 1783040400,
+    "ended_at_unix": 1783041600,
+    "search_volume": 100,
+    "score": 100,
+    "related_queries": [
+      "世界杯賽程"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4699985959,
+        "language": "zh",
+        "region": "HK"
+      },
+      {
+        "id": 4662628769,
+        "language": "zh",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "世界杯賽程",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
+  },
+  {
+    "keyword": "非農就業數據",
+    "region": "HK",
+    "started_at_unix": 1782996600,
+    "ended_at_unix": 1782999000,
+    "search_volume": 100,
+    "score": 800,
+    "related_queries": [
+      "非農就業數據"
+    ],
+    "category_ids": [
+      3
+    ],
+    "entities": [
+      {
+        "id": 4691238742,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4684135815,
+        "language": "zh-TW",
+        "region": "HK"
+      },
+      {
+        "id": 4701642012,
+        "language": "zh-TW",
+        "region": "HK"
+      }
+    ],
+    "normalized_keyword": "非農就業數據",
+    "captured_at": "2026-07-03T06:18:16.727309+00:00"
   }
 ]
