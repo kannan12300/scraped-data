@@ -1,717 +1,132 @@
 [
   {
-    "keyword": "folketinget",
+    "keyword": "boeing",
     "region": "DK",
-    "started_at_unix": 1783460400,
+    "started_at_unix": 1783531800,
+    "ended_at_unix": null,
+    "search_volume": 5000,
+    "score": 1000,
+    "related_queries": [
+      "boeing"
+    ],
+    "category_ids": [
+      10,
+      3
+    ],
+    "entities": [
+      {
+        "id": 4692486248,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4711538269,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4711652241,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4710305593,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4701267999,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4712958244,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4712498328,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4683711713,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4710884159,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4700743105,
+        "language": "en",
+        "region": "DK"
+      }
+    ],
+    "normalized_keyword": "boeing",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "købmand",
+    "region": "DK",
+    "started_at_unix": 1783516200,
     "ended_at_unix": null,
     "search_volume": 2000,
     "score": 1000,
     "related_queries": [
-      "folketinget",
-      "ida auken"
+      "købmand"
     ],
     "category_ids": [
-      11
+      16,
+      3,
+      5
     ],
     "entities": [
       {
-        "id": 4705307984,
+        "id": 4712140037,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4709441775,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4713853408,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4713261868,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4707708283,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4709739246,
         "language": "en",
         "region": "DK"
       }
     ],
-    "normalized_keyword": "folketinget",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "købmand",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "politiker",
+    "keyword": "larven fra helvede",
     "region": "DK",
-    "started_at_unix": 1783481400,
+    "started_at_unix": 1783515000,
     "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
+    "search_volume": 5000,
+    "score": 600,
     "related_queries": [
-      "politiker"
-    ],
-    "category_ids": [
-      14,
-      10
-    ],
-    "entities": [
-      {
-        "id": 4697173166,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4682794164,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4706856681,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4709485560,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4711383310,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4710581686,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4706313185,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4709949183,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4693824773,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4702488975,
-        "language": "de",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "politiker",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "plejehjem",
-    "region": "DK",
-    "started_at_unix": 1783408200,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "plejehjem"
-    ],
-    "category_ids": [
-      7
-    ],
-    "entities": [
-      {
-        "id": 4695752068,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "plejehjem",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "politik",
-    "region": "DK",
-    "started_at_unix": 1783456200,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "politik"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4701432597,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4701104570,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4705449420,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4711411165,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4705949550,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4711293137,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4695295502,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4693938736,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4697478980,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4710268859,
-        "language": "de",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "politik",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "switzerland vs colombia",
-    "region": "DK",
-    "started_at_unix": 1783454400,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "switzerland vs colombia",
-      "colombia vs switzerland",
-      "colombia",
-      "luis diaz"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4704319673,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4704184441,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4702911610,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4701051464,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4704319673,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4704184441,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4708586835,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4619115963,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4690256534,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4627732071,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4621286716,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4603813367,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710096977,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4665436523,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4621286716,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "switzerland vs colombia",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "elbil",
-    "region": "DK",
-    "started_at_unix": 1783441200,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 400,
-    "related_queries": [
-      "elbil"
-    ],
-    "category_ids": [
-      1
-    ],
-    "entities": [
-      {
-        "id": 4710609236,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706750979,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4702889477,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4700029019,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4688978647,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708600987,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4669465423,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4705205219,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4701696264,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708054715,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "elbil",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "grønland",
-    "region": "DK",
-    "started_at_unix": 1783437600,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 700,
-    "related_queries": [
-      "grønland"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4697519437,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4683014356,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4708121986,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4660909846,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4596149721,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4398686006,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "grønland",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "novak djokovic",
-    "region": "DK",
-    "started_at_unix": 1783444800,
-    "ended_at_unix": null,
-    "search_volume": 2000,
-    "score": 900,
-    "related_queries": [
-      "novak djokovic",
-      "tennis wimbledon 2026",
-      "wimbledon",
-      "auger aliassime",
-      "tennis",
-      "djokovic"
-    ],
-    "category_ids": [
-      17,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4706899313,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4693737121,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4709042887,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4707251389,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4702601344,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708369831,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4701684712,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4700899144,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4694691835,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4705432705,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710967169,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4700074759,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4689590394,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4711644027,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4703518925,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4700816595,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4672755445,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4692781340,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708982317,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4688308315,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708289986,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710680659,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4695086762,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710123260,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4704010237,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710917970,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "novak djokovic",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "wimbledon 2026",
-    "region": "DK",
-    "started_at_unix": 1783450800,
-    "ended_at_unix": null,
-    "search_volume": 1000,
-    "score": 200,
-    "related_queries": [
-      "wimbledon 2026"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4693737121,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4674836776,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706899313,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4702601344,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4709042887,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4705620582,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708369831,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4703184509,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4694691835,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "wimbledon 2026",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "tv2 østjylland",
-    "region": "DK",
-    "started_at_unix": 1783482000,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 500,
-    "related_queries": [
-      "tv2 østjylland"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4710609250,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710848874,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706160523,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708851672,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "tv2 østjylland",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "colombia schweiz",
-    "region": "DK",
-    "started_at_unix": 1783464600,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "colombia schweiz",
-      "schweiz - colombia"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4704312329,
-        "language": "de",
-        "region": "DK"
-      },
-      {
-        "id": 4705195303,
-        "language": "de",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "colombia schweiz",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "connor murphy",
-    "region": "DK",
-    "started_at_unix": 1783470600,
-    "ended_at_unix": null,
-    "search_volume": 200,
-    "score": 400,
-    "related_queries": [
-      "connor murphy"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4711237128,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "connor murphy",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "larve",
-    "region": "DK",
-    "started_at_unix": 1783477800,
-    "ended_at_unix": null,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "larve",
-      "direktør"
+      "larven fra helvede"
     ],
     "category_ids": [
       10
@@ -719,756 +134,166 @@
     "entities": [
       {
         "id": 4676617438,
-        "language": "en",
+        "language": "da",
         "region": "DK"
       },
       {
-        "id": 4709346720,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4695815230,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706751025,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4693324893,
-        "language": "en",
+        "id": 4700398694,
+        "language": "da",
         "region": "DK"
       }
     ],
-    "normalized_keyword": "larve",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "larven fra helvede",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "argentina egypten",
+    "keyword": "kta1732",
     "region": "DK",
-    "started_at_unix": 1783443000,
-    "ended_at_unix": 1783486800,
-    "search_volume": 10000,
-    "score": 1000,
-    "related_queries": [
-      "argentina egypten",
-      "egypten argentina",
-      "argentina - egypten",
-      "argentina vm",
-      "egypten vm",
-      "argentina vs egypten",
-      "vm",
-      "tv2"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4704192448,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4704378240,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706073965,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710792961,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4711086186,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4622014508,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4711683445,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4711742109,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706028152,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4705240265,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4707679095,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4709346769,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4696375431,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4704192448,
-        "language": "sv",
-        "region": "DK"
-      },
-      {
-        "id": 4705768275,
-        "language": "sv",
-        "region": "DK"
-      },
-      {
-        "id": 4709922378,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708683437,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4693036538,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4709886971,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4700793973,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4636449675,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4622533944,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "argentina egypten",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "fredericia",
-    "region": "DK",
-    "started_at_unix": 1783451400,
+    "started_at_unix": 1783555200,
     "ended_at_unix": null,
     "search_volume": 500,
-    "score": 500,
+    "score": 700,
     "related_queries": [
-      "fredericia"
+      "kta1732"
     ],
     "category_ids": [
-      3
+      11
     ],
     "entities": [
       {
-        "id": 4710760427,
+        "id": 4711652241,
         "language": "en",
         "region": "DK"
       },
       {
-        "id": 4668235139,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710848832,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4709521950,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706775837,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706601574,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710848903,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710760405,
+        "id": 4710884159,
         "language": "en",
         "region": "DK"
       }
     ],
-    "normalized_keyword": "fredericia",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "kta1732",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "pension",
+    "keyword": "rusland",
     "region": "DK",
-    "started_at_unix": 1783483800,
+    "started_at_unix": 1783566000,
     "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 400,
-    "related_queries": [
-      "pension"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4676745463,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4709566056,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "pension",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "mads pedersen",
-    "region": "DK",
-    "started_at_unix": 1783437600,
-    "ended_at_unix": 1783486800,
-    "search_volume": 2000,
+    "search_volume": 1000,
     "score": 1000,
     "related_queries": [
-      "mads pedersen",
-      "tour de france etaper"
+      "rusland"
     ],
     "category_ids": [
-      17,
-      8
+      11
     ],
     "entities": [
       {
-        "id": 4710649971,
-        "language": "en",
+        "id": 4707154106,
+        "language": "nl",
         "region": "DK"
       },
       {
-        "id": 4648502782,
-        "language": "en",
+        "id": 4711214733,
+        "language": "nl",
         "region": "DK"
       },
       {
-        "id": 4706073965,
-        "language": "en",
+        "id": 4712004143,
+        "language": "nl",
         "region": "DK"
       },
       {
-        "id": 4706631022,
-        "language": "en",
+        "id": 4695209632,
+        "language": "nl",
         "region": "DK"
       },
       {
-        "id": 4692711569,
-        "language": "en",
+        "id": 4700771479,
+        "language": "nl",
         "region": "DK"
       },
       {
-        "id": 4708851685,
-        "language": "en",
+        "id": 4708611849,
+        "language": "nl",
         "region": "DK"
       },
       {
-        "id": 4708733676,
-        "language": "en",
+        "id": 4707494834,
+        "language": "nl",
         "region": "DK"
       },
       {
-        "id": 4711555709,
-        "language": "en",
+        "id": 4690806421,
+        "language": "nl",
         "region": "DK"
       },
       {
-        "id": 4706661689,
-        "language": "en",
+        "id": 4694703965,
+        "language": "nl",
         "region": "DK"
       },
       {
-        "id": 4707818953,
-        "language": "en",
+        "id": 4218679282,
+        "language": "nl",
         "region": "DK"
       },
       {
-        "id": 4709487205,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708243274,
-        "language": "en",
+        "id": 4702644737,
+        "language": "nl",
         "region": "DK"
       }
     ],
-    "normalized_keyword": "mads pedersen",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "rusland",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "argentina vs egypt",
+    "keyword": "vig festival",
     "region": "DK",
-    "started_at_unix": 1783439400,
-    "ended_at_unix": 1783452600,
+    "started_at_unix": 1783519800,
+    "ended_at_unix": 1783578000,
     "search_volume": 5000,
-    "score": 1000,
-    "related_queries": [
-      "argentina vs egypt",
-      "messi",
-      "egypten",
-      "argentina egypt",
-      "atlanta",
-      "egypt argentina",
-      "fifa world cup",
-      "worldcup"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4704184441,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4698897780,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4699392948,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4709864586,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4698214120,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4694731005,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4701783734,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4698782346,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4699672226,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710902509,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4704549795,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708601910,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4709381435,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4702911610,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4705174913,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4704319673,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4704184441,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4711652012,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4708994373,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4698472955,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4711024042,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4708871061,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4709063017,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4699500064,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4689911871,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4688906145,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4704319673,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4674166281,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4703173209,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4709271663,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4702036284,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4699034273,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710628281,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4711499538,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710046989,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4699672193,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710902509,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710696196,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4711663649,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4698151484,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710865829,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4683759272,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4702985562,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4711202232,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4711446002,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706043042,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708228672,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708206691,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4703840485,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4705883925,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "argentina vs egypt",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "james rodriguez",
-    "region": "DK",
-    "started_at_unix": 1783454400,
-    "ended_at_unix": 1783468800,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "james rodriguez"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4711033434,
-        "language": "es",
-        "region": "DK"
-      },
-      {
-        "id": 4691168538,
-        "language": "es",
-        "region": "DK"
-      },
-      {
-        "id": 4711718266,
-        "language": "es",
-        "region": "DK"
-      },
-      {
-        "id": 4700645961,
-        "language": "es",
-        "region": "DK"
-      },
-      {
-        "id": 4703523548,
-        "language": "es",
-        "region": "DK"
-      },
-      {
-        "id": 4711392459,
-        "language": "es",
-        "region": "DK"
-      },
-      {
-        "id": 4711357195,
-        "language": "es",
-        "region": "DK"
-      },
-      {
-        "id": 4711305799,
-        "language": "es",
-        "region": "DK"
-      },
-      {
-        "id": 4705960755,
-        "language": "es",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "james rodriguez",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "viktoria plzen - fck",
-    "region": "DK",
-    "started_at_unix": 1783439400,
-    "ended_at_unix": 1783453800,
-    "search_volume": 2000,
-    "score": 1000,
-    "related_queries": [
-      "viktoria plzen - fck"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4695411515,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "viktoria plzen - fck",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "michael damgaard",
-    "region": "DK",
-    "started_at_unix": 1783429200,
-    "ended_at_unix": 1783452000,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "michael damgaard"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4709636126,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "michael damgaard",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "marine le pen",
-    "region": "DK",
-    "started_at_unix": 1783425600,
-    "ended_at_unix": 1783487400,
-    "search_volume": 500,
     "score": 600,
     "related_queries": [
-      "marine le pen",
-      "le pen"
+      "vig festival"
     ],
     "category_ids": [
-      14
+      11
     ],
     "entities": [
       {
-        "id": 4675641176,
-        "language": "fr",
+        "id": 4679706497,
+        "language": "en",
         "region": "DK"
       },
       {
-        "id": 4711703888,
-        "language": "fr",
+        "id": 4713985665,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4707506284,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4713948111,
+        "language": "en",
         "region": "DK"
       }
     ],
-    "normalized_keyword": "marine le pen",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "vig festival",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "nato-topmøde",
+    "keyword": "nato",
     "region": "DK",
-    "started_at_unix": 1783414800,
-    "ended_at_unix": 1783434000,
-    "search_volume": 1000,
-    "score": 1000,
+    "started_at_unix": 1783575600,
+    "ended_at_unix": null,
+    "search_volume": 200,
+    "score": 800,
     "related_queries": [
-      "nato-topmøde"
+      "nato"
     ],
     "category_ids": [
       10,
@@ -1476,308 +301,7 @@
     ],
     "entities": [
       {
-        "id": 4698525463,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4691163403,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4694467823,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4700378745,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706073965,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4698735206,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "nato-topmøde",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "novo nordisk aktie",
-    "region": "DK",
-    "started_at_unix": 1783462200,
-    "ended_at_unix": null,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "novo nordisk aktie"
-    ],
-    "category_ids": [
-      3
-    ],
-    "entities": [
-      {
-        "id": 4711475639,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4703370575,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "novo nordisk aktie",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "norwegian",
-    "region": "DK",
-    "started_at_unix": 1783438200,
-    "ended_at_unix": 1783488000,
-    "search_volume": 500,
-    "score": 100,
-    "related_queries": [
-      "norwegian"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4707503726,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4709048689,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4709255943,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4697311826,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4691834976,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4655687849,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4640190563,
-        "language": "en",
-        "region": "US"
-      }
-    ],
-    "normalized_keyword": "norwegian",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "knivstikkeri",
-    "region": "DK",
-    "started_at_unix": 1783429800,
-    "ended_at_unix": 1783486800,
-    "search_volume": 500,
-    "score": 600,
-    "related_queries": [
-      "knivstikkeri"
-    ],
-    "category_ids": [
-      10
-    ],
-    "entities": [
-      {
-        "id": 4707989247,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708851672,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4703727534,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "knivstikkeri",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "torstein træen",
-    "region": "DK",
-    "started_at_unix": 1783441200,
-    "ended_at_unix": 1783459200,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "torstein træen",
-      "tour de france 2026",
-      "tour de france live"
-    ],
-    "category_ids": [
-      17,
-      8
-    ],
-    "entities": [
-      {
-        "id": 4708733676,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708851685,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706011284,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4711555709,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710649971,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708567213,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710921068,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4705987698,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710913625,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "torstein træen",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "jannik sinner",
-    "region": "DK",
-    "started_at_unix": 1783429200,
-    "ended_at_unix": 1783438200,
-    "search_volume": 500,
-    "score": 1000,
-    "related_queries": [
-      "jannik sinner"
-    ],
-    "category_ids": [
-      17,
-      4
-    ],
-    "entities": [
-      {
-        "id": 4694835741,
-        "language": "it",
-        "region": "DK"
-      },
-      {
-        "id": 4711472770,
-        "language": "it",
-        "region": "DK"
-      },
-      {
-        "id": 4710684117,
-        "language": "it",
-        "region": "DK"
-      },
-      {
-        "id": 4692448644,
-        "language": "it",
-        "region": "DK"
-      },
-      {
-        "id": 4708588321,
-        "language": "it",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "jannik sinner",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "ida solbakken",
-    "region": "DK",
-    "started_at_unix": 1783407600,
-    "ended_at_unix": 1783417800,
-    "search_volume": 1000,
-    "score": 1000,
-    "related_queries": [
-      "ida solbakken"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4710760387,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "ida solbakken",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "cnn",
-    "region": "DK",
-    "started_at_unix": 1783483800,
-    "ended_at_unix": 1783485600,
-    "search_volume": 100,
-    "score": 100,
-    "related_queries": [
-      "cnn",
-      "mitch mcconnell"
-    ],
-    "category_ids": [
-      14
-    ],
-    "entities": [
-      {
-        "id": 4684232028,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4709895871,
+        "id": 4683014356,
         "language": "en",
         "region": "US"
       },
@@ -1787,126 +311,158 @@
         "region": "US"
       },
       {
-        "id": 4708721662,
+        "id": 4686014549,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4694712010,
+        "id": 4703944004,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4709654115,
+        "id": 4698726523,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4709631395,
+        "id": 4706477465,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4684232028,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "cnn",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "mikkel bjerg",
-    "region": "DK",
-    "started_at_unix": 1783452000,
-    "ended_at_unix": 1783461000,
-    "search_volume": 200,
-    "score": 900,
-    "related_queries": [
-      "mikkel bjerg"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4703688330,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706661689,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "mikkel bjerg",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "tv guide",
-    "region": "DK",
-    "started_at_unix": 1783447200,
-    "ended_at_unix": 1783453200,
-    "search_volume": 500,
-    "score": 75,
-    "related_queries": [
-      "tv guide"
-    ],
-    "category_ids": [
-      4
-    ],
-    "entities": [
-      {
-        "id": 4679957862,
+        "id": 4707742352,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4709618888,
+        "id": 4659785454,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4703608045,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4662976299,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "tv guide",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "nato",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "salah",
+    "keyword": "arthur fery",
     "region": "DK",
-    "started_at_unix": 1783447800,
-    "ended_at_unix": 1783452000,
-    "search_volume": 500,
-    "score": 1000,
+    "started_at_unix": 1783522200,
+    "ended_at_unix": null,
+    "search_volume": 1000,
+    "score": 800,
     "related_queries": [
-      "salah"
+      "arthur fery",
+      "flavio cobolli"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4708718213,
+        "id": 4701684712,
         "language": "en",
         "region": "DK"
       },
       {
-        "id": 4704192448,
+        "id": 4713394577,
         "language": "en",
         "region": "DK"
       },
       {
-        "id": 4711218134,
+        "id": 4712797778,
         "language": "en",
         "region": "DK"
       },
       {
-        "id": 4704184441,
+        "id": 4712548780,
         "language": "en",
         "region": "DK"
       },
       {
-        "id": 4710820760,
+        "id": 4645148831,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4639855608,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4712925229,
+        "language": "en",
+        "region": "DK"
+      }
+    ],
+    "normalized_keyword": "arthur fery",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "andrey santos",
+    "region": "DK",
+    "started_at_unix": 1783531200,
+    "ended_at_unix": null,
+    "search_volume": 500,
+    "score": 1000,
+    "related_queries": [
+      "andrey santos"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4696434292,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4711549531,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4712892022,
+        "language": "en",
+        "region": "DK"
+      }
+    ],
+    "normalized_keyword": "andrey santos",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "usa",
+    "region": "DK",
+    "started_at_unix": 1783569600,
+    "ended_at_unix": 1783578000,
+    "search_volume": 200,
+    "score": 900,
+    "related_queries": [
+      "usa"
+    ],
+    "category_ids": [
+      14,
+      10
+    ],
+    "entities": [
+      {
+        "id": 4712585371,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4670941615,
         "language": "en",
         "region": "DK"
       },
@@ -1916,328 +472,379 @@
         "region": "DK"
       },
       {
-        "id": 4633945262,
+        "id": 4713853430,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4712228308,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4637184124,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4709346734,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4710383530,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4713743740,
         "language": "en",
         "region": "DK"
       }
     ],
-    "normalized_keyword": "salah",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "usa",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "jazz",
+    "keyword": "mikkel hansen",
     "region": "DK",
-    "started_at_unix": 1783426800,
-    "ended_at_unix": 1783441200,
-    "search_volume": 200,
-    "score": 800,
+    "started_at_unix": 1783510800,
+    "ended_at_unix": 1783573200,
+    "search_volume": 2000,
+    "score": 900,
     "related_queries": [
-      "jazz"
+      "mikkel hansen"
+    ],
+    "category_ids": [
+      4,
+      17
+    ],
+    "entities": [
+      {
+        "id": 4711973846,
+        "language": "en",
+        "region": "DK"
+      }
+    ],
+    "normalized_keyword": "mikkel hansen",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "holger rune",
+    "region": "DK",
+    "started_at_unix": 1783569000,
+    "ended_at_unix": 1783577400,
+    "search_volume": 100,
+    "score": 500,
+    "related_queries": [
+      "holger rune"
     ],
     "category_ids": [
       17
     ],
     "entities": [
       {
-        "id": 4708671289,
+        "id": 4711896407,
         "language": "en",
-        "region": "US"
+        "region": "DK"
       },
       {
-        "id": 4709135087,
+        "id": 4713448285,
         "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4709477212,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710325077,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710174806,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710878785,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710742232,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710730275,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710574042,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710500767,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710424723,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4696682922,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710855801,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4705082708,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4685281354,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4703117548,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4607000393,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636471092,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4696724299,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4636562639,
-        "language": "en",
-        "region": "US"
+        "region": "DK"
       }
     ],
-    "normalized_keyword": "jazz",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "holger rune",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "vm i fodbold 2026",
+    "keyword": "graham platner",
     "region": "DK",
-    "started_at_unix": 1783446000,
-    "ended_at_unix": 1783451400,
-    "search_volume": 500,
-    "score": 300,
+    "started_at_unix": 1783574400,
+    "ended_at_unix": 1783577400,
+    "search_volume": 100,
+    "score": 500,
     "related_queries": [
-      "vm i fodbold 2026",
-      "vm fodbold 2026"
+      "graham platner"
+    ],
+    "category_ids": [
+      14
+    ],
+    "entities": [
+      {
+        "id": 4708721662,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4706190838,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4653634685,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4616401461,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4217543364,
+        "language": "en",
+        "region": "DK"
+      }
+    ],
+    "normalized_keyword": "graham platner",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "erik sviatchenko",
+    "region": "DK",
+    "started_at_unix": 1783512600,
+    "ended_at_unix": 1783539000,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "erik sviatchenko"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4712081444,
+        "language": "en",
+        "region": "DK"
+      }
+    ],
+    "normalized_keyword": "erik sviatchenko",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "cykelsti",
+    "region": "DK",
+    "started_at_unix": 1783508400,
+    "ended_at_unix": 1783524000,
+    "search_volume": 1000,
+    "score": 1000,
+    "related_queries": [
+      "cykelsti"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4622014508,
-        "language": "da",
+        "id": 4712199332,
+        "language": "en",
         "region": "DK"
       },
       {
-        "id": 4711133494,
-        "language": "da",
-        "region": "DK"
-      },
-      {
-        "id": 4704192448,
-        "language": "da",
-        "region": "DK"
-      },
-      {
-        "id": 4696735752,
-        "language": "da",
-        "region": "DK"
-      },
-      {
-        "id": 4706915090,
-        "language": "da",
-        "region": "DK"
-      },
-      {
-        "id": 4688699885,
-        "language": "da",
-        "region": "DK"
-      },
-      {
-        "id": 4704378240,
-        "language": "da",
+        "id": 4706160487,
+        "language": "en",
         "region": "DK"
       }
     ],
-    "normalized_keyword": "vm i fodbold 2026",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "cykelsti",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "jürgen klopp",
+    "keyword": "tour de france",
     "region": "DK",
-    "started_at_unix": 1783433400,
-    "ended_at_unix": 1783445400,
-    "search_volume": 200,
-    "score": 800,
+    "started_at_unix": 1783526400,
+    "ended_at_unix": 1783531800,
+    "search_volume": 2000,
+    "score": 100,
     "related_queries": [
-      "jürgen klopp"
+      "tour de france",
+      "tour de france live"
     ],
     "category_ids": [
-      17
+      17,
+      8
     ],
     "entities": [
       {
-        "id": 4702945508,
-        "language": "de",
+        "id": 4711555709,
+        "language": "en",
         "region": "DK"
       },
       {
-        "id": 4711053302,
-        "language": "de",
+        "id": 4711555710,
+        "language": "en",
         "region": "DK"
       },
       {
-        "id": 4704360646,
-        "language": "de",
+        "id": 4710913625,
+        "language": "en",
         "region": "DK"
       },
       {
-        "id": 4706808174,
-        "language": "de",
+        "id": 4712671695,
+        "language": "en",
         "region": "DK"
       },
       {
-        "id": 4711383288,
-        "language": "de",
+        "id": 4708243274,
+        "language": "en",
         "region": "DK"
       },
       {
-        "id": 4697922429,
-        "language": "de",
+        "id": 4676049416,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4663787926,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4707331605,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4713002933,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4707685108,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4711555686,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4697979145,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4637033227,
+        "language": "en",
         "region": "DK"
       }
     ],
-    "normalized_keyword": "jurgen klopp",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "tour de france",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "rolf sørensen",
+    "keyword": "august holmgren",
     "region": "DK",
-    "started_at_unix": 1783451400,
-    "ended_at_unix": 1783455600,
+    "started_at_unix": 1783534800,
+    "ended_at_unix": 1783545000,
     "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "rolf sørensen"
+      "august holmgren"
     ],
     "category_ids": [
       11
     ],
     "entities": [
       {
-        "id": 4621812267,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4692711569,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4648502782,
+        "id": 4609313492,
         "language": "en",
         "region": "DK"
       }
     ],
-    "normalized_keyword": "rolf sørensen",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "august holmgren",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "skovbrand",
+    "keyword": "demonstration",
     "region": "DK",
-    "started_at_unix": 1783404000,
-    "ended_at_unix": 1783440600,
-    "search_volume": 200,
-    "score": 300,
-    "related_queries": [
-      "skovbrand"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4707818953,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4702098214,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4706073965,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "skovbrand",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "alexander bernhardsson",
-    "region": "DK",
-    "started_at_unix": 1783429200,
-    "ended_at_unix": 1783440600,
+    "started_at_unix": 1783523400,
+    "ended_at_unix": 1783535400,
     "search_volume": 200,
     "score": 1000,
     "related_queries": [
-      "alexander bernhardsson"
+      "demonstration"
     ],
     "category_ids": [
-      17
+      10
     ],
     "entities": [
       {
-        "id": 4710249307,
-        "language": "sv",
+        "id": 4697918945,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4701077152,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4713201854,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4712317628,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4711233016,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4702786596,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4710288291,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "demonstration",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "jp",
+    "region": "DK",
+    "started_at_unix": 1783542000,
+    "ended_at_unix": null,
+    "search_volume": 100,
+    "score": 50,
+    "related_queries": [
+      "jp"
+    ],
+    "category_ids": [
+      11
+    ],
+    "entities": [
+      {
+        "id": 4706176309,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4713812209,
+        "language": "en",
         "region": "DK"
       }
     ],
-    "normalized_keyword": "alexander bernhardsson",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "jp",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
     "keyword": "egyptens fodboldlandshold",
     "region": "DK",
-    "started_at_unix": 1783447200,
-    "ended_at_unix": 1783450800,
+    "started_at_unix": 1783531200,
+    "ended_at_unix": 1783537800,
     "search_volume": 200,
     "score": 1000,
     "related_queries": [
@@ -2248,255 +855,369 @@
     ],
     "entities": [
       {
-        "id": 4705351038,
+        "id": 4704192448,
         "language": "en",
         "region": "DK"
       },
       {
-        "id": 4704192448,
+        "id": 4713985614,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4705351038,
         "language": "en",
         "region": "DK"
       }
     ],
     "normalized_keyword": "egyptens fodboldlandshold",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "paul mccartney",
+    "keyword": "aral simsir",
     "region": "DK",
-    "started_at_unix": 1783436400,
-    "ended_at_unix": 1783447800,
+    "started_at_unix": 1783534200,
+    "ended_at_unix": 1783548000,
+    "search_volume": 200,
+    "score": 500,
+    "related_queries": [
+      "aral simsir"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4712963545,
+        "language": "en",
+        "region": "US"
+      }
+    ],
+    "normalized_keyword": "aral simsir",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "olav kooij",
+    "region": "DK",
+    "started_at_unix": 1783526400,
+    "ended_at_unix": 1783532400,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "olav kooij"
+    ],
+    "category_ids": [
+      17,
+      8
+    ],
+    "entities": [
+      {
+        "id": 4710913625,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4711555709,
+        "language": "en",
+        "region": "DK"
+      }
+    ],
+    "normalized_keyword": "olav kooij",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "kasper schmeichel",
+    "region": "DK",
+    "started_at_unix": 1783549200,
+    "ended_at_unix": 1783551600,
     "search_volume": 100,
     "score": 1000,
     "related_queries": [
-      "paul mccartney"
+      "kasper schmeichel"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4709381435,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4627803125,
+        "language": "en",
+        "region": "DK"
+      }
+    ],
+    "normalized_keyword": "kasper schmeichel",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "marta kostyuk",
+    "region": "DK",
+    "started_at_unix": 1783519200,
+    "ended_at_unix": 1783531800,
+    "search_volume": 200,
+    "score": 1000,
+    "related_queries": [
+      "marta kostyuk"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4702101191,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4710536107,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4713968321,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4707454212,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4701684712,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4713572403,
+        "language": "en",
+        "region": "DK"
+      }
+    ],
+    "normalized_keyword": "marta kostyuk",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "taylor fritz",
+    "region": "DK",
+    "started_at_unix": 1783527600,
+    "ended_at_unix": 1783531200,
+    "search_volume": 200,
+    "score": 800,
+    "related_queries": [
+      "taylor fritz",
+      "alexander zverev",
+      "zverev"
+    ],
+    "category_ids": [
+      17
+    ],
+    "entities": [
+      {
+        "id": 4712925229,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4701684712,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4713984602,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4713060375,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4710908648,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4713201900,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4708514885,
+        "language": "en",
+        "region": "DK"
+      },
+      {
+        "id": 4695724764,
+        "language": "en",
+        "region": "DK"
+      }
+    ],
+    "normalized_keyword": "taylor fritz",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
+  },
+  {
+    "keyword": "tv guide",
+    "region": "DK",
+    "started_at_unix": 1783536000,
+    "ended_at_unix": 1783537800,
+    "search_volume": 200,
+    "score": 75,
+    "related_queries": [
+      "tv guide"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4705013416,
+        "id": 4713369257,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4710861765,
+        "id": 4712317579,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4711336613,
+        "id": 4713637595,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4708580801,
+        "id": 4696417546,
         "language": "en",
         "region": "US"
       },
       {
-        "id": 4709032939,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4710866246,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4616581049,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 4695969983,
-        "language": "en",
-        "region": "US"
-      },
-      {
-        "id": 52781186165016,
+        "id": 4703772809,
         "language": "en",
         "region": "US"
       }
     ],
-    "normalized_keyword": "paul mccartney",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "tv guide",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "mostafa ziko",
+    "keyword": "the odyssey",
     "region": "DK",
-    "started_at_unix": 1783447200,
-    "ended_at_unix": 1783449600,
+    "started_at_unix": 1783511400,
+    "ended_at_unix": 1783514400,
     "search_volume": 200,
-    "score": 1000,
+    "score": 100,
     "related_queries": [
-      "mostafa ziko"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4704306433,
-        "language": "pl",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "mostafa ziko",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "drtv",
-    "region": "DK",
-    "started_at_unix": 1783465800,
-    "ended_at_unix": 1783467000,
-    "search_volume": 200,
-    "score": 200,
-    "related_queries": [
-      "drtv"
+      "the odyssey"
     ],
     "category_ids": [
       4
     ],
     "entities": [
       {
-        "id": 4696136293,
+        "id": 4688467611,
         "language": "en",
-        "region": "DK"
+        "region": "US"
+      },
+      {
+        "id": 4699045558,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4705293854,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4711857398,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4701127093,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4711082683,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4708591572,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4709854163,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4712687457,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4709271838,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4710106240,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4710016052,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4615754094,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4618722112,
+        "language": "en",
+        "region": "US"
+      },
+      {
+        "id": 4660019024,
+        "language": "en",
+        "region": "US"
       }
     ],
-    "normalized_keyword": "drtv",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "the odyssey",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   },
   {
-    "keyword": "mo salah",
+    "keyword": "louise lasser",
     "region": "DK",
-    "started_at_unix": 1783447200,
-    "ended_at_unix": 1783449600,
+    "started_at_unix": 1783497600,
+    "ended_at_unix": 1783500600,
     "search_volume": 100,
-    "score": 1000,
+    "score": 900,
     "related_queries": [
-      "mo salah"
+      "louise lasser"
     ],
     "category_ids": [
-      17
+      4
     ],
     "entities": [
       {
-        "id": 4710902509,
+        "id": 4710608863,
         "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710277109,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4710583660,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4704184441,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708084417,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4702555870,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4701051464,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4708940443,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4697139887,
-        "language": "en",
-        "region": "DK"
+        "region": "US"
       }
     ],
-    "normalized_keyword": "mo salah",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "enzo fernandez",
-    "region": "DK",
-    "started_at_unix": 1783449000,
-    "ended_at_unix": 1783451400,
-    "search_volume": 100,
-    "score": 1000,
-    "related_queries": [
-      "enzo fernandez"
-    ],
-    "category_ids": [
-      17
-    ],
-    "entities": [
-      {
-        "id": 4704178114,
-        "language": "es",
-        "region": "DK"
-      },
-      {
-        "id": 4698080835,
-        "language": "es",
-        "region": "DK"
-      },
-      {
-        "id": 4711447997,
-        "language": "es",
-        "region": "DK"
-      },
-      {
-        "id": 4701465050,
-        "language": "es",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "enzo fernandez",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
-  },
-  {
-    "keyword": "flybilletter",
-    "region": "DK",
-    "started_at_unix": 1783444800,
-    "ended_at_unix": 1783460400,
-    "search_volume": 100,
-    "score": 50,
-    "related_queries": [
-      "flybilletter"
-    ],
-    "category_ids": [
-      11
-    ],
-    "entities": [
-      {
-        "id": 4706073965,
-        "language": "en",
-        "region": "DK"
-      },
-      {
-        "id": 4703080955,
-        "language": "en",
-        "region": "DK"
-      }
-    ],
-    "normalized_keyword": "flybilletter",
-    "captured_at": "2026-07-08T05:41:10.583809+00:00"
+    "normalized_keyword": "louise lasser",
+    "captured_at": "2026-07-09T06:25:01.881556+00:00"
   }
 ]
